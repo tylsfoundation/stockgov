@@ -16,15 +16,10 @@ import os
 import sys
 from dataclasses import dataclass
 from pathlib import Path
-from urllib.parse import urlsplit, urlunsplit
+from urllib.parse import quote, urlsplit, urlunsplit
 
 import psycopg2
 from psycopg2 import sql
-
-
-DEFAULT_DATABASE_URL = (
-    "postgresql://postgres_user:postgres_password@localhost:5433/congress_trades"
-)
 
 
 SCHEMA_SQL = r"""
@@ -928,9 +923,16 @@ def resolve_config(database_url_override: str | None = None) -> DatabaseConfig:
         host = os.getenv("POSTGRES_HOST", "localhost")
         port = os.getenv("POSTGRES_PORT", "5433")
         database = os.getenv("POSTGRES_DB", "congress_trades")
-        user = os.getenv("POSTGRES_USER", "postgres_user")
-        password = os.getenv("POSTGRES_PASSWORD", "postgres_password")
-        database_url = f"postgresql://{user}:{password}@{host}:{port}/{database}"
+        user = os.getenv("POSTGRES_USER")
+        password = os.getenv("POSTGRES_PASSWORD")
+        if not user or not password:
+            raise ValueError(
+                "Set POSTGRES_USER and POSTGRES_PASSWORD in the project .env file"
+            )
+        database_url = (
+            f"postgresql://{quote(user, safe='')}:{quote(password, safe='')}"
+            f"@{host}:{port}/{database}"
+        )
 
     parsed = urlsplit(database_url)
     database_name = parsed.path.lstrip("/")
