@@ -57,9 +57,7 @@ logs/
 local.db
 
 # Data
-data/raw/**/*
-!data/raw/.gitkeep
-!data/raw/*/.gitkeep
+# Allow all data/raw files for version control
 data/processed/**/*
 !data/processed/.gitkeep
 
