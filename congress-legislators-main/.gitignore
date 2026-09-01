@@ -1,0 +1,11 @@
+*.pyc
+/scripts/cache
+*.pickle
+.DS_Store
+/scripts/email/config.yml
+\.~lock*
+/scripts/build
+/domains.rb
+/venv/
+.idea
+/alternate_formats

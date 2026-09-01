@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+pandas
+lxml
+duckdb
+pdfplumber
+pyyaml
+fastapi
+uvicorn
+httpx
+slowapi
