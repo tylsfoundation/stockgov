@@ -1,7 +1,7 @@
-"""Create the StockGov PostgreSQL database and its initial infrastructure.
+"""Create the StockGov PostgreSQL database and current infrastructure.
 
 This script is intentionally self-contained: the database bootstrap logic and the
-complete initial PostgreSQL schema live in this file.  It is safe to run more than
+complete PostgreSQL schema live in this file. It is safe to run more than
 once because database objects are created only when they do not already exist.
 
 Configuration is read from DATABASE_URL when available.  Otherwise the script
@@ -135,7 +135,13 @@ CREATE TABLE IF NOT EXISTS member_terms (
     ),
     party_code TEXT,
     party_name_raw TEXT,
+    caucus_party_code TEXT,
+    caucus_party_name_raw TEXT,
     term_type TEXT NOT NULL DEFAULT 'regular',
+    term_end_type TEXT,
+    official_website_url TEXT,
+    contact_form_url TEXT,
+    rss_url TEXT,
     source_snapshot_id BIGINT REFERENCES source_snapshots(source_snapshot_id),
     CONSTRAINT member_terms_dates_valid CHECK (term_end_date >= term_start_date),
     CONSTRAINT member_terms_congress_valid CHECK (
@@ -147,6 +153,38 @@ CREATE TABLE IF NOT EXISTS member_terms (
     ),
     CONSTRAINT member_terms_natural_unique UNIQUE (
         member_id, chamber, term_start_date, state_code
+    )
+);
+
+CREATE TABLE IF NOT EXISTS member_term_party_affiliations (
+    member_term_party_affiliation_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    member_term_id BIGINT NOT NULL REFERENCES member_terms(member_term_id) ON DELETE CASCADE,
+    party_code TEXT,
+    party_name_raw TEXT,
+    caucus_party_code TEXT,
+    caucus_party_name_raw TEXT,
+    start_date DATE NOT NULL,
+    end_date DATE NOT NULL,
+    source_snapshot_id BIGINT REFERENCES source_snapshots(source_snapshot_id),
+    CONSTRAINT member_term_party_affiliations_dates_valid CHECK (end_date >= start_date),
+    CONSTRAINT member_term_party_affiliations_unique UNIQUE (member_term_id, start_date)
+);
+
+CREATE TABLE IF NOT EXISTS member_family_relationships (
+    member_family_relationship_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    member_id BIGINT NOT NULL REFERENCES members(member_id) ON DELETE CASCADE,
+    related_member_id BIGINT REFERENCES members(member_id) ON DELETE SET NULL,
+    relative_name TEXT NOT NULL,
+    relationship_type TEXT NOT NULL,
+    normalized_relative_name TEXT NOT NULL,
+    valid_from DATE,
+    valid_to DATE,
+    source_snapshot_id BIGINT REFERENCES source_snapshots(source_snapshot_id),
+    CONSTRAINT member_family_relationships_dates_valid CHECK (
+        valid_to IS NULL OR valid_from IS NULL OR valid_to >= valid_from
+    ),
+    CONSTRAINT member_family_relationships_unique UNIQUE (
+        member_id, normalized_relative_name, relationship_type
     )
 );
 
@@ -173,8 +211,10 @@ CREATE TABLE IF NOT EXISTS member_offices (
     member_office_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     member_id BIGINT NOT NULL REFERENCES members(member_id) ON DELETE CASCADE,
     office_type TEXT NOT NULL,
+    source_office_id TEXT,
     building TEXT,
     room TEXT,
+    suite TEXT,
     address_line_1 TEXT,
     address_line_2 TEXT,
     city TEXT,
@@ -182,6 +222,9 @@ CREATE TABLE IF NOT EXISTS member_offices (
     postal_code TEXT,
     phone TEXT,
     fax TEXT,
+    hours_text TEXT,
+    latitude NUMERIC(9, 6),
+    longitude NUMERIC(9, 6),
     valid_from DATE,
     valid_to DATE,
     source_snapshot_id BIGINT REFERENCES source_snapshots(source_snapshot_id),
@@ -195,6 +238,7 @@ CREATE TABLE IF NOT EXISTS member_social_accounts (
     member_id BIGINT NOT NULL REFERENCES members(member_id) ON DELETE CASCADE,
     platform TEXT NOT NULL,
     account_name TEXT,
+    platform_account_id TEXT,
     account_url TEXT NOT NULL,
     is_official BOOLEAN NOT NULL DEFAULT FALSE,
     valid_from DATE,
@@ -218,10 +262,34 @@ CREATE TABLE IF NOT EXISTS committees (
     parent_committee_id BIGINT REFERENCES committees(committee_id),
     is_current BOOLEAN NOT NULL DEFAULT TRUE,
     website_url TEXT,
+    minority_website_url TEXT,
+    jurisdiction_text TEXT,
+    jurisdiction_source_url TEXT,
+    address TEXT,
+    phone TEXT,
+    rss_url TEXT,
+    minority_rss_url TEXT,
+    youtube_channel_id TEXT,
+    wikipedia_name TEXT,
     source_snapshot_id BIGINT REFERENCES source_snapshots(source_snapshot_id),
     CONSTRAINT committees_code_unique UNIQUE (committee_code),
     CONSTRAINT committees_not_own_parent CHECK (
         parent_committee_id IS NULL OR parent_committee_id <> committee_id
+    )
+);
+
+CREATE TABLE IF NOT EXISTS committee_identifiers (
+    committee_identifier_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    committee_id BIGINT NOT NULL REFERENCES committees(committee_id) ON DELETE CASCADE,
+    identifier_type TEXT NOT NULL,
+    identifier_value TEXT NOT NULL,
+    is_primary BOOLEAN NOT NULL DEFAULT FALSE,
+    source_snapshot_id BIGINT REFERENCES source_snapshots(source_snapshot_id),
+    CONSTRAINT committee_identifiers_external_unique UNIQUE (
+        identifier_type, identifier_value
+    ),
+    CONSTRAINT committee_identifiers_member_unique UNIQUE (
+        committee_id, identifier_type, identifier_value
     )
 );
 
@@ -241,6 +309,9 @@ CREATE TABLE IF NOT EXISTS committee_memberships (
     committee_id BIGINT NOT NULL REFERENCES committees(committee_id),
     member_id BIGINT NOT NULL REFERENCES members(member_id),
     congress_number SMALLINT NOT NULL CHECK (congress_number > 0),
+    member_chamber TEXT CHECK (
+        member_chamber IS NULL OR member_chamber IN ('house', 'senate')
+    ),
     start_date DATE,
     end_date DATE,
     party_side TEXT CHECK (
@@ -264,10 +335,26 @@ CREATE TABLE IF NOT EXISTS executives (
     first_name TEXT NOT NULL,
     middle_name TEXT,
     last_name TEXT NOT NULL,
+    suffix TEXT,
+    nickname TEXT,
+    official_full_name TEXT,
     date_of_birth DATE,
+    gender TEXT,
     bioguide_id TEXT,
     source_snapshot_id BIGINT REFERENCES source_snapshots(source_snapshot_id),
     CONSTRAINT executives_bioguide_unique UNIQUE (bioguide_id)
+);
+
+CREATE TABLE IF NOT EXISTS executive_identifiers (
+    executive_identifier_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    executive_id BIGINT NOT NULL REFERENCES executives(executive_id) ON DELETE CASCADE,
+    identifier_type TEXT NOT NULL,
+    identifier_value TEXT NOT NULL,
+    is_primary BOOLEAN NOT NULL DEFAULT FALSE,
+    source_snapshot_id BIGINT REFERENCES source_snapshots(source_snapshot_id),
+    CONSTRAINT executive_identifiers_external_unique UNIQUE (
+        identifier_type, identifier_value
+    )
 );
 
 CREATE TABLE IF NOT EXISTS executive_terms (
@@ -277,6 +364,7 @@ CREATE TABLE IF NOT EXISTS executive_terms (
     term_start_date DATE NOT NULL,
     term_end_date DATE NOT NULL,
     party_code TEXT,
+    accession_method TEXT,
     term_number SMALLINT CHECK (term_number IS NULL OR term_number > 0),
     source_snapshot_id BIGINT REFERENCES source_snapshots(source_snapshot_id),
     CONSTRAINT executive_terms_dates_valid CHECK (term_end_date >= term_start_date),
@@ -796,14 +884,25 @@ CREATE INDEX IF NOT EXISTS idx_member_terms_member_dates
     ON member_terms (member_id, term_start_date, term_end_date);
 CREATE INDEX IF NOT EXISTS idx_member_terms_state_chamber_dates
     ON member_terms (state_code, chamber, term_start_date, term_end_date);
+CREATE INDEX IF NOT EXISTS idx_member_term_party_affiliations_term_dates
+    ON member_term_party_affiliations (member_term_id, start_date, end_date);
+CREATE INDEX IF NOT EXISTS idx_member_family_relationships_member
+    ON member_family_relationships (member_id);
+CREATE UNIQUE INDEX IF NOT EXISTS idx_member_offices_source_id
+    ON member_offices (member_id, source_office_id)
+    WHERE source_office_id IS NOT NULL;
 CREATE INDEX IF NOT EXISTS idx_committee_parent
     ON committees (parent_committee_id);
+CREATE INDEX IF NOT EXISTS idx_committee_identifiers_committee
+    ON committee_identifiers (committee_id);
 CREATE INDEX IF NOT EXISTS idx_committee_memberships_member_congress
     ON committee_memberships (member_id, congress_number);
 CREATE INDEX IF NOT EXISTS idx_committee_memberships_committee_congress
     ON committee_memberships (committee_id, congress_number);
 CREATE INDEX IF NOT EXISTS idx_executive_terms_dates
     ON executive_terms (term_start_date, term_end_date);
+CREATE INDEX IF NOT EXISTS idx_executive_identifiers_executive
+    ON executive_identifiers (executive_id);
 CREATE INDEX IF NOT EXISTS idx_filings_member_date
     ON filings (member_id, filed_date);
 CREATE INDEX IF NOT EXISTS idx_filings_catalog_filter
@@ -901,7 +1000,7 @@ def load_dotenv_if_available() -> None:
     except ImportError:
         return
 
-    project_root = Path(__file__).resolve().parents[2]
+    project_root = Path(__file__).resolve().parent.parent
     load_dotenv(project_root / ".env")
 
 

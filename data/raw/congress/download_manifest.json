@@ -1,0 +1,126 @@
+{
+  "downloaded_at_utc": "2026-09-04T18:22:01.770377+00:00",
+  "source_base_url": "https://unitedstates.github.io/congress-legislators",
+  "files": [
+    {
+      "filename": "legislators-current.yaml",
+      "url": "https://unitedstates.github.io/congress-legislators/legislators-current.yaml",
+      "bytes": 1081081,
+      "sha256": "a90636aef9e7c613b53b24eeadc8612ea946669a7ec8118e08833a01ded08cd2"
+    },
+    {
+      "filename": "legislators-current.json",
+      "url": "https://unitedstates.github.io/congress-legislators/legislators-current.json",
+      "bytes": 1468926,
+      "sha256": "19b49014bfbfb0defd3bc7b6ba8e279a63931427af9464b0f014a9bfb541ec5d"
+    },
+    {
+      "filename": "legislators-current.csv",
+      "url": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+      "bytes": 181073,
+      "sha256": "66994a660674747173f1d59d20a2604358c9cc5aaa445f6d0056eda5b24d2aed"
+    },
+    {
+      "filename": "legislators-historical.yaml",
+      "url": "https://unitedstates.github.io/congress-legislators/legislators-historical.yaml",
+      "bytes": 8997407,
+      "sha256": "9641615f336b3113d6f89152e3441128cbdc3f61ccf87c65da3a015076c78c91"
+    },
+    {
+      "filename": "legislators-historical.json",
+      "url": "https://unitedstates.github.io/congress-legislators/legislators-historical.json",
+      "bytes": 13483039,
+      "sha256": "25187633f3215a096fe9d14d8a40db1fb0841ab1d24c6da52da3a80c93698cbc"
+    },
+    {
+      "filename": "legislators-historical.csv",
+      "url": "https://unitedstates.github.io/congress-legislators/legislators-historical.csv",
+      "bytes": 1539234,
+      "sha256": "218f03a2d3da61d0391f2d01078db1e8f2661131bc05ee6ecaac598cd0b2da11"
+    },
+    {
+      "filename": "legislators-social-media.yaml",
+      "url": "https://unitedstates.github.io/congress-legislators/legislators-social-media.yaml",
+      "bytes": 105096,
+      "sha256": "2825904d1172a11da4e00d06d8c0f4348ab94249637599ea2b98ebcba5843321"
+    },
+    {
+      "filename": "legislators-social-media.json",
+      "url": "https://unitedstates.github.io/congress-legislators/legislators-social-media.json",
+      "bytes": 143981,
+      "sha256": "c6eca1fcdb3a89901335eed51ca061daa4b60ad3243969a127e913bb9657fbc5"
+    },
+    {
+      "filename": "committees-current.yaml",
+      "url": "https://unitedstates.github.io/congress-legislators/committees-current.yaml",
+      "bytes": 63366,
+      "sha256": "3885591df90465f004695444aca47db88188471542cb35cf8a88f24c8649b4b4"
+    },
+    {
+      "filename": "committees-current.json",
+      "url": "https://unitedstates.github.io/congress-legislators/committees-current.json",
+      "bytes": 74732,
+      "sha256": "640ab5c262dd47b462f3a781d07dc417db8606a324f3b0a5422e7629c38e34ec"
+    },
+    {
+      "filename": "committee-membership-current.yaml",
+      "url": "https://unitedstates.github.io/congress-legislators/committee-membership-current.yaml",
+      "bytes": 292419,
+      "sha256": "f07d5156772ec91bcd6b8c4d36580589aedbcf7eea3249019776ad46c81e9c98"
+    },
+    {
+      "filename": "committee-membership-current.json",
+      "url": "https://unitedstates.github.io/congress-legislators/committee-membership-current.json",
+      "bytes": 480243,
+      "sha256": "b478738edf3b3b13bfa4057a1e04e8ea1f53d4e1f7adaf8f446db20102c22b2c"
+    },
+    {
+      "filename": "committee-membership-current.csv",
+      "url": "https://unitedstates.github.io/congress-legislators/committee-membership-current.csv",
+      "bytes": 490154,
+      "sha256": "65528b8a6f3c8fd8b3c2df2ea415e841ec40428b334bfe37d657c1ea82e902e0"
+    },
+    {
+      "filename": "committees-historical.yaml",
+      "url": "https://unitedstates.github.io/congress-legislators/committees-historical.yaml",
+      "bytes": 214181,
+      "sha256": "7ffa1a9845f7cba89f9d1dc1cb5b6311c01f5dc751036583054e06a5f02b53d2"
+    },
+    {
+      "filename": "committees-historical.json",
+      "url": "https://unitedstates.github.io/congress-legislators/committees-historical.json",
+      "bytes": 292494,
+      "sha256": "e8eb1b69d4aebff1514e0e6290400adb1369bbec7dd80a27ad66dcc7b431ae4a"
+    },
+    {
+      "filename": "legislators-district-offices.yaml",
+      "url": "https://unitedstates.github.io/congress-legislators/legislators-district-offices.yaml",
+      "bytes": 325108,
+      "sha256": "09c80146d5d382616d1de7cf31282a3d051102e9d2e98ef5f612060d71690fab"
+    },
+    {
+      "filename": "legislators-district-offices.json",
+      "url": "https://unitedstates.github.io/congress-legislators/legislators-district-offices.json",
+      "bytes": 473843,
+      "sha256": "8d698e92f8ebae3bdd387bfef239584164160e59d444ba1cbff46f32aa450f59"
+    },
+    {
+      "filename": "legislators-district-offices.csv",
+      "url": "https://unitedstates.github.io/congress-legislators/legislators-district-offices.csv",
+      "bytes": 176026,
+      "sha256": "20907371669cb5262eb7ce238f66921a3a114e4f3b818b0cc35a54e2709555d6"
+    },
+    {
+      "filename": "executive.yaml",
+      "url": "https://unitedstates.github.io/congress-legislators/executive.yaml",
+      "bytes": 29850,
+      "sha256": "a2ab6d1043f9fb77cffc6ffe97f87d774c7dbdd82bd22919b33e7dba7cba12df"
+    },
+    {
+      "filename": "executive.json",
+      "url": "https://unitedstates.github.io/congress-legislators/executive.json",
+      "bytes": 46163,
+      "sha256": "36123cdaac2b9bb231f0895019113b558658d203e610ea11a76c2cc960dd6287"
+    }
+  ]
+}
