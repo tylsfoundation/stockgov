@@ -380,7 +380,9 @@ CREATE TABLE IF NOT EXISTS filings (
     filing_type TEXT NOT NULL CHECK (
         filing_type IN (
             'ptr', 'annual_disclosure', 'amendment', 'extension',
-            'termination', 'candidate_report', 'new_filer', 'other', 'unknown'
+            'termination', 'candidate_report', 'new_filer', 'blind_trust',
+            'candidate_threshold_declaration', 'termination_exemption',
+            'gift_waiver', 'ptr_waiver', 'candidate_withdrawal', 'other', 'unknown'
         )
     ),
     reporting_year SMALLINT CHECK (reporting_year IS NULL OR reporting_year >= 1900),
@@ -443,6 +445,18 @@ CREATE TABLE IF NOT EXISTS member_match_candidates (
     reviewed_at TIMESTAMPTZ,
     reviewed_by TEXT,
     CONSTRAINT member_match_candidates_unique UNIQUE (filing_id, candidate_member_id)
+);
+
+CREATE TABLE IF NOT EXISTS filing_source_occurrences (
+    filing_source_occurrence_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    filing_id BIGINT NOT NULL REFERENCES filings(filing_id) ON DELETE CASCADE,
+    source_snapshot_id BIGINT NOT NULL REFERENCES source_snapshots(source_snapshot_id) ON DELETE CASCADE,
+    source_import_id BIGINT REFERENCES source_imports(source_import_id) ON DELETE SET NULL,
+    source_row_number INTEGER NOT NULL CHECK (source_row_number > 0),
+    index_year SMALLINT NOT NULL CHECK (index_year >= 1900),
+    CONSTRAINT filing_source_occurrences_source_row_unique UNIQUE (
+        source_snapshot_id, source_row_number
+    )
 );
 
 CREATE TABLE IF NOT EXISTS selection_batches (
@@ -781,9 +795,11 @@ CREATE TABLE IF NOT EXISTS staging_house_filings (
     doc_id_raw TEXT,
     reporting_year_raw TEXT,
     filing_type_code_raw TEXT,
+    prefix_raw TEXT,
     first_name_raw TEXT,
     last_name_raw TEXT,
-    office_raw TEXT,
+    suffix_raw TEXT,
+    state_district_raw TEXT,
     filed_date_raw TEXT,
     document_url_raw TEXT,
     raw_xml TEXT NOT NULL,
@@ -794,6 +810,21 @@ CREATE TABLE IF NOT EXISTS staging_house_filings (
     filing_id BIGINT REFERENCES filings(filing_id) ON DELETE SET NULL,
     CONSTRAINT staging_house_filings_source_row_unique UNIQUE (
         source_import_id, source_row_number
+    )
+);
+
+ALTER TABLE staging_house_filings
+    ADD COLUMN IF NOT EXISTS prefix_raw TEXT,
+    ADD COLUMN IF NOT EXISTS suffix_raw TEXT,
+    ADD COLUMN IF NOT EXISTS state_district_raw TEXT;
+
+ALTER TABLE filings DROP CONSTRAINT IF EXISTS filings_filing_type_check;
+ALTER TABLE filings ADD CONSTRAINT filings_filing_type_check CHECK (
+    filing_type IN (
+        'ptr', 'annual_disclosure', 'amendment', 'extension',
+        'termination', 'candidate_report', 'new_filer', 'blind_trust',
+        'candidate_threshold_declaration', 'termination_exemption',
+        'gift_waiver', 'ptr_waiver', 'candidate_withdrawal', 'other', 'unknown'
     )
 );
 
@@ -914,6 +945,8 @@ CREATE INDEX IF NOT EXISTS idx_filings_unresolved
     WHERE member_id IS NULL;
 CREATE INDEX IF NOT EXISTS idx_member_match_candidates_filing_rank
     ON member_match_candidates (filing_id, candidate_rank);
+CREATE INDEX IF NOT EXISTS idx_filing_source_occurrences_filing
+    ON filing_source_occurrences (filing_id);
 CREATE INDEX IF NOT EXISTS idx_filing_selections_active_priority
     ON filing_selections (is_active, priority, selected_at);
 CREATE INDEX IF NOT EXISTS idx_documents_filing

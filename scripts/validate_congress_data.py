@@ -55,7 +55,7 @@ REQUIRED_TABLES = (
     "member_social_accounts", "committees", "committee_identifiers",
     "committee_congresses", "committee_memberships", "executives",
     "executive_identifiers", "executive_terms", "filings",
-    "member_match_candidates", "selection_batches", "filing_selections",
+    "member_match_candidates", "filing_source_occurrences", "selection_batches", "filing_selections",
     "documents", "document_jobs", "document_extractions", "securities",
     "security_identifiers", "trades", "trade_evidence", "market_prices",
     "corporate_actions", "staging_members", "staging_committees",
@@ -250,6 +250,7 @@ class Validator:
             "committee_memberships": {"member_chamber", "is_ex_officio"},
             "executives": {"official_full_name", "gender", "suffix", "nickname"},
             "executive_terms": {"accession_method"},
+            "staging_house_filings": {"prefix_raw", "suffix_raw", "state_district_raw"},
         }
         for table, expected in required_columns.items():
             columns = set(

@@ -32,7 +32,8 @@ source_snapshots --< source_imports
         |
         +--< executives --< executive_terms
         |
-        `--< filings --< documents --< document_jobs
+        `--< filings --< filing_source_occurrences
+                      |--< documents --< document_jobs
                       |             `--< document_extractions
                       `--< trades --< trade_evidence
                                   `--> securities --< security_identifiers
@@ -194,25 +195,49 @@ Fields: `filing_id`, `source`, `source_filing_id`, `chamber`, `filing_type_code_
 
 Rule: source plus source filing ID is unique. `member_id` remains null until identity resolution is sufficiently certain.
 
+House filing codes normalize to `amendment`, `blind_trust`, `candidate_report`, `candidate_threshold_declaration`, `termination_exemption`, `gift_waiver`, `new_filer`, `annual_disclosure`, `ptr`, `ptr_waiver`, `termination`, `candidate_withdrawal`, and `extension`. The original code is always retained.
+
 ### 8.2 `member_match_candidates`
 
 Candidate members evaluated while resolving a filing's raw filer identity.
 
 Fields: `member_match_candidate_id`, `filing_id`, `candidate_member_id`, `candidate_rank`, `match_score`, `name_score`, `office_score`, `term_score`, `match_reasons`, `decision`, `reviewed_at`, `reviewed_by`.
 
-### 8.3 `selection_batches`
+### 8.3 `filing_source_occurrences`
+
+One row for each appearance of a normalized filing in a source index. This preserves duplicate rows and documents that recur in more than one annual House index without duplicating the normalized `filings` record.
+
+Fields: `filing_source_occurrence_id`, `filing_id`, `source_snapshot_id`, `source_import_id`, `source_row_number`, `index_year`.
+
+Unique identity: source snapshot and source row number.
+
+### 8.4 `selection_batches`
 
 A user-created or scheduled request selecting filings by member, state, year, chamber, filing type, or processing status.
 
 Fields: `selection_batch_id`, `batch_name`, `requested_by`, `filter_definition`, `created_at`, `started_at`, `finished_at`, `status`, `filings_selected`, `filings_completed`, `notes`.
 
-### 8.4 `filing_selections`
+Implementation phase: introduce this table when the PDF-selection interface or scheduled batch downloader is built. It may remain empty during filing-index ingestion.
+
+### 8.5 `filing_selections`
 
 Connects individual filings to selection batches without causing duplicate downloads.
 
 Fields: `filing_selection_id`, `filing_id`, `selection_batch_id`, `selection_reason`, `priority`, `selected_at`, `selected_by`, `is_active`.
 
+Purpose: the same filing can be selected by overlapping member, state, year, or filing-type requests without creating duplicate document downloads.
+
 ## 9. Documents and processing
+
+The processing model separates the source document, work performed on the document, and versioned extraction results. This structure supports interrupted nightly processing and parser upgrades, but StockGov will implement it incrementally.
+
+Initial processing path:
+
+```text
+filing -> document -> download/extract/parse job -> extraction -> trade
+```
+
+Initial implementation uses `documents`, `document_jobs`, and `document_extractions` only for download, text extraction, OCR when required, and PTR parsing. Advanced job types and field-level evidence remain deferred until demonstrated by real source documents.
 
 ### 9.1 `documents`
 
@@ -220,17 +245,46 @@ Downloaded or locally supplied filing documents and integrity metadata.
 
 Fields: `document_id`, `filing_id`, `document_type`, `source_url`, `local_path`, `mime_type`, `file_size_bytes`, `content_hash`, `downloaded_at`, `http_status`, `is_primary`, `page_count`, `has_embedded_text`, `requires_ocr`, `verification_status`, `source_snapshot_id`.
 
+Implementation phase: required for the first PDF-download pipeline.
+
+Rules:
+
+- The PDF remains on disk; this table stores its identity, path, integrity data, and verification state.
+- A filing may have more than one document when amendments, replacements, or alternate copies must be retained.
+- At most one document is marked primary for a filing.
+- A repeated download with the same filing and content hash must not create another document row.
+
 ### 9.2 `document_jobs`
 
 Resumable download, verification, extraction, OCR, parsing, ticker resolution, validation, and review work.
 
 Fields: `document_job_id`, `filing_id`, `document_id`, `job_type`, `status`, `priority`, `attempt_count`, `max_attempts`, `queued_at`, `started_at`, `finished_at`, `next_attempt_at`, `worker_name`, `software_version`, `error_type`, `error_message`.
 
+Implementation phase: use initially for `download`, `extract_text`, `ocr`, and `parse`. Defer `validate`, `resolve_ticker`, and `review` workers until those workflows exist.
+
+Rules:
+
+- A `download` job may have a null `document_id` because the job can exist before the PDF is downloaded.
+- `verify`, `extract_text`, `ocr`, and `parse` jobs require a document before they can run.
+- When both `filing_id` and `document_id` are populated, the document must belong to the same filing.
+- Retrying work updates the attempt count and job status; it does not create another document record.
+- A completed job is historical execution information and must not be treated as the extracted result itself.
+
 ### 9.3 `document_extractions`
 
 Versioned outputs and quality measurements from extraction and parsing attempts.
 
 Fields: `document_extraction_id`, `document_id`, `document_job_id`, `extraction_type`, `extractor_name`, `extractor_version`, `output_path`, `output_hash`, `started_at`, `finished_at`, `quality_score`, `characters_extracted`, `pages_processed`, `warnings`, `is_preferred`.
+
+Implementation phase: required when text extraction or PTR parsing begins.
+
+Rules:
+
+- Each materially different extractor or parser version produces a separate extraction row.
+- Earlier extraction rows are retained so parser output can be audited and compared.
+- `is_preferred` identifies the extraction currently used to produce normalized results.
+- When `document_job_id` is present, its `document_id` must agree with the extraction's `document_id`.
+- Output text and structured parser artifacts may remain on disk; the database stores their paths, hashes, versions, and quality measurements.
 
 ## 10. Securities and trades
 
@@ -254,11 +308,21 @@ Fields: `trade_id`, `filing_id`, `document_id`, `document_extraction_id`, `sourc
 
 Relationship: member identity is obtained through `trades.filing_id -> filings.member_id`; it is not duplicated on the trade.
 
+Consistency rules:
+
+- When `document_id` is present, the document must belong to `filing_id`.
+- When `document_extraction_id` is present, the extraction must belong to `document_id` and ultimately to the same filing.
+- The repeated filing, document, and extraction references are retained for practical querying and provenance, but the validator must reject inconsistent combinations.
+
 ### 10.4 `trade_evidence`
 
 Page text, locations, images, and confidence supporting individual extracted fields.
 
 Fields: `trade_evidence_id`, `trade_id`, `document_id`, `document_extraction_id`, `field_name`, `page_number`, `source_text`, `bounding_box`, `image_path`, `confidence`.
+
+Implementation phase: deferred. The initial PTR pipeline relies on the trade's raw fields, source row number, parser name and version, parse confidence, and document extraction link. Populate `trade_evidence` only when field-level review, page highlighting, OCR diagnosis, or audit requirements justify the additional storage and processing.
+
+When implemented, the evidence document and extraction must agree with the corresponding trade's document chain.
 
 ### 10.5 `market_prices`
 
@@ -271,6 +335,19 @@ Fields: `market_price_id`, `security_id`, `price_date`, `open_price`, `high_pric
 Splits, mergers, acquisitions, symbol changes, spinoffs, and other events affecting historical comparisons.
 
 Fields: `corporate_action_id`, `security_id`, `action_type`, `effective_date`, `ratio_or_terms`, `related_security_id`, `description`, `source_snapshot_id`.
+
+### 10.7 Processing implementation priorities
+
+The presence of a table in the schema does not require its application workflow to be built immediately.
+
+| Priority | Tables | Planned use |
+|---|---|---|
+| Use now | `filings`, `documents`, `document_jobs`, `document_extractions`, `trades` | Filing catalog, PDF download, retry tracking, extraction, and parsed PTR rows |
+| Add with selection interface | `selection_batches`, `filing_selections` | Member, state, year, and filing-type download requests with overlap tracking |
+| Defer | `trade_evidence` | Field-level source text, page locations, images, and review evidence |
+| Defer | `corporate_actions` and advanced security resolution | Performance adjustments after the basic trade pipeline is reliable |
+
+Deferred tables may remain empty. No application code should be added solely because a future-facing table exists.
 
 ## 11. Staging tables
 
@@ -290,7 +367,9 @@ Fields: `staging_committee_membership_id`, `source_import_id`, `source_row_numbe
 
 ### 11.4 `staging_house_filings`
 
-Fields: `staging_house_filing_id`, `source_import_id`, `source_row_number`, `doc_id_raw`, `reporting_year_raw`, `filing_type_code_raw`, `first_name_raw`, `last_name_raw`, `office_raw`, `filed_date_raw`, `document_url_raw`, `raw_xml`, `validation_status`, `error_details`, `filing_id`.
+Fields: `staging_house_filing_id`, `source_import_id`, `source_row_number`, `doc_id_raw`, `reporting_year_raw`, `filing_type_code_raw`, `prefix_raw`, `first_name_raw`, `last_name_raw`, `suffix_raw`, `state_district_raw`, `filed_date_raw`, `document_url_raw`, `raw_xml`, `validation_status`, `error_details`, `filing_id`.
+
+`state_district_raw` preserves the exact House `StateDst` value. Valid values are parsed into `filings.state_code_guess` and `filings.district_guess`; malformed and blank values remain available for review.
 
 ### 11.5 `staging_senate_filings`
 
@@ -316,8 +395,9 @@ Fields: `staging_senate_trade_id`, `source_import_id`, `filing_id`, `document_ex
 | `committees-historical.yaml` | committees, identifiers, historical names and Congress records |
 | `committee-membership-current.yaml` | committee memberships |
 | `executive.yaml` | executives, executive identifiers, executive terms |
+| `2008FD.xml` through `2026FD.xml` | source snapshots, source imports, staged House filings, normalized filings, filing source occurrences, member match candidates |
 
-House and Senate financial-disclosure sources populate filings, documents, trades, and their staging tables in later ingestion stages.
+House filing indexes populate the filing catalog and matching tables. Downloaded House documents and extracted trades, along with Senate disclosure sources, populate documents, trades, and their staging tables in later ingestion stages.
 
 ## 13. Initial validation subjects
 

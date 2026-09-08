@@ -35,6 +35,7 @@ STOCKGOV_TABLES = (
     "documents",
     "filing_selections",
     "selection_batches",
+    "filing_source_occurrences",
     "member_match_candidates",
     "filings",
     "executive_terms",

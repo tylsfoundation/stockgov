@@ -26,12 +26,14 @@ Mike Crapo is the current end-to-end example member for database export and repo
 Completed or working:
 
 - PostgreSQL 16 service defined in Docker Compose with persistent storage and a health check
-- Normalized 38-table database schema covering provenance, members, terms, committees, executives, filings, documents, securities, trades, prices, and staging data
+- Normalized 39-table target schema covering provenance, members, terms, committees, executives, filings, filing occurrences, documents, securities, trades, prices, and staging data
 - Idempotent database creation and interactive reset utilities
 - Downloader for the eight supported `congress-legislators` datasets, including YAML, JSON, and available CSV formats
 - One-generation `V1` source-file backups and a download manifest
 - Loader for congressional YAML reference data with progress reporting and source audit records
+- House XML filing-index importer with raw-row preservation, normalized filing upserts, source-occurrence tracking, conservative member matching, and progress reporting
 - Read-only QA program that compares raw YAML files with PostgreSQL and writes results to the screen and `logs/qaresults.log`
+- Independent read-only House filing validator with aggregate, relationship, and deterministic row-level comparisons written to `logs/house_filings_qa.log`
 - House financial-disclosure index archives for 2008 through 2026 in ZIP, XML, and text formats
 - House filing-type reference examples and documentation
 - Senate electronic financial-disclosure research notes
@@ -41,7 +43,6 @@ Completed or working:
 
 Not yet implemented:
 
-- Loading House disclosure index XML files into the filing catalog
 - Senate disclosure search and ingestion pipeline
 - Selective PDF download queue and member/year processing tracker
 - PDF text extraction, OCR fallback, and PTR transaction parsing
@@ -63,7 +64,7 @@ The latest QA run completed on September 4, 2026 in approximately 28 seconds:
 - No orphaned core relationships or duplicate key entities were found
 - No congressional staging rows were rejected
 
-The single known mismatch is `leadership_roles`: the source expectation is 157 rows and PostgreSQL contains 156. This should be resolved before the congressional reference-data import is considered fully clean.
+The single known mismatch in the last congressional-reference QA run is `leadership_roles`: the source expectation is 157 rows and PostgreSQL contains 156. This should be resolved before the congressional reference-data import is considered fully clean. The House filing importer and validator have been implemented but have not yet been executed, so House filing database counts are not yet reported here.
 
 Selected validated counts from that run:
 
@@ -149,7 +150,7 @@ YAML is the canonical database-loading format because it preserves the nested so
 - House form definitions and examples: `data/raw/houseofrepforms/`
 - Senate EFD research: `data/raw/senateforms/senateform.md`
 
-The House annual indexes identify filings and document IDs; individual transaction details generally require downloading and parsing the associated PTR document. The intended strategy is to load all lightweight index metadata first, then selectively download documents by member, state, year, filing type, and prior processing status instead of brute-force downloading every PDF.
+The House annual indexes identify filings and document IDs; individual transaction details generally require downloading and parsing the associated PTR document. `load_house_filings.py` loads the XML indexes, preserves every source occurrence, normalizes one filing per House DocID, and conservatively matches filings to members using names, House terms, state, district, and year. The strategy is to load all lightweight index metadata first, then selectively download documents by member, state, year, filing type, and prior processing status instead of brute-force downloading every PDF.
 
 ## Configuration
 
@@ -204,11 +205,33 @@ Load the canonical YAML reference data:
 py scripts/load_congress_data.py
 ```
 
+Validate the House XML files without connecting to PostgreSQL:
+
+```powershell
+py scripts/load_house_filings.py --validate-only
+```
+
+Load the House disclosure indexes and perform conservative member matching:
+
+```powershell
+py scripts/load_house_filings.py --import
+```
+
+The House loader imports only canonical `YYYYFD.xml` files. It ignores the parallel TXT and ZIP files, never downloads PDFs, retains duplicate source occurrences, and keeps ambiguous or nonmember filers unmatched.
+
 Run database integrity and source-comparison QA:
 
 ```powershell
 py scripts/validate_congress_data.py
 ```
+
+Independently verify the House filing import against every raw XML row:
+
+```powershell
+py scripts/validate_house_filings.py
+```
+
+House validation output is written to both the screen and `logs/house_filings_qa.log`. The validator does not reuse importer transformation functions and performs read-only SQL.
 
 Export all currently stored information for the example member:
 
