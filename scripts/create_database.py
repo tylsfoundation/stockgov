@@ -512,6 +512,8 @@ CREATE TABLE IF NOT EXISTS documents (
     page_count INTEGER CHECK (page_count IS NULL OR page_count >= 0),
     has_embedded_text BOOLEAN,
     requires_ocr BOOLEAN,
+    detected_form_version TEXT,
+    document_completeness_status TEXT,
     verification_status TEXT NOT NULL DEFAULT 'unverified' CHECK (
         verification_status IN (
             'unverified', 'verified', 'corrupt', 'wrong_document', 'unavailable'
@@ -648,6 +650,14 @@ CREATE TABLE IF NOT EXISTS trades (
     amount_exact NUMERIC(20,2) CHECK (amount_exact IS NULL OR amount_exact >= 0),
     capital_gains_over_200 BOOLEAN,
     description_raw TEXT,
+    disclosure_report_id BIGINT,
+    disclosure_asset_id BIGINT,
+    schedule_raw TEXT,
+    is_partial_sale BOOLEAN,
+    is_annual_report_transaction BOOLEAN NOT NULL DEFAULT FALSE,
+    transaction_sequence INTEGER CHECK (
+        transaction_sequence IS NULL OR transaction_sequence > 0
+    ),
     is_amended BOOLEAN NOT NULL DEFAULT FALSE,
     supersedes_trade_id BIGINT REFERENCES trades(trade_id) ON DELETE SET NULL,
     parser_name TEXT NOT NULL,
@@ -717,6 +727,338 @@ CREATE TABLE IF NOT EXISTS corporate_actions (
         related_security_id IS NULL OR related_security_id <> security_id
     )
 );
+
+-- Full financial-disclosure records.  These tables intentionally keep the
+-- source wording alongside normalized values so parsers can be improved
+-- without losing the original filing evidence.
+CREATE TABLE IF NOT EXISTS disclosure_reports (
+    disclosure_report_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    filing_id BIGINT NOT NULL REFERENCES filings(filing_id) ON DELETE CASCADE,
+    form_version TEXT NOT NULL DEFAULT 'unknown',
+    report_status TEXT NOT NULL DEFAULT 'unprocessed',
+    report_period_start DATE,
+    report_period_end DATE,
+    termination_date DATE,
+    candidate_election_date DATE,
+    certification_date DATE,
+    signature_method TEXT,
+    trust_information_excluded BOOLEAN,
+    spouse_dependent_information_excluded BOOLEAN,
+    created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    CONSTRAINT disclosure_reports_filing_unique UNIQUE (filing_id),
+    CONSTRAINT disclosure_reports_period_valid CHECK (
+        report_period_end IS NULL OR report_period_start IS NULL
+        OR report_period_end >= report_period_start
+    )
+);
+
+CREATE TABLE IF NOT EXISTS disclosure_questions (
+    disclosure_question_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    disclosure_report_id BIGINT NOT NULL REFERENCES disclosure_reports(disclosure_report_id) ON DELETE CASCADE,
+    question_code TEXT,
+    question_text_raw TEXT,
+    question_type TEXT,
+    answer TEXT,
+    related_schedule_raw TEXT,
+    source_page_number INTEGER CHECK (source_page_number IS NULL OR source_page_number > 0),
+    source_row_number INTEGER CHECK (source_row_number IS NULL OR source_row_number > 0)
+);
+
+CREATE TABLE IF NOT EXISTS disclosure_assets (
+    disclosure_asset_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    disclosure_report_id BIGINT NOT NULL REFERENCES disclosure_reports(disclosure_report_id) ON DELETE CASCADE,
+    parent_asset_id BIGINT REFERENCES disclosure_assets(disclosure_asset_id) ON DELETE SET NULL,
+    security_id BIGINT REFERENCES securities(security_id) ON DELETE SET NULL,
+    owner_type TEXT,
+    owner_raw TEXT,
+    asset_name_raw TEXT NOT NULL,
+    asset_type_code_raw TEXT,
+    asset_type TEXT,
+    description TEXT,
+    location_city TEXT,
+    location_state TEXT,
+    location_country TEXT,
+    value_range_raw TEXT,
+    value_min NUMERIC(20,2) CHECK (value_min IS NULL OR value_min >= 0),
+    value_max NUMERIC(20,2) CHECK (value_max IS NULL OR value_max >= 0),
+    is_excepted_investment_fund BOOLEAN,
+    is_blind_trust BOOLEAN,
+    schedule_raw TEXT,
+    source_page_number INTEGER CHECK (source_page_number IS NULL OR source_page_number > 0),
+    source_row_number INTEGER CHECK (source_row_number IS NULL OR source_row_number > 0),
+    parse_confidence NUMERIC(5,4) CHECK (
+        parse_confidence IS NULL OR parse_confidence BETWEEN 0 AND 1
+    ),
+    review_status TEXT NOT NULL DEFAULT 'unreviewed',
+    CONSTRAINT disclosure_assets_value_range_valid CHECK (
+        value_max IS NULL OR value_min IS NULL OR value_max >= value_min
+    ),
+    CONSTRAINT disclosure_assets_not_own_parent CHECK (
+        parent_asset_id IS NULL OR parent_asset_id <> disclosure_asset_id
+    )
+);
+
+CREATE TABLE IF NOT EXISTS disclosure_asset_income (
+    disclosure_asset_income_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    disclosure_asset_id BIGINT NOT NULL REFERENCES disclosure_assets(disclosure_asset_id) ON DELETE CASCADE,
+    income_type TEXT,
+    income_type_raw TEXT,
+    income_period TEXT,
+    amount_range_raw TEXT,
+    amount_min NUMERIC(20,2) CHECK (amount_min IS NULL OR amount_min >= 0),
+    amount_max NUMERIC(20,2) CHECK (amount_max IS NULL OR amount_max >= 0),
+    amount_exact NUMERIC(20,2) CHECK (amount_exact IS NULL OR amount_exact >= 0),
+    is_tax_deferred BOOLEAN,
+    source_page_number INTEGER CHECK (source_page_number IS NULL OR source_page_number > 0),
+    source_row_number INTEGER CHECK (source_row_number IS NULL OR source_row_number > 0),
+    CONSTRAINT disclosure_asset_income_amount_range_valid CHECK (
+        amount_max IS NULL OR amount_min IS NULL OR amount_max >= amount_min
+    )
+);
+
+CREATE TABLE IF NOT EXISTS disclosure_earned_income (
+    disclosure_earned_income_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    disclosure_report_id BIGINT NOT NULL REFERENCES disclosure_reports(disclosure_report_id) ON DELETE CASCADE,
+    owner_type TEXT,
+    owner_raw TEXT,
+    source_name TEXT,
+    source_location TEXT,
+    income_type TEXT,
+    income_type_raw TEXT,
+    amount_current_year NUMERIC(20,2) CHECK (amount_current_year IS NULL OR amount_current_year >= 0),
+    amount_preceding_year NUMERIC(20,2) CHECK (amount_preceding_year IS NULL OR amount_preceding_year >= 0),
+    amount_raw TEXT,
+    schedule_raw TEXT,
+    source_page_number INTEGER CHECK (source_page_number IS NULL OR source_page_number > 0),
+    source_row_number INTEGER CHECK (source_row_number IS NULL OR source_row_number > 0)
+);
+
+CREATE TABLE IF NOT EXISTS disclosure_liabilities (
+    disclosure_liability_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    disclosure_report_id BIGINT NOT NULL REFERENCES disclosure_reports(disclosure_report_id) ON DELETE CASCADE,
+    owner_type TEXT,
+    owner_raw TEXT,
+    creditor_name TEXT,
+    date_incurred DATE,
+    date_incurred_raw TEXT,
+    liability_type TEXT,
+    liability_type_raw TEXT,
+    associated_asset_id BIGINT REFERENCES disclosure_assets(disclosure_asset_id) ON DELETE SET NULL,
+    associated_asset_raw TEXT,
+    amount_range_raw TEXT,
+    amount_min NUMERIC(20,2) CHECK (amount_min IS NULL OR amount_min >= 0),
+    amount_max NUMERIC(20,2) CHECK (amount_max IS NULL OR amount_max >= 0),
+    interest_rate_raw TEXT,
+    term_raw TEXT,
+    schedule_raw TEXT,
+    source_page_number INTEGER CHECK (source_page_number IS NULL OR source_page_number > 0),
+    source_row_number INTEGER CHECK (source_row_number IS NULL OR source_row_number > 0),
+    CONSTRAINT disclosure_liabilities_amount_range_valid CHECK (
+        amount_max IS NULL OR amount_min IS NULL OR amount_max >= amount_min
+    )
+);
+
+CREATE TABLE IF NOT EXISTS filing_actions (
+    filing_action_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    filing_id BIGINT NOT NULL REFERENCES filings(filing_id) ON DELETE CASCADE,
+    action_type TEXT NOT NULL,
+    request_date DATE,
+    decision_date DATE,
+    effective_date DATE,
+    original_deadline DATE,
+    requested_deadline DATE,
+    granted_deadline DATE,
+    status TEXT NOT NULL DEFAULT 'unprocessed',
+    reason TEXT,
+    authority TEXT,
+    fee_amount NUMERIC(20,2) CHECK (fee_amount IS NULL OR fee_amount >= 0),
+    raw_details JSONB NOT NULL DEFAULT '{}'::jsonb,
+    source_page_number INTEGER CHECK (source_page_number IS NULL OR source_page_number > 0),
+    created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS disclosure_gifts (
+    disclosure_gift_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    disclosure_report_id BIGINT NOT NULL REFERENCES disclosure_reports(disclosure_report_id) ON DELETE CASCADE,
+    owner_type TEXT,
+    owner_raw TEXT,
+    source_name TEXT,
+    description TEXT,
+    gift_date DATE,
+    gift_date_raw TEXT,
+    value_raw TEXT,
+    value_amount NUMERIC(20,2) CHECK (value_amount IS NULL OR value_amount >= 0),
+    value_min NUMERIC(20,2) CHECK (value_min IS NULL OR value_min >= 0),
+    value_max NUMERIC(20,2) CHECK (value_max IS NULL OR value_max >= 0),
+    filing_action_id BIGINT REFERENCES filing_actions(filing_action_id) ON DELETE SET NULL,
+    schedule_raw TEXT,
+    source_page_number INTEGER CHECK (source_page_number IS NULL OR source_page_number > 0),
+    source_row_number INTEGER CHECK (source_row_number IS NULL OR source_row_number > 0),
+    CONSTRAINT disclosure_gifts_value_range_valid CHECK (
+        value_max IS NULL OR value_min IS NULL OR value_max >= value_min
+    )
+);
+
+CREATE TABLE IF NOT EXISTS disclosure_travel (
+    disclosure_travel_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    disclosure_report_id BIGINT NOT NULL REFERENCES disclosure_reports(disclosure_report_id) ON DELETE CASCADE,
+    traveler_type TEXT,
+    traveler_name_raw TEXT,
+    sponsor_name TEXT,
+    departure_date DATE,
+    return_date DATE,
+    departure_location TEXT,
+    destination TEXT,
+    lodging_provided BOOLEAN,
+    food_provided BOOLEAN,
+    family_member_included BOOLEAN,
+    family_member_name_raw TEXT,
+    days_not_at_sponsor_expense INTEGER CHECK (
+        days_not_at_sponsor_expense IS NULL OR days_not_at_sponsor_expense >= 0
+    ),
+    description TEXT,
+    schedule_raw TEXT,
+    source_page_number INTEGER CHECK (source_page_number IS NULL OR source_page_number > 0),
+    source_row_number INTEGER CHECK (source_row_number IS NULL OR source_row_number > 0),
+    CONSTRAINT disclosure_travel_dates_valid CHECK (
+        return_date IS NULL OR departure_date IS NULL OR return_date >= departure_date
+    )
+);
+
+CREATE TABLE IF NOT EXISTS disclosure_positions (
+    disclosure_position_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    disclosure_report_id BIGINT NOT NULL REFERENCES disclosure_reports(disclosure_report_id) ON DELETE CASCADE,
+    position_title TEXT,
+    organization_name TEXT,
+    position_category TEXT,
+    start_date DATE,
+    end_date DATE,
+    is_compensated BOOLEAN,
+    description TEXT,
+    schedule_raw TEXT,
+    source_page_number INTEGER CHECK (source_page_number IS NULL OR source_page_number > 0),
+    source_row_number INTEGER CHECK (source_row_number IS NULL OR source_row_number > 0),
+    CONSTRAINT disclosure_positions_dates_valid CHECK (
+        end_date IS NULL OR start_date IS NULL OR end_date >= start_date
+    )
+);
+
+CREATE TABLE IF NOT EXISTS disclosure_agreements (
+    disclosure_agreement_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    disclosure_report_id BIGINT NOT NULL REFERENCES disclosure_reports(disclosure_report_id) ON DELETE CASCADE,
+    other_party_name TEXT,
+    agreement_type TEXT,
+    agreement_type_raw TEXT,
+    agreement_date DATE,
+    effective_date DATE,
+    end_date DATE,
+    terms_text TEXT,
+    status TEXT,
+    schedule_raw TEXT,
+    source_page_number INTEGER CHECK (source_page_number IS NULL OR source_page_number > 0),
+    source_row_number INTEGER CHECK (source_row_number IS NULL OR source_row_number > 0),
+    CONSTRAINT disclosure_agreements_dates_valid CHECK (
+        end_date IS NULL OR effective_date IS NULL OR end_date >= effective_date
+    )
+);
+
+CREATE TABLE IF NOT EXISTS disclosure_compensation_sources (
+    disclosure_compensation_source_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    disclosure_report_id BIGINT NOT NULL REFERENCES disclosure_reports(disclosure_report_id) ON DELETE CASCADE,
+    source_name TEXT,
+    source_location TEXT,
+    services_description TEXT,
+    amount_raw TEXT,
+    amount_exact NUMERIC(20,2) CHECK (amount_exact IS NULL OR amount_exact >= 0),
+    reporting_threshold NUMERIC(20,2) CHECK (reporting_threshold IS NULL OR reporting_threshold >= 0),
+    schedule_raw TEXT,
+    source_page_number INTEGER CHECK (source_page_number IS NULL OR source_page_number > 0),
+    source_row_number INTEGER CHECK (source_row_number IS NULL OR source_row_number > 0)
+);
+
+CREATE TABLE IF NOT EXISTS disclosure_charitable_payments (
+    disclosure_charitable_payment_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    disclosure_report_id BIGINT NOT NULL REFERENCES disclosure_reports(disclosure_report_id) ON DELETE CASCADE,
+    payer_name TEXT,
+    activity_description TEXT,
+    charity_name TEXT,
+    payment_date DATE,
+    amount_raw TEXT,
+    amount_exact NUMERIC(20,2) CHECK (amount_exact IS NULL OR amount_exact >= 0),
+    schedule_raw TEXT,
+    source_page_number INTEGER CHECK (source_page_number IS NULL OR source_page_number > 0),
+    source_row_number INTEGER CHECK (source_row_number IS NULL OR source_row_number > 0)
+);
+
+CREATE TABLE IF NOT EXISTS filing_action_subjects (
+    filing_action_subject_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    filing_action_id BIGINT NOT NULL REFERENCES filing_actions(filing_action_id) ON DELETE CASCADE,
+    subject_type TEXT NOT NULL,
+    subject_name_raw TEXT,
+    disclosure_asset_id BIGINT REFERENCES disclosure_assets(disclosure_asset_id) ON DELETE SET NULL,
+    related_filing_id BIGINT REFERENCES filings(filing_id) ON DELETE SET NULL,
+    description TEXT
+);
+
+CREATE TABLE IF NOT EXISTS filing_relationships (
+    filing_relationship_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    from_filing_id BIGINT NOT NULL REFERENCES filings(filing_id) ON DELETE CASCADE,
+    to_filing_id BIGINT NOT NULL REFERENCES filings(filing_id) ON DELETE CASCADE,
+    relationship_type TEXT NOT NULL,
+    match_method TEXT,
+    match_confidence NUMERIC(5,4) CHECK (
+        match_confidence IS NULL OR match_confidence BETWEEN 0 AND 1
+    ),
+    is_confirmed BOOLEAN NOT NULL DEFAULT FALSE,
+    reviewed_at TIMESTAMPTZ,
+    reviewed_by TEXT,
+    notes TEXT,
+    CONSTRAINT filing_relationships_not_self CHECK (from_filing_id <> to_filing_id),
+    CONSTRAINT filing_relationships_unique UNIQUE (
+        from_filing_id, to_filing_id, relationship_type
+    )
+);
+
+-- These ALTER statements make the schema migration-safe for databases created
+-- before the financial-disclosure expansion.
+ALTER TABLE documents
+    ADD COLUMN IF NOT EXISTS detected_form_version TEXT,
+    ADD COLUMN IF NOT EXISTS document_completeness_status TEXT;
+
+ALTER TABLE trades
+    ADD COLUMN IF NOT EXISTS disclosure_report_id BIGINT,
+    ADD COLUMN IF NOT EXISTS disclosure_asset_id BIGINT,
+    ADD COLUMN IF NOT EXISTS schedule_raw TEXT,
+    ADD COLUMN IF NOT EXISTS is_partial_sale BOOLEAN,
+    ADD COLUMN IF NOT EXISTS is_annual_report_transaction BOOLEAN NOT NULL DEFAULT FALSE,
+    ADD COLUMN IF NOT EXISTS transaction_sequence INTEGER;
+
+DO $$
+BEGIN
+    IF NOT EXISTS (
+        SELECT 1 FROM pg_constraint
+        WHERE conname = 'trades_disclosure_report_fk'
+    ) THEN
+        ALTER TABLE trades
+            ADD CONSTRAINT trades_disclosure_report_fk
+            FOREIGN KEY (disclosure_report_id)
+            REFERENCES disclosure_reports(disclosure_report_id)
+            ON DELETE SET NULL;
+    END IF;
+    IF NOT EXISTS (
+        SELECT 1 FROM pg_constraint
+        WHERE conname = 'trades_disclosure_asset_fk'
+    ) THEN
+        ALTER TABLE trades
+            ADD CONSTRAINT trades_disclosure_asset_fk
+            FOREIGN KEY (disclosure_asset_id)
+            REFERENCES disclosure_assets(disclosure_asset_id)
+            ON DELETE SET NULL;
+    END IF;
+END
+$$;
 
 CREATE TABLE IF NOT EXISTS staging_members (
     staging_member_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
@@ -975,6 +1317,46 @@ CREATE INDEX IF NOT EXISTS idx_market_prices_security_date
     ON market_prices (security_id, price_date);
 CREATE INDEX IF NOT EXISTS idx_corporate_actions_security_date
     ON corporate_actions (security_id, effective_date);
+CREATE INDEX IF NOT EXISTS idx_disclosure_questions_report
+    ON disclosure_questions (disclosure_report_id);
+CREATE INDEX IF NOT EXISTS idx_disclosure_assets_report
+    ON disclosure_assets (disclosure_report_id);
+CREATE INDEX IF NOT EXISTS idx_disclosure_assets_parent
+    ON disclosure_assets (parent_asset_id);
+CREATE INDEX IF NOT EXISTS idx_disclosure_assets_security
+    ON disclosure_assets (security_id);
+CREATE INDEX IF NOT EXISTS idx_disclosure_asset_income_asset
+    ON disclosure_asset_income (disclosure_asset_id);
+CREATE INDEX IF NOT EXISTS idx_disclosure_earned_income_report
+    ON disclosure_earned_income (disclosure_report_id);
+CREATE INDEX IF NOT EXISTS idx_disclosure_liabilities_report
+    ON disclosure_liabilities (disclosure_report_id);
+CREATE INDEX IF NOT EXISTS idx_disclosure_liabilities_asset
+    ON disclosure_liabilities (associated_asset_id);
+CREATE INDEX IF NOT EXISTS idx_filing_actions_filing
+    ON filing_actions (filing_id);
+CREATE INDEX IF NOT EXISTS idx_disclosure_gifts_report
+    ON disclosure_gifts (disclosure_report_id);
+CREATE INDEX IF NOT EXISTS idx_disclosure_gifts_action
+    ON disclosure_gifts (filing_action_id);
+CREATE INDEX IF NOT EXISTS idx_disclosure_travel_report
+    ON disclosure_travel (disclosure_report_id);
+CREATE INDEX IF NOT EXISTS idx_disclosure_positions_report
+    ON disclosure_positions (disclosure_report_id);
+CREATE INDEX IF NOT EXISTS idx_disclosure_agreements_report
+    ON disclosure_agreements (disclosure_report_id);
+CREATE INDEX IF NOT EXISTS idx_disclosure_compensation_sources_report
+    ON disclosure_compensation_sources (disclosure_report_id);
+CREATE INDEX IF NOT EXISTS idx_disclosure_charitable_payments_report
+    ON disclosure_charitable_payments (disclosure_report_id);
+CREATE INDEX IF NOT EXISTS idx_filing_action_subjects_action
+    ON filing_action_subjects (filing_action_id);
+CREATE INDEX IF NOT EXISTS idx_filing_action_subjects_asset
+    ON filing_action_subjects (disclosure_asset_id);
+CREATE INDEX IF NOT EXISTS idx_filing_relationships_from
+    ON filing_relationships (from_filing_id);
+CREATE INDEX IF NOT EXISTS idx_filing_relationships_to
+    ON filing_relationships (to_filing_id);
 
 CREATE UNIQUE INDEX IF NOT EXISTS uq_member_identifier_primary_type
     ON member_identifiers (member_id, identifier_type)
@@ -1011,6 +1393,18 @@ EXECUTE FUNCTION set_updated_at();
 DROP TRIGGER IF EXISTS trades_set_updated_at ON trades;
 CREATE TRIGGER trades_set_updated_at
 BEFORE UPDATE ON trades
+FOR EACH ROW
+EXECUTE FUNCTION set_updated_at();
+
+DROP TRIGGER IF EXISTS disclosure_reports_set_updated_at ON disclosure_reports;
+CREATE TRIGGER disclosure_reports_set_updated_at
+BEFORE UPDATE ON disclosure_reports
+FOR EACH ROW
+EXECUTE FUNCTION set_updated_at();
+
+DROP TRIGGER IF EXISTS filing_actions_set_updated_at ON filing_actions;
+CREATE TRIGGER filing_actions_set_updated_at
+BEFORE UPDATE ON filing_actions
 FOR EACH ROW
 EXECUTE FUNCTION set_updated_at();
 """

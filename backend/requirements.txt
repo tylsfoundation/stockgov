@@ -2,6 +2,7 @@
 # Database
 sqlalchemy==2.0.23
 psycopg2-binary==2.9.9
+pypdf==5.9.0
 
 # API Framework
 fastapi==0.104.1
