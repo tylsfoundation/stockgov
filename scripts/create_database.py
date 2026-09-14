@@ -576,6 +576,9 @@ CREATE TABLE IF NOT EXISTS document_extractions (
     characters_extracted BIGINT CHECK (
         characters_extracted IS NULL OR characters_extracted >= 0
     ),
+    bytes_extracted BIGINT CHECK (
+        bytes_extracted IS NULL OR bytes_extracted >= 0
+    ),
     pages_processed INTEGER CHECK (pages_processed IS NULL OR pages_processed >= 0),
     warnings JSONB NOT NULL DEFAULT '[]'::jsonb,
     is_preferred BOOLEAN NOT NULL DEFAULT FALSE,
@@ -627,6 +630,8 @@ CREATE TABLE IF NOT EXISTS trades (
     document_id BIGINT REFERENCES documents(document_id) ON DELETE SET NULL,
     document_extraction_id BIGINT REFERENCES document_extractions(document_extraction_id) ON DELETE SET NULL,
     source_row_number INTEGER NOT NULL CHECK (source_row_number > 0),
+    source_page_number INTEGER CHECK (source_page_number IS NULL OR source_page_number > 0),
+    source_transaction_id_raw TEXT,
     transaction_date DATE,
     notification_date DATE,
     filed_date DATE,
@@ -662,6 +667,7 @@ CREATE TABLE IF NOT EXISTS trades (
     supersedes_trade_id BIGINT REFERENCES trades(trade_id) ON DELETE SET NULL,
     parser_name TEXT NOT NULL,
     parser_version TEXT NOT NULL,
+    is_current_parser_result BOOLEAN NOT NULL DEFAULT TRUE,
     parse_confidence NUMERIC(5,4) CHECK (
         parse_confidence IS NULL OR parse_confidence BETWEEN 0 AND 1
     ),
@@ -677,7 +683,7 @@ CREATE TABLE IF NOT EXISTS trades (
         supersedes_trade_id IS NULL OR supersedes_trade_id <> trade_id
     ),
     CONSTRAINT trades_source_row_unique UNIQUE (
-        filing_id, source_row_number, parser_version
+        filing_id, source_row_number, parser_name, parser_version
     )
 );
 
@@ -1027,13 +1033,38 @@ ALTER TABLE documents
     ADD COLUMN IF NOT EXISTS detected_form_version TEXT,
     ADD COLUMN IF NOT EXISTS document_completeness_status TEXT;
 
+ALTER TABLE document_extractions
+    ADD COLUMN IF NOT EXISTS bytes_extracted BIGINT;
+
 ALTER TABLE trades
     ADD COLUMN IF NOT EXISTS disclosure_report_id BIGINT,
     ADD COLUMN IF NOT EXISTS disclosure_asset_id BIGINT,
     ADD COLUMN IF NOT EXISTS schedule_raw TEXT,
     ADD COLUMN IF NOT EXISTS is_partial_sale BOOLEAN,
     ADD COLUMN IF NOT EXISTS is_annual_report_transaction BOOLEAN NOT NULL DEFAULT FALSE,
-    ADD COLUMN IF NOT EXISTS transaction_sequence INTEGER;
+    ADD COLUMN IF NOT EXISTS transaction_sequence INTEGER,
+    ADD COLUMN IF NOT EXISTS source_page_number INTEGER,
+    ADD COLUMN IF NOT EXISTS source_transaction_id_raw TEXT,
+    ADD COLUMN IF NOT EXISTS is_current_parser_result BOOLEAN NOT NULL DEFAULT TRUE;
+
+DO $$
+BEGIN
+    IF EXISTS (
+        SELECT 1 FROM pg_constraint
+        WHERE conname = 'trades_source_row_unique'
+    ) THEN
+        ALTER TABLE trades DROP CONSTRAINT trades_source_row_unique;
+    END IF;
+    IF NOT EXISTS (
+        SELECT 1 FROM pg_constraint
+        WHERE conname = 'trades_source_row_parser_unique'
+    ) THEN
+        ALTER TABLE trades
+            ADD CONSTRAINT trades_source_row_parser_unique
+            UNIQUE (filing_id, source_row_number, parser_name, parser_version);
+    END IF;
+END
+$$;
 
 DO $$
 BEGIN
@@ -1199,6 +1230,8 @@ CREATE TABLE IF NOT EXISTS staging_house_trades (
     filing_id BIGINT NOT NULL REFERENCES filings(filing_id) ON DELETE CASCADE,
     document_extraction_id BIGINT REFERENCES document_extractions(document_extraction_id) ON DELETE SET NULL,
     source_row_number INTEGER NOT NULL CHECK (source_row_number > 0),
+    source_page_number INTEGER CHECK (source_page_number IS NULL OR source_page_number > 0),
+    source_transaction_id_raw TEXT,
     transaction_date_raw TEXT,
     notification_date_raw TEXT,
     owner_raw TEXT,
@@ -1215,10 +1248,22 @@ CREATE TABLE IF NOT EXISTS staging_house_trades (
     ),
     error_details JSONB NOT NULL DEFAULT '[]'::jsonb,
     trade_id BIGINT REFERENCES trades(trade_id) ON DELETE SET NULL,
+    parser_name TEXT,
+    parser_version TEXT,
+    parse_confidence NUMERIC(5,4) CHECK (
+        parse_confidence IS NULL OR parse_confidence BETWEEN 0 AND 1
+    ),
     CONSTRAINT staging_house_trades_source_row_unique UNIQUE (
         filing_id, source_row_number, document_extraction_id
     )
 );
+
+ALTER TABLE staging_house_trades
+    ADD COLUMN IF NOT EXISTS source_page_number INTEGER,
+    ADD COLUMN IF NOT EXISTS source_transaction_id_raw TEXT,
+    ADD COLUMN IF NOT EXISTS parser_name TEXT,
+    ADD COLUMN IF NOT EXISTS parser_version TEXT,
+    ADD COLUMN IF NOT EXISTS parse_confidence NUMERIC(5,4);
 
 CREATE TABLE IF NOT EXISTS staging_senate_trades (
     staging_senate_trade_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,

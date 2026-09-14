@@ -274,7 +274,7 @@ Rules:
 
 Versioned outputs and quality measurements from extraction and parsing attempts.
 
-Fields: `document_extraction_id`, `document_id`, `document_job_id`, `extraction_type`, `extractor_name`, `extractor_version`, `output_path`, `output_hash`, `started_at`, `finished_at`, `quality_score`, `characters_extracted`, `pages_processed`, `warnings`, `is_preferred`.
+Fields: `document_extraction_id`, `document_id`, `document_job_id`, `extraction_type`, `extractor_name`, `extractor_version`, `output_path`, `output_hash`, `started_at`, `finished_at`, `quality_score`, `characters_extracted`, `bytes_extracted`, `pages_processed`, `warnings`, `is_preferred`.
 
 Implementation phase: required when text extraction or PTR parsing begins.
 
@@ -304,7 +304,7 @@ Fields: `security_identifier_id`, `security_id`, `identifier_type`, `identifier_
 
 One normalized PTR transaction line, retaining the reported values, inferred security information, parser provenance, and amendment relationship.
 
-Fields: `trade_id`, `filing_id`, `document_id`, `document_extraction_id`, `source_row_number`, `transaction_date`, `notification_date`, `filed_date`, `owner_type`, `owner_raw`, `transaction_type`, `transaction_type_raw`, `asset_name_raw`, `asset_type_code_raw`, `asset_type`, `security_id`, `ticker_reported`, `ticker_inferred`, `ticker_inference_method`, `ticker_confidence`, `amount_range_raw`, `amount_min`, `amount_max`, `amount_exact`, `capital_gains_over_200`, `description_raw`, `is_amended`, `supersedes_trade_id`, `parser_name`, `parser_version`, `parse_confidence`, `review_status`, `created_at`, `updated_at`.
+Fields: `trade_id`, `filing_id`, `document_id`, `document_extraction_id`, `source_row_number`, `source_page_number`, `source_transaction_id_raw`, `transaction_date`, `notification_date`, `filed_date`, `owner_type`, `owner_raw`, `transaction_type`, `transaction_type_raw`, `asset_name_raw`, `asset_type_code_raw`, `asset_type`, `security_id`, `ticker_reported`, `ticker_inferred`, `ticker_inference_method`, `ticker_confidence`, `amount_range_raw`, `amount_min`, `amount_max`, `amount_exact`, `capital_gains_over_200`, `description_raw`, `is_partial_sale`, `is_annual_report_transaction`, `transaction_sequence`, `is_amended`, `supersedes_trade_id`, `parser_name`, `parser_version`, `is_current_parser_result`, `parse_confidence`, `review_status`, `created_at`, `updated_at`.
 
 Relationship: member identity is obtained through `trades.filing_id -> filings.member_id`; it is not duplicated on the trade.
 
@@ -313,6 +313,7 @@ Consistency rules:
 - When `document_id` is present, the document must belong to `filing_id`.
 - When `document_extraction_id` is present, the extraction must belong to `document_id` and ultimately to the same filing.
 - The repeated filing, document, and extraction references are retained for practical querying and provenance, but the validator must reject inconsistent combinations.
+- `is_current_parser_result` distinguishes the latest active result from retained historical parser output after a reparse.
 
 ### 10.4 `trade_evidence`
 
@@ -377,7 +378,9 @@ Fields: `staging_senate_filing_id`, `source_import_id`, `source_row_number`, `so
 
 ### 11.6 `staging_house_trades`
 
-Fields: `staging_house_trade_id`, `source_import_id`, `filing_id`, `document_extraction_id`, `source_row_number`, `transaction_date_raw`, `notification_date_raw`, `owner_raw`, `asset_name_raw`, `asset_type_code_raw`, `transaction_type_raw`, `amount_raw`, `ticker_raw`, `description_raw`, `raw_record`, `parse_warnings`, `validation_status`, `error_details`, `trade_id`.
+Fields: `staging_house_trade_id`, `source_import_id`, `filing_id`, `document_extraction_id`, `source_row_number`, `source_page_number`, `source_transaction_id_raw`, `transaction_date_raw`, `notification_date_raw`, `owner_raw`, `asset_name_raw`, `asset_type_code_raw`, `transaction_type_raw`, `amount_raw`, `ticker_raw`, `description_raw`, `raw_record`, `parse_warnings`, `validation_status`, `error_details`, `trade_id`, `parser_name`, `parser_version`, `parse_confidence`.
+
+The staging row preserves every candidate parsed from a House PTR before loading. Invalid candidates remain available for review; valid candidates link to the resulting `trades` row through `trade_id`.
 
 ### 11.7 `staging_senate_trades`
 
@@ -580,13 +583,14 @@ Representative roles: `trustor`, `trustee`, `successor_trustee`, and `beneficiar
 
 The existing table remains the single normalized transaction table. It must support transactions extracted from annual, candidate, new-filer, and termination reports as well as PTRs.
 
-Additional fields: `disclosure_report_id`, `disclosure_asset_id`, `schedule_raw`, `is_partial_sale`, `is_annual_report_transaction`, `transaction_sequence`.
+Additional fields: `disclosure_report_id`, `disclosure_asset_id`, `schedule_raw`, `is_partial_sale`, `is_annual_report_transaction`, `transaction_sequence`, `source_transaction_id_raw`.
 
 Rules:
 
 - Do not create a separate annual-transactions table.
 - `disclosure_report_id` is null for PTRs that do not have a corresponding full disclosure report.
 - `disclosure_asset_id` is optional because an asset may not yet have been resolved or may appear only in a transaction schedule.
+- `source_transaction_id_raw` preserves the House transaction identifier printed on amended PTR rows.
 - Source filing type determines the reporting context; `is_annual_report_transaction` is a practical query flag and must agree with that context.
 
 ### 16.2 Generalized extracted-field evidence

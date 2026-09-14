@@ -1,13 +1,13 @@
 # Document Parser Architecture Review and Fix Plan
 
-The current script is a good first House PTR implementation, but it has reached the point where it should be split before adding Senate support. It is 766 lines and combines six different responsibilities:
+The current script is a working House PTR implementation, but it has reached the point where it should be split before adding Senate support. It is more than 1,100 lines and combines six different responsibilities:
 
-- command-line arguments and filters: `parse_house_documents.py:172`
-- database selection: `parse_house_documents.py:213`
-- PDF text extraction: `parse_house_documents.py:270`
-- House transaction recognition: `parse_house_documents.py:418`
-- job retries and status transitions: `parse_house_documents.py:487`
-- database writes and orchestration: `parse_house_documents.py:544` and `parse_house_documents.py:685`
+- command-line arguments and filters: `build_parser`, `validate_args`, and `select_documents`
+- PDF text extraction and fallback selection: `extract_pdf`, `extract_pdf_layout`, and `extract_and_parse_document`
+- House transaction recognition: `parse_ptr_text` and its parsing helpers
+- job retries and status transitions: `ensure_parse_job`, `mark_running`, and `mark_failure`
+- database writes: `record_document_and_trades`
+- orchestration and progress reporting: `run`
 
 The main problem is that only some of those responsibilities are actually House-specific.
 
@@ -65,7 +65,7 @@ select filing
 | normalized transaction model | Reuse, with optional fields |
 | PostgreSQL transaction/upsert logic | Reuse through a persistence layer |
 | progress output and totals | Reuse in the runner |
-| PDF extraction with `pypdf` | Reuse for House PDFs and Senate PDF filings |
+| PDF extraction with `pypdf` and `pdfplumber` layout fallback | Reuse for House PDFs and Senate PDF filings |
 
 ## Logic that should remain format-specific
 
@@ -135,3 +135,20 @@ The runner can then use a registry:
 ## Recommendation
 
 Rename the user-facing command eventually, split the implementation now, and share the ingestion infrastructure while keeping House and Senate recognition logic as separate adapters. This reuses the workflow plumbing without forcing incompatible House PDF and Senate HTML formats into one fragile parser.
+
+## House parser v1.2 implementation
+
+The immediate House fixes have been implemented without adding OCR or changing the user-facing script name:
+
+- A separator line can no longer consume the next transaction during lookahead. Exact `$200` labels, spaced labels such as `S O:`, and one-character form fragments are treated as separators.
+- `pdfplumber` layout extraction is used as a non-OCR fallback when `pypdf` loses table layout, emits invalid rows, finds no transaction rows, or produces a transaction-signature coverage mismatch.
+- Extraction artifacts use extractor-and-version-specific filenames, preserving the output associated with historical database extraction rows.
+- The parser recognizes split amount ranges, Unicode dash characters, and `Spouse/DC Over $1,000,000` values.
+- Ten-digit amended-PTR transaction identifiers are separated from the asset name and stored in `source_transaction_id_raw` in staging and normalized trade rows.
+- A document is marked `needs_review` when recognizable transaction signatures do not equal emitted rows, even if every emitted row individually passes validation.
+- Flattened legacy PDF lines containing multiple complete transaction signatures are split into individual parser rows, including repeated filing-status text between rows; this resolves the three-transaction 20009299 case without changing source row numbering semantics.
+- Parser version `1.2.1` stages every recognized row, loads only valid rows, retains invalid rows with their validation errors, and repairs tightly matched asset continuations across page boundaries.
+- The validator now checks parser version `1.2.1`, the preferred extraction, staged invalid/loaded counts, source transaction ID columns, and independent transaction-signature coverage when `--check-files` is used.
+- Focused regression tests cover the separator lookahead defect, spaced and one-character labels, split amounts, special spouse/dependent-child amounts, amended transaction IDs, Unicode soft hyphens, packed transactions that require layout fallback, and the six known page-boundary rows in document 20030891.
+
+Before running parser v1.2 against an existing database, run `python scripts\create_database.py --skip-create-database` once so the migration-safe schema adds `source_transaction_id_raw`. Install `pdfplumber` from the pinned backend requirements or with `py -m pip install pdfplumber`; the parser uses the maintained open-source library and does not implement OCR.

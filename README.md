@@ -171,7 +171,7 @@ Docker Compose exposes PostgreSQL on host port `5433` by default to avoid confli
 Install the current Python dependencies:
 
 ```powershell
-py -m pip install psycopg2-binary PyYAML python-dotenv
+py -m pip install psycopg2-binary PyYAML python-dotenv pypdf pdfplumber
 ```
 
 Start PostgreSQL:

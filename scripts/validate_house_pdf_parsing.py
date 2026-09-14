@@ -19,6 +19,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import os
+import re
 import sys
 import time
 from collections import Counter, defaultdict
@@ -39,6 +40,16 @@ except ImportError as exc:  # pragma: no cover - exercised when dependency is ab
 
 SOURCE = "house_clerk_financial_disclosure"
 PARSER_NAME = "house_ptr_pdf"
+PARSER_VERSION = "1.2.1"
+TRANSACTION_SIGNATURE_RE = re.compile(
+    r"[PSE]\s*(?:\(\s*partial\s*\))?\s*"
+    r"\d{1,2}/\d{1,2}/\d{4}\s*"
+    r"\d{1,2}/\d{1,2}/\d{4}\s*"
+    r"(?:Spouse\s*/\s*DC\s+Over\s+\$?\s*[\d,]+|"
+    r"N/?A|<\s*\$?\s*[\d,]+|"
+    r"\$?\s*[\d,]+(?:\s*[-\u00ad\u2010-\u2015\u2212]\s*\$?\s*[\d,]+)?)",
+    re.IGNORECASE,
+)
 
 
 def project_root() -> Path:
@@ -212,13 +223,16 @@ def selected_documents(
             e.output_path,
             e.output_hash,
             e.characters_extracted,
+            e.bytes_extracted,
             e.pages_processed,
             e.quality_score,
             e.warnings AS extraction_warnings,
             e.is_preferred,
             COALESCE(t.trade_count, 0)::bigint AS trade_count,
             t.first_transaction_date,
-            t.last_transaction_date
+            t.last_transaction_date,
+            COALESCE(s.staged_loaded_count, 0)::bigint AS staged_loaded_count,
+            COALESCE(s.staged_invalid_count, 0)::bigint AS staged_invalid_count
         FROM documents d
         JOIN filings f ON f.filing_id = d.filing_id
         LEFT JOIN LATERAL (
@@ -232,7 +246,8 @@ def selected_documents(
         LEFT JOIN LATERAL (
             SELECT de.document_extraction_id, de.document_job_id, de.extraction_type,
                    de.extractor_name, de.extractor_version, de.output_path,
-                   de.output_hash, de.characters_extracted, de.pages_processed,
+                   de.output_hash, de.characters_extracted, de.bytes_extracted,
+                   de.pages_processed,
                    de.quality_score, de.warnings, de.is_preferred
             FROM document_extractions de
             WHERE de.document_id = d.document_id
@@ -246,32 +261,52 @@ def selected_documents(
                    max(tr.transaction_date) AS last_transaction_date
             FROM trades tr
             WHERE tr.document_id = d.document_id
+              AND tr.document_extraction_id = e.document_extraction_id
               AND tr.parser_name = %s
+              AND tr.parser_version = %s
+              AND tr.is_current_parser_result IS TRUE
         ) t ON TRUE
+        LEFT JOIN LATERAL (
+            SELECT
+                count(*) FILTER (
+                    WHERE sh.validation_status = 'loaded'
+                ) AS staged_loaded_count,
+                count(*) FILTER (
+                    WHERE sh.validation_status = 'invalid'
+                ) AS staged_invalid_count
+            FROM staging_house_trades sh
+            WHERE sh.document_extraction_id = e.document_extraction_id
+              AND sh.parser_name = %s
+              AND sh.parser_version = %s
+        ) s ON TRUE
         WHERE {where}
         ORDER BY f.reporting_year NULLS LAST, f.source_filing_id, d.document_id
         {limit_sql}
         """,
-        tuple([PARSER_NAME, *parameters]),
+        tuple([PARSER_NAME, PARSER_VERSION, PARSER_NAME, PARSER_VERSION, *parameters]),
     )
 
 
-def trade_rows(cursor: Any, document_ids: list[int]) -> list[dict[str, Any]]:
-    if not document_ids:
+def trade_rows(cursor: Any, extraction_ids: list[int]) -> list[dict[str, Any]]:
+    if not extraction_ids:
         return []
     return rows(
         cursor,
         """
         SELECT t.document_id, t.trade_id, t.source_row_number,
+               t.source_transaction_id_raw,
                t.transaction_date, t.notification_date, t.owner_type,
                t.asset_name_raw, t.ticker_reported, t.ticker_inferred,
                t.transaction_type, t.amount_range_raw, t.parse_confidence,
-               t.review_status, t.document_extraction_id
+               t.review_status, t.document_extraction_id, t.parser_version
         FROM trades t
-        WHERE t.document_id = ANY(%s) AND t.parser_name = %s
+        WHERE t.document_extraction_id = ANY(%s)
+          AND t.parser_name = %s
+          AND t.parser_version = %s
+          AND t.is_current_parser_result IS TRUE
         ORDER BY t.document_id, t.source_row_number, t.trade_id
         """,
-        (document_ids, PARSER_NAME),
+        (extraction_ids, PARSER_NAME, PARSER_VERSION),
     )
 
 
@@ -281,6 +316,7 @@ def check_schema(cursor: Any, check: Check) -> None:
         "document_jobs",
         "document_extractions",
         "filings",
+        "staging_house_trades",
         "trades",
     }
     found = {
@@ -308,12 +344,25 @@ def check_schema(cursor: Any, check: Check) -> None:
             "document_job_id",
             "output_path",
             "output_hash",
+            "bytes_extracted",
             "is_preferred",
         },
         "trades": {
             "document_id",
             "document_extraction_id",
             "source_row_number",
+            "parser_name",
+            "parser_version",
+            "source_page_number",
+            "source_transaction_id_raw",
+            "is_current_parser_result",
+        },
+        "staging_house_trades": {
+            "document_extraction_id",
+            "source_row_number",
+            "source_page_number",
+            "source_transaction_id_raw",
+            "validation_status",
             "parser_name",
             "parser_version",
         },
@@ -349,12 +398,13 @@ def check_global_integrity(cursor: Any, check: Check) -> None:
         LEFT JOIN document_extractions e
                ON e.document_extraction_id = t.document_extraction_id
         WHERE t.parser_name = %s
+          AND t.parser_version = %s
           AND (d.document_id IS NULL OR f.filing_id IS NULL
                OR t.document_id IS NULL OR t.filing_id <> d.filing_id
                OR t.document_extraction_id IS NULL
                OR e.document_id IS NULL OR e.document_id <> d.document_id)
         """,
-        (PARSER_NAME,),
+        (PARSER_NAME, PARSER_VERSION),
     )[0]["n"]
     check.test(
         orphan_count == 0,
@@ -366,14 +416,15 @@ def check_global_integrity(cursor: Any, check: Check) -> None:
         """
         SELECT count(*) AS n
         FROM (
-            SELECT filing_id, source_row_number, parser_version
+            SELECT filing_id, source_row_number, parser_name, parser_version
             FROM trades
-            WHERE parser_name = %s
-            GROUP BY filing_id, source_row_number, parser_version
+            WHERE parser_name = %s AND parser_version = %s
+              AND is_current_parser_result IS TRUE
+            GROUP BY filing_id, source_row_number, parser_name, parser_version
             HAVING count(*) > 1
         ) duplicates
         """,
-        (PARSER_NAME,),
+        (PARSER_NAME, PARSER_VERSION),
     )[0]["n"]
     check.test(
         duplicate_count == 0,
@@ -414,14 +465,23 @@ def check_artifacts(document: dict[str, Any], check: Check) -> None:
         f"{label}: extracted-text SHA-256 matches output_hash",
         f"{label}: extracted-text hash mismatch (db={expected_hash or '<blank>'}, file={actual_hash})",
     )
+    extracted_text = output.read_text(encoding="utf-8", errors="replace")
     expected_chars = document.get("characters_extracted")
     if expected_chars is not None:
-        actual_chars = len(output.read_text(encoding="utf-8", errors="replace"))
+        actual_chars = len(extracted_text)
         check.test(
             actual_chars == expected_chars,
             f"{label}: extracted character count matches",
             f"{label}: extracted character count mismatch (db={expected_chars}, file={actual_chars})",
         )
+    signature_count = len(TRANSACTION_SIGNATURE_RE.findall(extracted_text))
+    trade_count = int(document.get("trade_count") or 0)
+    check.test(
+        signature_count == trade_count,
+        f"{label}: transaction coverage is complete ({trade_count} signature(s)/trade(s))",
+        f"{label}: transaction coverage mismatch "
+        f"(text signatures={signature_count}, current {PARSER_VERSION} trades={trade_count})",
+    )
 
 
 def print_document(
@@ -449,12 +509,16 @@ def print_document(
     output.write(
         f"  extraction={document.get('document_extraction_id') or '<none>'}"
         f"/{document.get('extraction_type') or 'none'}"
+        f" extractor={document.get('extractor_name') or '<none>'}"
+        f"/{document.get('extractor_version') or '<none>'}"
         f" preferred={document.get('is_preferred')!s}"
         f" chars={document.get('characters_extracted')!s}"
         f" pages={document.get('pages_processed')!s}"
     )
     output.write(
         f"  trades={document.get('trade_count') or 0}"
+        f" | staging_loaded={document.get('staged_loaded_count') or 0}"
+        f" | staging_invalid={document.get('staged_invalid_count') or 0}"
         f" | transaction_dates={document.get('first_transaction_date') or '<none>'}"
         f"..{document.get('last_transaction_date') or '<none>'}"
     )
@@ -465,6 +529,7 @@ def print_document(
     for trade in document_trades[:5]:
         output.write(
             f"  trade_id={trade['trade_id']} row={trade['source_row_number']}"
+            f" source_transaction_id={trade.get('source_transaction_id_raw') or '<blank>'}"
             f" date={trade.get('transaction_date') or '<blank>'}"
             f" owner={trade.get('owner_type') or '<blank>'}"
             f" asset={trade.get('asset_name_raw') or '<blank>'}"
@@ -498,8 +563,11 @@ def validate_document(document: dict[str, Any], check: Check, check_files: bool)
                 f"{label}: extraction is marked preferred",
                 f"{label}: extraction exists but is not marked preferred",
             )
-        if document.get("document_completeness_status") == "parsed":
-            check.ok(f"{label}: document completeness is parsed")
+        if document.get("document_completeness_status") in {"parsed", "parsed_no_transactions"}:
+            check.ok(
+                f"{label}: document completeness is "
+                f"{document.get('document_completeness_status')}"
+            )
         else:
             check.warn(
                 f"{label}: parse completed with completeness status "
@@ -507,6 +575,11 @@ def validate_document(document: dict[str, Any], check: Check, check_files: bool)
             )
         if document.get("trade_count", 0):
             check.ok(f"{label}: {document['trade_count']} parsed trade(s) are linked")
+        elif document.get("document_completeness_status") == "parsed":
+            check.fail(
+                f"{label}: document is marked parsed but has no current "
+                f"{PARSER_VERSION} trades"
+            )
         else:
             check.warn(f"{label}: parse completed but no trades were extracted")
     elif job_status in {"failed_retryable", "failed_permanent"}:
@@ -519,6 +592,20 @@ def validate_document(document: dict[str, Any], check: Check, check_files: bool)
         check.warn(f"{label}: no parse job exists yet")
     if document.get("requires_ocr"):
         check.warn(f"{label}: document is flagged as requiring OCR")
+    staged_invalid_count = int(document.get("staged_invalid_count") or 0)
+    check.test(
+        staged_invalid_count == 0,
+        f"{label}: no current staged rows failed validation",
+        f"{label}: {staged_invalid_count} current staged row(s) failed validation",
+    )
+    staged_loaded_count = int(document.get("staged_loaded_count") or 0)
+    trade_count = int(document.get("trade_count") or 0)
+    check.test(
+        staged_loaded_count == trade_count,
+        f"{label}: staged loaded rows match linked trades ({trade_count})",
+        f"{label}: staged loaded rows ({staged_loaded_count}) do not match "
+        f"linked trades ({trade_count})",
+    )
     if check_files:
         check_artifacts(document, check)
 
@@ -564,6 +651,7 @@ def main(argv: list[str] | None = None) -> int:
     output.write(f"House PDF database QA start time: {started.isoformat()}")
     output.write(f"Log file: {args.log_file.resolve()}")
     output.write(f"File checks: {'enabled' if args.check_files else 'disabled'}")
+    output.write(f"Parser under test: {PARSER_NAME}/{PARSER_VERSION}")
     try:
         connection = psycopg2.connect(database_url(args.database_url), cursor_factory=RealDictCursor)
         connection.set_session(readonly=True, autocommit=False)
@@ -573,8 +661,12 @@ def main(argv: list[str] | None = None) -> int:
                 check_schema(cursor, check)
                 output.write("\n[02] Pull selected filings, documents, jobs, extractions, and trades")
                 documents = selected_documents(cursor, args)
-                document_ids = [int(document["document_id"]) for document in documents]
-                parsed_trades = trade_rows(cursor, document_ids)
+                extraction_ids = [
+                    int(document["document_extraction_id"])
+                    for document in documents
+                    if document.get("document_extraction_id") is not None
+                ]
+                parsed_trades = trade_rows(cursor, extraction_ids)
                 by_document: dict[int, list[dict[str, Any]]] = defaultdict(list)
                 for trade in parsed_trades:
                     by_document[int(trade["document_id"])].append(trade)

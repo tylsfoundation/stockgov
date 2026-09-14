@@ -1,9 +1,10 @@
 """Extract House PTR PDFs and load normalized transactions into StockGov.
 
-The first implementation targets House Periodic Transaction Reports (filing
-code ``P``).  It extracts text with pypdf, stores the versioned extraction in
-``document_extractions``, and inserts one normalized row per transaction into
-``trades``.  Jobs and parser versions make interrupted runs safe to resume.
+The implementation targets House Periodic Transaction Reports (filing code
+``P``).  It extracts text with pypdf, retries suspicious table layouts with
+pdfplumber, stores the versioned extraction in ``document_extractions``, and
+inserts one normalized row per transaction into ``trades``.  Jobs and parser
+versions make interrupted runs safe to resume.
 
 Examples::
 
@@ -12,7 +13,7 @@ Examples::
     py scripts/parse_house_documents.py --docid 20016861
     py scripts/parse_house_documents.py --all --retry-failed
 
-Requirements: ``py -m pip install psycopg2-binary pypdf``
+Requirements: ``py -m pip install psycopg2-binary pypdf pdfplumber``
 """
 
 from __future__ import annotations
@@ -34,7 +35,8 @@ try:
     from psycopg2.extras import Json, RealDictCursor
 except ImportError as exc:  # pragma: no cover - exercised by command-line users
     raise SystemExit(
-        "psycopg2-binary is required: py -m pip install psycopg2-binary pypdf"
+        "psycopg2-binary is required: "
+        "py -m pip install psycopg2-binary pypdf pdfplumber"
     ) from exc
 
 try:
@@ -42,14 +44,21 @@ try:
 except ImportError as exc:  # pragma: no cover - exercised by command-line users
     raise SystemExit("pypdf is required: py -m pip install pypdf") from exc
 
+try:
+    import pdfplumber
+except ImportError as exc:  # pragma: no cover - exercised by command-line users
+    raise SystemExit("pdfplumber is required: py -m pip install pdfplumber") from exc
+
 
 SOURCE = "house_clerk_financial_disclosure"
 PARSER_NAME = "house_ptr_pdf"
-PARSER_VERSION = "1.0.0"
-EXTRACTOR_NAME = "pypdf"
-EXTRACTOR_VERSION = "1.0.0"
+PARSER_VERSION = "1.2.1"
+PYPDF_EXTRACTOR_NAME = "pypdf"
+PYPDF_EXTRACTOR_VERSION = "1.2.0"
+PDFPLUMBER_EXTRACTOR_NAME = "pdfplumber_layout"
+PDFPLUMBER_EXTRACTOR_VERSION = "1.0.0"
 OWNER_CODES = {
-    "SP": "self",
+    "SP": "spouse",
     "JT": "joint",
     "DC": "dependent_child",
     "DS": "spouse",
@@ -73,14 +82,38 @@ TRANSACTION_RE = re.compile(
     r"(?P<type>[PSE])\s*(?P<partial>\(\s*partial\s*\))?\s*"
     r"(?P<transaction_date>\d{1,2}/\d{1,2}/\d{4})\s*"
     r"(?P<notification_date>\d{1,2}/\d{1,2}/\d{4})\s*"
-    r"(?P<amount> N/?A | <\s*\$?\s*[\d,]+ | \$?\s*[\d,]+"
+    r"(?P<amount> Spouse\s*/\s*DC\s+Over\s+\$?\s*[\d,]+ |"
+    r" N/?A | <\s*\$?\s*[\d,]+ | \$?\s*[\d,]+"
     r"(?:\s*-\s*\$?\s*[\d,]+)? )"
     r"\s*(?P<capital_gains>Yes|No)?",
     re.IGNORECASE | re.VERBOSE,
 )
 ASSET_TYPE_RE = re.compile(r"\[\s*([A-Za-z0-9]{1,6})\s*\]\s*$")
-TICKER_RE = re.compile(r"\(([A-Z][A-Z0-9.\-]{0,9})\)")
+TICKER_RE = re.compile(r"\(([A-Z][A-Z0-9.\-]{0,9})\)", re.IGNORECASE)
+ASSET_CONTINUATION_RE = re.compile(
+    r"(?P<asset_fragment>.*?\([A-Z][A-Z0-9.\-]{0,9}\))\s*"
+    r"\[\s*(?P<asset_type>[A-Za-z0-9]{1,6})\s*\]$",
+    re.IGNORECASE,
+)
 DOC_ID_RE = re.compile(r"^[A-Za-z0-9_-]+$")
+PAGE_MARKER_RE = re.compile(r"^\[\[PAGE\s+(\d+)\]\]$")
+AMENDMENT_ROW_ID_RE = re.compile(
+    r"^(?P<source_transaction_id>\d{10})\s*"
+    r"(?P<owner>SP|JT|DC|DS|JS)?\s*(?P<asset>.+)$",
+    re.IGNORECASE,
+)
+MONEY_ONLY_RE = re.compile(r"^\$?\s*\d[\d,]*\s*$")
+NO_TRANSACTIONS_RE = re.compile(
+    r"\b(?:no|none)\s+(?:reportable\s+)?transactions?\b|"
+    r"\btransactions?\s*:\s*(?:no|none)\b",
+    re.IGNORECASE,
+)
+INVALID_ASSET_RE = re.compile(
+    r"periodic\s+transaction\s+report|filer\s+information|"
+    r"owner\s*asset\s*transaction|date\s+notification\s+date\s+amount|"
+    r"clerk\s+of\s+the\s+house|legislative\s+resource\s+center",
+    re.IGNORECASE,
+)
 SEPARATOR_RE = re.compile(
     r"^(?:ID\s+Owner|Filing\s+ID|Name\s*:|Status\s*:|State/District\s*:|"
     r"Filing\s+Status\s*:|Spouse\s+Occupation\s*:|Spouse\s+Employer\s*:|"
@@ -111,6 +144,9 @@ class TransactionRow:
     description_raw: str | None
     is_partial_sale: bool
     parse_confidence: Decimal
+    source_page_number: int | None
+    source_transaction_id_raw: str | None
+    validation_errors: list[str]
 
 
 @dataclass
@@ -119,6 +155,8 @@ class ExtractedDocument:
     page_count: int
     has_embedded_text: bool
     warnings: list[str]
+    extractor_name: str
+    extractor_version: str
 
 
 @dataclass
@@ -262,39 +300,134 @@ def select_documents(cursor: Any, args: argparse.Namespace) -> list[dict[str, An
 
 
 def clean_line(value: str) -> str:
-    value = value.replace("\x00", "").replace("\ufffd", " ")
-    value = "".join(char if ord(char) >= 32 or char in "\t\r\n" else " " for char in value)
+    value = value.translate(
+        str.maketrans(
+            {
+                "\x00": "",
+                "\ufffd": " ",
+                "\u00a0": " ",
+                "\u00ad": "-",
+                "\u2010": "-",
+                "\u2011": "-",
+                "\u2012": "-",
+                "\u2013": "-",
+                "\u2014": "-",
+                "\u2015": "-",
+                "\u2212": "-",
+            }
+        )
+    )
+    value = "".join(
+        char
+        if (ord(char) >= 32 or char in "\t\r\n")
+        and not 0xD800 <= ord(char) <= 0xDFFF
+        else " "
+        for char in value
+    )
     return re.sub(r"\s+", " ", value).strip()
 
 
 def extract_pdf(path: Path) -> ExtractedDocument:
+    """Extract embedded text quickly with pypdf.
+
+    Layout-sensitive documents are detected after parsing and retried with
+    ``extract_pdf_layout`` rather than being sent to OCR.
+    """
+
     reader = PdfReader(str(path), strict=False)
     page_lines: list[str] = []
     warnings: list[str] = []
     for page_number, page in enumerate(reader.pages, 1):
+        page_lines.append(f"[[PAGE {page_number}]]")
         try:
             raw = page.extract_text() or ""
         except Exception as exc:  # pypdf can fail on one malformed page
             warnings.append(f"page {page_number} extraction failed: {type(exc).__name__}: {exc}")
             raw = ""
         page_lines.extend(clean_line(line) for line in raw.splitlines())
-        page_lines.append("")
     text = "\n".join(line for line in page_lines if line).strip() + "\n"
-    has_text = bool(text.strip())
+    has_text = any(
+        line and not PAGE_MARKER_RE.fullmatch(line)
+        for line in text.splitlines()
+    )
     if not has_text:
         warnings.append("no embedded text extracted; OCR is required")
-    return ExtractedDocument(text, len(reader.pages), has_text, warnings)
+    return ExtractedDocument(
+        text,
+        len(reader.pages),
+        has_text,
+        warnings,
+        PYPDF_EXTRACTOR_NAME,
+        PYPDF_EXTRACTOR_VERSION,
+    )
+
+
+def extract_pdf_layout(path: Path) -> ExtractedDocument:
+    """Extract embedded text while retaining the visual row layout.
+
+    Older House PDFs frequently expose every page as one long text line to
+    pypdf.  pdfplumber's layout mode reconstructs the table rows from the PDF
+    coordinates without performing OCR.
+    """
+
+    page_lines: list[str] = []
+    warnings: list[str] = []
+    with pdfplumber.open(path) as pdf:
+        page_count = len(pdf.pages)
+        for page_number, page in enumerate(pdf.pages, 1):
+            page_lines.append(f"[[PAGE {page_number}]]")
+            try:
+                raw = page.extract_text(layout=True, x_density=7.25, y_density=13) or ""
+            except Exception as exc:
+                warnings.append(
+                    f"page {page_number} layout extraction failed: "
+                    f"{type(exc).__name__}: {exc}"
+                )
+                raw = ""
+            page_lines.extend(clean_line(line) for line in raw.splitlines())
+    text = "\n".join(line for line in page_lines if line).strip() + "\n"
+    has_text = any(
+        line and not PAGE_MARKER_RE.fullmatch(line)
+        for line in text.splitlines()
+    )
+    if not has_text:
+        warnings.append("no embedded text extracted with layout mode; OCR is required")
+    return ExtractedDocument(
+        text,
+        page_count,
+        has_text,
+        warnings,
+        PDFPLUMBER_EXTRACTOR_NAME,
+        PDFPLUMBER_EXTRACTOR_VERSION,
+    )
+
+
+def extraction_text_path(pdf_path: Path, extracted: ExtractedDocument) -> Path:
+    """Return a versioned path so historical extraction hashes remain reproducible."""
+
+    extractor = re.sub(r"[^A-Za-z0-9_.-]+", "_", extracted.extractor_name)
+    version = re.sub(r"[^A-Za-z0-9_.-]+", "_", extracted.extractor_version)
+    return pdf_path.with_name(f"{pdf_path.stem}.{extractor}-{version}.txt")
 
 
 def write_text_atomic(path: Path, text: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     partial = path.with_suffix(path.suffix + ".part")
-    partial.write_text(text, encoding="utf-8")
+    with partial.open("w", encoding="utf-8", errors="replace", newline="\n") as stream:
+        stream.write(text)
     partial.replace(path)
 
 
 def sha256_bytes(value: bytes) -> str:
     return hashlib.sha256(value).hexdigest()
+
+
+def sha256_file(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as stream:
+        for block in iter(lambda: stream.read(1024 * 1024), b""):
+            digest.update(block)
+    return digest.hexdigest()
 
 
 def parse_date(value: str) -> date | None:
@@ -313,6 +446,10 @@ def parse_amounts(value: str) -> tuple[Decimal | None, Decimal | None, Decimal |
         parsed = [Decimal(number.replace(",", "")) for number in numbers]
     except InvalidOperation:
         return None, None, None
+    if "OVER" in raw.upper() and parsed:
+        return parsed[0], None, None
+    if raw.startswith("<") and parsed:
+        return None, parsed[0], None
     if len(parsed) >= 2:
         return parsed[0], parsed[1], None
     if parsed:
@@ -321,6 +458,10 @@ def parse_amounts(value: str) -> tuple[Decimal | None, Decimal | None, Decimal |
 
 
 def is_separator(line: str) -> bool:
+    if PAGE_MARKER_RE.fullmatch(line):
+        return True
+    if re.fullmatch(r"[A-Za-z]", line):
+        return True
     if SEPARATOR_RE.search(line):
         return True
     if re.match(r"^[A-Z]\s*:", line, re.IGNORECASE):
@@ -330,6 +471,8 @@ def is_separator(line: str) -> bool:
     # Some PDFs encode labels one character at a time (``F     S : New``).
     # Removing the extraction whitespace recovers the useful label prefixes.
     compact = re.sub(r"[^A-Za-z0-9]+", "", line).upper()
+    if compact == "200":
+        return True
     return compact.startswith(
         (
             "IDOWNER",
@@ -344,23 +487,189 @@ def is_separator(line: str) -> bool:
             "AMOUNTCAP",
             "GAINS200",
             "GAINS",
-            "200",
             "INVESTMENTVEHICLE",
             "LOCATION",
             "TRANSACTIONTYPE",
             "ICERTIFY",
             "DIGITALLYSIGNED",
+            "PERIODICTRANSACTIONREPORT",
+            "CLERKOFTHEHOUSEOFREPRESENTATIVES",
+            "FILERINFORMATION",
+            "TRANSACTIONSIDOWNERASSETTRANSACTIONTYPE",
+            "OWNERASSETTRANSACTIONTYPEDATENOTIFICATIONDATEAMOUNT",
+            "THISPAGEWILLBEPUBLICLYDISCLOSED",
         )
     )
 
 
+def is_repeated_page_table_header(line: str) -> bool:
+    """Return whether a line is part of the repeated PTR table heading."""
+
+    compact = re.sub(r"[^A-Za-z0-9]+", "", line).upper()
+    return compact in {"TYPE", "DATE", "GAINS", "200"} or compact.startswith(
+        ("IDOWNERASSETTRANSACTION", "DATENOTIFICATION", "AMOUNTCAP")
+    )
+
+
+def is_asset_continuation_boundary(line: str) -> bool:
+    """Return whether text after a fragment confirms a PTR row boundary."""
+
+    return bool(
+        re.match(
+            r"^(?:Filing\s+Status\s*:|F\s+S\s*:|"
+            r"Subholding\s+Of\s*:|S\s+O\s*:|"
+            r"(?:SP|JT|DC|DS|JS)\s+)",
+            line,
+            re.IGNORECASE,
+        )
+    )
+
+
+def page_asset_continuation(
+    lines: list[str], page_marker_index: int
+) -> tuple[str, str, int] | None:
+    """Find a tightly bounded asset fragment at the start of the next page.
+
+    Only repeated table-heading lines may precede the fragment.  Filing labels,
+    owner rows, transactions, dates, and another page marker stop the search.
+    The returned integer is the number of lines after the page marker that can
+    be skipped after the fragment has been attached to the prior transaction.
+    """
+
+    cursor = page_marker_index + 1
+    search_limit = min(len(lines), page_marker_index + 13)
+    while cursor < search_limit and is_repeated_page_table_header(lines[cursor]):
+        cursor += 1
+
+    fragments: list[str] = []
+    while cursor < search_limit and len(fragments) < 3:
+        line = lines[cursor]
+        if (
+            PAGE_MARKER_RE.fullmatch(line)
+            or is_separator(line)
+            or TRANSACTION_RE.search(line)
+            or re.match(r"^(?:SP|JT|DC|DS|JS)\s+", line, re.IGNORECASE)
+            or re.search(r"\d{1,2}/\d{1,2}/\d{4}", line)
+            or ":" in line
+            or len(line) > 100
+        ):
+            return None
+        fragments.append(line)
+        candidate = clean_line(" ".join(fragments))
+        match = ASSET_CONTINUATION_RE.fullmatch(candidate)
+        if match:
+            asset_fragment = clean_line(match.group("asset_fragment"))
+            next_index = cursor + 1
+            if (
+                len(asset_fragment) > 100
+                or next_index >= len(lines)
+                or not is_asset_continuation_boundary(lines[next_index])
+            ):
+                return None
+            return (
+                asset_fragment,
+                match.group("asset_type").upper(),
+                cursor - page_marker_index,
+            )
+        if ASSET_TYPE_RE.search(candidate):
+            return None
+        cursor += 1
+    return None
+
+
+def strip_table_header(value: str) -> str:
+    """Remove form and repeated table headings that precede an asset."""
+
+    value = re.sub(
+        r"^.*(?:Owner\s*Asset\s*Transaction\s*Type\s*Date\s*Notification\s*Date\s*Amount|"
+        r"Transactions?\s*ID\s*Owner\s*Asset\s*Transaction\s*Type\s*Date\s*Notification\s*Date\s*Amount)",
+        "",
+        value,
+        flags=re.IGNORECASE,
+    )
+    value = re.sub(
+        r"^.*?(?:Cap\.?\s*Gains?\s*>?\s*\$?\s*200\??)",
+        "",
+        value,
+        flags=re.IGNORECASE,
+    )
+    value = re.sub(
+        r"^.*Filing\s*Status\s*:\s*(?:New|Amendment)?",
+        "",
+        value,
+        flags=re.IGNORECASE,
+    )
+    return value.strip()
+
+
+def split_packed_transaction_lines(lines: list[str]) -> list[str]:
+    """Split physical text lines containing multiple complete transactions.
+
+    Some older House PDFs flatten an entire page or table row into one text
+    line.  Splitting only at complete ``TRANSACTION_RE`` matches preserves the
+    signatures and lets the normal parser handle each asset independently.
+    """
+
+    expanded: list[str] = []
+    for line in lines:
+        matches = list(TRANSACTION_RE.finditer(line))
+        if len(matches) <= 1:
+            expanded.append(line)
+            continue
+        start = 0
+        for match in matches:
+            expanded.append(line[start : match.end()])
+            start = match.end()
+        if line[start:].strip():
+            expanded.append(line[start:])
+    return expanded
+
+
+def ticker_from_asset(asset_name: str) -> str | None:
+    ticker_matches = TICKER_RE.findall(asset_name)
+    return ticker_matches[-1].upper() if ticker_matches else None
+
+
+def append_asset_continuation(
+    row: TransactionRow, asset_fragment: str, asset_type_code: str
+) -> None:
+    """Complete a previously parsed row without changing its row identity."""
+
+    row.asset_name_raw = clean_line(f"{row.asset_name_raw} {asset_fragment}")
+    row.asset_type_code_raw = asset_type_code
+    row.asset_type = ASSET_TYPES.get(asset_type_code, asset_type_code.lower())
+    row.ticker_reported = ticker_from_asset(row.asset_name_raw)
+    row.parse_confidence = Decimal("0.90")
+    if row.ticker_reported:
+        row.parse_confidence = Decimal("0.95")
+    row.validation_errors = validate_transaction(row)
+
+
+def validate_transaction(row: TransactionRow) -> list[str]:
+    errors: list[str] = []
+    if row.transaction_date is None:
+        errors.append("invalid or missing transaction date")
+    if row.transaction_type not in {"purchase", "sale", "exchange"}:
+        errors.append("unrecognized transaction type")
+    if not row.asset_name_raw or row.asset_name_raw == "Unknown asset":
+        errors.append("missing asset name")
+    elif INVALID_ASSET_RE.search(row.asset_name_raw):
+        errors.append("asset name contains a form or table header")
+    if row.amount_range_raw and row.amount_range_raw.upper() not in {"N/A", "NA"}:
+        if row.amount_min is None and row.amount_max is None and row.amount_exact is None:
+            errors.append("unparseable transaction amount")
+    if row.amount_min is not None and row.amount_max is not None and row.amount_max < row.amount_min:
+        errors.append("transaction amount range is reversed")
+    return errors
+
+
 def asset_block(
     buffer: list[str],
-) -> tuple[str, str | None, str | None, str | None, str | None]:
-    """Return asset text, owner code, asset type code, and ticker from prior lines."""
+) -> tuple[str, str | None, str | None, str | None, str | None, str | None]:
+    """Return asset, owner, type, ticker, and amendment transaction ID."""
 
     if not buffer:
-        return "Unknown asset", None, None, None, None
+        return "Unknown asset", None, None, None, None, None
     marker_indexes = [
         index for index, line in enumerate(buffer) if ASSET_TYPE_RE.search(line)
     ]
@@ -375,7 +684,7 @@ def asset_block(
         start -= 1
     lines = [line for line in buffer[start : marker_index + 1] if line and not is_separator(line)]
     if not lines:
-        return "Unknown asset", None, None, None, None
+        return "Unknown asset", None, None, None, None, None
 
     asset_type_code = None
     type_match = ASSET_TYPE_RE.search(lines[-1])
@@ -386,16 +695,36 @@ def asset_block(
 
     owner_raw = None
     owner_type = None
+    source_transaction_id_raw = None
     if lines:
+        amendment_match = AMENDMENT_ROW_ID_RE.match(lines[0])
+        if amendment_match:
+            source_transaction_id_raw = amendment_match.group("source_transaction_id")
+            amendment_owner = amendment_match.group("owner")
+            if amendment_owner:
+                owner_raw = amendment_owner.upper()
+                owner_type = OWNER_CODES[owner_raw]
+            lines[0] = amendment_match.group("asset").strip()
         owner_match = re.match(r"^([A-Z]{2})\s+(.+)$", lines[0])
+        if not owner_match:
+            # Flattened legacy PDFs sometimes glue SP/DC/JT to the asset name.
+            owner_match = re.match(r"^([A-Z]{2})(?=[A-Z]?[a-z])(.+)$", lines[0])
         if owner_match and owner_match.group(1) in OWNER_CODES:
             owner_raw = owner_match.group(1)
             owner_type = OWNER_CODES[owner_raw]
             lines[0] = owner_match.group(2).strip()
-    asset_name = re.sub(r"\s+", " ", " ".join(lines)).strip(" -") or "Unknown asset"
-    ticker_matches = TICKER_RE.findall(asset_name)
-    ticker = ticker_matches[-1] if ticker_matches else None
-    return asset_name, owner_type, owner_raw, asset_type_code, ticker
+    asset_name = strip_table_header(re.sub(r"\s+", " ", " ".join(lines))).strip(" -") or "Unknown asset"
+    ticker = ticker_from_asset(asset_name)
+    if owner_type is None:
+        owner_type = "self"
+    return (
+        asset_name,
+        owner_type,
+        owner_raw,
+        asset_type_code,
+        ticker,
+        source_transaction_id_raw,
+    )
 
 
 def transaction_candidate(line: str, following: str | None) -> tuple[str, re.Match[str] | None, int]:
@@ -406,40 +735,153 @@ def transaction_candidate(line: str, following: str | None) -> tuple[str, re.Mat
         match
         and following
         and candidate[match.end() :].strip().startswith("-")
-        and re.match(r"^\$?\s*\d", following)
+        and MONEY_ONLY_RE.match(following)
     )
-    if (not match or needs_continuation) and following:
+    may_contain_asset_fragment = bool(
+        line
+        and not is_separator(line)
+        and not re.fullmatch(r"[A-Za-z]", line)
+    )
+    if following and (needs_continuation or (not match and may_contain_asset_fragment)):
         candidate = f"{line} {following}"
         match = TRANSACTION_RE.search(candidate)
         consumed = 1 if match else 0
     return candidate, match, consumed
 
 
+def transaction_signature_count(text: str) -> int:
+    """Count independently recognizable transaction signatures in extracted text."""
+
+    return sum(1 for _ in TRANSACTION_RE.finditer(text))
+
+
+def layout_fallback_reason(
+    extracted: ExtractedDocument,
+    rows: list[TransactionRow],
+) -> str | None:
+    """Explain why embedded text should be retried with layout extraction."""
+
+    if not extracted.has_embedded_text:
+        return "pypdf extracted no embedded text"
+    signature_count = transaction_signature_count(extracted.text)
+    if signature_count != len(rows):
+        return (
+            f"transaction coverage mismatch: detected {signature_count} signature(s) "
+            f"but parsed {len(rows)} row(s)"
+        )
+    invalid_count = sum(bool(row.validation_errors) for row in rows)
+    if invalid_count:
+        return f"{invalid_count} parsed row(s) failed validation"
+    if not rows and not NO_TRANSACTIONS_RE.search(extracted.text):
+        return "embedded text contained no recognizable transaction rows"
+    return None
+
+
+def parse_quality(text: str, rows: list[TransactionRow]) -> tuple[int, int, int]:
+    """Rank a parse by coverage, validation, and usable row count."""
+
+    signatures = transaction_signature_count(text)
+    explicitly_empty = bool(not rows and NO_TRANSACTIONS_RE.search(text))
+    complete = int((bool(rows) or explicitly_empty) and signatures == len(rows))
+    invalid_count = sum(bool(row.validation_errors) for row in rows)
+    valid_count = len(rows) - invalid_count
+    return complete, valid_count, -invalid_count
+
+
+def extract_and_parse_document(
+    path: Path,
+) -> tuple[ExtractedDocument, list[TransactionRow], list[str]]:
+    """Use pypdf first and retry suspicious output with layout extraction."""
+
+    extracted = extract_pdf(path)
+    rows, warnings = parse_ptr_text(extracted.text)
+    reason = layout_fallback_reason(extracted, rows)
+    if reason is None:
+        return extracted, rows, warnings
+
+    try:
+        layout_extracted = extract_pdf_layout(path)
+        layout_rows, layout_warnings = parse_ptr_text(layout_extracted.text)
+    except Exception as exc:
+        extracted.warnings.append(
+            f"layout fallback failed after {reason}: {type(exc).__name__}: {exc}"
+        )
+        return extracted, rows, warnings
+
+    layout_is_better = (
+        layout_extracted.has_embedded_text and not extracted.has_embedded_text
+    ) or parse_quality(layout_extracted.text, layout_rows) > parse_quality(
+        extracted.text, rows
+    )
+    if layout_is_better:
+        layout_extracted.warnings.insert(0, f"layout fallback selected: {reason}")
+        return layout_extracted, layout_rows, layout_warnings
+
+    extracted.warnings.append(f"layout fallback did not improve parse: {reason}")
+    return extracted, rows, warnings
+
+
 def parse_ptr_text(text: str) -> tuple[list[TransactionRow], list[str]]:
-    lines = [clean_line(line) for line in text.splitlines()]
+    cleaned_lines = []
+    for raw_line in text.splitlines():
+        line = clean_line(raw_line)
+        if line:
+            cleaned_lines.append(line)
+    lines = split_packed_transaction_lines(cleaned_lines)
     lines = [line for line in lines if line]
     rows: list[TransactionRow] = []
     warnings: list[str] = []
     buffer: list[str] = []
     last_row: TransactionRow | None = None
+    last_transaction_end_index: int | None = None
+    current_page: int | None = None
     index = 0
     while index < len(lines):
         line = lines[index]
+        page_match = PAGE_MARKER_RE.fullmatch(line)
+        if page_match:
+            consumed = 0
+            if (
+                last_row is not None
+                and last_row.ticker_reported is None
+                and last_transaction_end_index == index - 1
+            ):
+                continuation = page_asset_continuation(lines, index)
+                if continuation is not None:
+                    asset_fragment, asset_type_code, consumed = continuation
+                    append_asset_continuation(
+                        last_row, asset_fragment, asset_type_code
+                    )
+            current_page = int(page_match.group(1))
+            buffer = []
+            index += 1 + consumed
+            continue
         following = lines[index + 1] if index + 1 < len(lines) else None
+        if following and PAGE_MARKER_RE.fullmatch(following):
+            following = None
         candidate, match, consumed = transaction_candidate(line, following)
         if not match:
             description_match = re.search(r"Description\s*:\s*(.+)$", line, re.IGNORECASE)
             if description_match and last_row is not None:
                 last_row.description_raw = description_match.group(1).strip()
+            elif is_separator(line):
+                buffer = []
             else:
                 buffer.append(line)
             index += 1
             continue
 
-        prefix = candidate[: match.start()].strip()
+        prefix = strip_table_header(candidate[: match.start()].strip())
         if prefix:
             buffer.append(prefix)
-        asset_name, owner_type, owner_raw, asset_type_code, ticker = asset_block(buffer)
+        (
+            asset_name,
+            owner_type,
+            owner_raw,
+            asset_type_code,
+            ticker,
+            source_transaction_id_raw,
+        ) = asset_block(buffer)
         transaction_type_raw = match.group("type").upper()
         is_partial = bool(match.group("partial"))
         if is_partial:
@@ -474,13 +916,32 @@ def parse_ptr_text(text: str) -> tuple[list[TransactionRow], list[str]]:
             description_raw=None,
             is_partial_sale=is_partial and transaction_type == "sale",
             parse_confidence=confidence,
+            source_page_number=current_page,
+            source_transaction_id_raw=source_transaction_id_raw,
+            validation_errors=[],
         )
+        row.validation_errors = validate_transaction(row)
+        if row.validation_errors:
+            row.parse_confidence = min(row.parse_confidence, Decimal("0.25"))
         rows.append(row)
         last_row = row
+        last_transaction_end_index = index + consumed
         buffer = []
         index += 1 + consumed
     if not rows:
-        warnings.append("no transaction rows matched the PTR parser")
+        if NO_TRANSACTIONS_RE.search(text):
+            warnings.append("filing explicitly reports no transactions")
+        else:
+            warnings.append("no transaction rows matched the PTR parser")
+    invalid_count = sum(bool(row.validation_errors) for row in rows)
+    if invalid_count:
+        warnings.append(f"{invalid_count} parsed transaction row(s) failed validation")
+    signature_count = transaction_signature_count(text)
+    if signature_count != len(rows):
+        warnings.append(
+            f"transaction coverage mismatch: detected {signature_count} signature(s) "
+            f"but parsed {len(rows)} row(s)"
+        )
     return rows, warnings
 
 
@@ -531,14 +992,19 @@ def mark_running(cursor: Any, job_id: int) -> int:
     return row["attempt_count"]
 
 
-def mark_failure(connection: Any, job_id: int, error: Exception) -> None:
+def mark_failure(connection: Any, job_id: int, error: Exception) -> str:
     with connection:
         with connection.cursor() as cursor:
             cursor.execute(
-                """UPDATE document_jobs SET status='failed_permanent',finished_at=CURRENT_TIMESTAMP,
-                   error_type=%s,error_message=%s WHERE document_job_id=%s""",
+                """UPDATE document_jobs
+                   SET status=CASE WHEN attempt_count < max_attempts
+                                   THEN 'failed_retryable' ELSE 'failed_permanent' END,
+                       finished_at=CURRENT_TIMESTAMP,error_type=%s,error_message=%s
+                   WHERE document_job_id=%s RETURNING status""",
                 (type(error).__name__, str(error)[:4000], job_id),
             )
+            row = cursor.fetchone()
+            return row["status"] if row else "failed_permanent"
 
 
 def record_document_and_trades(
@@ -548,16 +1014,27 @@ def record_document_and_trades(
     extracted: ExtractedDocument,
     rows: list[TransactionRow],
     parse_warnings: list[str],
-) -> tuple[int, int]:
+) -> tuple[int, int, str]:
     pdf_path = Path(document["local_path"]).resolve()
-    text_path = pdf_path.with_suffix(".txt")
-    text_bytes = extracted.text.encode("utf-8")
-    output_hash = sha256_bytes(text_bytes)
+    text_path = extraction_text_path(pdf_path, extracted)
     write_text_atomic(text_path, extracted.text)
+    text_bytes = text_path.read_bytes()
+    output_hash = sha256_file(text_path)
     all_warnings = extracted.warnings + parse_warnings
-    status = "parsed" if extracted.has_embedded_text and rows else (
-        "needs_ocr" if not extracted.has_embedded_text else "needs_review"
+    valid_rows = [row for row in rows if not row.validation_errors]
+    invalid_rows = [row for row in rows if row.validation_errors]
+    has_complete_coverage = transaction_signature_count(extracted.text) == len(rows)
+    explicitly_empty = bool(
+        extracted.has_embedded_text and not rows and NO_TRANSACTIONS_RE.search(extracted.text)
     )
+    if not extracted.has_embedded_text:
+        status = "needs_ocr"
+    elif explicitly_empty:
+        status = "parsed_no_transactions"
+    elif valid_rows and not invalid_rows and has_complete_coverage:
+        status = "parsed"
+    else:
+        status = "needs_review"
     with connection:
         with connection.cursor(cursor_factory=RealDictCursor) as cursor:
             cursor.execute(
@@ -580,23 +1057,25 @@ def record_document_and_trades(
                 """INSERT INTO document_extractions
                    (document_id,document_job_id,extraction_type,extractor_name,extractor_version,
                     output_path,output_hash,started_at,finished_at,quality_score,
-                    characters_extracted,pages_processed,warnings,is_preferred)
+                    characters_extracted,bytes_extracted,pages_processed,warnings,is_preferred)
                    VALUES (%s,%s,'embedded_text',%s,%s,%s,%s,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP,
-                           %s,%s,%s,%s,TRUE)
+                           %s,%s,%s,%s,%s,TRUE)
                    ON CONFLICT (document_id,extraction_type,extractor_name,extractor_version,output_hash)
                    DO UPDATE SET document_job_id=EXCLUDED.document_job_id,output_path=EXCLUDED.output_path,
                        finished_at=CURRENT_TIMESTAMP,quality_score=EXCLUDED.quality_score,
-                       characters_extracted=EXCLUDED.characters_extracted,pages_processed=EXCLUDED.pages_processed,
+                       characters_extracted=EXCLUDED.characters_extracted,
+                       bytes_extracted=EXCLUDED.bytes_extracted,pages_processed=EXCLUDED.pages_processed,
                        warnings=EXCLUDED.warnings,is_preferred=TRUE
                    RETURNING document_extraction_id""",
                 (
-                    document["document_id"],
-                    job_id,
-                    EXTRACTOR_NAME,
-                    EXTRACTOR_VERSION,
+                     document["document_id"],
+                     job_id,
+                     extracted.extractor_name,
+                     extracted.extractor_version,
                     str(text_path),
                     output_hash,
                     Decimal("1.0") if extracted.has_embedded_text else Decimal("0.0"),
+                    len(extracted.text),
                     len(text_bytes),
                     extracted.page_count,
                     Json(all_warnings),
@@ -604,24 +1083,85 @@ def record_document_and_trades(
             )
             extraction_id = cursor.fetchone()["document_extraction_id"]
             cursor.execute(
-                """DELETE FROM trades
-                   WHERE filing_id=%s AND document_id=%s AND parser_name=%s AND parser_version=%s""",
-                (document["filing_id"], document["document_id"], PARSER_NAME, PARSER_VERSION),
+                """UPDATE trades SET is_current_parser_result=FALSE,updated_at=CURRENT_TIMESTAMP
+                   WHERE filing_id=%s AND document_id=%s AND parser_name=%s
+                     AND is_current_parser_result""",
+                (document["filing_id"], document["document_id"], PARSER_NAME),
             )
             for row in rows:
+                raw_record = {
+                    "source_page_number": row.source_page_number,
+                    "source_transaction_id_raw": row.source_transaction_id_raw,
+                    "transaction_date": row.transaction_date.isoformat() if row.transaction_date else None,
+                    "notification_date": row.notification_date.isoformat() if row.notification_date else None,
+                    "owner_type": row.owner_type,
+                    "owner_raw": row.owner_raw,
+                    "transaction_type": row.transaction_type,
+                    "transaction_type_raw": row.transaction_type_raw,
+                    "asset_name_raw": row.asset_name_raw,
+                    "asset_type_code_raw": row.asset_type_code_raw,
+                    "ticker_reported": row.ticker_reported,
+                    "amount_range_raw": row.amount_range_raw,
+                    "description_raw": row.description_raw,
+                }
+                cursor.execute(
+                    """INSERT INTO staging_house_trades
+                       (filing_id,document_extraction_id,source_row_number,source_page_number,
+                        source_transaction_id_raw,
+                        transaction_date_raw,notification_date_raw,owner_raw,asset_name_raw,
+                        asset_type_code_raw,transaction_type_raw,amount_raw,ticker_raw,
+                        description_raw,raw_record,parse_warnings,validation_status,error_details,
+                        parser_name,parser_version,parse_confidence)
+                       VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
+                       ON CONFLICT (filing_id,source_row_number,document_extraction_id)
+                       DO UPDATE SET source_page_number=EXCLUDED.source_page_number,
+                           source_transaction_id_raw=EXCLUDED.source_transaction_id_raw,
+                           transaction_date_raw=EXCLUDED.transaction_date_raw,
+                           notification_date_raw=EXCLUDED.notification_date_raw,
+                           owner_raw=EXCLUDED.owner_raw,asset_name_raw=EXCLUDED.asset_name_raw,
+                           asset_type_code_raw=EXCLUDED.asset_type_code_raw,
+                           transaction_type_raw=EXCLUDED.transaction_type_raw,
+                           amount_raw=EXCLUDED.amount_raw,ticker_raw=EXCLUDED.ticker_raw,
+                           description_raw=EXCLUDED.description_raw,raw_record=EXCLUDED.raw_record,
+                           parse_warnings=EXCLUDED.parse_warnings,
+                           validation_status=EXCLUDED.validation_status,
+                           error_details=EXCLUDED.error_details,trade_id=NULL,
+                           parser_name=EXCLUDED.parser_name,parser_version=EXCLUDED.parser_version,
+                           parse_confidence=EXCLUDED.parse_confidence
+                       RETURNING staging_house_trade_id""",
+                    (
+                     document["filing_id"], extraction_id, row.source_row_number,
+                     row.source_page_number, row.source_transaction_id_raw,
+                        row.transaction_date.isoformat() if row.transaction_date else None,
+                        row.notification_date.isoformat() if row.notification_date else None,
+                        row.owner_raw, row.asset_name_raw, row.asset_type_code_raw,
+                        row.transaction_type_raw, row.amount_range_raw, row.ticker_reported,
+                        row.description_raw, Json(raw_record), Json(parse_warnings),
+                        "invalid" if row.validation_errors else "valid",
+                        Json(row.validation_errors), PARSER_NAME, PARSER_VERSION,
+                        row.parse_confidence,
+                    ),
+                )
+                staging_id = cursor.fetchone()["staging_house_trade_id"]
+                if row.validation_errors:
+                    continue
                 cursor.execute(
                     """INSERT INTO trades
                        (filing_id,document_id,document_extraction_id,source_row_number,
+                        source_page_number,source_transaction_id_raw,
                         transaction_date,notification_date,filed_date,owner_type,owner_raw,
                         transaction_type,transaction_type_raw,asset_name_raw,asset_type_code_raw,
                         asset_type,ticker_reported,amount_range_raw,amount_min,amount_max,amount_exact,
                         capital_gains_over_200,description_raw,is_partial_sale,
-                        is_annual_report_transaction,transaction_sequence,parser_name,parser_version,
+                        is_annual_report_transaction,transaction_sequence,is_current_parser_result,
+                        parser_name,parser_version,
                         parse_confidence,review_status)
-                       VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,FALSE,%s,%s,%s,%s,'unreviewed')
-                       ON CONFLICT (filing_id,source_row_number,parser_version)
+                       VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,FALSE,%s,TRUE,%s,%s,%s,'unreviewed')
+                       ON CONFLICT (filing_id,source_row_number,parser_name,parser_version)
                        DO UPDATE SET document_id=EXCLUDED.document_id,
-                           document_extraction_id=EXCLUDED.document_extraction_id,
+                            document_extraction_id=EXCLUDED.document_extraction_id,
+                            source_page_number=EXCLUDED.source_page_number,
+                            source_transaction_id_raw=EXCLUDED.source_transaction_id_raw,
                            transaction_date=EXCLUDED.transaction_date,
                            notification_date=EXCLUDED.notification_date,
                            filed_date=EXCLUDED.filed_date,owner_type=EXCLUDED.owner_type,
@@ -634,6 +1174,7 @@ def record_document_and_trades(
                            description_raw=EXCLUDED.description_raw,is_partial_sale=EXCLUDED.is_partial_sale,
                            is_annual_report_transaction=EXCLUDED.is_annual_report_transaction,
                            transaction_sequence=EXCLUDED.transaction_sequence,
+                           is_current_parser_result=TRUE,
                            parse_confidence=EXCLUDED.parse_confidence,updated_at=CURRENT_TIMESTAMP
                        RETURNING trade_id""",
                     (
@@ -641,6 +1182,8 @@ def record_document_and_trades(
                         document["document_id"],
                         extraction_id,
                         row.source_row_number,
+                        row.source_page_number,
+                        row.source_transaction_id_raw,
                         row.transaction_date,
                         row.notification_date,
                         document["filed_date"],
@@ -665,12 +1208,19 @@ def record_document_and_trades(
                         row.parse_confidence,
                     ),
                 )
+                trade_id = cursor.fetchone()["trade_id"]
+                cursor.execute(
+                    """UPDATE staging_house_trades
+                       SET validation_status='loaded',trade_id=%s
+                       WHERE staging_house_trade_id=%s""",
+                    (trade_id, staging_id),
+                )
             cursor.execute(
                 """UPDATE document_jobs SET document_id=%s,status=%s,finished_at=CURRENT_TIMESTAMP,
                    error_type=NULL,error_message=%s WHERE document_job_id=%s""",
                 (
                     document["document_id"],
-                    "complete" if status == "parsed" else "needs_review",
+                    "complete" if status in {"parsed", "parsed_no_transactions"} else "needs_review",
                     "; ".join(all_warnings)[:4000] if all_warnings else None,
                     job_id,
                 ),
@@ -679,7 +1229,7 @@ def record_document_and_trades(
                 "UPDATE filings SET processing_status=%s WHERE filing_id=%s",
                 (status, document["filing_id"]),
             )
-    return extraction_id, len(rows)
+    return extraction_id, len(valid_rows), status
 
 
 def run(args: argparse.Namespace) -> int:
@@ -717,27 +1267,29 @@ def run(args: argparse.Namespace) -> int:
                 with connection:
                     with connection.cursor() as cursor:
                         attempt = mark_running(cursor, job_id)
-                extracted = extract_pdf(Path(document["local_path"]))
-                rows, warnings = parse_ptr_text(extracted.text)
-                _, trade_count = record_document_and_trades(
+                extracted, rows, warnings = extract_and_parse_document(
+                    Path(document["local_path"])
+                )
+                _, trade_count, document_status = record_document_and_trades(
                     connection, document, job_id, extracted, rows, warnings
                 )
-                if trade_count:
+                if document_status in {"parsed", "parsed_no_transactions"}:
                     totals.parsed += 1
                     totals.trades += trade_count
                 else:
                     totals.review += 1
                 print(
                     f"  attempt={attempt} pages={extracted.page_count} "
-                    f"trades={trade_count} status={'parsed' if trade_count else 'needs_review'}",
+                    f"extractor={extracted.extractor_name}/{extracted.extractor_version} "
+                    f"trades={trade_count} status={document_status}",
                     flush=True,
                 )
             except Exception as exc:
                 # Keep the job record useful even when a PDF is corrupt or a
                 # parser assumption does not fit an older form version.
-                mark_failure(connection, job_id, exc)
+                failure_status = mark_failure(connection, job_id, exc)
                 totals.failed += 1
-                print(f"  failed_permanent: {type(exc).__name__}: {exc}", flush=True)
+                print(f"  {failure_status}: {type(exc).__name__}: {exc}", flush=True)
         print(
             f"Totals: selected={totals.selected:,} parsed={totals.parsed:,} "
             f"trades={totals.trades:,} needs_review={totals.review:,} "

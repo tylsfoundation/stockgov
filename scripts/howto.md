@@ -250,7 +250,7 @@ python scripts\validate_house_pdf_parsing.py
 
 ### `parse_house_documents.py`
 
-**Purpose.** Reads downloaded, verified House PTR (`P`) PDFs with `pypdf`, writes extracted text beside each PDF, and inserts one normalized transaction row per parsed trade into `trades`. It also records extraction metadata and updates document, filing, and parse-job status.
+**Purpose.** Reads downloaded, verified House PTR (`P`) PDFs with `pypdf`. When the fast extraction loses table rows or produces invalid records, the parser retries the same embedded text with `pdfplumber` layout extraction before assigning the document to OCR. It writes the selected extraction beside each PDF and inserts one normalized transaction row per parsed trade into `trades`. It also records extraction metadata and updates document, filing, and parse-job status.
 
 **Options.**
 
@@ -271,13 +271,13 @@ python scripts\validate_house_pdf_parsing.py
 | `--database-url URL` | Override database settings; accepted as an advanced option. |
 | `-h`, `--help` | Show command help. |
 
-**Expected output and destination.** For a source PDF such as `...\2025\ptr\20016861.pdf`, extracted text is written to `...\20016861.txt`. PostgreSQL receives `document_extractions`, `trades`, and parse-job status updates; `filings.processing_status` and document completeness fields are updated. The terminal reports pages, trade count, parse status, and totals for `selected`, `parsed`, `trades`, `needs_review`, `skipped`, and `failed`. The current parser handles embedded text and flags image-only PDFs for OCR review; it does not perform OCR.
+**Expected output and destination.** For a source PDF such as `...\2025\ptr\20016861.pdf`, extracted text is written to a versioned file such as `...\20016861.pypdf-1.2.0.txt` or `...\20016861.pdfplumber_layout-1.0.0.txt`. PostgreSQL receives `document_extractions`, staged rows, `trades`, and parse-job status updates; `filings.processing_status` and document completeness fields are updated. The terminal reports the selected extractor, pages, trade count, parse status, and totals for `selected`, `parsed`, `trades`, `needs_review`, `skipped`, and `failed`. A document is not marked parsed if the number of recognizable transaction signatures differs from the emitted row count. Image-only PDFs are flagged for OCR review; this script does not perform OCR.
 
 **Exit status.** `0` means the run finished without failed documents; `1` means one or more documents failed; `2` means configuration, connection, or execution failure; `130` means the run was interrupted with `Ctrl+C`.
 
 ### `validate_house_pdf_parsing.py`
 
-**Purpose.** Reads the filing/document/parse-job/extraction/trade chain in read-only mode and writes a human-readable QA log. It checks required tables and columns, document identity, preferred extractions, completeness status, trade links, orphaned trades, duplicate parser rows, and optionally local artifact hashes.
+**Purpose.** Reads the filing/document/parse-job/extraction/staging/trade chain in read-only mode and writes a human-readable QA log for parser version `1.2.1`. It checks required tables and columns, document identity, preferred extractions, completeness status, staged invalid rows, trade links, orphaned trades, duplicate parser rows, and optionally local artifact hashes and transaction-signature coverage.
 
 **Options.**
 
@@ -290,7 +290,7 @@ python scripts\validate_house_pdf_parsing.py
 | `--to-year YEAR` | Inclusive last reporting year. |
 | `--limit N` | Maximum number of documents to log. |
 | `--include-non-primary` | Include non-primary document rows. The default is primary documents only. |
-| `--check-files` | Verify local PDF/text existence, file sizes, SHA-256 hashes, and extracted character counts. |
+| `--check-files` | Verify local PDF/text existence, file sizes, SHA-256 hashes, extracted character counts, and that recognizable text transactions match current parser trade rows. |
 | `--log-file PATH` | Log destination. Default: `logs/house_pdf_qa.log`. |
 | `--database-url URL` | Override database settings. |
 | `-h`, `--help` | Show command help. |
