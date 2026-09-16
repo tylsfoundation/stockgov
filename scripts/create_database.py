@@ -1348,6 +1348,8 @@ CREATE INDEX IF NOT EXISTS idx_security_identifiers_lookup
     ON security_identifiers (identifier_type, identifier_value, valid_from, valid_to);
 CREATE INDEX IF NOT EXISTS idx_trades_filing
     ON trades (filing_id);
+CREATE INDEX IF NOT EXISTS idx_trades_supersedes
+    ON trades (supersedes_trade_id);
 CREATE INDEX IF NOT EXISTS idx_trades_transaction_date
     ON trades (transaction_date);
 CREATE INDEX IF NOT EXISTS idx_trades_security_date

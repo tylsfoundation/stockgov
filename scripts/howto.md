@@ -11,6 +11,8 @@
 - **validate_house_filings.py** — Compares every House XML source row with its staging and normalized database records.
 - **download_house_documents.py** — Downloads House disclosure PDFs selected from the filing catalog.
 - **parse_house_documents.py** — Extracts text from House PTR PDFs and inserts normalized transactions into `trades`.
+- **run_documents.py** — Thin entry point for generic bulk or incremental processor routing.
+- **reset_house_ptr_data.py** — Explicit, transactional reset of derived House PTR parsing rows.
 - **validate_house_pdf_parsing.py** — Reports the document, extraction, and trade chain and checks PDF-ingestion integrity.
 - **export_example_member.py** — Exports all stored StockGov information for Mike Crapo as a Markdown report.
 - **reset_database.py** — Interactively deletes StockGov rows or drops StockGov tables for maintenance.
@@ -250,7 +252,7 @@ python scripts\validate_house_pdf_parsing.py
 
 ### `parse_house_documents.py`
 
-**Purpose.** Reads downloaded, verified House PTR (`P`) PDFs with `pypdf`. When the fast extraction loses table rows or produces invalid records, the parser retries the same embedded text with `pdfplumber` layout extraction before assigning the document to OCR. It writes the selected extraction beside each PDF and inserts one normalized transaction row per parsed trade into `trades`. It also records extraction metadata and updates document, filing, and parse-job status.
+**Purpose.** The House PTR parser owns the document workflow. It calls the shared pypdf/pdfplumber extraction service, evaluates the result with House transaction rules, and calls the shared Tesseract OCR service only when the document is flagged `requires_ocr` or normal extraction is unusable. OCR text is fed through the same House parser and validation path; the generic OCR service does not parse transactions or write database rows. The parser writes the selected extraction beside each PDF, stages rows, inserts valid trades, and updates document, filing, and parse-job status.
 
 **Options.**
 
@@ -266,18 +268,21 @@ python scripts\validate_house_pdf_parsing.py
 | `--limit N` | Maximum number of selected documents. |
 | `--retry-failed` | Retry failed retryable parse jobs. |
 | `--reprocess` | Reprocess completed or review jobs. Normally completed jobs are skipped. |
+| `--non-ocr-only` | Exclude documents already marked `requires_ocr`; useful for staged non-OCR rebuilds. |
+| `--ocr-only` | Select only documents currently marked `requires_ocr`; use with `--limit` for a controlled OCR pilot. |
 | `--dry-run` | List eligible documents without changing files or PostgreSQL. |
 | `--max-attempts N` | Maximum attempts per parse job. Default: `3`. |
+| `--stale-job-timeout-seconds N` | Recover a `running` parse job only after this age. Defaults to `STALE_JOB_TIMEOUT_SECONDS` or 3600 seconds. |
 | `--database-url URL` | Override database settings; accepted as an advanced option. |
 | `-h`, `--help` | Show command help. |
 
-**Expected output and destination.** For a source PDF such as `...\2025\ptr\20016861.pdf`, extracted text is written to a versioned file such as `...\20016861.pypdf-1.2.0.txt` or `...\20016861.pdfplumber_layout-1.0.0.txt`. PostgreSQL receives `document_extractions`, staged rows, `trades`, and parse-job status updates; `filings.processing_status` and document completeness fields are updated. The terminal reports the selected extractor, pages, trade count, parse status, and totals for `selected`, `parsed`, `trades`, `needs_review`, `skipped`, and `failed`. A document is not marked parsed if the number of recognizable transaction signatures differs from the emitted row count. Image-only PDFs are flagged for OCR review; this script does not perform OCR.
+**Expected output and destination.** For a source PDF such as `...\2025\ptr\20016861.pdf`, extracted text is written to an immutable content-addressed file such as `...\20016861.pypdf-1.2.0.<sha256>.txt`. Identical extraction bytes reuse the same file; different bytes receive a different path. PostgreSQL receives `document_extractions`, staged rows, `trades`, and parse-job status updates; `filings.processing_status` and document completeness fields are updated. The terminal reports the selected extractor, pages, trade count, parse status, and totals for `selected`, `parsed`, `trades`, `needs_review`, `skipped`, and `failed`. A document is not marked parsed if the number of recognizable transaction signatures differs from the emitted row count. OCR requires the pinned Python packages `pytesseract` and `pdf2image` from `backend\requirements.txt`, plus a local Tesseract executable and Poppler (`pdftoppm` or `pdftocairo`). The service checks PATH first; set `TESSERACT_CMD` or `POPPLER_PATH` only when those tools are installed outside PATH. Set `OCR_BACKEND=tesseract_js` with `TESSERACT_JS_MODULE_ROOT` and `TESSERACT_JS_NODE` only when using the optional Tesseract.js backend.
 
 **Exit status.** `0` means the run finished without failed documents; `1` means one or more documents failed; `2` means configuration, connection, or execution failure; `130` means the run was interrupted with `Ctrl+C`.
 
 ### `validate_house_pdf_parsing.py`
 
-**Purpose.** Reads the filing/document/parse-job/extraction/staging/trade chain in read-only mode and writes a human-readable QA log for parser version `1.2.1`. It checks required tables and columns, document identity, preferred extractions, completeness status, staged invalid rows, trade links, orphaned trades, duplicate parser rows, and optionally local artifact hashes and transaction-signature coverage.
+**Purpose.** Reads the filing/document/parse-job/extraction/staging/trade chain in read-only mode and writes a human-readable QA log for parser version `1.3.0`. It checks required tables and columns, document identity, preferred extractions, completeness status, staged invalid rows, trade links, orphaned trades, duplicate parser rows, and optionally local artifact hashes and transaction-signature coverage.
 
 **Options.**
 
@@ -394,3 +399,12 @@ python scripts\export_example_member.py
 ```
 
 For a large download, use `--year`, `--from-year`, and `--to-year` to work in batches. The downloader’s `--dry-run` previews a selection; the parser’s `--dry-run` previews downloaded documents. Re-running the downloader skips verified documents, and re-running the parser skips completed parse jobs unless `--reprocess` is supplied.
+## Reusable document pipeline
+
+The shared modules live under `ingestion/`: generic configuration, file discovery and hashing, validation mechanics, persistence helpers, the central orchestrator, and the House-specific processor. `scripts/run_documents.py` is a thin entry point for bulk or incremental routing. Future document types register processors without adding House business logic to the orchestrator.
+
+`GLOBAL_DEBUG=true` leaves source files in place; `GLOBAL_DRY_RUN=true` suppresses permanent changes. `PROCESSED_DIRECTORY` and `REVIEW_DIRECTORY` are used only after a DB-backed handler returns from a committed transaction. `EXPECTED_ACCURACY`, `CURRENT_EXPECTED_ACCURACY`, `HISTORICAL_EXPECTED_ACCURACY`, `MAX_RETRY_ATTEMPTS`, and `STALE_JOB_TIMEOUT_SECONDS` configure processing targets and retry limits.
+
+## Reset and rebuild House PTR data
+
+`python scripts\reset_house_ptr_data.py --dry-run` prints the exact derived House trade, staging, extraction, parse-job, and status scope. Run the destructive operation only with `--confirm`; it preserves source PDFs, documents, filings, members, and source metadata. After reset, run a representative parser sample and QA validation before any historical bulk load.

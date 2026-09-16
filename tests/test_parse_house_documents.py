@@ -4,7 +4,10 @@ from __future__ import annotations
 
 import sys
 import unittest
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from types import SimpleNamespace
+from unittest import mock
 
 
 SCRIPTS = Path(__file__).resolve().parents[1] / "scripts"
@@ -12,6 +15,7 @@ sys.path.insert(0, str(SCRIPTS))
 
 import parse_house_documents as parser  # noqa: E402
 import validate_house_pdf_parsing as qa  # noqa: E402
+from ocr_service import OCRResult  # noqa: E402
 
 
 DOC_20030891_TEXT = (
@@ -48,6 +52,96 @@ class HousePtrParserTests(unittest.TestCase):
         self.assertEqual(1, len(rows))
         self.assertEqual("Abbott Laboratories (ABT)", rows[0].asset_name_raw)
         self.assertEqual([], rows[0].validation_errors)
+
+    def test_fresh_running_job_is_protected(self) -> None:
+        started = datetime.now(timezone.utc)
+        cursor = _JobCursor({
+            "document_job_id": 7,
+            "status": "running",
+            "attempt_count": 1,
+            "max_attempts": 3,
+            "started_at": started,
+        }, stale=False)
+        job_id, should_run = parser.ensure_parse_job(
+            cursor,
+            {"filing_id": 1, "document_id": 2},
+            SimpleNamespace(
+                max_attempts=3,
+                reprocess=False,
+                retry_failed=False,
+                stale_job_timeout_seconds=3600,
+            ),
+        )
+        self.assertEqual((7, False), (job_id, should_run))
+        self.assertFalse(any("UPDATE document_jobs SET status='queued'" in sql for sql, _ in cursor.calls))
+
+    def test_stale_running_job_is_recovered_without_resetting_attempts(self) -> None:
+        cursor = _JobCursor({
+            "document_job_id": 8,
+            "status": "running",
+            "attempt_count": 1,
+            "max_attempts": 3,
+            "started_at": datetime.now(timezone.utc) - timedelta(hours=2),
+        }, stale=True)
+        job_id, should_run = parser.ensure_parse_job(
+            cursor,
+            {"filing_id": 1, "document_id": 2},
+            SimpleNamespace(
+                max_attempts=3,
+                reprocess=False,
+                retry_failed=False,
+                stale_job_timeout_seconds=3600,
+            ),
+        )
+        self.assertEqual((8, True), (job_id, should_run))
+        self.assertTrue(any("status='queued'" in sql for sql, _ in cursor.calls))
+        self.assertEqual(1, cursor.existing["attempt_count"])
+
+    def test_recovered_job_can_be_marked_running_again(self) -> None:
+        cursor = _JobCursor(None, running_attempt=2)
+        self.assertEqual(2, parser.mark_running(cursor, 8))
+        self.assertTrue(any("status='running'" in sql for sql, _ in cursor.calls))
+
+    def test_retry_failed_does_not_reset_exhausted_attempts(self) -> None:
+        cursor = _JobCursor({
+            "document_job_id": 9,
+            "status": "failed_retryable",
+            "attempt_count": 3,
+            "max_attempts": 3,
+            "started_at": None,
+        })
+        job_id, should_run = parser.ensure_parse_job(
+            cursor,
+            {"filing_id": 1, "document_id": 2},
+            SimpleNamespace(
+                max_attempts=3,
+                reprocess=False,
+                retry_failed=True,
+                stale_job_timeout_seconds=3600,
+            ),
+        )
+        self.assertEqual((9, False), (job_id, should_run))
+
+    def test_reprocess_creates_a_new_auditable_job_cycle(self) -> None:
+        cursor = _JobCursor({
+            "document_job_id": 10,
+            "status": "complete",
+            "attempt_count": 1,
+            "max_attempts": 3,
+            "started_at": None,
+        }, inserted_job_id=11)
+        job_id, should_run = parser.ensure_parse_job(
+            cursor,
+            {"filing_id": 1, "document_id": 2},
+            SimpleNamespace(
+                max_attempts=3,
+                reprocess=True,
+                retry_failed=False,
+                stale_job_timeout_seconds=3600,
+            ),
+        )
+        self.assertEqual((11, True), (job_id, should_run))
+        self.assertTrue(any("INSERT INTO document_jobs" in sql for sql, _ in cursor.calls))
 
     def test_spaced_form_label_does_not_become_the_asset(self) -> None:
         rows, _ = self.parse(
@@ -130,6 +224,18 @@ class HousePtrParserTests(unittest.TestCase):
         self.assertEqual(2, len(rows))
         self.assertIsNone(parser.layout_fallback_reason(extracted, rows))
 
+    def test_description_glued_to_next_transaction_keeps_asset(self) -> None:
+        rows, _ = self.parse(
+            "DESCRIPTION: Pooled Investment Fund/Venture Capital"
+            "SPMonterey Peninsula WTR COPS [GS]"
+            "S 02/14/2019 02/28/2019 $500,001 - $1,000,000",
+        )
+
+        self.assertEqual(1, len(rows))
+        self.assertEqual("Monterey Peninsula WTR COPS", rows[0].asset_name_raw)
+        self.assertEqual("spouse", rows[0].owner_type)
+        self.assertEqual([], rows[0].validation_errors)
+
     def test_page_boundary_continuation_supports_partial_sale(self) -> None:
         rows, _ = self.parse(
             "SP Example Corporation CommonS (partial) "
@@ -184,6 +290,143 @@ class HousePtrParserTests(unittest.TestCase):
 
         self.assertEqual(3, len(qa.TRANSACTION_SIGNATURE_RE.findall(text)))
 
+    def test_house_orchestrator_requests_generic_ocr_and_reuses_parser(self) -> None:
+        class StubExtractionService:
+            def extract_embedded(self, path: Path) -> parser.ExtractedDocument:
+                return parser.ExtractedDocument(
+                    "[[PAGE 1]]\n", 1, False, ["no embedded text"], "pypdf", "1.2.0"
+                )
+
+            def extract_layout(self, path: Path) -> parser.ExtractedDocument:
+                return self.extract_embedded(path)
+
+        class StubOCRService:
+            def __init__(self) -> None:
+                self.calls = 0
+
+            def extract(self, path: Path) -> OCRResult:
+                self.calls += 1
+                text = (
+                    "[[PAGE 1]]\nExample Corporation (EXM) [ST] P "
+                    "06/17/2025 08/13/2025 $1,001 - $15,000\n"
+                )
+                return OCRResult(
+                    text=text,
+                    page_count=1,
+                    characters_extracted=len(text),
+                    bytes_extracted=len(text.encode("utf-8")),
+                    extractor_name="tesseract",
+                    extractor_version="5.3.0",
+                    pages_processed=1,
+                )
+
+        ocr = StubOCRService()
+        result = parser.process_house_document(
+            Path("unused.pdf"),
+            requires_ocr=True,
+            extraction_service=StubExtractionService(),
+            ocr_service=ocr,
+        )
+
+        self.assertEqual(1, ocr.calls)
+        self.assertTrue(result.ocr_attempted)
+        self.assertTrue(result.ocr_selected)
+        self.assertEqual("ocr", result.extracted.extraction_type)
+        self.assertEqual(1, len(result.rows))
+        self.assertEqual("EXM", result.rows[0].ticker_reported)
+        self.assertEqual([], result.rows[0].validation_errors)
+
+    def test_ocr_coverage_failure_keeps_document_in_review_without_rows(self) -> None:
+        class StubExtractionService:
+            def extract_embedded(self, path: Path) -> parser.ExtractedDocument:
+                return parser.ExtractedDocument("[[PAGE 1]]\n", 1, False, ["no embedded text"], "pypdf", "1.2.0")
+
+            def extract_layout(self, path: Path) -> parser.ExtractedDocument:
+                return self.extract_embedded(path)
+
+        class StubOCRService:
+            def extract(self, path: Path) -> OCRResult:
+                text = (
+                    "[[PAGE 1]]\n"
+                    "Asset One (ONE) [ST] P 01/01/2025 01/02/2025 $1,001 - $15,000\n"
+                    "Asset Two (TWO) [ST] P 02/01/2025 02/02/2025 $1,001 - $15,000\n"
+                )
+                return OCRResult(text, 1, len(text), len(text.encode()), "tesseract", "5.3.0", pages_processed=1)
+
+        parsed_row = SimpleNamespace(validation_errors=[])
+        with mock.patch.object(
+            parser,
+            "parse_ptr_text",
+            side_effect=[([], ["no rows"]), ([], ["no rows"]), ([parsed_row], [])],
+        ):
+            result = parser.process_house_document(
+                Path("unused.pdf"),
+                requires_ocr=True,
+                extraction_service=StubExtractionService(),
+                ocr_service=StubOCRService(),
+            )
+
+        self.assertTrue(result.ocr_attempted)
+        self.assertFalse(result.ocr_selected)
+        self.assertFalse(result.extraction_usable)
+        self.assertEqual([], result.rows)
+        self.assertIn("OCR text failed House validation", " ".join(result.warnings))
+
+    def test_ocr_validation_failure_keeps_document_in_review_without_rows(self) -> None:
+        class StubExtractionService:
+            def extract_embedded(self, path: Path) -> parser.ExtractedDocument:
+                return parser.ExtractedDocument("[[PAGE 1]]\n", 1, False, ["no embedded text"], "pypdf", "1.2.0")
+
+            def extract_layout(self, path: Path) -> parser.ExtractedDocument:
+                return self.extract_embedded(path)
+
+        class StubOCRService:
+            def extract(self, path: Path) -> OCRResult:
+                text = "[[PAGE 1]]\nAsset One (ONE) [ST] P 01/01/2025 01/02/2025 $1,001 - $15,000\n"
+                return OCRResult(text, 1, len(text), len(text.encode()), "tesseract", "5.3.0", pages_processed=1)
+
+        invalid_row = SimpleNamespace(validation_errors=["missing asset name"])
+        with mock.patch.object(
+            parser,
+            "parse_ptr_text",
+            side_effect=[([], ["no rows"]), ([], ["no rows"]), ([invalid_row], [])],
+        ):
+            result = parser.process_house_document(
+                Path("unused.pdf"),
+                requires_ocr=True,
+                extraction_service=StubExtractionService(),
+                ocr_service=StubOCRService(),
+            )
+
+        self.assertFalse(result.ocr_selected)
+        self.assertEqual([], result.rows)
+        self.assertIn("OCR text failed House validation", " ".join(result.warnings))
+
+    def test_ocr_unavailable_does_not_load_normal_rows_for_requires_ocr_document(self) -> None:
+        class StubExtractionService:
+            def extract_embedded(self, path: Path) -> parser.ExtractedDocument:
+                text = "[[PAGE 1]]\nAsset One (ONE) [ST] P 01/01/2025 01/02/2025 $1,001 - $15,000\n"
+                return parser.ExtractedDocument(text, 1, True, [], "pypdf", "1.2.0")
+
+            def extract_layout(self, path: Path) -> parser.ExtractedDocument:
+                return self.extract_embedded(path)
+
+        class UnavailableOCRService:
+            def extract(self, path: Path) -> OCRResult:
+                raise parser.OCRServiceUnavailable("Tesseract executable was not found")
+
+        result = parser.process_house_document(
+            Path("unused.pdf"),
+            requires_ocr=True,
+            extraction_service=StubExtractionService(),
+            ocr_service=UnavailableOCRService(),
+        )
+
+        self.assertTrue(result.ocr_attempted)
+        self.assertFalse(result.extraction_usable)
+        self.assertEqual([], result.rows)
+        self.assertIn("OCR unavailable", " ".join(result.warnings))
+
     @unittest.skipUnless(DOC_20009299_TEXT.is_file(), "House PTR 20009299 fixture is unavailable")
     def test_document_20009299_packed_transactions_are_all_parsed(self) -> None:
         text = DOC_20009299_TEXT.read_text(encoding="utf-8")
@@ -227,6 +470,32 @@ class HousePtrParserTests(unittest.TestCase):
                 self.assertEqual(transaction_date, row.transaction_date.isoformat())
                 self.assertEqual("2025-08-13", row.notification_date.isoformat())
                 self.assertEqual("$1,001 - $15,000", row.amount_range_raw)
+
+
+class _JobCursor:
+    def __init__(self, existing: dict | None, stale: bool | None = None, inserted_job_id: int = 99, running_attempt: int | None = None) -> None:
+        self.existing = existing
+        self.stale = stale
+        self.inserted_job_id = inserted_job_id
+        self.running_attempt = running_attempt
+        self.calls: list[tuple[str, tuple]] = []
+        self._result = None
+
+    def execute(self, sql: str, params: tuple = ()) -> None:
+        self.calls.append((sql, params))
+        if "SELECT document_job_id,status,attempt_count,max_attempts,started_at" in sql:
+            self._result = self.existing
+        elif "SELECT (%s <" in sql:
+            self._result = {"stale": self.stale}
+        elif "RETURNING document_job_id" in sql:
+            self._result = {"document_job_id": self.inserted_job_id}
+        elif "status='running'" in sql:
+            self._result = {"attempt_count": self.running_attempt or 1}
+
+    def fetchone(self):
+        result = self._result
+        self._result = None
+        return result
 
 
 if __name__ == "__main__":

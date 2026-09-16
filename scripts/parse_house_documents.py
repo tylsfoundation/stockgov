@@ -1,10 +1,11 @@
 """Extract House PTR PDFs and load normalized transactions into StockGov.
 
 The implementation targets House Periodic Transaction Reports (filing code
-``P``).  It extracts text with pypdf, retries suspicious table layouts with
-pdfplumber, stores the versioned extraction in ``document_extractions``, and
-inserts one normalized row per transaction into ``trades``.  Jobs and parser
-versions make interrupted runs safe to resume.
+``P``).  It calls the shared PDF extraction service, evaluates the result with
+House rules, requests the generic OCR service when needed, feeds OCR text
+through the same transaction parser, and stores the validated preferred
+extraction in ``document_extractions`` before inserting trades. Jobs and
+parser versions make interrupted runs safe to resume.
 
 Examples::
 
@@ -24,11 +25,10 @@ import os
 import re
 import sys
 from dataclasses import dataclass
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from decimal import Decimal, InvalidOperation
 from pathlib import Path
 from typing import Any, Iterable
-from urllib.parse import quote, urlunsplit
 
 try:
     import psycopg2
@@ -40,23 +40,47 @@ except ImportError as exc:  # pragma: no cover - exercised by command-line users
     ) from exc
 
 try:
-    from pypdf import PdfReader
-except ImportError as exc:  # pragma: no cover - exercised by command-line users
-    raise SystemExit("pypdf is required: py -m pip install pypdf") from exc
-
+    from document_extraction import (
+        DocumentExtractionService,
+        ExtractedDocument,
+        PDFPLUMBER_EXTRACTOR_NAME,
+        PDFPLUMBER_EXTRACTOR_VERSION,
+        PYPDF_EXTRACTOR_NAME,
+        PYPDF_EXTRACTOR_VERSION,
+    )
+    from ocr_service import OCRResult, OCRServiceUnavailable, default_ocr_service
+except ImportError:  # Imported as scripts.parse_house_documents by the orchestrator.
+    from scripts.document_extraction import (
+        DocumentExtractionService,
+        ExtractedDocument,
+        PDFPLUMBER_EXTRACTOR_NAME,
+        PDFPLUMBER_EXTRACTOR_VERSION,
+        PYPDF_EXTRACTOR_NAME,
+        PYPDF_EXTRACTOR_VERSION,
+    )
+    from scripts.ocr_service import OCRResult, OCRServiceUnavailable, default_ocr_service
 try:
-    import pdfplumber
-except ImportError as exc:  # pragma: no cover - exercised by command-line users
-    raise SystemExit("pdfplumber is required: py -m pip install pdfplumber") from exc
+    from ingestion.common.persistence import database_url as shared_database_url
+    from ingestion.common.artifacts import (
+        artifact_path as shared_artifact_path,
+        content_hash as shared_content_hash,
+        write_immutable_text,
+    )
+except ImportError:
+    project = str(Path(__file__).resolve().parent.parent)
+    if project not in sys.path:
+        sys.path.insert(0, project)
+    from ingestion.common.persistence import database_url as shared_database_url
+    from ingestion.common.artifacts import (
+        artifact_path as shared_artifact_path,
+        content_hash as shared_content_hash,
+        write_immutable_text,
+    )
 
 
 SOURCE = "house_clerk_financial_disclosure"
 PARSER_NAME = "house_ptr_pdf"
-PARSER_VERSION = "1.2.1"
-PYPDF_EXTRACTOR_NAME = "pypdf"
-PYPDF_EXTRACTOR_VERSION = "1.2.0"
-PDFPLUMBER_EXTRACTOR_NAME = "pdfplumber_layout"
-PDFPLUMBER_EXTRACTOR_VERSION = "1.0.0"
+PARSER_VERSION = "1.3.0"
 OWNER_CODES = {
     "SP": "spouse",
     "JT": "joint",
@@ -74,6 +98,7 @@ ASSET_TYPES = {
 }
 RETRYABLE_JOB_STATUSES = {"failed_retryable"}
 FINAL_JOB_STATUSES = {"complete", "needs_review", "failed_permanent"}
+DEFAULT_STALE_JOB_TIMEOUT_SECONDS = 3600
 
 # House PDF text often removes the space between the two dates and the amount.
 # Searching instead of matching from the beginning also handles page-break text
@@ -150,16 +175,6 @@ class TransactionRow:
 
 
 @dataclass
-class ExtractedDocument:
-    text: str
-    page_count: int
-    has_embedded_text: bool
-    warnings: list[str]
-    extractor_name: str
-    extractor_version: str
-
-
-@dataclass
 class Totals:
     selected: int = 0
     skipped: int = 0
@@ -187,24 +202,7 @@ def load_dotenv() -> None:
 
 def database_url(override: str | None) -> str:
     load_dotenv()
-    if override:
-        return override
-    configured = os.getenv("DATABASE_URL")
-    if configured:
-        return configured
-    user = os.getenv("POSTGRES_USER")
-    password = os.getenv("POSTGRES_PASSWORD")
-    if not user or not password:
-        raise RuntimeError(
-            "Set DATABASE_URL or POSTGRES_USER and POSTGRES_PASSWORD in .env"
-        )
-    authority = (
-        f"{quote(user, safe='')}:{quote(password, safe='')}"
-        f"@{os.getenv('POSTGRES_HOST', 'localhost')}:{os.getenv('POSTGRES_PORT', '5433')}"
-    )
-    return urlunsplit(
-        ("postgresql", authority, "/" + os.getenv("POSTGRES_DB", "congress_trades"), "", "")
-    )
+    return shared_database_url(override)
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -221,8 +219,24 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--limit", type=int, help="Maximum number of documents")
     parser.add_argument("--retry-failed", action="store_true", help="Retry failed retryable jobs")
     parser.add_argument("--reprocess", action="store_true", help="Reprocess completed or review jobs")
+    parser.add_argument(
+        "--non-ocr-only",
+        action="store_true",
+        help="Process only documents whose preserved extraction is not marked requires_ocr",
+    )
+    parser.add_argument(
+        "--ocr-only",
+        action="store_true",
+        help="Process only documents currently marked requires_ocr",
+    )
     parser.add_argument("--dry-run", action="store_true", help="List eligible documents without changes")
     parser.add_argument("--max-attempts", type=int, default=3, help="Maximum attempts per job")
+    parser.add_argument(
+        "--stale-job-timeout-seconds",
+        type=int,
+        default=None,
+        help="Recover running jobs older than this timeout (default: STALE_JOB_TIMEOUT_SECONDS or 3600)",
+    )
     parser.add_argument("--database-url", help=argparse.SUPPRESS)
     return parser
 
@@ -233,6 +247,8 @@ def validate_args(parser: argparse.ArgumentParser, args: argparse.Namespace) -> 
         parser.error("specify --all or a DocID, filing ID, member, or year filter")
     if args.all and any(value is not None for value in filters):
         parser.error("--all cannot be combined with selection filters")
+    if args.non_ocr_only and args.ocr_only:
+        parser.error("--non-ocr-only cannot be combined with --ocr-only")
     if args.year is not None and (args.from_year is not None or args.to_year is not None):
         parser.error("--year cannot be combined with --from-year or --to-year")
     if args.from_year is not None and args.to_year is not None and args.from_year > args.to_year:
@@ -246,6 +262,42 @@ def validate_args(parser: argparse.ArgumentParser, args: argparse.Namespace) -> 
         parser.error("--limit must be positive")
     if args.max_attempts < 1:
         parser.error("--max-attempts must be positive")
+    if args.stale_job_timeout_seconds is not None and args.stale_job_timeout_seconds < 1:
+        parser.error("--stale-job-timeout-seconds must be positive")
+
+
+def stale_job_timeout_seconds(args: argparse.Namespace) -> int:
+    configured = getattr(args, "stale_job_timeout_seconds", None)
+    if configured is not None:
+        return configured
+    load_dotenv()
+    try:
+        value = int(os.getenv("STALE_JOB_TIMEOUT_SECONDS", str(DEFAULT_STALE_JOB_TIMEOUT_SECONDS)))
+    except ValueError as exc:
+        raise ValueError("STALE_JOB_TIMEOUT_SECONDS must be an integer") from exc
+    if value < 1:
+        raise ValueError("STALE_JOB_TIMEOUT_SECONDS must be positive")
+    return value
+
+
+def is_stale_running_job(
+    started_at: datetime | None,
+    *,
+    now: datetime | None = None,
+    timeout_seconds: int = DEFAULT_STALE_JOB_TIMEOUT_SECONDS,
+) -> bool:
+    """Return whether a running job has exceeded the explicit recovery window."""
+
+    if started_at is None:
+        return True
+    if timeout_seconds < 1:
+        raise ValueError("timeout_seconds must be positive")
+    current = now or datetime.now(timezone.utc)
+    if started_at.tzinfo is None:
+        started_at = started_at.replace(tzinfo=timezone.utc)
+    if current.tzinfo is None:
+        current = current.replace(tzinfo=timezone.utc)
+    return current - started_at >= timedelta(seconds=timeout_seconds)
 
 
 def select_documents(cursor: Any, args: argparse.Namespace) -> list[dict[str, Any]]:
@@ -281,8 +333,13 @@ def select_documents(cursor: Any, args: argparse.Namespace) -> list[dict[str, An
     if args.to_year is not None:
         clauses.append("f.reporting_year <= %s")
         params.append(args.to_year)
+    if args.non_ocr_only:
+        clauses.append("d.requires_ocr IS FALSE")
+    if args.ocr_only:
+        clauses.append("d.requires_ocr IS TRUE")
     query = f"""
         SELECT d.document_id, d.filing_id, d.local_path, d.content_hash,
+               d.requires_ocr,
                f.source_filing_id AS doc_id, f.reporting_year,
                f.filing_type_code_raw, f.filed_date, f.raw_full_name,
                f.source_url, m.preferred_name
@@ -327,95 +384,37 @@ def clean_line(value: str) -> str:
     return re.sub(r"\s+", " ", value).strip()
 
 
+_EXTRACTION_SERVICE = DocumentExtractionService()
+
+
 def extract_pdf(path: Path) -> ExtractedDocument:
-    """Extract embedded text quickly with pypdf.
+    """Compatibility wrapper around the shared PDF extraction service."""
 
-    Layout-sensitive documents are detected after parsing and retried with
-    ``extract_pdf_layout`` rather than being sent to OCR.
-    """
-
-    reader = PdfReader(str(path), strict=False)
-    page_lines: list[str] = []
-    warnings: list[str] = []
-    for page_number, page in enumerate(reader.pages, 1):
-        page_lines.append(f"[[PAGE {page_number}]]")
-        try:
-            raw = page.extract_text() or ""
-        except Exception as exc:  # pypdf can fail on one malformed page
-            warnings.append(f"page {page_number} extraction failed: {type(exc).__name__}: {exc}")
-            raw = ""
-        page_lines.extend(clean_line(line) for line in raw.splitlines())
-    text = "\n".join(line for line in page_lines if line).strip() + "\n"
-    has_text = any(
-        line and not PAGE_MARKER_RE.fullmatch(line)
-        for line in text.splitlines()
-    )
-    if not has_text:
-        warnings.append("no embedded text extracted; OCR is required")
-    return ExtractedDocument(
-        text,
-        len(reader.pages),
-        has_text,
-        warnings,
-        PYPDF_EXTRACTOR_NAME,
-        PYPDF_EXTRACTOR_VERSION,
-    )
+    return _EXTRACTION_SERVICE.extract_embedded(path)
 
 
 def extract_pdf_layout(path: Path) -> ExtractedDocument:
-    """Extract embedded text while retaining the visual row layout.
+    """Compatibility wrapper around the shared layout extraction service."""
 
-    Older House PDFs frequently expose every page as one long text line to
-    pypdf.  pdfplumber's layout mode reconstructs the table rows from the PDF
-    coordinates without performing OCR.
-    """
+    return _EXTRACTION_SERVICE.extract_layout(path)
 
-    page_lines: list[str] = []
-    warnings: list[str] = []
-    with pdfplumber.open(path) as pdf:
-        page_count = len(pdf.pages)
-        for page_number, page in enumerate(pdf.pages, 1):
-            page_lines.append(f"[[PAGE {page_number}]]")
-            try:
-                raw = page.extract_text(layout=True, x_density=7.25, y_density=13) or ""
-            except Exception as exc:
-                warnings.append(
-                    f"page {page_number} layout extraction failed: "
-                    f"{type(exc).__name__}: {exc}"
-                )
-                raw = ""
-            page_lines.extend(clean_line(line) for line in raw.splitlines())
-    text = "\n".join(line for line in page_lines if line).strip() + "\n"
-    has_text = any(
-        line and not PAGE_MARKER_RE.fullmatch(line)
-        for line in text.splitlines()
+
+def extraction_text_path(
+    pdf_path: Path, extracted: ExtractedDocument, output_hash: str | None = None
+) -> Path:
+    """Return a content-addressed path for an immutable extraction artifact."""
+
+    if output_hash is None:
+        output_hash = shared_content_hash(extracted.text.encode("utf-8", errors="replace"))
+    return shared_artifact_path(
+        pdf_path, extracted.extractor_name, extracted.extractor_version, output_hash
     )
-    if not has_text:
-        warnings.append("no embedded text extracted with layout mode; OCR is required")
-    return ExtractedDocument(
-        text,
-        page_count,
-        has_text,
-        warnings,
-        PDFPLUMBER_EXTRACTOR_NAME,
-        PDFPLUMBER_EXTRACTOR_VERSION,
-    )
-
-
-def extraction_text_path(pdf_path: Path, extracted: ExtractedDocument) -> Path:
-    """Return a versioned path so historical extraction hashes remain reproducible."""
-
-    extractor = re.sub(r"[^A-Za-z0-9_.-]+", "_", extracted.extractor_name)
-    version = re.sub(r"[^A-Za-z0-9_.-]+", "_", extracted.extractor_version)
-    return pdf_path.with_name(f"{pdf_path.stem}.{extractor}-{version}.txt")
 
 
 def write_text_atomic(path: Path, text: str) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    partial = path.with_suffix(path.suffix + ".part")
-    with partial.open("w", encoding="utf-8", errors="replace", newline="\n") as stream:
-        stream.write(text)
-    partial.replace(path)
+    """Compatibility wrapper that now preserves immutable artifact bytes."""
+
+    write_immutable_text(path, text)
 
 
 def sha256_bytes(value: bytes) -> str:
@@ -595,6 +594,15 @@ def strip_table_header(value: str) -> str:
     )
     value = re.sub(
         r"^.*Filing\s*Status\s*:\s*(?:New|Amendment)?",
+        "",
+        value,
+        flags=re.IGNORECASE,
+    )
+    # Flattened legacy PDFs can glue a prior row's DESCRIPTION field to the
+    # next owner/asset row.  Keep the next asset when it has a PTR owner code,
+    # an asset-type marker, and no intervening table boundary.
+    value = re.sub(
+        r"DESCRIPTION\s*:.*?(?=(?:SP|JT|DC|DS|JS)[A-Za-z][^[]*\[[A-Za-z0-9]{1,6}\])",
         "",
         value,
         flags=re.IGNORECASE,
@@ -790,17 +798,19 @@ def parse_quality(text: str, rows: list[TransactionRow]) -> tuple[int, int, int]
 
 def extract_and_parse_document(
     path: Path,
+    extraction_service: DocumentExtractionService | None = None,
 ) -> tuple[ExtractedDocument, list[TransactionRow], list[str]]:
-    """Use pypdf first and retry suspicious output with layout extraction."""
+    """Use the shared extraction service before House-specific evaluation."""
 
-    extracted = extract_pdf(path)
+    service = extraction_service or _EXTRACTION_SERVICE
+    extracted = service.extract_embedded(path)
     rows, warnings = parse_ptr_text(extracted.text)
     reason = layout_fallback_reason(extracted, rows)
     if reason is None:
         return extracted, rows, warnings
 
     try:
-        layout_extracted = extract_pdf_layout(path)
+        layout_extracted = service.extract_layout(path)
         layout_rows, layout_warnings = parse_ptr_text(layout_extracted.text)
     except Exception as exc:
         extracted.warnings.append(
@@ -945,42 +955,202 @@ def parse_ptr_text(text: str) -> tuple[list[TransactionRow], list[str]]:
     return rows, warnings
 
 
+@dataclass
+class HouseDocumentParse:
+    """Result of the House-owned extraction, OCR, parse, and validation flow."""
+
+    extracted: ExtractedDocument
+    rows: list[TransactionRow]
+    warnings: list[str]
+    extraction_usable: bool
+    ocr_attempted: bool = False
+    ocr_selected: bool = False
+
+
+def house_extraction_usable(
+    extracted: ExtractedDocument, rows: list[TransactionRow]
+) -> bool:
+    """Apply House validation rules to an extraction without persisting it."""
+
+    if not extracted.text:
+        return False
+    if extracted.extraction_type == "ocr":
+        explicitly_empty = bool(not rows and NO_TRANSACTIONS_RE.search(extracted.text))
+        return bool(rows or explicitly_empty) and transaction_signature_count(extracted.text) == len(rows) and not any(
+            row.validation_errors for row in rows
+        )
+    if not extracted.has_embedded_text:
+        return False
+    return layout_fallback_reason(extracted, rows) is None
+
+
+def _ocr_as_extracted(result: OCRResult) -> ExtractedDocument:
+    return ExtractedDocument(
+        text=result.text,
+        page_count=result.page_count,
+        has_embedded_text=False,
+        warnings=list(result.warnings),
+        extractor_name=result.extractor_name,
+        extractor_version=result.extractor_version,
+        extraction_type=result.extraction_type,
+    )
+
+
+def process_house_document(
+    path: Path,
+    *,
+    requires_ocr: bool = False,
+    extraction_service: DocumentExtractionService | None = None,
+    ocr_service: Any | None = None,
+) -> HouseDocumentParse:
+    """Run the House orchestrator over one document.
+
+    OCR is an alternate text source.  The generic OCR service does not decide
+    when it runs, parse transactions, validate rows, or write to the database.
+    """
+
+    normal_extracted, normal_rows, normal_warnings = extract_and_parse_document(
+        path, extraction_service
+    )
+    normal_usable = house_extraction_usable(normal_extracted, normal_rows)
+    if not requires_ocr and normal_usable:
+        return HouseDocumentParse(
+            normal_extracted, normal_rows, normal_warnings, True
+        )
+
+    warnings = list(normal_warnings)
+    reason = layout_fallback_reason(normal_extracted, normal_rows)
+    if requires_ocr:
+        warnings.insert(0, "document is marked requires_ocr; House parser requested OCR")
+    elif reason:
+        warnings.insert(0, f"House parser requested OCR after normal extraction: {reason}")
+    service = ocr_service or default_ocr_service()
+    try:
+        ocr_result = service.extract(path)
+    except OCRServiceUnavailable as exc:
+        warnings.append(f"OCR unavailable: {exc}")
+        return HouseDocumentParse(
+            normal_extracted, [], warnings, False, ocr_attempted=True
+        )
+    except Exception as exc:
+        warnings.append(f"OCR failed: {type(exc).__name__}: {exc}")
+        return HouseDocumentParse(
+            normal_extracted, [], warnings, False, ocr_attempted=True
+        )
+
+    ocr_extracted = _ocr_as_extracted(ocr_result)
+    ocr_rows, ocr_warnings = parse_ptr_text(ocr_result.text)
+    warnings.extend(ocr_warnings)
+    ocr_usable = house_extraction_usable(ocr_extracted, ocr_rows)
+    if ocr_usable:
+        return HouseDocumentParse(
+            ocr_extracted, ocr_rows, warnings, True,
+            ocr_attempted=True, ocr_selected=True,
+        )
+    warnings.append("OCR text failed House validation; document remains needs_review")
+    return HouseDocumentParse(
+        normal_extracted, [], warnings, False, ocr_attempted=True
+    )
+
+
 def ensure_parse_job(cursor: Any, document: dict[str, Any], args: argparse.Namespace) -> tuple[int | None, bool]:
     cursor.execute(
-        """SELECT document_job_id,status FROM document_jobs
+        """SELECT document_job_id,status,attempt_count,max_attempts,started_at
+           FROM document_jobs
            WHERE filing_id=%s AND document_id=%s AND job_type='parse'
            ORDER BY document_job_id DESC LIMIT 1""",
         (document["filing_id"], document["document_id"]),
     )
     existing = cursor.fetchone()
-    if existing:
-        status = existing["status"]
-        if status in FINAL_JOB_STATUSES and not args.reprocess:
-            return existing["document_job_id"], False
-        if status == "running" and not args.reprocess:
-            return existing["document_job_id"], False
-        if status in RETRYABLE_JOB_STATUSES and not args.retry_failed and not args.reprocess:
-            return existing["document_job_id"], False
+    if not existing:
         cursor.execute(
-            """UPDATE document_jobs SET status='queued',document_id=%s,max_attempts=%s,
-               attempt_count=0,started_at=NULL,finished_at=NULL,next_attempt_at=NULL,
-               error_type=NULL,error_message=NULL WHERE document_job_id=%s""",
-            (document["document_id"], args.max_attempts, existing["document_job_id"]),
+            """INSERT INTO document_jobs (filing_id,document_id,job_type,status,max_attempts)
+               VALUES (%s,%s,'parse','queued',%s) RETURNING document_job_id""",
+            (document["filing_id"], document["document_id"], args.max_attempts),
         )
-        return existing["document_job_id"], True
-    cursor.execute(
-        """INSERT INTO document_jobs (filing_id,document_id,job_type,status,max_attempts)
-           VALUES (%s,%s,'parse','queued',%s) RETURNING document_job_id""",
-        (document["filing_id"], document["document_id"], args.max_attempts),
-    )
-    return cursor.fetchone()["document_job_id"], True
+        return cursor.fetchone()["document_job_id"], True
+
+    job_id = existing["document_job_id"]
+    status = existing["status"]
+    attempts_exhausted = existing["attempt_count"] >= existing["max_attempts"]
+
+    if status == "running":
+        timeout = stale_job_timeout_seconds(args)
+        if existing["started_at"] is None:
+            stale = True
+        else:
+            cursor.execute(
+                """SELECT (%s < CURRENT_TIMESTAMP - (%s * INTERVAL '1 second')) AS stale""",
+                (existing["started_at"], timeout),
+            )
+            stale = bool(cursor.fetchone()["stale"])
+        if not stale:
+            # A live worker owns this job, including when --reprocess was
+            # requested.  Never steal an active parse.
+            return job_id, False
+        if attempts_exhausted:
+            cursor.execute(
+                """UPDATE document_jobs SET status='failed_permanent',finished_at=CURRENT_TIMESTAMP,
+                   error_type=COALESCE(error_type,'stale_job_exhausted'),
+                   error_message=COALESCE(error_message,'stale running job exhausted its lifetime retry budget')
+                   WHERE document_job_id=%s AND status='running'""",
+                (job_id,),
+            )
+            return job_id, False
+        cursor.execute(
+            """UPDATE document_jobs SET status='queued',finished_at=CURRENT_TIMESTAMP,
+               next_attempt_at=CURRENT_TIMESTAMP,error_type='stale_job_recovered',
+               error_message=CASE WHEN error_message IS NULL THEN
+                   'Recovered stale running job after timeout'
+                   ELSE error_message || '; recovered stale running job after timeout' END
+               WHERE document_job_id=%s AND status='running'""",
+            (job_id,),
+        )
+        if getattr(cursor, "rowcount", 1) == 0:
+            # Another worker recovered the same stale row first.
+            return job_id, False
+        return job_id, True
+
+    if status == "queued":
+        return job_id, not attempts_exhausted
+
+    if status == "failed_retryable":
+        if args.reprocess:
+            cursor.execute(
+                """INSERT INTO document_jobs (filing_id,document_id,job_type,status,max_attempts)
+                   VALUES (%s,%s,'parse','queued',%s) RETURNING document_job_id""",
+                (document["filing_id"], document["document_id"], args.max_attempts),
+            )
+            return cursor.fetchone()["document_job_id"], True
+        if attempts_exhausted or not args.retry_failed:
+            return job_id, False
+        cursor.execute(
+            """UPDATE document_jobs SET status='queued',next_attempt_at=CURRENT_TIMESTAMP
+               WHERE document_job_id=%s""",
+            (job_id,),
+        )
+        return job_id, True
+
+    if status in FINAL_JOB_STATUSES or status == "canceled":
+        if not args.reprocess:
+            return job_id, False
+        # An explicit reprocess starts a new auditable cycle.  The previous
+        # job's attempt history remains intact instead of being reset.
+        cursor.execute(
+            """INSERT INTO document_jobs (filing_id,document_id,job_type,status,max_attempts)
+               VALUES (%s,%s,'parse','queued',%s) RETURNING document_job_id""",
+            (document["filing_id"], document["document_id"], args.max_attempts),
+        )
+        return cursor.fetchone()["document_job_id"], True
+
+    return job_id, False
 
 
 def mark_running(cursor: Any, job_id: int) -> int:
     cursor.execute(
         """UPDATE document_jobs SET status='running',started_at=CURRENT_TIMESTAMP,
            finished_at=NULL,next_attempt_at=NULL,attempt_count=attempt_count+1,
-           error_type=NULL,error_message=NULL
+           worker_name=COALESCE(worker_name,'house_ptr_pdf')
            WHERE document_job_id=%s AND status IN ('queued','failed_retryable')
              AND attempt_count < max_attempts
            RETURNING attempt_count""",
@@ -999,9 +1169,11 @@ def mark_failure(connection: Any, job_id: int, error: Exception) -> str:
                 """UPDATE document_jobs
                    SET status=CASE WHEN attempt_count < max_attempts
                                    THEN 'failed_retryable' ELSE 'failed_permanent' END,
-                       finished_at=CURRENT_TIMESTAMP,error_type=%s,error_message=%s
+                       finished_at=CURRENT_TIMESTAMP,error_type=%s,
+                       error_message=LEFT(CASE WHEN error_message IS NULL THEN %s
+                           ELSE error_message || '; ' || %s END,4000)
                    WHERE document_job_id=%s RETURNING status""",
-                (type(error).__name__, str(error)[:4000], job_id),
+                (type(error).__name__, str(error)[:2000], str(error)[:2000], job_id),
             )
             row = cursor.fetchone()
             return row["status"] if row else "failed_permanent"
@@ -1014,20 +1186,27 @@ def record_document_and_trades(
     extracted: ExtractedDocument,
     rows: list[TransactionRow],
     parse_warnings: list[str],
+    force_review: bool = False,
 ) -> tuple[int, int, str]:
     pdf_path = Path(document["local_path"]).resolve()
-    text_path = extraction_text_path(pdf_path, extracted)
-    write_text_atomic(text_path, extracted.text)
-    text_bytes = text_path.read_bytes()
-    output_hash = sha256_file(text_path)
+    text_bytes = extracted.text.encode("utf-8", errors="replace")
+    output_hash = shared_content_hash(text_bytes)
+    text_path = extraction_text_path(pdf_path, extracted, output_hash)
+    write_immutable_text(text_path, extracted.text)
+    # The stored hash is computed from the exact bytes written to the immutable
+    # artifact, so a stale or partially replaced file cannot be referenced.
+    if sha256_file(text_path) != output_hash:
+        raise ValueError(f"extraction artifact hash mismatch: {text_path}")
     all_warnings = extracted.warnings + parse_warnings
     valid_rows = [row for row in rows if not row.validation_errors]
     invalid_rows = [row for row in rows if row.validation_errors]
     has_complete_coverage = transaction_signature_count(extracted.text) == len(rows)
     explicitly_empty = bool(
-        extracted.has_embedded_text and not rows and NO_TRANSACTIONS_RE.search(extracted.text)
+        not rows and NO_TRANSACTIONS_RE.search(extracted.text)
     )
-    if not extracted.has_embedded_text:
+    if force_review:
+        status = "needs_review"
+    elif extracted.extraction_type != "ocr" and not extracted.has_embedded_text:
         status = "needs_ocr"
     elif explicitly_empty:
         status = "parsed_no_transactions"
@@ -1043,14 +1222,14 @@ def record_document_and_trades(
                 (
                     extracted.page_count,
                     extracted.has_embedded_text,
-                    not extracted.has_embedded_text,
+                    extracted.extraction_type == "ocr" or not extracted.has_embedded_text,
                     status,
                     document["document_id"],
                 ),
             )
             cursor.execute(
                 """UPDATE document_extractions SET is_preferred=FALSE
-                   WHERE document_id=%s AND extraction_type='embedded_text'""",
+                   WHERE document_id=%s""",
                 (document["document_id"],),
             )
             cursor.execute(
@@ -1058,7 +1237,7 @@ def record_document_and_trades(
                    (document_id,document_job_id,extraction_type,extractor_name,extractor_version,
                     output_path,output_hash,started_at,finished_at,quality_score,
                     characters_extracted,bytes_extracted,pages_processed,warnings,is_preferred)
-                   VALUES (%s,%s,'embedded_text',%s,%s,%s,%s,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP,
+                   VALUES (%s,%s,%s,%s,%s,%s,%s,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP,
                            %s,%s,%s,%s,%s,TRUE)
                    ON CONFLICT (document_id,extraction_type,extractor_name,extractor_version,output_hash)
                    DO UPDATE SET document_job_id=EXCLUDED.document_job_id,output_path=EXCLUDED.output_path,
@@ -1070,11 +1249,12 @@ def record_document_and_trades(
                 (
                      document["document_id"],
                      job_id,
+                     extracted.extraction_type,
                      extracted.extractor_name,
                      extracted.extractor_version,
                     str(text_path),
                     output_hash,
-                    Decimal("1.0") if extracted.has_embedded_text else Decimal("0.0"),
+                    Decimal("1.0") if status in {"parsed", "parsed_no_transactions"} else Decimal("0.0"),
                     len(extracted.text),
                     len(text_bytes),
                     extracted.page_count,
@@ -1267,11 +1447,16 @@ def run(args: argparse.Namespace) -> int:
                 with connection:
                     with connection.cursor() as cursor:
                         attempt = mark_running(cursor, job_id)
-                extracted, rows, warnings = extract_and_parse_document(
-                    Path(document["local_path"])
+                processed = process_house_document(
+                    Path(document["local_path"]),
+                    requires_ocr=bool(document.get("requires_ocr")),
+                )
+                extracted, rows, warnings = (
+                    processed.extracted, processed.rows, processed.warnings
                 )
                 _, trade_count, document_status = record_document_and_trades(
-                    connection, document, job_id, extracted, rows, warnings
+                    connection, document, job_id, extracted, rows, warnings,
+                    force_review=processed.ocr_attempted and not processed.ocr_selected,
                 )
                 if document_status in {"parsed", "parsed_no_transactions"}:
                     totals.parsed += 1

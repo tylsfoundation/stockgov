@@ -40,7 +40,7 @@ except ImportError as exc:  # pragma: no cover - exercised when dependency is ab
 
 SOURCE = "house_clerk_financial_disclosure"
 PARSER_NAME = "house_ptr_pdf"
-PARSER_VERSION = "1.2.1"
+PARSER_VERSION = "1.3.0"
 TRANSACTION_SIGNATURE_RE = re.compile(
     r"[PSE]\s*(?:\(\s*partial\s*\))?\s*"
     r"\d{1,2}/\d{1,2}/\d{4}\s*"
