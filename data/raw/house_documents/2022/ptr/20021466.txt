@@ -1,0 +1,100 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Virginia Foxx
+Status: Member
+State/District:NC05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Alliance Resource Partners, L.P. -
+Common Units Representing Limited
+Partnership Interests (ARLP) [ST]
+P 07/22/202207/22/2022$15,001 -
+$50,000
+F S: New
+JT Alliance Resource Partners, L.P. -
+Common Units Representing Limited
+Partnership Interests (ARLP) [ST]
+P 07/28/202207/28/2022$1,001 - $15,000
+F S: New
+JT British American Tobacco Industries,
+p.l.c. Common Stock ADR (BTI) [ST]
+P 07/14/202207/14/2022$1,001 - $15,000
+F S: New
+JT British American Tobacco Industries,
+p.l.c. Common Stock ADR (BTI) [ST]
+P 07/29/202207/29/2022$1,001 - $15,000
+F S: New
+JT GSK plc American Depositary Shares
+(GSK) [ST]
+P 07/06/202207/06/2022$1,001 - $15,000
+F S: New
+JT GSK plc American Depositary Shares
+(GSK) [ST]
+S (partial) 07/12/202207/12/2022$100,001 -
+$250,000
+F S: New
+JT Kellogg Company (K) [ST] P 07/21/202207/21/2022$15,001 -
+$50,000
+F S: New
+Filing ID #20021466
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Magellan Midstream Partners L.P.
+Limited Partnership (MMP) [ST]
+S 07/05/202207/05/2022$50,001 -
+$100,000
+F S: New
+JT Mosaic Company (MOS) [ST] P 07/28/202207/28/2022$1,001 - $15,000
+F S: New
+JT Mosaic Company (MOS) [ST] P 07/29/202207/29/2022$1,001 - $15,000
+F S: New
+JT Pembina Pipeline Corp. Ordinary
+Shares (PBA) [ST]
+P 07/14/202207/14/2022$15,001 -
+$50,000
+F S: New
+JT Procter & Gamble Company (PG) [ST]P 07/20/202207/20/2022$50,001 -
+$100,000
+F S: New
+JT Procter & Gamble Company (PG) [ST]P 07/29/202207/29/2022$15,001 -
+$50,000
+F S: New
+JT THE TORONTO-DO 3.766% CD [OT]P 07/13/202207/13/2022$100,001 -
+$250,000
+F S: New
+L: US
+D: CD
+JT Universal Corporation (UVV) [ST] P 07/05/202207/05/2022$50,001 -
+$100,000
+F S: New
+JT Universal Corporation (UVV) [ST] S 07/14/202207/14/2022$15,001 -
+$50,000
+F S: New
+JT Via Renewables, Inc. - 8.75% Series A
+Fixed-to-Floating Rate Cumulative
+Redeemable Perpetual Preferred
+Stock (VIASP) [ST]
+P 07/05/202207/05/2022$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+[[PAGE 3]]
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Virginia Foxx , 08/05/2022

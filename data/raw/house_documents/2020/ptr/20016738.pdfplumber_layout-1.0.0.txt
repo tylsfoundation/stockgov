@@ -1,0 +1,46 @@
+[[PAGE 1]]
+Filing ID #20016738
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Ed Perlmutter
+Status: Member
+State/District: CO07
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+sP alphabet Inc. - Class a (gOOgl) s 04/22/2020 06/03/2020 $1,001 - $15,000 gfedcb
+[sT]
+FIlINg sTaTus: New
+sP amazon.com, Inc. (aMZN) [sT] s 04/21/2020 06/03/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+sP apple Inc. (aaPl) [sT] s 04/22/2020 06/03/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+sP Costco Wholesale Corporation s (partial) 04/22/2020 06/03/2020 $1,001 - $15,000 gfedc
+(COsT) [sT]
+FIlINg sTaTus: New
+sP Costco Wholesale Corporation P 03/18/2020 06/03/2020 $1,001 - $15,000 gfedc
+(COsT) [sT]
+FIlINg sTaTus: New
+sP Facebook, Inc. - Class a (FB) [sT] s 04/22/2020 06/03/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+sP Kinder Morgan, Inc. (KMI) [sT] s 04/22/2020 06/03/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+stanley Black & Decker, Inc. s (partial) 04/09/2020 06/03/2020 $1,001 - $15,000 gfedc
+(sWK) [sT]
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg sTaTus: New
+u.s. Bancorp (usB) [sT] s (partial) 04/09/2020 06/03/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Ed Perlmutter , 06/10/2020

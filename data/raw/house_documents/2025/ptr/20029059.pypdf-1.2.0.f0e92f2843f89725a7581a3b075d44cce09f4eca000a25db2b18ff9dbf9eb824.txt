@@ -1,0 +1,99 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. April McClain Delaney
+Status: Member
+State/District:MD06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC A.O. Smith Corporation Common
+Stock (AOS) [ST]
+S (partial) 03/06/202504/01/2025$1,001 - $15,000
+F S: New
+DC BJ's Wholesale Club Holdings, Inc.
+Common Stock (BJ) [ST]
+P 03/17/202504/01/2025$1,001 - $15,000
+F S: New
+DC BJ's Wholesale Club Holdings, Inc.
+Common Stock (BJ) [ST]
+P 03/14/202504/01/2025$1,001 - $15,000
+F S: New
+DC Corpay, Inc. Common Stock (CPAY)
+[ST]
+P 03/13/202504/01/2025$1,001 - $15,000
+F S: New
+DC Dayforce, Inc. Common Stock (DAY)
+[ST]
+S (partial) 03/18/202504/01/2025$15,001 -
+$50,000
+F S: New
+DC IDEXX Laboratories, Inc. - Common
+Stock (IDXX) [ST]
+P 03/14/202504/01/2025$1,001 - $15,000
+F S: New
+DC ITT Inc. Common Stock (ITT) [ST] P 03/05/202504/01/2025$1,001 - $15,000
+F S: New
+DC Jones Lang LaSalle Incorporated
+Common Stock (JLL) [ST]
+P 03/05/202504/01/2025$1,001 - $15,000
+Filing ID #20029059
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+DC Jones Lang LaSalle Incorporated
+Common Stock (JLL) [ST]
+P 03/07/202504/01/2025$1,001 - $15,000
+F S: New
+DC Jones Lang LaSalle Incorporated
+Common Stock (JLL) [ST]
+P 03/10/202504/01/2025$1,001 - $15,000
+F S: New
+DC Jones Lang LaSalle Incorporated
+Common Stock (JLL) [ST]
+P 03/14/202504/01/2025$1,001 - $15,000
+F S: New
+DC Markel Group Inc. Common Stock
+(MKL) [ST]
+P 03/10/202504/01/2025$1,001 - $15,000
+F S: New
+DC Markel Group Inc. Common Stock
+(MKL) [ST]
+P 03/07/202504/01/2025$15,001 -
+$50,000
+F S: New
+DC Markel Group Inc. Common Stock
+(MKL) [ST]
+P 03/06/202504/01/2025$1,001 - $15,000
+F S: New
+DC Toro Company (TTC) [ST] S (partial) 03/20/202504/01/2025$1,001 - $15,000
+F S: New
+DC Viking Holdings Ltd Ordinary Shares
+(VIK) [ST]
+P 03/05/202504/01/2025$1,001 - $15,000
+F S: New
+DC Westinghouse Air Brake Technologies
+Corporation Common Stock (WAB)
+[ST]
+S (partial) 03/25/202504/01/2025$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+[[PAGE 3]]
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. April McClain Delaney , 04/02/2025

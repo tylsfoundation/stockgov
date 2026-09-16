@@ -1,0 +1,53 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Richard W. Allen
+Status: Member
+State/District:GA12
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP AutoZone, Inc. Common Stock (AZO)
+[ST]
+P 01/17/202502/04/2025$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+US Treasury Bill 912797JR9 [GS] S (partial) 01/08/202502/04/2025$15,001 -
+$50,000
+F S: New
+S O: SCH1
+US Treasury Bill 912797JR9 [GS] S (partial) 01/08/202502/04/2025$15,001 -
+$50,000
+F S: New
+S O: SCH1
+US Treasury Bill 91282CHB0 [GS] P 01/27/202502/04/2025$100,001 -
+$250,000
+F S: New
+S O: SCH1
+US Treasury Bill 91282CKE0 [GS] P 01/27/202502/04/2025$100,001 -
+$250,000
+F S: New
+S O: SCH1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Filing ID #20026727
+[[PAGE 2]]
+R.W. Allen & Associates, Inc. (Owner: SP)
+L: US
+R.W. Allen & Associates, Inc. ⇒ RWA&A - Securities (100% Interest) (Owner: SP)
+L: Augusta/ Richmond, GA, US
+SCH1
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Richard W. Allen , 02/20/2025

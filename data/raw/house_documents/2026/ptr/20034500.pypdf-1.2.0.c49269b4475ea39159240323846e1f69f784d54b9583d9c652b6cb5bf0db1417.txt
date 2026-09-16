@@ -1,0 +1,574 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Gilbert Cisneros
+Status: Member
+State/District:CA31
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Adobe Inc. - Common Stock (ADBE)
+[ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Advanced Micro Devices, Inc. (AMD)
+[ST]
+P 04/14/202605/07/2026$15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Alexandria Real Estate Equities, Inc.
+Common Stock (ARE) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 04/22/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Filing ID #20034500
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Apollo Global Management, Inc.
+(APO) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Applovin Corporation - Class A
+Common Stock (APP) [ST]
+S (partial) 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Automatic Data Processing, Inc. -
+Common Stock (ADP) [ST]
+S (partial) 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Booking Holdings Inc. - Common
+Stock (BKNG) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+BridgeBio Pharma, Inc. - Common
+Stock (BBIO) [ST]
+P 04/29/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Broadridge Financial Solutions, Inc.
+Common Stock (BR) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Carvana Co. Class A Common Stock
+(CVNA) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Charter Communications, Inc. - Class
+A Common Stock (CHTR) [ST]
+S (partial) 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Cognizant Technology Solutions
+Corporation - Class A Common Stock
+(CTSH) [ST]
+S (partial) 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Coinbase Global, Inc. - Class A
+Common Stock (COIN) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Comcast Corporation - Class A
+Common Stock (CMCSA) [ST]
+S (partial) 04/14/202605/07/2026$15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+ConAgra Brands, Inc. Common Stock
+(CAG) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+CoStar Group, Inc. - Common Stock
+(CSGP) [ST]
+S (partial) 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+CrowdStrike Holdings, Inc. - Class A
+Common Stock (CRWD) [ST]
+S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Datadog, Inc. - Class A Common
+Stock (DDOG) [ST]
+S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Domino's Pizza Inc - Common Stock
+(DPZ) [ST]
+S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+DoorDash, Inc. - Common Stock
+(DASH) [ST]
+P 05/01/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+DoorDash, Inc. - Common Stock
+(DASH) [ST]
+P 04/15/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DoorDash, Inc. - Common Stock
+(DASH) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+DoorDash, Inc. - Common Stock
+(DASH) [ST]
+P 04/06/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+DoorDash, Inc. - Common Stock
+(DASH) [ST]
+P 04/13/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Eli Lilly and Company Common Stock
+(LLY) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+EPAM Systems, Inc. Common Stock
+(EPAM) [ST]
+S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Equifax, Inc. Common Stock (EFX)
+[ST]
+S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Fair Isaac Corporation Common Stock
+(FICO) [ST]
+S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Fidelity National Information
+Services, Inc. Common Stock (FIS)
+[ST]
+S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+FirstService Corporation - Common
+Shares (FSV) [ST]
+P 05/01/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+FirstService Corporation - Common
+Shares (FSV) [ST]
+P 04/24/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Fiserv, Inc. - Common Stock (FISV)
+[ST]
+S (partial) 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Flex Ltd. - Ordinary Shares (FLEX)
+[ST]
+S (partial) 04/13/202605/07/2026$15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Flex Ltd. - Ordinary Shares (FLEX)
+[ST]
+S (partial) 04/15/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Flex Ltd. - Ordinary Shares (FLEX)
+[ST]
+S (partial) 04/22/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Flex Ltd. - Ordinary Shares (FLEX)
+[ST]
+S (partial) 04/27/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Flex Ltd. - Ordinary Shares (FLEX)
+[ST]
+S (partial) 05/01/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Fortinet, Inc. - Common Stock
+(FTNT) [ST]
+S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Gartner, Inc. Common Stock (IT) [ST]S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Gen Digital Inc. - Common Stock
+(GEN) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Gildan Activewear, Inc. Class A Sub.
+Vot. Common Stock (GIL) [ST]
+P 04/24/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Gildan Activewear, Inc. Class A Sub.
+Vot. Common Stock (GIL) [ST]
+P 04/27/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Gildan Activewear, Inc. Class A Sub.
+Vot. Common Stock (GIL) [ST]
+P 04/29/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Gildan Activewear, Inc. Class A Sub.
+Vot. Common Stock (GIL) [ST]
+P 04/22/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Global Payments Inc. Common Stock
+(GPN) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+GoDaddy Inc. Class A Common Stock
+(GDDY) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Hermes Intl S A Ordinary Shares
+(HESAF) [ST]
+S 04/23/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker RMS FP
+International Business Machines
+Corporation Common Stock (IBM)
+[ST]
+P 04/14/202605/07/2026$15,001 -
+$50,000
+F S: New
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: 150 Main Street Trust > Bank of America
+International Paper Company
+Common Stock (IP) [ST]
+S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Intuit Inc. - Common Stock (INTU)
+[ST]
+S (partial) 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Jack Henry & Associates, Inc. -
+Common Stock (JKHY) [ST]
+S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+LPL Financial Holdings Inc. -
+Common Stock (LPLA) [ST]
+P 05/01/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+LPL Financial Holdings Inc. -
+Common Stock (LPLA) [ST]
+P 04/06/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Lumentum Holdings Inc. - Common
+Stock (LITE) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S (partial) 04/14/202605/07/2026$15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Mosaic Company (MOS) [ST] S (partial) 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+News Corporation - Class B Common
+Stock (NWS) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Nike, Inc. Common Stock (NKE) [ST] S (partial) 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S (partial) 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Omnicom Group Inc. Common Stock
+(OMC) [ST]
+S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Palantir Technologies Inc. - Class A
+Common Stock (PLTR) [ST]
+P 04/14/202605/07/2026$15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Palo Alto Networks, Inc. (PANW) [ST]P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Paychex, Inc. - Common Stock
+(PAYX) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Paycom Software, Inc. Common Stock
+(PAYC) [ST]
+S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Revvity, Inc. Common Stock (RVTY)
+[ST]
+P 05/01/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Robinhood Markets, Inc. - Class A
+Common Stock (HOOD) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Roper Technologies, Inc. (ROP) [ST] P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Sensata Technologies Holding plc
+Ordinary Shares (ST) [ST]
+P 05/01/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+ServiceNow, Inc. Common Stock
+(NOW) [ST]
+S (partial) 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+SONY GROUP CORP (SNEJF) [ST] P 04/24/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker 6758 JP
+SS&C Technologies Holdings, Inc. -
+Common Stock (SSNC) [ST]
+S (partial) 04/13/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+SS&C Technologies Holdings, Inc. -
+Common Stock (SSNC) [ST]
+S (partial) 04/06/202605/07/2026$15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+SS&C Technologies Holdings, Inc. -
+Common Stock (SSNC) [ST]
+S 05/01/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+SS&C Technologies Holdings, Inc. -
+Common Stock (SSNC) [ST]
+S (partial) 04/29/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+STERIS plc (STE) [ST] P 05/01/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+STERIS plc (STE) [ST] P 04/29/202605/07/2026$1,001 - $15,000
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Tesla, Inc. - Common Stock (TSLA)
+[ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+The Kraft Heinz Company - Common
+Stock (KHC) [ST]
+S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+The Trade Desk, Inc. - Class A
+Common Stock (TTD) [ST]
+S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Trimble Inc. - Common Stock (TRMB)
+[ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Tyler Technologies, Inc. Common
+Stock (TYL) [ST]
+S (partial) 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Veralto Corp Common Stock (VLTO)
+[ST]
+P 04/06/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Veralto Corp Common Stock (VLTO)
+[ST]
+P 04/13/202605/07/2026$1,001 - $15,000
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Veralto Corp Common Stock (VLTO)
+[ST]
+P 05/01/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Verisk Analytics, Inc. - Common Stock
+(VRSK) [ST]
+S 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Verizon Communications Inc.
+Common Stock (VZ) [ST]
+P 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Wayfair Inc. Class A Common Stock
+(W) [ST]
+P 05/01/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Workday, Inc. - Class A Common
+Stock (WDAY) [ST]
+S (partial) 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Zoetis Inc. Class A Common Stock
+(ZTS) [ST]
+S (partial) 04/14/202605/07/2026$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+150 Main Street Trust
+150 Main Street Trust ⇒ Bank of America
+L: US
+I P O
+Yes No
+[[PAGE 12]]
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Gilbert Cisneros , 05/08/2026

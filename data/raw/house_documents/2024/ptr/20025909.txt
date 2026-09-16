@@ -1,0 +1,86 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Darrell E. Issa
+Status: Member
+State/District:CA48
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Treasury Bill CUSIP 912796YN3 due
+4/6/23 [GS]
+S (partial) 02/09/202302/09/2023$5,000,001 -
+$25,000,000
+F S: New
+S O: Account 2 Investment account-838
+D: Sale of Treasury Bill prior to maturity
+Treasury Bill CUSIP 912796YN3 due
+4/6/23 [GS]
+S (partial) 02/23/202302/23/2023$5,000,001 -
+$25,000,000
+F S: New
+S O: Account 2 Investment account-838
+D: Sale of Treasury Bill prior to maturity
+Treasury Bill CUSIP 912796YN3 Due
+4/6/23 [GS]
+S (partial) 03/10/202303/10/2023$5,000,001 -
+$25,000,000
+F S: New
+S O: Account 2 Investment account-838
+D: Sale of Treasury Bill prior to maturity
+Treasury Bill CUSIP 912796YN3 due
+4/6/23 [GS]
+S (partial) 03/15/202303/15/2023$5,000,001 -
+$25,000,000
+F S: New
+S O: Account 2 Investment account-838
+D: Sale of Treasury Bill prior to maturity
+Treasury Bill CUSIP 912796YN3 due
+4/6/23 [GS]
+S (partial) 03/24/202303/24/2023$5,000,001 -
+$25,000,000
+F S: New
+S O: Account 2 Investment account-838
+D: Sale of Treasury Bill prior to maturity
+Filing ID #20025909
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Treasury Bill CUSIP 91279FN2 due
+6/13/23 [GS]
+S 05/02/202305/02/2023$5,000,001 -
+$25,000,000
+F S: New
+S O: Account 1-Investment account-496
+D: Sale of Treasury Bill 6 weeks prior to maturity
+US Treasury Bill CUSIP 912796ZG7
+due 6/1/23 [GS]
+S 05/02/202305/02/2023$5,000,001 -
+$25,000,000
+F S: New
+S O: Account 1-Investment account-496
+D: Sale of Treasury Bill 1 month prior to maturity
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Account 1-Investment account-496 (100% Interest)
+L: CA, US
+Account 2 Investment account-838 (100% Interest)
+L: US
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Darrell E. Issa , 09/25/2024

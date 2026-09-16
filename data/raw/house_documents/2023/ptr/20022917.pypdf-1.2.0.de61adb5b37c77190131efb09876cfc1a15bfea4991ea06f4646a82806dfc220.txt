@@ -1,0 +1,40 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Katherine M. Clark
+Status: Member
+State/District:MA05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Warner Bros. Discovery, Inc. - Series
+A (WBD) [ST]
+E 04/08/202205/11/2023 $1,001 - $15,000
+F S: New
+S O: Judith S. Clark Irrevocable Trust
+D: Received shares of Warner Bros. Discovery, Inc. (WBD) in exchange for AT&T Inc. (T) as a result of spinoff.
+Warner Bros. Discovery, Inc. - Series
+A (WBD) [ST]
+E 04/08/202205/11/2023 $1,001 - $15,000
+F S: New
+S O: Katherine M. Clark Separate Share Trust
+D: Received shares of Warner Bros. Discovery, Inc. (WBD) in exchange for AT&T Inc. (T) as a result of spinoff.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Judith S. Clark Irrevocable Trust
+Katherine M. Clark Separate Share Trust
+D: inherited April 5, 2019
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Filing ID #20022917
+[[PAGE 2]]
+Digitally Signed: Hon. Katherine M. Clark , 06/08/2023

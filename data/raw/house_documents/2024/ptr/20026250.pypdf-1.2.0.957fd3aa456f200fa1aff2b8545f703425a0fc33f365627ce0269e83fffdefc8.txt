@@ -1,0 +1,71 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Neal Patrick Dunn, MD, FACS
+Status: Member
+State/District:FL02
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Cadence Bank 5.50% Series A
+(CADE$A) [ST]
+P 11/06/202411/19/2024 $1,001 - $15,000
+F S: New
+S O: IRA #3
+Capital One Financial Corporation
+Depositary shares each representing a
+1/40th interest in a share of Fixed
+Rate Non-Cumulative Perpetual
+Preferred Stock, Series I of the Issuer
+(COF$I) [ST]
+P 11/06/202411/19/2024 $1,001 - $15,000
+F S: New
+S O: IRA #3
+JP Morgan Chase & Co Depositary
+Shares Preferred Series GG [OT]
+P 11/06/202411/07/2024 $1,001 - $15,000
+F S: New
+S O: IRA #3
+L: US
+D: Publicly traded preferred shares
+Regions Financial Corporation
+Depositary Shares, Each Representing
+a 1/40th Interest in a Share of 4.45%
+Non-Cumulative Perpetual Preferred
+Stock, Series E (RF$E) [ST]
+P 11/06/202411/19/2024 $1,001 - $15,000
+F S: New
+S O: IRA #3
+U.S. Bancorp Depositary Shares each
+representing a 1/1,000th interest in a
+P 11/06/202411/19/2024 $1,001 - $15,000
+Filing ID #20026250
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+share of Series K Non-Cumulative
+Perpetual Preferred Stock (USB$P)
+[ST]
+F S: New
+S O: IRA #3
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+IRA #3
+D: Held at Merrill Lynch
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Neal Patrick Dunn, MD, FACS , 12/16/2024

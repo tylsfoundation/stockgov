@@ -1,0 +1,72 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. August Lee Pfluger II
+Status: Member
+State/District:TX11
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Amerco - Series N Non-Voting
+(UHALB) [ST]
+P 03/13/202603/31/2026$15,001 -
+$50,000
+F S: New
+S O: Investment
+Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+P 03/13/202603/31/2026$15,001 -
+$50,000
+F S: New
+S O: Investment
+Dorchester Minerals, L.P. - Common
+Units Representing Limited
+Partnership Interests (DMLP) [ST]
+P 03/13/202603/31/2026$15,001 -
+$50,000
+F S: New
+S O: Investment
+Enterprise Products Partners L.P.
+Common Stock (EPD) [ST]
+P 03/13/202603/31/2026$15,001 -
+$50,000
+F S: New
+S O: Investment
+Kimbell Royalty Partners Common
+Units Representing Limited Partner
+Interests (KRP) [ST]
+P 03/13/202603/31/2026$15,001 -
+$50,000
+F S: New
+S O: Investment
+Viper Energy, Inc. - Class A Common
+Stock (VNOM) [ST]
+P 03/13/202603/31/2026$15,001 -
+$50,000
+F S: New
+Filing ID #20034348
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Investment
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Investment
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. August Lee Pfluger II, 04/15/2026

@@ -1,0 +1,202 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. April McClain Delaney
+Status: Member
+State/District:MD06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC A.O. Smith Corporation Common
+Stock (AOS) [ST]
+S (partial) 02/18/202503/01/2025$15,001 -
+$50,000
+F S: New
+DC Brown & Brown, Inc. Common Stock
+(BRO) [ST]
+S (partial) 02/10/202503/01/2025$1,001 - $15,000
+F S: New
+DC Brown & Brown, Inc. Common Stock
+(BRO) [ST]
+S (partial) 02/05/202503/01/2025$1,001 - $15,000
+F S: New
+DC Brown & Brown, Inc. Common Stock
+(BRO) [ST]
+S (partial) 02/06/202503/01/2025$1,001 - $15,000
+F S: New
+DC CACI International, Inc. Class A
+Common Stock (CACI) [ST]
+S (partial) 02/22/202503/01/2025$1,001 - $15,000
+F S: New
+DC CACI International, Inc. Class A
+Common Stock (CACI) [ST]
+S (partial) 02/18/202503/01/2025$1,001 - $15,000
+F S: New
+DC CACI International, Inc. Class A
+Common Stock (CACI) [ST]
+P 02/27/202503/01/2025$1,001 - $15,000
+F S: New
+DC CDW Corporation - Common StockP 02/06/202503/01/2025$1,001 - $15,000
+Filing ID #20027975
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(CDW) [ST]
+F S: New
+DC Clean Harbors, Inc. Common Stock
+(CLH) [ST]
+S (partial) 02/10/202503/01/2025$1,001 - $15,000
+F S: New
+DC Clean Harbors, Inc. Common Stock
+(CLH) [ST]
+S (partial) 02/07/202503/01/2025$1,001 - $15,000
+F S: New
+DC Core & Main, Inc. Class A Common
+Stock (CNM) [ST]
+P 02/08/202503/01/2025$1,001 - $15,000
+F S: New
+DC Corpay, Inc. Common Stock (CPAY)
+[ST]
+P 02/22/202503/01/2025$1,001 - $15,000
+F S: New
+DC Corpay, Inc. Common Stock (CPAY)
+[ST]
+P 02/06/202503/01/2025$1,001 - $15,000
+F S: New
+DC Corpay, Inc. Common Stock (CPAY)
+[ST]
+P 02/28/202503/01/2025$15,001 -
+$50,000
+F S: New
+DC Entegris, Inc. - Common Stock
+(ENTG) [ST]
+P 02/17/202503/01/2025$1,001 - $15,000
+F S: New
+DC Fortune Brands Innovations, Inc.
+Common Stock (FBIN) [ST]
+P 02/17/202503/01/2025$1,001 - $15,000
+F S: New
+DC Fortune Brands Innovations, Inc.
+Common Stock (FBIN) [ST]
+P 02/08/202503/01/2025$1,001 - $15,000
+F S: New
+DC Labcorp Holdings Inc. Common Stock
+(LH) [ST]
+P 02/08/202503/01/2025$1,001 - $15,000
+F S: New
+DC Labcorp Holdings Inc. Common Stock
+(LH) [ST]
+P 02/17/202503/01/2025$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+DC Labcorp Holdings Inc. Common Stock
+(LH) [ST]
+P 02/27/202503/01/2025$1,001 - $15,000
+F S: New
+DC Labcorp Holdings Inc. Common Stock
+(LH) [ST]
+P 02/28/202503/01/2025$1,001 - $15,000
+F S: New
+DC Labcorp Holdings Inc. Common Stock
+(LH) [ST]
+P 02/05/202503/01/2025$1,001 - $15,000
+F S: New
+DC Live Nation Entertainment, Inc.
+Common Stock (LYV) [ST]
+S (partial) 02/14/202503/01/2025$1,001 - $15,000
+F S: New
+DC Paychex, Inc. - Common Stock
+(PAYX) [ST]
+P 02/05/202503/01/2025$1,001 - $15,000
+F S: New
+DC Paychex, Inc. - Common Stock
+(PAYX) [ST]
+P 02/27/202503/01/2025$1,001 - $15,000
+F S: New
+DC Paychex, Inc. - Common Stock
+(PAYX) [ST]
+P 02/21/202503/01/2025$1,001 - $15,000
+F S: New
+DC Paychex, Inc. - Common Stock
+(PAYX) [ST]
+P 02/09/202503/01/2025$1,001 - $15,000
+F S: New
+DC Revvity, Inc. Common Stock (RVTY)
+[ST]
+S 02/28/202503/01/2025$15,001 -
+$50,000
+F S: New
+DC Teledyne Technologies Incorporated
+Common Stock (TDY) [ST]
+S (partial) 02/22/202503/01/2025$15,001 -
+$50,000
+F S: New
+DC Tempur Sealy International, Inc.
+Common Stock (TPX) [ST]
+S (partial) 02/22/202503/01/2025$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+DC Tempur Sealy International, Inc.
+Common Stock (TPX) [ST]
+S (partial) 02/28/202503/01/2025$1,001 - $15,000
+F S: New
+DC Tempur Sealy International, Inc.
+Common Stock (TPX) [ST]
+S (partial) 02/21/202503/01/2025$1,001 - $15,000
+F S: New
+DC Tempur Sealy International, Inc.
+Common Stock (TPX) [ST]
+S (partial) 02/15/202503/01/2025$1,001 - $15,000
+F S: New
+DC Tempur Sealy International, Inc.
+Common Stock (TPX) [ST]
+S (partial) 02/16/202503/01/2025$1,001 - $15,000
+F S: New
+DC Tempur Sealy International, Inc.
+Common Stock (TPX) [ST]
+S (partial) 02/17/202503/01/2025$1,001 - $15,000
+F S: New
+DC Tractor Supply Company - Common
+Stock (TSCO) [ST]
+P 02/09/202503/01/2025$1,001 - $15,000
+F S: New
+DC Trimble Inc. - Common Stock (TRMB)
+[ST]
+S (partial) 02/10/202503/01/2025$1,001 - $15,000
+F S: New
+DC Viking Holdings Ltd Ordinary Shares
+(VIK) [ST]
+P 02/17/202503/01/2025$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. April McClain Delaney , 03/20/2025

@@ -1,0 +1,231 @@
+[[PAGE 1]]
+Filing Id #20017790
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, dC 20515
+filer information
+name: Hon. Katherine M. Clark
+Status: Member
+State/District: MA05
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP Abbott laboratories (AbT) [ST] P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Abbott laboratories (AbT) [ST] P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Alphabet Inc. - Class A (gOOgl) S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Alphabet Inc. - Class A (gOOgl) S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Apple Inc. (AAPl) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Apple Inc. (AAPl) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP bristol-Myers Squibb Company S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+(bMY) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP bristol-Myers Squibb Company S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+(bMY) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Coca-Cola European Partners plc S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+Ordinary Shares (CCEP) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Coca-Cola European Partners plc S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+Ordinary Shares (CCEP) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Costco Wholesale Corporation P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+(COST) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Costco Wholesale Corporation P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+(COST) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Elanco Animal Health Incorporated P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+(ElAN) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Elanco Animal Health Incorporated P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+(ElAN) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Fidelity National Information P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+Services, Inc. (FIS) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP Fidelity National Information P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+Services, Inc. (FIS) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP FlIR Systems, Inc. (FlIR) [ST] P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP FlIR Systems, Inc. (FlIR) [ST] P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP glaxoSmithKline PlC (gSK) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP glaxoSmithKline PlC (gSK) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Hologic, Inc. (HOlX) [ST] P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Hologic, Inc. (HOlX) [ST] P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Home depot, Inc. (Hd) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Home depot, Inc. (Hd) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP HSbC Holdings, plc. (HSbC) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+[[PAGE 4]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP HSbC Holdings, plc. (HSbC) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Intel Corporation (INTC) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Intel Corporation (INTC) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Invitation Homes Inc. (INVH) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Invitation Homes Inc. (INVH) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP JP Morgan Chase & Co. (JPM) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Kimberly-Clark Corporation (KMb) S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Kimberly-Clark Corporation (KMb) S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP ligand Pharmaceuticals S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+Incorporated (lgNd) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP ligand Pharmaceuticals S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+Incorporated (lgNd) [ST]
+FIlINg STATuS: New
+[[PAGE 5]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SubHOldINg OF: Ameriprise SEP IRA
+Microsoft Corp Note [CS] S 10/01/2020 11/20/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Judith S. Clark Irrevocable Trust
+dESCRIPTION: Redeemed 3.0%; 10/01/2020
+SP Mosaic Company (MOS) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Mosaic Company (MOS) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP National grid Transco, PlC P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+National grid PlC (Ngg) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP National grid Transco, PlC P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+National grid PlC (Ngg) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Oracle Corporation (ORCl) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Skechers u.S.A., Inc. (SKX) [ST] S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Sony Corporation (SNE) [ST] P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Sony Corporation (SNE) [ST] P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Taiwan Semiconductor S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+[[PAGE 6]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+Manufacturing Company ltd.
+(TSM) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Taiwan Semiconductor S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+Manufacturing Company ltd.
+(TSM) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP ubS group Ag Registered P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+Ordinary Shares (ubS) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP ubS group Ag Registered P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+Ordinary Shares (ubS) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP union Pacific Corporation (uNP) P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP union Pacific Corporation (uNP) P 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP unitedHealth group Incorporated S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+Common Stock (uNH) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP unitedHealth group Incorporated S 10/22/2020 11/27/2020 $1,001 - $15,000 gfedc
+Common Stock (uNH) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+[[PAGE 7]]
+Ameriprise SEP IRA (Owner: SP)
+Ameriprise Traditional IRA (Owner: SP)
+Judith S. Clark Irrevocable Trust
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Katherine M. Clark , 12/03/2020

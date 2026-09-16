@@ -1,0 +1,52 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Jonathan Jackson
+Status: Member
+State/District:IL01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Graphic Packaging Holding Company
+(GPK) [ST]
+S 10/11/202311/06/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+JT lululemon athletica inc. (LULU) [ST] P 10/30/202311/06/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+JT Marriott International - Class A
+(MAR) [ST]
+P 10/11/202311/06/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+JT NextEra Energy, Inc. (NEE) [ST] S 10/04/202311/06/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+JT The Hershey Company (HSY) [ST] S 10/30/202311/06/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Filing ID #20023965
+[[PAGE 2]]
+Morgan Stanley Trust Account (Owner: JT)
+D: 083057
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Jonathan Jackson , 11/16/2023

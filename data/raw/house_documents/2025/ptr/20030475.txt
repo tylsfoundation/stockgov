@@ -1,0 +1,148 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kelly Louise Morrison
+Status: Member
+State/District:MN03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000137338 CHASKA MN ELEC REVENUE
+REF - SER A DTD 10/01/15 [GS]
+P 04/01/202505/06/2025$1,001 - $15,000
+F S: Deleted
+S O: Trust 2
+D: Interest
+Houlihan Lokey, Inc. Class A
+Common Stock (HLI) [ST]
+S 06/04/202506/04/2025$1,001 - $15,000
+F S: New
+S O: Trust 5
+2000137339 MINNESOTA ST MUNI PWR AGY
+ELEC DTD 08/25/16 [GS]
+P 04/01/202505/06/2025$1,001 - $15,000
+F S: Deleted
+S O: Trust 2
+D: Interest
+Nike, Inc. Common Stock (NKE)
+[ST]
+S 06/04/202506/04/2025$1,001 - $15,000
+F S: New
+S O: Trust 3
+Nike, Inc. Common Stock (NKE)
+[ST]
+S 06/04/202506/04/2025$1,001 - $15,000
+F S: New
+S O: Trust 4
+ResMed Inc. Common Stock
+(RMD) [ST]
+S 06/04/202506/04/2025$1,001 - $15,000
+Filing ID #20030475
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Trust 4
+ResMed Inc. Common Stock
+(RMD) [ST]
+S 06/04/202506/04/2025$1,001 - $15,000
+F S: New
+S O: Trust 5
+ResMed Inc. Common Stock
+(RMD) [ST]
+S 06/04/202506/04/2025$1,001 - $15,000
+F S: New
+S O: Trust 2
+ResMed Inc. Common Stock
+(RMD) [ST]
+S 06/04/202506/04/2025$1,001 - $15,000
+F S: New
+S O: Trust 3
+United Parcel Service, Inc.
+Common Stock (UPS) [ST]
+S 06/04/202506/04/2025$1,001 - $15,000
+F S: New
+S O: Trust 2
+United Parcel Service, Inc.
+Common Stock (UPS) [ST]
+S 06/04/202506/04/2025$1,001 - $15,000
+F S: New
+S O: Trust 1
+United Parcel Service, Inc.
+Common Stock (UPS) [ST]
+S 06/04/202506/04/2025$1,001 - $15,000
+F S: New
+S O: Trust 5
+WEX Inc. common stock (WEX)
+[ST]
+S 06/04/202506/04/2025$1,001 - $15,000
+F S: New
+S O: Trust 4
+WEX Inc. common stock (WEX)
+[ST]
+S 06/04/202506/04/2025$1,001 - $15,000
+F S: New
+S O: Trust 5
+WEX Inc. common stock (WEX)
+[ST]
+S 06/04/202506/04/2025$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Trust 3
+Zebra Technologies Corporation -
+Class A Common Stock (ZBRA)
+[ST]
+S 06/04/202506/04/2025$1,001 - $15,000
+F S: New
+S O: Trust 3
+Zebra Technologies Corporation -
+Class A Common Stock (ZBRA)
+[ST]
+S 06/04/202506/04/2025$1,001 - $15,000
+F S: New
+S O: Trust 1
+Zebra Technologies Corporation -
+Class A Common Stock (ZBRA)
+[ST]
+S 06/04/202506/04/2025$15,001 -
+$50,000
+F S: New
+S O: Trust 2
+Zebra Technologies Corporation -
+Class A Common Stock (ZBRA)
+[ST]
+S 06/04/202506/04/2025$1,001 - $15,000
+F S: New
+S O: Trust 4
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Trust 1
+Trust 2
+Trust 3
+Trust 4
+Trust 5
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+[[PAGE 4]]
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kelly Louise Morrison , 06/18/2025

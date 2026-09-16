@@ -1,0 +1,95 @@
+[[PAGE 1]]
+Filing ID #20018692
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. David P. Joyce
+Status: Member
+State/District: OH14
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Fidelity Advisor Real Eastate S 01/15/2020 05/05/2021 $15,001 - gfedc
+Income Z FIKMX [OT] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce QSST Trust
+LOCATION: US
+DESCRIPTION: Mutual fund
+FIDELITY LIMITED TERM MUNI S 01/15/2020 05/05/2021 $1,001 - $15,000 gfedc
+INCOME FUND [OT]
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce QSST Trust
+LOCATION: US
+DESCRIPTION: MUTUAL FUND
+FIDELITY LIMITED TERM MUNI S 07/02/2020 05/05/2021 $15,001 - gfedc
+INCOME FUND [gS] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce QSST Trust
+global X Funds global X U.S. P 12/09/2020 05/05/2021 $1,001 - $15,000 gfedc
+Infrastructure Development ETF
+(PAVE) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: DPJ & KAJ joint account
+global X Funds global X U.S. P 12/11/2020 07/27/2021 $1,001 - $15,000 gfedc
+Infrastructure Development ETF
+(PAVE) [ST]
+FILINg STATUS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: DPJ & KAJ joint account
+golub Capital bDC, Inc. (gbDC) P 02/25/2020 05/05/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce QSST Trust
+iShares Core MSCI EAFE ETF S 06/26/2020 05/05/2021 $15,001 - gfedc
+(IEFA) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce QSST Trust
+iShares Core S&P 500 ETF (IVV) S 06/26/2020 05/05/2021 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce QSST Trust
+iShares Russell 2000 ETF (IWM) S 12/02/2020 07/27/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: DPJ & KAJ joint account
+iShares Russell 2000 ETF (IWM) S 06/26/2020 05/05/2021 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce QSST Trust
+iShares Russell 2000 ETF (IWM) S 12/09/2020 05/05/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: DPJ & KAJ joint account
+SPDR S&P 500 (SPY) [ST] P 06/08/2020 05/05/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: DPJ & KAJ joint account
+SPDR S&P 500 (SPY) [ST] P 03/11/2020 05/05/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: DPJ & KAJ joint account
+SPDR S&P bank ETF (KbE) [ST] P 06/08/2020 05/05/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: DPJ & KAJ joint account
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Vanguard Russell 1000 ETF P 03/26/2020 05/05/2021 $50,001 - gfedc
+(VONE) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce QSST Trust
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+David P. Joyce QSST Trust
+DPJ & KAJ joint account
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. David P. Joyce , 07/27/2021

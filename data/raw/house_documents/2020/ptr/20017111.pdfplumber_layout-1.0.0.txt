@@ -1,0 +1,88 @@
+[[PAGE 1]]
+Eagle Seal Filing Id #20017111
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. William R. Timmons IV
+Status: Member
+State/District: SC04
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP AbbVie Inc. (AbbV) [ST] S 06/29/2020 06/29/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+SP Amazon.com, Inc. (AMZN) [ST] S 06/29/2020 06/29/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+SP Amazon.com, Inc. (AMZN) [ST] P 05/28/2020 05/28/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+SP Apple Inc. (AAPl) [ST] S 06/29/2020 06/29/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+SP bank of America Corporation S 06/29/2020 06/29/2020 $1,001 - $15,000 gfedc
+(bAC) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+SP Chevron Corporation (CVX) [ST] S 06/29/2020 06/29/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+SP Facebook, Inc. - Class A (Fb) [ST] S 06/29/2020 06/29/2020 $1,001 - $15,000 gfedcb
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+SP gilead Sciences, Inc. (gIld) [ST] S 06/29/2020 06/29/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+SP Johnson & Johnson (JNJ) [ST] S 06/29/2020 06/29/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+SP Johnson & Johnson (JNJ) [ST] P 05/28/2020 05/28/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+SP Microsoft Corporation (MSFT) S 06/29/2020 06/29/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+SP Nike, Inc. (NKE) [ST] S 06/29/2020 06/29/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+SP Salesforce.com Inc (CRM) [ST] S 06/29/2020 06/29/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+SP Salesforce.com Inc (CRM) [ST] P 05/28/2020 05/28/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+SP Southern First bancshares, Inc. S 06/29/2020 06/29/2020 $1,001 - $15,000 gfedc
+(SFST) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+SP Starbucks Corporation (SbuX) S 05/28/2020 05/28/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Walmart Inc. (WMT) [ST] P 05/28/2020 05/28/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+SP Walmart Inc. (WMT) [ST] S 06/29/2020 06/29/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: FI-IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+FI-IRA (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. William R. Timmons IV, 08/07/2020

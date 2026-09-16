@@ -1,0 +1,108 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJ05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Alphabet Inc. - Depositary Shares
+representing a 1/20th Interest in a
+Share of Series A Mandatory
+Convertible Preferred Stock
+(GOOGM) [ST]
+P 07/24/202608/06/2026$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Alphabet Inc. - Depositary Shares
+representing a 1/20th Interest in a
+Share of Series B Mandatory
+Convertible Preferred Stock
+(GOOGN) [ST]
+P 07/23/202608/06/2026$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Alphabet Inc. - Depositary Shares
+representing a 1/20th Interest in a
+Share of Series B Mandatory
+Convertible Preferred Stock
+(GOOGN) [ST]
+P 07/24/202608/06/2026$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Chart Industries, Inc. (GTLS) [ST] S 07/17/202608/06/2026$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT CrowdStrike Holdings, Inc. - Class A
+Common Stock (CRWD) [ST]
+P 07/15/202608/06/2026$1,001 - $15,000
+F S: New
+Filing ID #20035186
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Morgan Stanley - Select UMA Account # 1
+JT Crown Castle Inc. Common Stock
+(CCI) [ST]
+S 07/23/202608/06/2026$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Fabrinet Ordinary Shares (FN) [ST] S 07/14/202608/06/2026$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT International Business Machines
+Corporation Common Stock (IBM)
+[ST]
+S (partial) 07/15/202608/06/2026$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT International Business Machines
+Corporation Common Stock (IBM)
+[ST]
+S 07/16/202608/06/2026$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Monster Beverage Corporation -
+Common Stock (MNST) [ST]
+P 07/17/202608/06/2026$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT NICE Ltd - American Depositary
+Shares each representing one
+Ordinary Share (NICE) [ST]
+P 07/20/202608/06/2026$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Palo Alto Networks, Inc. (PANW)
+[ST]
+P 07/16/202608/06/2026$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT SailPoint Technologies Holdings, Inc.
+(SAIL) [ST]
+P 07/20/202608/06/2026$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+[[PAGE 3]]
+I V D
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 08/10/2026

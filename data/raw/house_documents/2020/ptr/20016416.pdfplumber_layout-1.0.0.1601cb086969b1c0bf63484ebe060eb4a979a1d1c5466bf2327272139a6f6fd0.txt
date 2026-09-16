@@ -1,0 +1,80 @@
+[[PAGE 1]]
+Filing ID #20016416
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. John Curtis
+Status: Member
+State/District: uT03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+ACKSON MICH lTD TAX GO CAP P 04/14/2020 04/16/2020 $1,001 - $15,000 gfedc
+IMPT BDS 2018 5.000% 06/01/31
+B/E DTD 06/28/18 ClB ClB
+06/01/26 @100.000 BAM [CS]
+FIlING STATuS: New
+DESCRIPTION: ACKSON, MICHIGAN
+AllEGHENY CNTY PA GO BDS C- P 04/09/2020 04/14/2020 $1,001 - $15,000 gfedc
+69 5.000% 12/01/25 B/E DTD
+10/11/12 ClB ClB 12/01/22
+@100.000 [CS]
+FIlING STATuS: New
+DESCRIPTION: AllEGHENY COuNTY, PA
+FlORIDA ST BRD ED PuB ED P 04/09/2020 04/14/2020 $1,001 - $15,000 gfedc
+OuTlAY REF BDS 2012C 4.000%
+06/01/30 B/E DTD 08/23/12 ClB
+ClB 06/01/22 @100.000 [CS]
+FIlING STATuS: New
+DESCRIPTION: FlORIDA STATE
+lAKEVIllE MINN INDPT SCH P 04/07/2020 04/09/2020 $1,001 - $15,000 gfedc
+DIST NO 194 GO SCH BlDG REF
+BDS 2016 A 5.000% 02/01/23 B/E
+DTD 05/05/16 N/C [CS]
+FIlING STATuS: New
+DESCRIPTION: lAKEVIllE, MINNESOTA
+MESA ARIZ uTIl SYS REV REV P 04/02/2020 04/06/2020 $1,001 - $15,000 gfedc
+BDS 2011 5.000% 07/01/35 B/E
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DTD 06/02/11 ClB ClB 07/01/21
+@100.000 [CS]
+FIlING STATuS: New
+DESCRIPTION: MESA, ARIZONA
+PEARlAND TEX WTRWKS & P 04/07/2020 04/09/2020 $1,001 - $15,000 gfedc
+SWR SYS REV REV AND REF BDS
+2017 C 5.000% 09/01/23 B/E DTD
+08/01/17 N/C [CS]
+FIlING STATuS: New
+DESCRIPTION: PEARlAND, TEXAS
+PRINCE GEORGES CNTY MD GO P 04/02/2020 04/06/2020 $1,001 - $15,000 gfedc
+CONS PuB IMPT BDS 2014A
+4.000% 09/01/32 B/E DTD
+09/30/14 ClB ClB 09/01/24
+@100.000 [CS]
+FIlING STATuS: New
+DESCRIPTION: PRINCE GEORGES COuNTY, MD
+TulSA CNTY OKlA INDPT SCH P 04/09/2020 04/14/2020 $1,001 - $15,000 gfedc
+DIST NO 001 TulSA COMBINED
+PuRP BDS 2016 B
+2.000%08/01/21 B/E DTD
+08/01/16 N/C [CS]
+FIlING STATuS: New
+DESCRIPTION: TulSA COuNTY, OKlAHOMA
+WASHINGTON ST uNIV REVS P 04/07/2020 04/07/2020 $1,001 - $15,000 gfedc
+GEN REV AND REF BDS 2013
+5.000% 10/01/22 B/E DTD
+04/02/13 N/C [CS]
+FIlING STATuS: New
+DESCRIPTION: WASHINGTON STATE
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. John Curtis , 04/20/2020

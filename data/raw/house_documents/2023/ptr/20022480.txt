@@ -1,0 +1,839 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Daniel Goldman
+Status: Member
+State/District:NY10
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+AB Electrolux Class B American
+Depositary Receipts (ELUXY) [ST]
+S 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+ADYEN N.V. ADR CMN (ADYEY)
+[OT]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Aeon Co Ltd American Depositary
+Shares (AONNY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+AIA Group, Ltd. Sponsored American
+Depository Receipt (AAGIY) [ST]
+S (partial) 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Ajinomoto Company, Inc. American
+Depositary Shares (AJINY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Altria Group, Inc. (MO) [ST] P 02/03/202303/01/2023$1,001 - $15,000
+F S: New
+Filing ID #20022480
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+Anheuser-Busch Inbev SA Sponsored
+ADR (BUD) [ST]
+S (partial) 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+ANZ GROUP HOLDINGS LTD ADR
+CMN (ANZGY) [OT]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+ASML Holding N.V. - New York
+Registry Shares (ASML) [ST]
+S (partial) 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Astellas Pharma Inc Unsponsored
+ADR (ALPMY) [ST]
+P 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+ASX Ltd Unsponsored ADR (ASXFY)
+[ST]
+S (partial) 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Atlas Copco Ab Sponsored ADR
+repstg Class A (ATLKY) [ST]
+S (partial) 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Bayer Aktiengesellschaft American
+Depositary Shares (BAYRY) [ST]
+P 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Berkshire Hathaway Inc. New
+(BRK.B) [ST]
+S (partial) 02/03/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+British American Tobacco Industries,P 02/27/202303/01/2023$15,001 -
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+p.l.c. Common Stock ADR (BTI) [ST] $50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Central Japan Railway Co
+Unsponsored ADR (CJPRY) [ST]
+S 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+CF Industries Holdings, Inc. (CF) [ST]S 02/03/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+CHERRY HILL TWP N J SCH DIST
+GO 3% 08/01/29 FA [GS]
+S 02/24/202303/01/2023$250,001 -
+$500,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+Chugai Pharmaceutical Ltd
+Unsponsored ADR (CHGCY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Coca-Cola Company (KO) [ST] S 02/03/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+Columbus Ohio 5.000% Due 08-15-23
+[GS]
+S 02/15/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > AWD, LLC > Breckinridge Capital Advisors, Inc.
+Commerzbank Junge Shs American
+Depositary Shares (CRZBY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Credit Suisse Group American
+Depositary Shares (CS) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Csl Ltd SPONSORED ADR (CSLLY)
+[ST]
+P 02/27/202303/01/2023$15,001 -
+$50,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+CT Swap Rec 1M-USD-SOFR CME
+Term Pay 1M-FIXED- 1.685000% Exp
+Mar 07, 2027 [OT]
+S 02/10/202303/01/2023$1,000,001 -
+$5,000,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > SWAP
+L: US
+D: Interest Rate SWAP
+Daikin Inds Ltd Unsponsored ADR
+(DKILY) [ST]
+P 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Daiwa House Ind Ltd American
+Depositary Shares (DWAHY) [ST]
+S (partial) 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Dentsu Inc Tokyo Unsponsored ADR
+(DNTUY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Diageo plc (DEO) [ST] S (partial) 02/27/202303/01/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Eli Lilly and Company (LLY) [ST] S 02/03/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+Enphase Energy, Inc. (ENPH) [ST] S 02/03/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+EPIROC AB ADR CMN (EPOKY) [OT]P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Ericsson - American Depositary
+Shares each representing 1 underlying
+Class B share (ERIC) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Essilor International SA ADR
+(ESLOY) [ST]
+S (partial) 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Fanuc Corporation Unsponsored ADR
+(FANUY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Fast Retailing Co Ltd Unsponsored
+ADR (FRCOY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Fujitsu Ltd ADR (FJTSY) [ST] P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Givaudan SA Unsponsored ADR
+(GVDNY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Grifols, S.A. - American Depositary
+Shares (GRFS) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Haleon plc American Depositary
+Shares (HLN) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Hexagon AB American Depositary
+Shares (HXGBY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Hitachi, Ltd. American Depositary
+Shares (HTHIY) [ST]
+S (partial) 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Hoya Corp Sponsored ADR (HOCPY)
+[ST]
+P 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+HSBC Holdings, plc. (HSBC) [ST] P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Intercontinental Hotels Group
+American Depositary Shares (IHG)
+[ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Itochu Techno-Solutions Corp
+Unsponsored ADR (ITTOY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+James Hardie Industries plc American
+Depositary Shares (JHX) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Japan Tobacco Unsponsored
+American Depository Receipt
+(JAPAY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Johnson & Johnson (JNJ) [ST] P 02/03/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+KDDI Corporation Unsponsored ADR
+(KDDIY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Kerry Group Plc Sponsored ADR
+(KRYAY) [ST]
+P 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Kesko OYJ Unsponsored ADR
+representing B shares (KKOYY) [ST]
+S 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Kirin Holdings Company, Limited
+Sponsored ADR (KNBWY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+KONINKLIJKE AHOLD N.V.
+SPONSORED ADR CMN (ADRNY)
+[OT]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+KOSE CORPORATION ADR CMN
+(KSRYY) [OT]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+M3, INC. ADR CMN (MTHRY) [OT] S 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+MERCEDES-BENZ GROUP AG ADR
+CMN (MBGYY) [OT]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Mitsubishi Estate Co Ltd AmericanP 02/27/202303/01/2023$15,001 -
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Depositary Shares (MITEY) [ST] $50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Mitsui Fudosan Co Ltd Unsponsored
+ADR (MTSFY) [ST]
+S (partial) 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Mitsui Osk Lines Ltd Unsponsored
+ADR (MSLOY) [ST]
+P 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Monotaro Co. Ltd., Osaka
+Unsponsored ADR (MONOY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+MOWI ASA SPONSORED ADR CMN
+(MHGVY) [OT]
+S 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+N J HEALTH CARE FACS FING REV
+5.0000% 07/01/30-CA JJ [GS]
+S 02/24/202303/01/2023$100,001 -
+$250,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+N Y N Y CITY TRANSITIONAL FIN
+REV 5% 11/01/30 MN [GS]
+P 02/09/202303/01/2023$250,001 -
+$500,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+N Y ST DORM AUTH REVS NON ST
+S REV 5% 10/01/28 AO [GS]
+P 02/23/202303/01/2023$100,001 -
+$250,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+Namco Bandai Holdings Inc
+Hamamatsu American Depositary
+Shares (NCBDY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+National Australia Bank Limited
+(NABZY) [ST]
+S (partial) 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+National Grid Transco, PLC National
+Grid PLC (NGG) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Nestle SA Sponsored ADR
+representing Registered Shares Series
+B (NSRGY) [ST]
+P 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+NEW YORK N Y GO 5% 08/01/27 FA
+[GS]
+P 02/24/202303/01/2023$250,001 -
+$500,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+NEW YORK ST DORM AUTH ST
+PERS REV 5% 03/15/28 MS [GS]
+P 02/22/202303/01/2023$100,001 -
+$250,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+NIDEC CORPORATION
+SPONSORED ADR (NJDCY) [OT]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Nintendo Co Ltd ADR (NTDOY) [ST] S (partial) 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+NIPPON SHINYAKU CO., LTD. ADR
+CMN (NPPNY) [OT]
+S 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+NITORI HOLDINGS CO., LTD. ADR
+CMN (NCLTY) [OT]
+S 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Nokia Corporation Sponsored
+American Depositary Shares (NOK)
+[ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Nomura Resh Inst Ltd ADR (NRILY)
+[ST]
+S 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+NORDEA BANK ABP SPONSORED
+ADR CMN (NRDBY) [OT]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Novartis AG (NVS) [ST] S (partial) 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Ntt Data Corp Ltd Unsponsored ADR
+(NTDTY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+OCADO GROUP PLC SPONSORED
+ADR CMN (OCDDY) [OT]
+S (partial) 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+OLYMPUS CORPORATION ADR
+CMN (OLYMY) [OT]
+P 02/27/202303/01/2023$1,001 - $15,000
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Oriental Land Co Ltd Unsponsored
+ADR (OLCLY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+ORSTED A/S ADR CMN (DNNGY)
+[OT]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Otsuka Holdings Co. Ltd, Tokyo
+Unsponsored ADR (OTSKY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+PAN PACIFIC INTNTNAL HOLD
+CORP ADR CMN (DQJCY) [OT]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Qantas Airways Ltd (QABSY) [ST] P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+RECRUIT HOLDINGS CO., LTD.
+ADR (RCRUY) [OT]
+S 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+RELX PLC PLC American Depositary
+Shares (RELX) [ST]
+P 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+[[PAGE 12]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Rentokil Initial plc American
+Depositary Shares (RTO) [ST]
+S (partial) 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Rio Tinto Plc (RIO) [ST] P 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Roche Holdings AG Basel American
+Depositary Shares (RHHBY) [ST]
+S (partial) 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Sanofi - American Depositary Shares
+(SNY) [ST]
+S (partial) 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Seek Ltd Unsponsored ADR (SKLTY)
+[ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Seven & I Holdings Co Ltd
+Unsponsored ADR (SVNDY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Shin-Etsu Chemical Co Ltd
+Unsponsored ADR (SHECY) [ST]
+P 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Shionogi & Co Ltd Unsponsored ADR
+(SGIOY) [ST]
+S 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Shiseido Co Ltd Ord American
+Depositary Shares (SSDOY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+[[PAGE 13]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Singapore Telecommunications
+Limited Sponsored ADR New 2006
+(SGAPY) [ST]
+S 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Smurfit Kappa Group Plc American
+Depositary Shares (SMFKY) [ST]
+S (partial) 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Softbank Corp Unsponsored ADR
+(SFTBY) [ST]
+S (partial) 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+SOMPO JAPAN NIPPONKOA
+HLDGS IN ADR CMN (SMPNY) [OT]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Sumitomo Chemical Co Ltd
+Unsponsored ADR (SOMMY) [ST]
+S (partial) 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Suntory Beverage & Food Ltd
+American Depositary Shares (STBFY)
+[ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Sysmex Corporation Unsponsored
+ADR (SSMXY) [ST]
+S (partial) 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+S (partial) 02/27/202303/01/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Takeda Pharmaceutical CompanyP 02/27/202303/01/2023$1,001 - $15,000
+[[PAGE 14]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Limited American Depositary Shares
+(TAK) [ST]
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Techtronic Industries Company Ltd
+American Depositary Shares (TTNDY)
+[ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Telenor ASA American Depositary
+Shares (TELNY) [ST]
+P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Terumo Corp Unsponsored ADR
+(TRUMY) [ST]
+S 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Tesla, Inc. (TSLA) [ST] P 02/03/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+THE CITY OF NEW YORK GO
+5.0000% 08/01/28-CA FA [GS]
+P 02/13/202303/01/2023$100,001 -
+$250,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+Tokio Marine Holdings, Inc.
+Sponsored ADR (TKOMY) [ST]
+S (partial) 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Tokyo Electron Ltd Unsponsored
+ADR (TOELY) [ST]
+P 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Toshiba Corp Unsponsored ADR
+(TOSYY) [ST]
+S 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+[[PAGE 15]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Toto Ltd Ord American Depositary
+Shares (TOTDY) [ST]
+S 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Toyota Motor Corporation (TM) [ST] S (partial) 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+UCB Unsponsored ADR (UCBJY) [ST]P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Unicharm Corp Sponsored ADR
+(UNICY) [ST]
+S 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Unilever PLC (UL) [ST] P 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+UNIVERSAL MUSIC GROUP NV
+ADR CMN (UNVGY) [OT]
+S 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+UPPER MOHAWK VY REGL WTR
+FIN REV 5% 04/01/30 AO [GS]
+P 02/23/202303/01/2023$100,001 -
+$250,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+Vodafone Group Plc - American
+Depositary Shares each representing
+ten Ordinary Shares (VOD) [ST]
+P 02/27/202303/01/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Washington Subn San Dist MD
+5.000% Due 06-01-34 [GS]
+P 02/17/202303/01/2023$1,001 - $15,000
+F S: New
+[[PAGE 16]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Daniel Goldman 1997 Trust > AWD, LLC > Breckinridge Capital Advisors, Inc.
+West Japan Railway Co Unsponsored
+ADR (WJRYY) [ST]
+S (partial) 02/27/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Daniel Goldman 1997 Trust
+Daniel Goldman 1997 Trust ⇒ AWD, LLC
+L: US
+Daniel Goldman 1997 Trust ⇒ AWD, LLC ⇒ Breckinridge Capital Advisors, Inc.
+L: US
+Daniel Goldman 1997 Trust ⇒ DSG Investment Holdings LLC
+L: US
+Daniel Goldman 1997 Trust ⇒ DSG Investment Holdings LLC ⇒ TACS
+L: US
+Daniel Goldman Grandchildren 1986 Trust
+Daniel Goldman Grandchildren 1986 Trust ⇒ MUNI ESG
+L: US
+Daniel Goldman Grandchildren 1986 Trust ⇒ SWAP
+L: US
+Daniel Goldman Grandchildren 1986 Trust ⇒ TLH ADR
+L: US
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Daniel Goldman , 03/20/2023

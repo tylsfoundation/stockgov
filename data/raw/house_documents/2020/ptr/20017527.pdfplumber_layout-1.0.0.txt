@@ -1,0 +1,59 @@
+[[PAGE 1]]
+Filing ID #20017527
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Kevin Hern
+Status: Member
+State/District: OK01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT BARCLAYS BANK PLC SER A S 09/01/2020 09/02/2020 $250,001 - gfedc
+MTN [CS] $500,000
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Full Call of the MTN by Barclays
+JT Exxon Mobil Corporation (XOM) P 09/10/2020 09/11/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Dividend Reinvestment
+JT Home Depot, Inc. (HD) [ST] P 09/17/2020 09/18/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Dividend Reinvestment
+JT Microsoft Corporation (MSFT) P 09/10/2020 09/11/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Dividend Reinvest
+JT MORgAN STANLEY FIN LLC P 09/18/2020 09/19/2020 $250,001 - gfedc
+SER A MTN [CS] $500,000
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Open purchase of Morgan Stanley Bank MTN CUSIP: 61771B3V4
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Williams Companies, Inc. (WMB) P 09/28/2020 09/29/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Dividend Reinvestment
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+DESCRIPTION: Family Revocable Trust
+Hern Family Revocable Trust ⇒ Brokerage Investment Account (100% Interest) (Owner: JT)
+LOCATION: US
+DESCRIPTION: Stock, Bonds, EFTs, & Mutual funds
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 10/15/2020

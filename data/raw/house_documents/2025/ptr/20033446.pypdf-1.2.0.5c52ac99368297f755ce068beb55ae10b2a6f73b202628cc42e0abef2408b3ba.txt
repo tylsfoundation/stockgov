@@ -1,0 +1,2718 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Lisa McClain
+Status: Member
+State/District:MI09
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP AbbVie Inc. Common Stock (ABBV)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP AbbVie Inc. Common Stock (ABBV)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP AbbVie Inc. Common Stock (ABBV)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP ACI Worldwide, Inc. - Common Stock
+(ACIW) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP ACI Worldwide, Inc. - Common Stock
+(ACIW) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP ACI Worldwide, Inc. - Common Stock
+(ACIW) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+Filing ID #20033446
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Advanced Micro Devices, Inc. (AMD)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Advanced Micro Devices, Inc. (AMD)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Advanced Micro Devices, Inc. (AMD)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Akamai Technologies, Inc. - Common
+Stock (AKAM) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Akamai Technologies, Inc. - Common
+Stock (AKAM) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Akamai Technologies, Inc. - Common
+Stock (AKAM) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Alexander & Baldwin, Inc. Common
+Stock REIT Holding Company (ALEX)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Alexander & Baldwin, Inc. Common
+Stock REIT Holding Company (ALEX)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Alexander & Baldwin, Inc. Common
+Stock REIT Holding Company (ALEX)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Alibaba Group Holding Limited
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Alibaba Group Holding Limited
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Alibaba Group Holding Limited
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Allegion plc Ordinary Shares (ALLE)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Allegion plc Ordinary Shares (ALLE)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Allegion plc Ordinary Shares (ALLE)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+S 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP American Express Company Common
+Stock (AXP) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP American Express Company Common
+Stock (AXP) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP American Express Company Common
+Stock (AXP) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP American Homes 4 Rent Common
+Shares of Beneficial Interest (AMH)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP American Homes 4 Rent Common
+Shares of Beneficial Interest (AMH)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP American Homes 4 Rent Common
+Shares of Beneficial Interest (AMH)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP AppFolio, Inc. - Class A Common
+Stock (APPF) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP AppFolio, Inc. - Class A Common
+Stock (APPF) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP AppFolio, Inc. - Class A Common
+Stock (APPF) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Apple Inc. - Common Stock (AAPL)
+[ST]
+S 10/31/202511/01/2025 $15,001 -
+$50,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Apple Inc. - Common Stock (AAPL)
+[ST]
+P 10/30/202511/01/2025 $15,001 -
+$50,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Apple Inc. - Common Stock (AAPL)
+[ST]
+S 10/30/202511/01/2025 $15,001 -
+$50,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Apple Inc. - Common Stock (AAPL)
+[ST]
+S (partial) 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Arista Networks, Inc. Common Stock
+(ANET) [ST]
+S 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP ASML Holding N.V. - New York
+Registry Shares (ASML) [ST]
+S (partial) 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP ASML Holding N.V. - New York
+Registry Shares (ASML) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP ASML Holding N.V. - New York
+Registry Shares (ASML) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP ASML Holding N.V. - New York
+Registry Shares (ASML) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP AstraZeneca PLC - American
+Depositary Shares (AZN) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP AstraZeneca PLC - American
+Depositary Shares (AZN) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP AstraZeneca PLC - American
+Depositary Shares (AZN) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP AvalonBay Communities, Inc.
+Common Stock (AVB) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP AvalonBay Communities, Inc.
+Common Stock (AVB) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP AvalonBay Communities, Inc.
+Common Stock (AVB) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Bank of America Corporation
+Common Stock (BAC) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Bank of America Corporation
+Common Stock (BAC) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Bank of America Corporation
+Common Stock (BAC) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Barclays PLC Common Stock (BCS)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Barclays PLC Common Stock (BCS)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Barclays PLC Common Stock (BCS)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Baxter International Inc. Common
+Stock (BAX) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Baxter International Inc. Common
+Stock (BAX) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Baxter International Inc. Common
+Stock (BAX) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP BHP Group Limited American
+Depositary Shares (BHP) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP BHP Group Limited American
+Depositary Shares (BHP) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP BHP Group Limited American
+Depositary Shares (BHP) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP BlackLine, Inc. - Common Stock (BL)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP BlackLine, Inc. - Common Stock (BL)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP BlackLine, Inc. - Common Stock (BL)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP BlackRock, Inc. Common Stock (BLK)
+[ST]
+S 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Boston Scientific Corporation
+Common Stock (BSX) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Boston Scientific Corporation
+Common Stock (BSX) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Boston Scientific Corporation
+Common Stock (BSX) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP BP p.l.c. Common Stock (BP) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP BP p.l.c. Common Stock (BP) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP BP p.l.c. Common Stock (BP) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Brinks Company (BCO) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Brinks Company (BCO) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Brinks Company (BCO) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Broadcom Inc. - Common Stock
+(AVGO) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Broadcom Inc. - Common Stock
+(AVGO) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Brown & Brown, Inc. Common Stock
+(BRO) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Brown & Brown, Inc. Common Stock
+(BRO) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Brown & Brown, Inc. Common Stock
+(BRO) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Charles Schwab 401K > Schwab 893
+SP BWX Technologies, Inc. Common
+Stock (BWXT) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP BWX Technologies, Inc. Common
+Stock (BWXT) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP BWX Technologies, Inc. Common
+Stock (BWXT) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP CACI International, Inc. Class A
+Common Stock (CACI) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP CACI International, Inc. Class A
+Common Stock (CACI) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP CACI International, Inc. Class A
+Common Stock (CACI) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Caseys General Stores, Inc. - Common
+Stock (CASY) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Caseys General Stores, Inc. - Common
+Stock (CASY) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Caseys General Stores, Inc. - Common
+Stock (CASY) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+[[PAGE 12]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Charles Schwab Brokerage Account 924
+SP Chord Energy Corporation - Common
+Stock (CHRD) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Chord Energy Corporation - Common
+Stock (CHRD) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Chord Energy Corporation - Common
+Stock (CHRD) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Ciena Corporation (CIEN) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Ciena Corporation (CIEN) [ST] S 10/15/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Ciena Corporation (CIEN) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Ciena Corporation (CIEN) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Clorox Company (CLX) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Clorox Company (CLX) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Clorox Company (CLX) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+[[PAGE 13]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Coca-Cola Company (KO) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Coca-Cola Company (KO) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Coca-Cola Company (KO) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Coherent Corp. (COHR) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Coherent Corp. (COHR) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Coherent Corp. (COHR) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP ConocoPhillips Common Stock (COP)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP ConocoPhillips Common Stock (COP)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP ConocoPhillips Common Stock (COP)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 14]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Constellation Energy Corporation -
+Common Stock (CEG) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Constellation Energy Corporation -
+Common Stock (CEG) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Constellation Energy Corporation -
+Common Stock When-Issued (CEG)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Core & Main, Inc. Class A Common
+Stock (CNM) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Core & Main, Inc. Class A Common
+Stock (CNM) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Core & Main, Inc. Class A Common
+Stock (CNM) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Cummins Inc. Common Stock (CMI)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Cummins Inc. Common Stock (CMI)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Cummins Inc. Common Stock (CMI)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 15]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP CVS Health Corporation Common
+Stock (CVS) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP CVS Health Corporation Common
+Stock (CVS) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP CVS Health Corporation Common
+Stock (CVS) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP D.R. Horton, Inc. Common Stock
+(DHI) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP D.R. Horton, Inc. Common Stock
+(DHI) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP D.R. Horton, Inc. Common Stock
+(DHI) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Darden Restaurants, Inc. Common
+Stock (DRI) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Darden Restaurants, Inc. Common
+Stock (DRI) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Darden Restaurants, Inc. Common
+Stock (DRI) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 16]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Datadog, Inc. - Class A Common
+Stock (DDOG) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Datadog, Inc. - Class A Common
+Stock (DDOG) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Datadog, Inc. - Class A Common
+Stock (DDOG) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP DBA Sempra Common Stock (SRE)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP DBA Sempra Common Stock (SRE)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP DBA Sempra Common Stock (SRE)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Dell Technologies Inc. Class C
+Common Stock (DELL) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Dell Technologies Inc. Class C
+Common Stock (DELL) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Dell Technologies Inc. Class C
+Common Stock (DELL) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 17]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Delta Air Lines, Inc. Common Stock
+(DAL) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Delta Air Lines, Inc. Common Stock
+(DAL) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Delta Air Lines, Inc. Common Stock
+(DAL) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Dick's Sporting Goods Inc Common
+Stock (DKS) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Dick's Sporting Goods Inc Common
+Stock (DKS) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Dick's Sporting Goods Inc Common
+Stock (DKS) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Duke Energy Corporation (DUK) [ST]S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Duke Energy Corporation (DUK) [ST]S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Duke Energy Corporation (DUK) [ST]P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Eaton Corporation, PLC Ordinary
+Shares (ETN) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+[[PAGE 18]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Eaton Corporation, PLC Ordinary
+Shares (ETN) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Eaton Corporation, PLC Ordinary
+Shares (ETN) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP EchoStar Corporation - Common
+stock (SATS) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP EchoStar Corporation - Common
+stock (SATS) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP EchoStar Corporation - Common
+stock (SATS) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Ecolab Inc. Common Stock (ECL)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Ecolab Inc. Common Stock (ECL)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Ecolab Inc. Common Stock (ECL)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP EMCOR Group, Inc. Common Stock
+(EME) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+[[PAGE 19]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP EMCOR Group, Inc. Common Stock
+(EME) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP EMCOR Group, Inc. Common Stock
+(EME) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Encompass Health Corporation
+Common Stock (EHC) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Encompass Health Corporation
+Common Stock (EHC) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Encompass Health Corporation
+Common Stock (EHC) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Entegris, Inc. - Common Stock
+(ENTG) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Entegris, Inc. - Common Stock
+(ENTG) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Entegris, Inc. - Common Stock
+(ENTG) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Essential Utilities, Inc. Common
+Stock (WTRG) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+[[PAGE 20]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Essential Utilities, Inc. Common
+Stock (WTRG) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Essential Utilities, Inc. Common
+Stock (WTRG) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Exelon Corporation (EXC) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Exelon Corporation (EXC) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Exelon Corporation (EXC) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Exxon Mobil Corporation Common
+Stock (XOM) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Exxon Mobil Corporation Common
+Stock (XOM) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Exxon Mobil Corporation Common
+Stock (XOM) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Fabrinet Ordinary Shares (FN) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 21]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Fabrinet Ordinary Shares (FN) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Fabrinet Ordinary Shares (FN) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Five Below, Inc. - Common Stock
+(FIVE) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Five Below, Inc. - Common Stock
+(FIVE) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Five Below, Inc. - Common Stock
+(FIVE) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Flex Ltd. - Ordinary Shares (FLEX)
+[ST]
+S 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP FMC Corporation Common Stock
+(FMC) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP FMC Corporation Common Stock
+(FMC) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP FMC Corporation Common Stock
+(FMC) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 22]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Fortinet, Inc. - Common Stock
+(FTNT) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Fortinet, Inc. - Common Stock
+(FTNT) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Fortinet, Inc. - Common Stock
+(FTNT) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Gartner, Inc. Common Stock (IT) [ST]S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Gartner, Inc. Common Stock (IT) [ST]P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Gartner, Inc. Common Stock (IT) [ST]S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Getty Realty Corporation Common
+Stock (GTY) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Getty Realty Corporation Common
+Stock (GTY) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Getty Realty Corporation Common
+Stock (GTY) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Goldman Sachs Group, Inc. (GS) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+[[PAGE 23]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Goldman Sachs Group, Inc. (GS) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Goldman Sachs Group, Inc. (GS) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP GSK plc American Depositary Shares
+(GSK) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP GSK plc American Depositary Shares
+(GSK) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP GSK plc American Depositary Shares
+(GSK) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Hasbro, Inc. - Common Stock (HAS)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Hasbro, Inc. - Common Stock (HAS)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Hasbro, Inc. - Common Stock (HAS)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP HDFC Bank Limited Common Stock
+(HDB) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+[[PAGE 24]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Charles Schwab 401K > Schwab 893
+SP HDFC Bank Limited Common Stock
+(HDB) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP HDFC Bank Limited Common Stock
+(HDB) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Hewlett Packard Enterprise Company
+Common Stock (HPE) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Hewlett Packard Enterprise Company
+Common Stock (HPE) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Hewlett Packard Enterprise Company
+Common Stock (HPE) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Home BancShares, Inc. Common
+Stock (HOMB) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Home BancShares, Inc. Common
+Stock (HOMB) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Home BancShares, Inc. Common
+Stock (HOMB) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Honda Motor Company, Ltd.
+Common Stock (HMC) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+[[PAGE 25]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Charles Schwab Brokerage Account 924
+SP Honda Motor Company, Ltd.
+Common Stock (HMC) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Honda Motor Company, Ltd.
+Common Stock (HMC) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Howmet Aerospace Inc. Common
+Stock (HWM) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Howmet Aerospace Inc. Common
+Stock (HWM) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Howmet Aerospace Inc. Common
+Stock (HWM) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP HSBC Holdings, plc. Common Stock
+(HSBC) [ST]
+S 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Humana Inc. Common Stock (HUM)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Humana Inc. Common Stock (HUM)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Humana Inc. Common Stock (HUM)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+[[PAGE 26]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Charles Schwab 401K > Schwab 893
+SP Hyatt Hotels Corporation Class A
+Common Stock (H) [ST]
+S 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP IDEX Corporation Common Stock
+(IEX) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP IDEX Corporation Common Stock
+(IEX) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP IDEX Corporation Common Stock
+(IEX) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Illinois Tool Works Inc. Common
+Stock (ITW) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Illinois Tool Works Inc. Common
+Stock (ITW) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Illinois Tool Works Inc. Common
+Stock (ITW) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Illumina, Inc. - Common Stock
+(ILMN) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Illumina, Inc. - Common Stock
+(ILMN) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+[[PAGE 27]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Charles Schwab 401K > Schwab 893
+SP Illumina, Inc. - Common Stock
+(ILMN) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP ING Group, N.V. Common Stock
+(ING) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP ING Group, N.V. Common Stock
+(ING) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP ING Group, N.V. Common Stock
+(ING) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Ingredion Incorporated Common
+Stock (INGR) [ST]
+S 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Interactive Brokers Group, Inc. - Class
+A Common Stock (IBKR) [ST]
+S 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP ITT Inc. Common Stock (ITT) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP ITT Inc. Common Stock (ITT) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP ITT Inc. Common Stock (ITT) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 28]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP JD.com, Inc. - American Depositary
+Shares (JD) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP JD.com, Inc. - American Depositary
+Shares (JD) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP JD.com, Inc. - American Depositary
+Shares (JD) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Johnson & Johnson Common Stock
+(JNJ) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Johnson & Johnson Common Stock
+(JNJ) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Johnson & Johnson Common Stock
+(JNJ) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+[[PAGE 29]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Kenvue Inc. Common Stock (KVUE)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Kenvue Inc. Common Stock (KVUE)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Kenvue Inc. Common Stock (KVUE)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Kite Realty Group Trust Common
+Stock (KRG) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Kite Realty Group Trust Common
+Stock (KRG) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Kite Realty Group Trust Common
+Stock (KRG) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Lloyds Banking Group Plc American
+Depositary Shares (LYG) [ST]
+S 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Loews Corporation Common Stock
+(L) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Loews Corporation Common Stock
+(L) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 30]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Loews Corporation Common Stock
+(L) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Louisiana-Pacific Corporation
+Common Stock (LPX) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Louisiana-Pacific Corporation
+Common Stock (LPX) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Louisiana-Pacific Corporation
+Common Stock (LPX) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Magnolia Oil & Gas Corporation Class
+A Common Stock (MGY) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Magnolia Oil & Gas Corporation Class
+A Common Stock (MGY) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Magnolia Oil & Gas Corporation Class
+A Common Stock (MGY) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP MasTec, Inc. Common Stock (MTZ)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP MasTec, Inc. Common Stock (MTZ)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 31]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP MasTec, Inc. Common Stock (MTZ)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP McDonald's Corporation Common
+Stock (MCD) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP McDonald's Corporation Common
+Stock (MCD) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP McDonald's Corporation Common
+Stock (MCD) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+S (partial) 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP MGP Ingredients, Inc. - Common
+Stock (MGPI) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+[[PAGE 32]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP MGP Ingredients, Inc. - Common
+Stock (MGPI) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP MGP Ingredients, Inc. - Common
+Stock (MGPI) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 10/31/202511/01/2025 $15,001 -
+$50,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 10/30/202511/01/2025 $15,001 -
+$50,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 10/30/202511/01/2025 $15,001 -
+$50,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP MKS Inc. - Common Stock (MKSI)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP MKS Inc. - Common Stock (MKSI)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP MKS Inc. - Common Stock (MKSI)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP NetEase, Inc. - American Depositary
+Shares, each representing 5 ordinary
+shares (NTES) [ST]
+S 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+[[PAGE 33]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Netflix, Inc. - Common Stock (NFLX)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Netflix, Inc. - Common Stock (NFLX)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Netflix, Inc. - Common Stock (NFLX)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Northern Trust Corporation -
+Common Stock (NTRS) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Northern Trust Corporation -
+Common Stock (NTRS) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Northern Trust Corporation -
+Common Stock (NTRS) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Norwegian Cruise Line Holdings Ltd.
+Ordinary Shares (NCLH) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Norwegian Cruise Line Holdings Ltd.
+Ordinary Shares (NCLH) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Norwegian Cruise Line Holdings Ltd.
+Ordinary Shares (NCLH) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 34]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Novartis AG Common Stock (NVS)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Novartis AG Common Stock (NVS)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Novartis AG Common Stock (NVS)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Novo Nordisk A/S Common Stock
+(NVO) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Novo Nordisk A/S Common Stock
+(NVO) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Novo Nordisk A/S Common Stock
+(NVO) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 10/31/202511/01/2025 $15,001 -
+$50,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 10/30/202511/01/2025 $15,001 -
+$50,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 10/30/202511/01/2025 $15,001 -
+$50,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+[[PAGE 35]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Option Care Health, Inc. - Common
+Stock (OPCH) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Option Care Health, Inc. - Common
+Stock (OPCH) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Option Care Health, Inc. - Common
+Stock (OPCH) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Oracle Corporation Common Stock
+(ORCL) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Oracle Corporation Common Stock
+(ORCL) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Oracle Corporation Common Stock
+(ORCL) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP O'Reilly Automotive, Inc. - Common
+Stock (ORLY) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP O'Reilly Automotive, Inc. - Common
+Stock (ORLY) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP O'Reilly Automotive, Inc. - Common
+Stock (ORLY) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 36]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Oshkosh Corporation (OSK) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Oshkosh Corporation (OSK) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Oshkosh Corporation (OSK) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Otis Worldwide Corporation Common
+Stock (OTIS) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Otis Worldwide Corporation Common
+Stock (OTIS) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Otis Worldwide Corporation Common
+Stock (OTIS) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Palantir Technologies Inc. - Class A
+Common Stock (PLTR) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Palantir Technologies Inc. - Class A
+Common Stock (PLTR) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Palantir Technologies Inc. - Class A
+Common Stock (PLTR) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP PDD Holdings Inc. - American
+Depositary Shares (PDD) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+[[PAGE 37]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP PDD Holdings Inc. - American
+Depositary Shares (PDD) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP PDD Holdings Inc. - American
+Depositary Shares (PDD) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Pepsico, Inc. (PEP) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Pepsico, Inc. (PEP) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Pepsico, Inc. (PEP) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Performance Food Group Company
+Common Stock (PFGC) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Performance Food Group Company
+Common Stock (PFGC) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Performance Food Group Company
+Common Stock (PFGC) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Polaris Inc. Common Stock (PII) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 38]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Polaris Inc. Common Stock (PII) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Polaris Inc. Common Stock (PII) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Principal Financial Group Inc (PFG)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Principal Financial Group Inc (PFG)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Principal Financial Group Inc (PFG)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Pure Storage, Inc. Class A Common
+Stock (PSTG) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Pure Storage, Inc. Class A Common
+Stock (PSTG) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Pure Storage, Inc. Class A Common
+Stock (PSTG) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Qualys, Inc. - Common Stock (QLYS)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+[[PAGE 39]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Qualys, Inc. - Common Stock (QLYS)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Qualys, Inc. - Common Stock (QLYS)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Quanta Services, Inc. Common Stock
+(PWR) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Quanta Services, Inc. Common Stock
+(PWR) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Quanta Services, Inc. Common Stock
+(PWR) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP RB Global, Inc. Common Stock (RBA)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP RB Global, Inc. Common Stock (RBA)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP RB Global, Inc. Common Stock (RBA)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Regions Financial Corporation
+Common Stock (RF) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 40]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Regions Financial Corporation
+Common Stock (RF) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Regions Financial Corporation
+Common Stock (RF) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Repligen Corporation - Common
+Stock (RGEN) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Repligen Corporation - Common
+Stock (RGEN) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Repligen Corporation - Common
+Stock (RGEN) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Rio Tinto Plc Common Stock (RIO)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Rio Tinto Plc Common Stock (RIO)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Rio Tinto Plc Common Stock (RIO)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Roivant Sciences Ltd. - Common
+Shares (ROIV) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+[[PAGE 41]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Roivant Sciences Ltd. - Common
+Shares (ROIV) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Roivant Sciences Ltd. - Common
+Shares (ROIV) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Rollins, Inc. Common Stock (ROL)
+[ST]
+S 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Sandisk Corporation - Common Stock
+(SNDK) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Sandisk Corporation - Common Stock
+(SNDK) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Sandisk Corporation - Common Stock
+(SNDK) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP SAP SE ADS (SAP) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP SAP SE ADS (SAP) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP SAP SE ADS (SAP) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP SAP SE ADS (SAP) [ST] S (partial) 10/14/202511/01/2025 $1,001 - $15,000
+[[PAGE 42]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Schneider National, Inc. Common
+Stock (SNDR) [ST]
+S 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Science Applications International
+Corporation - Common Stock (SAIC)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Science Applications International
+Corporation - Common Stock (SAIC)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Science Applications International
+Corporation - Common Stock (SAIC)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Seacoast Banking Corporation of
+Florida - Common Stock (SBCF) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Seacoast Banking Corporation of
+Florida - Common Stock (SBCF) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Seacoast Banking Corporation of
+Florida - Common Stock (SBCF) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Shell PLC American Depositary
+Shares (SHEL) [ST]
+S 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+[[PAGE 43]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Sherwin-Williams Company (SHW)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Sherwin-Williams Company (SHW)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Sherwin-Williams Company (SHW)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP SLB Limited Common Shares (SLB)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP SLB Limited Common Shares (SLB)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP SLB Limited Common Shares (SLB)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Somnigroup International Inc.
+Common Stock (SGI) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Somnigroup International Inc.
+Common Stock (SGI) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Somnigroup International Inc.
+Common Stock (SGI) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 44]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Sony Group Corporation American
+Depositary Shares (SONY) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Sony Group Corporation American
+Depositary Shares (SONY) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Sony Group Corporation American
+Depositary Shares (SONY) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Spire Inc. Common Stock (SR) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Spire Inc. Common Stock (SR) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Spire Inc. Common Stock (SR) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Sprouts Farmers Market, Inc. -
+Common Stock (SFM) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Sprouts Farmers Market, Inc. -
+Common Stock (SFM) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Sprouts Farmers Market, Inc. -
+Common Stock (SFM) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Stifel Financial Corporation Common
+Stock (SF) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+[[PAGE 45]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Stifel Financial Corporation Common
+Stock (SF) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Stifel Financial Corporation Common
+Stock (SF) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Sysco Corporation Common Stock
+(SYY) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Sysco Corporation Common Stock
+(SYY) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Sysco Corporation Common Stock
+(SYY) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+S (partial) 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 46]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Taylor Morrison Home Corporation
+Common Stock (TMHC) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Taylor Morrison Home Corporation
+Common Stock (TMHC) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Taylor Morrison Home Corporation
+Common Stock (TMHC) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Teradyne, Inc. (TER) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Teradyne, Inc. (TER) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Teradyne, Inc. (TER) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Tesla, Inc. - Common Stock (TSLA)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Tesla, Inc. - Common Stock (TSLA)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 47]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Tesla, Inc. - Common Stock (TSLA)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Textron Inc. Common Stock (TXT)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Textron Inc. Common Stock (TXT)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Textron Inc. Common Stock (TXT)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP The Bank of New York Mellon
+Corporation Common Stock (BK) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP The Bank of New York Mellon
+Corporation Common Stock (BK) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP The Bank of New York Mellon
+Corporation Common Stock (BK) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP The J.M. Smucker Company Common
+Stock (SJM) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP The J.M. Smucker Company Common
+Stock (SJM) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+[[PAGE 48]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP The J.M. Smucker Company Common
+Stock (SJM) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Thermo Fisher Scientific Inc Common
+Stock (TMO) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Thermo Fisher Scientific Inc Common
+Stock (TMO) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Thermo Fisher Scientific Inc Common
+Stock (TMO) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP T-Mobile US, Inc. (TMUS) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP T-Mobile US, Inc. (TMUS) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP T-Mobile US, Inc. (TMUS) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Toyota Motor Corporation Common
+Stock (TM) [ST]
+S 10/14/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Trip.com Group Limited - American
+Depositary Shares (TCOM) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Trip.com Group Limited - American
+Depositary Shares (TCOM) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+[[PAGE 49]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Trip.com Group Limited - American
+Depositary Shares (TCOM) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP United Therapeutics Corporation -
+Common Stock (UTHR) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP United Therapeutics Corporation -
+Common Stock (UTHR) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP United Therapeutics Corporation -
+Common Stock (UTHR) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+[[PAGE 50]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Unum Group Common Stock (UNM)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Unum Group Common Stock (UNM)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Unum Group Common Stock (UNM)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Urban Edge Properties Common
+Shares of Beneficial Interest (UE) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Urban Edge Properties Common
+Shares of Beneficial Interest (UE) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Urban Edge Properties Common
+Shares of Beneficial Interest (UE) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP VALE S.A. American Depositary
+Shares Each Representing one
+common share (VALE) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP VALE S.A. American Depositary
+Shares Each Representing one
+S 10/30/202511/01/2025 $1,001 - $15,000
+[[PAGE 51]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+common share (VALE) [ST]
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP VALE S.A. American Depositary
+Shares Each Representing one
+common share (VALE) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Vertiv Holdings, LLC Class A
+Common Stock (VRT) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Vertiv Holdings, LLC Class A
+Common Stock (VRT) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Vertiv Holdings, LLC Class A
+Common Stock (VRT) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Visa Inc. (V) [ST] P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Visa Inc. (V) [ST] S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Visa Inc. (V) [ST] S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Vistra Corp. Common Stock (VST)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Vistra Corp. Common Stock (VST)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+[[PAGE 52]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Vistra Corp. Common Stock (VST)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP W.R. Berkley Corporation Common
+Stock (WRB) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP W.R. Berkley Corporation Common
+Stock (WRB) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP W.R. Berkley Corporation Common
+Stock (WRB) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Walmart Inc. Common Stock (WMT)
+[ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Walmart Inc. Common Stock (WMT)
+[ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Walmart Inc. Common Stock (WMT)
+[ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP WSFS Financial Corporation -
+Common Stock (WSFS) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP WSFS Financial Corporation -
+Common Stock (WSFS) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+[[PAGE 53]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP WSFS Financial Corporation -
+Common Stock (WSFS) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Wynn Resorts, Limited - Common
+Stock (WYNN) [ST]
+S 10/31/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+SP Wynn Resorts, Limited - Common
+Stock (WYNN) [ST]
+S 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Wynn Resorts, Limited - Common
+Stock (WYNN) [ST]
+P 10/30/202511/01/2025 $1,001 - $15,000
+F S: New
+S O: Charles Schwab 401K > Schwab 893
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Charles Schwab 401K (Owner: SP)
+Charles Schwab 401K ⇒ Schwab 893 (Owner: SP)
+Charles Schwab Brokerage Account 924 (Owner: SP)
+D: Three accounts were consolidated into this account in 2025.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lisa McClain , 11/21/2025

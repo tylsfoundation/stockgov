@@ -1,0 +1,62 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. David B. McKinley
+Status: Member
+State/District:WV01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Abbott Laboratories (ABT) [ST] S 09/21/202209/30/2022$1,001 - $15,000
+F S: New
+S O: IRA's > IRA- Spouse
+Arthur J. Gallagher & Co. (AJG) [ST] P 09/21/202209/30/2022$1,001 - $15,000
+F S: New
+S O: IRA's > IRA- Spouse
+CarMax Inc (KMX) [ST] S 09/21/202209/30/2022$1,001 - $15,000
+F S: New
+S O: IRA's > IRA- Spouse
+Centene Corporation (CNC) [ST] P 09/21/202209/30/2022$1,001 - $15,000
+F S: New
+S O: IRA's > IRA- Spouse
+S&P Global Inc. (SPGI) [ST] S 09/21/202209/30/2022$1,001 - $15,000
+F S: New
+S O: IRA's > IRA- Spouse
+Stanley Black & Decker, Inc. (SWK)
+[ST]
+S 09/21/202209/30/2022$1,001 - $15,000
+F S: New
+S O: IRA's > IRA- Spouse
+Tesla, Inc. (TSLA) [ST] P 09/21/202209/30/2022$1,001 - $15,000
+Filing ID #20021800
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: IRA's > IRA- Spouse
+W.W. Grainger, Inc. (GWW) [ST] P 09/21/202209/30/2022$1,001 - $15,000
+F S: New
+S O: IRA's > IRA- Spouse
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+IRA's
+IRA's ⇒ IRA- Spouse
+D: Traditional Financial Investments in SEP, IRA, Rollover IRA and Filer-owned are primarily managed by a third party
+Registered Investment Advisory manager who has discretion for trades.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. David B. McKinley , 10/12/2022

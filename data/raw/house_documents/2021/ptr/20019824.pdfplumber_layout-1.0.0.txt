@@ -1,0 +1,56 @@
+[[PAGE 1]]
+Filing Id #20019824
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Cindy Axne
+Status: Member
+State/District: IA03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP global Payments Inc. (gPN) [ST] P 11/16/2021 11/18/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: Creation Agents LLC 401K
+SP global Payments Inc. (gPN) [ST] P 11/16/2021 11/18/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Axne IRA
+global Payments Inc. (gPN) [ST] P 11/16/2021 11/18/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: Cindy Axne IRA
+SP Markel Corporation (MKL) [ST] S 11/11/2021 11/12/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: Creation Agents LLC 401K
+SP Markel Corporation (MKL) [ST] S 11/11/2021 11/12/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Axne IRA
+Markel Corporation (MKL) [ST] S 11/11/2021 11/12/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: Cindy Axne IRA
+SP Mastercard Incorporated (MA) P 11/23/2021 11/24/2021 $1,001 - $15,000 gfedc
+[ST]
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATuS: New
+SubHOLdINg OF: Creation Agents LLC 401K
+SP Visa Inc. (V) [ST] P 11/23/2021 11/24/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: Creation Agents LLC 401K
+Visa Inc. (V) [ST] P 11/23/2021 11/24/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: Cindy Axne IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Cindy Axne IRA
+Creation Agents LLC 401K (Owner: SP)
+John Axne IRA (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Cindy Axne , 12/07/2021

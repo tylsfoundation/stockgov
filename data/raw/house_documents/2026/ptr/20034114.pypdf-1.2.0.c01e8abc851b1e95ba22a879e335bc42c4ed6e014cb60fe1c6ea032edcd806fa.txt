@@ -1,0 +1,41 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Neal Patrick MD, Facs Dunn
+Status: Member
+State/District:FL02
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Cadence Bank 5.50% Series A
+(CADE$A) [ST]
+E 02/02/202603/02/2026$1,001 - $15,000
+F S: New
+S O: IRA #3
+D: Received Huntington Banc Shares Series-L in exchange for asset listed above due to corporate action.
+Huntington Bancshares Incorporated
+- Depositary Shares L Preferred Stock
+(HBANZ) [OT]
+E 02/02/202603/02/2026$1,001 - $15,000
+F S: New
+S O: IRA #3
+L: US
+D: Received asset listed above in exchange for Cadence Bank Preferred Shares due to corporate action.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+IRA #3
+D: Held at Merrill Lynch
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Filing ID #20034114
+[[PAGE 2]]
+Digitally Signed: Hon. Neal Patrick MD, Facs Dunn , 03/17/2026

@@ -1,0 +1,278 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. April McClain Delaney
+Status: Member
+State/District:MD06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC BWX Technologies, Inc. Common
+Stock (BWXT) [ST]
+P 05/07/202606/01/2026$1,001 - $15,000
+F S: New
+DC BWX Technologies, Inc. Common
+Stock (BWXT) [ST]
+P 05/08/202606/01/2026$15,001 -
+$50,000
+F S: New
+DC BWX Technologies, Inc. Common
+Stock (BWXT) [ST]
+P 05/14/202606/01/2026$1,001 - $15,000
+F S: New
+DC BWX Technologies, Inc. Common
+Stock (BWXT) [ST]
+P 05/15/202606/01/2026$15,001 -
+$50,000
+F S: New
+DC C.H. Robinson Worldwide, Inc. -
+Common Stock (CHRW) [ST]
+S (partial) 05/18/202606/01/2026$1,001 - $15,000
+F S: New
+DC C.H. Robinson Worldwide, Inc. -
+Common Stock (CHRW) [ST]
+P 05/21/202606/01/2026$1,001 - $15,000
+F S: New
+DC C.H. Robinson Worldwide, Inc. -
+Common Stock (CHRW) [ST]
+S (partial) 05/15/202606/01/2026$1,001 - $15,000
+F S: New
+DC C.H. Robinson Worldwide, Inc. -P 05/27/202606/01/2026$1,001 - $15,000
+Filing ID #20034718
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Common Stock (CHRW) [ST]
+F S: New
+DC C.H. Robinson Worldwide, Inc. -
+Common Stock (CHRW) [ST]
+P 05/28/202606/01/2026$1,001 - $15,000
+F S: New
+DC CDW Corporation - Common Stock
+(CDW) [ST]
+S 05/19/202606/02/2026$1,001 - $15,000
+F S: New
+DC CDW Corporation - Common Stock
+(CDW) [ST]
+S (partial) 05/15/202606/01/2026$1,001 - $15,000
+F S: New
+DC CDW Corporation - Common Stock
+(CDW) [ST]
+S (partial) 05/14/202606/01/2026$1,001 - $15,000
+F S: New
+DC CDW Corporation - Common Stock
+(CDW) [ST]
+S (partial) 05/18/202606/01/2026$1,001 - $15,000
+F S: New
+DC Clean Harbors, Inc. Common Stock
+(CLH) [ST]
+S (partial) 05/01/202606/01/2026$1,001 - $15,000
+F S: New
+DC EMCOR Group, Inc. Common Stock
+(EME) [ST]
+S (partial) 05/28/202606/01/2026$1,001 - $15,000
+F S: New
+DC Entegris, Inc. - Common Stock
+(ENTG) [ST]
+P 05/08/202606/01/2026$1,001 - $15,000
+F S: New
+DC Entegris, Inc. - Common Stock
+(ENTG) [ST]
+P 05/07/202606/01/2026$1,001 - $15,000
+F S: New
+DC Entegris, Inc. - Common Stock
+(ENTG) [ST]
+P 05/21/202606/01/2026$1,001 - $15,000
+F S: New
+DC Fortune Brands Innovations, Inc.
+Common Stock (FBIN) [ST]
+S (partial) 05/04/202606/01/2026$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+DC Fortune Brands Innovations, Inc.
+Common Stock (FBIN) [ST]
+S (partial) 05/06/202606/01/2026$1,001 - $15,000
+F S: New
+DC Fortune Brands Innovations, Inc.
+Common Stock (FBIN) [ST]
+S 05/07/202606/01/2026$1,001 - $15,000
+F S: New
+DC Hubbell Inc Common Stock (HUBB)
+[ST]
+P 05/21/202606/01/2026$1,001 - $15,000
+F S: New
+DC Hubbell Inc Common Stock (HUBB)
+[ST]
+P 05/14/202606/01/2026$15,001 -
+$50,000
+F S: New
+DC Hubbell Inc Common Stock (HUBB)
+[ST]
+P 05/28/202606/01/2026$1,001 - $15,000
+F S: New
+DC Hubbell Inc Common Stock (HUBB)
+[ST]
+P 05/13/202606/01/2026$1,001 - $15,000
+F S: New
+DC Hubbell Inc Common Stock (HUBB)
+[ST]
+P 05/29/202606/01/2026$1,001 - $15,000
+F S: New
+DC Markel Group Inc. Common Stock
+(MKL) [ST]
+P 05/01/202606/01/2026$1,001 - $15,000
+F S: New
+DC Martin Marietta Materials, Inc.
+Common Stock (MLM) [ST]
+P 05/28/202606/01/2026$1,001 - $15,000
+F S: New
+DC Morningstar, Inc. - Common Stock
+(MORN) [ST]
+S (partial) 05/04/202606/01/2026$1,001 - $15,000
+F S: New
+DC Morningstar, Inc. - Common Stock
+(MORN) [ST]
+S (partial) 05/06/202606/01/2026$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+DC Packaging Corporation of America
+Common Stock (PKG) [ST]
+P 05/06/202606/01/2026$1,001 - $15,000
+F S: New
+DC Quanta Services, Inc. Common Stock
+(PWR) [ST]
+S (partial) 05/13/202606/01/2026$1,001 - $15,000
+F S: New
+DC Quanta Services, Inc. Common Stock
+(PWR) [ST]
+S 05/14/202606/01/2026$15,001 -
+$50,000
+F S: New
+DC Service Corporation International
+Common Stock (SCI) [ST]
+S (partial) 05/14/202606/01/2026$1,001 - $15,000
+F S: New
+DC Service Corporation International
+Common Stock (SCI) [ST]
+S (partial) 05/15/202606/01/2026$1,001 - $15,000
+F S: New
+DC Service Corporation International
+Common Stock (SCI) [ST]
+S (partial) 05/18/202606/01/2026$1,001 - $15,000
+F S: New
+DC Service Corporation International
+Common Stock (SCI) [ST]
+S (partial) 05/08/202606/01/2026$1,001 - $15,000
+F S: New
+DC Service Corporation International
+Common Stock (SCI) [ST]
+S (partial) 05/07/202606/01/2026$1,001 - $15,000
+F S: New
+DC The Middleby Corporation - Common
+Stock (MIDD) [ST]
+S (partial) 05/07/202606/01/2026$1,001 - $15,000
+F S: New
+DC The Middleby Corporation - Common
+Stock (MIDD) [ST]
+S (partial) 05/01/202606/01/2026$1,001 - $15,000
+F S: New
+DC Tractor Supply Company - Common
+Stock (TSCO) [ST]
+S (partial) 05/22/202606/01/2026$1,001 - $15,000
+F S: New
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC Tractor Supply Company - Common
+Stock (TSCO) [ST]
+S (partial) 05/15/202606/01/2026$1,001 - $15,000
+F S: New
+DC Tractor Supply Company - Common
+Stock (TSCO) [ST]
+S (partial) 05/28/202606/02/2026$1,001 - $15,000
+F S: New
+DC Tractor Supply Company - Common
+Stock (TSCO) [ST]
+S (partial) 05/18/202606/01/2026$1,001 - $15,000
+F S: New
+DC Tractor Supply Company - Common
+Stock (TSCO) [ST]
+S (partial) 05/26/202606/01/2026$1,001 - $15,000
+F S: New
+DC Tractor Supply Company - Common
+Stock (TSCO) [ST]
+S (partial) 05/27/202606/01/2026$1,001 - $15,000
+F S: New
+DC Transdigm Group Incorporated
+Common Stock (TDG) [ST]
+P 05/21/202606/01/2026$1,001 - $15,000
+F S: New
+DC Transdigm Group Incorporated
+Common Stock (TDG) [ST]
+P 05/22/202606/01/2026$1,001 - $15,000
+F S: New
+DC Transdigm Group Incorporated
+Common Stock (TDG) [ST]
+P 05/13/202606/01/2026$1,001 - $15,000
+F S: New
+DC Transdigm Group Incorporated
+Common Stock (TDG) [ST]
+P 05/07/202606/01/2026$1,001 - $15,000
+F S: New
+DC Transdigm Group Incorporated
+Common Stock (TDG) [ST]
+P 05/08/202606/01/2026$1,001 - $15,000
+F S: New
+DC Viking Holdings Ltd Ordinary Shares
+(VIK) [ST]
+S (partial) 05/27/202606/01/2026$1,001 - $15,000
+F S: New
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC Viking Holdings Ltd Ordinary Shares
+(VIK) [ST]
+S (partial) 05/28/202606/01/2026$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. April McClain Delaney , 06/05/2026

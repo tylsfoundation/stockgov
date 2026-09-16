@@ -1,0 +1,74 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Lois Frankel
+Status: Member
+State/District:FL21
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Accenture plc Class A Ordinary
+Shares (ACN) [ST]
+S (partial) 09/14/202209/20/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Accenture plc Class A Ordinary
+Shares (ACN) [ST]
+S (partial) 09/07/202209/20/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Analog Devices, Inc. (ADI) [ST] P 09/12/202209/20/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Colgate-Palmolive Company (CL)
+[ST]
+S (partial) 09/07/202209/20/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Danaher Corporation (DHR) [ST] S (partial) 09/14/202209/20/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Eaton Corporation, PLC Ordinary
+Shares (ETN) [ST]
+S (partial) 09/07/202209/20/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Filing ID #20021732
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+KLA Corporation (KLAC) [ST] P 09/07/202209/20/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+KLA Corporation (KLAC) [ST] P 09/14/202209/20/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Lowe's Companies, Inc. (LOW) [ST] P 09/07/202209/20/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Target Corporation (TGT) [ST] P 09/07/202209/20/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley IRA - X141
+D: Managed by MFS Investment MGMT
+Morgan Stanley IRA - X142
+D: Managed by Anchor Capital Advisors LLC
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 09/20/2022

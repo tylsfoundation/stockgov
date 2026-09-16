@@ -1,0 +1,1020 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Richard W. Allen
+Status: Member
+State/District:GA12
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000086356SP 3M Company (MMM) [ST] S 05/14/202005/20/2020$15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP 3M Company (MMM) [ST] S 05/14/202006/05/2020$1,001 - $15,000
+F S: New
+S O: LIVTR
+3M Company (MMM) [ST] P 08/22/201909/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP 3M Company (MMM) [ST] P 06/19/201907/05/2019$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+SP 3M Company (MMM) [ST] S 05/17/201906/05/2019$1,001 - $15,000
+F S: New
+S O: LIVTR
+SP Abbott Laboratories (ABT) [ST] P 09/27/201910/05/2019$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+Filing ID #20023082
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Abbott Laboratories (ABT) [ST] P 09/13/201910/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP AbbVie Inc. (ABBV) [ST] P 05/12/202006/05/2020$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP AbbVie Inc. (ABBV) [ST] P 11/16/202012/05/2020$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Accenture plc Class A Ordinary
+Shares (ACN) [ST]
+S 03/14/202304/05/2023$50,001 -
+$100,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000079936SP Accenture plc Class A Ordinary
+Shares (ACN) [ST]
+P 05/13/202105/17/2021 $50,001 -
+$100,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+Accenture plc Class A Ordinary
+Shares (ACN) [ST]
+P 08/28/201909/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+Accenture plc Class A Ordinary
+Shares (ACN) [ST]
+S 10/17/201911/05/2019 $15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Accenture plc Class A Ordinary
+Shares (ACN) [ST]
+P 09/27/201910/05/2019$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+2000079934SP Albemarle Corporation (ALB) [ST] P 05/04/202105/06/2021$15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000076738SP Albemarle Corporation (ALB) [ST] P 02/10/202102/15/2021 $1,001 - $15,000
+F S: Amended
+S O: LIVTR
+2000068093SP Alphabet Inc. - Class A (GOOGL)
+[ST]
+P 02/28/202003/20/2020$15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Alphabet Inc. - Class A (GOOGL)
+[ST]
+P 12/27/201901/05/2020$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+Amazon.com, Inc. (AMZN) [ST] P 09/10/201910/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+American Water Works Company,
+Inc. (AWK) [ST]
+P 09/10/201910/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+Amgen Inc. (AMGN) [ST] P 08/29/201909/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Amgen Inc. (AMGN) [ST] P 09/27/201910/05/2019$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+SP Amgen Inc. (AMGN) [ST] P 08/18/202209/05/2022$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Bayer AG Ordinary Shares
+(BAYZF) [ST]
+S 06/07/201807/05/2018$1,001 - $15,000
+F S: New
+S O: LIVTR
+D: CASH MERGER WITH MANDATORY SALE OF MONSANTO STOCK PREVIOUSLY OWNED - LISTED
+AS BAYER SINCE THERE IS NO MONSANTO TICKER.
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP BB&T Corporation (BBT) [ST] S (partial) 04/27/201805/05/2018$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+SP BB&T Corporation (BBT) [ST] S (partial) 06/19/201907/05/2019$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+SP BB&T Corporation (BBT) [ST] S 03/23/201704/05/2017$1,001 - $15,000
+F S: New
+S O: INIRA
+SP BB&T Corporation (BBT) [ST] S (partial) 03/23/201704/05/2017$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+BlackRock, Inc. (BLK) [ST] P 09/24/201910/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP CAE Inc. Ordinary Shares (CAE)
+[ST]
+S 10/31/201911/05/2019 $1,001 - $15,000
+F S: New
+S O: LIVTR
+SP CAE Inc. Ordinary Shares (CAE)
+[ST]
+P 04/09/201905/05/2019$1,001 - $15,000
+F S: New
+S O: LIVTR
+SP Carnival Corporation (CCL) [ST] S 04/11/201905/05/2019$1,001 - $15,000
+F S: New
+S O: LIVTR
+SP Carnival Corporation (CCL) [ST] P 01/29/201802/05/2018$1,001 - $15,000
+F S: New
+S O: LIVTR
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Chubb Limited (CB) [ST] P 08/18/202209/05/2022$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000069530SP Chubb Limited (CB) [ST] P 07/02/202007/06/2020$15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Chubb Limited (CB) [ST] P 11/16/202012/05/2020$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Church & Dwight Company, Inc.
+(CHD) [ST]
+P 01/25/202102/05/2021$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000077843SP Church & Dwight Company, Inc.
+(CHD) [ST]
+S 03/10/202103/15/2021 $15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+Costco Wholesale Corporation
+(COST) [ST]
+P 09/10/201910/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Costco Wholesale Corporation
+(COST) [ST]
+P 04/27/201706/05/2017$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+2000076732SP Deere & Company (DE) [ST] P 02/10/202102/15/2021 $15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000076735SP Deere & Company (DE) [ST] P 02/26/202103/01/2021$1,001 - $15,000
+F S: Amended
+S O: LIVTR
+2000074180SP Dominion Energy, Inc. (D) [ST] S 12/15/202012/18/2020$15,001 -
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+$50,000
+F S: Amended
+S O: LIVTR
+SP Dominion Energy, Inc. (D) [ST] S 12/15/202001/05/2021$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+SP Dover Corporation (DOV) [ST] P 06/15/202007/05/2020$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+SP Dover Corporation (DOV) [ST] P 05/15/201906/05/2019$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+SP Dover Corporation (DOV) [ST] S 04/11/201805/05/2018$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+SP Dover Corporation (DOV) [ST] S 05/14/202006/05/2020$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+Dover Corporation (DOV) [ST] P 09/17/201910/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000085694SP Dover Corporation (DOV) [ST] P 06/15/202006/22/2020$15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Dover Corporation (DOV) [ST] S 05/14/202006/05/2020$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000086363SP Dover Corporation (DOV) [ST] P 06/15/202106/19/2020$15,001 -
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+$50,000
+F S: Deleted
+SP Exxon Mobil Corporation (XOM)
+[ST]
+S 04/27/201705/05/2017$1,001 - $15,000
+F S: New
+S O: INIRA
+SP FedEx Corporation (FDX) [ST] P 05/16/201706/05/2017$1,001 - $15,000
+F S: New
+S O: LIVTR
+SP FedEx Corporation (FDX) [ST] S 04/09/201905/05/2019$1,001 - $15,000
+F S: New
+S O: LIVTR
+2000076736SP Freeport-McMoRan, Inc. (FCX)
+[ST]
+P 02/26/202103/01/2021$1,001 - $15,000
+F S: Amended
+S O: LIVTR
+2000086462SP Freeport-McMoRan, Inc. (FCX)
+[ST]
+S 10/04/202110/06/2021$1,001 - $15,000
+F S: Amended
+S O: LIVTR
+2000076733SP Freeport-McMoRan, Inc. (FCX)
+[ST]
+P 02/10/202102/15/2021 $15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Freeport-McMoRan, Inc. (FCX)
+[ST]
+S 10/07/202111/05/2021 $15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP GENERAL ELECTRIC 5.55% DUE
+02/15/22 (36966R5P7) [CS]
+S 11/02/201712/05/2017 $1,001 - $15,000
+F S: New
+S O: INIRA
+D: SALE OF CORPORATE BOND
+SP General Electric Company (GE)
+[ST]
+S 05/16/201706/05/2017$1,001 - $15,000
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: LIVTR
+SP Home Depot, Inc. (HD) [ST] P 05/14/202006/05/2020$1,001 - $15,000
+F S: New
+S O: LIVTR
+2000086357SP Home Depot, Inc. (HD) [ST] P 05/14/202005/20/2020$15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Intuit Inc. (INTU) [ST] P 02/28/202003/05/2020$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+Intuit Inc. (INTU) [ST] P 08/29/201909/05/2019$50,001 -
+$100,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+Intuit Inc. (INTU) [ST] S 10/17/201911/05/2019 $50,001 -
+$100,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+Johnson & Johnson (JNJ) [ST] P 10/02/201911/05/2019 $1,001 - $15,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000079935SP Johnson & Johnson (JNJ) [ST] P 05/04/202105/06/2021$15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Kimberly-Clark Corporation
+(KMB) [ST]
+S 01/25/202102/05/2021$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Kimberly-Clark Corporation
+(KMB) [ST]
+S 01/25/202102/05/2021$1,001 - $15,000
+F S: New
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: LIVTR
+Kimberly-Clark Corporation
+(KMB) [ST]
+P 09/10/201910/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Kimberly-Clark Corporation
+(KMB) [ST]
+P 06/07/201907/05/2019$1,001 - $15,000
+F S: New
+S O: LIVTR
+Marriott International - Class A
+(MAR) [ST]
+P 08/22/201909/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+Marriott International - Class A
+(MAR) [ST]
+S 10/17/201911/05/2019 $15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Marriott International - Class A
+(MAR) [ST]
+P 05/14/202006/05/2020$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000069531SP Merck & Company, Inc. Common
+Stock (MRK) [ST]
+P 07/02/202007/06/2020$15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000077844SP Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S 03/10/202103/15/2021 $15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S 11/30/201701/05/2018$1,001 - $15,000
+F S: New
+S O: LIVTR
+Microsoft Corporation (MSFT)
+[ST]
+P 08/27/201909/05/2019$15,001 -
+$50,000
+F S: New
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP MONSANTO [OT] P 02/03/201703/05/2017$1,001 - $15,000
+F S: New
+S O: LIVTR
+L: US
+D: STOCK TICKER NOT AVAILABLE ANY LONGER IN THE SYSTEM.
+SP NextEra Energy, Inc. (NEE) [ST] P 04/17/202005/05/2020$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000077845SP NextEra Energy, Inc. (NEE) [ST] P 03/10/202103/15/2021 $1,001 - $15,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000070841SP NextEra Energy, Inc. (NEE) [ST] P 09/25/202010/02/2020$15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Paychex, Inc. (PAYX) [ST] S 04/15/202005/05/2020$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+Paychex, Inc. (PAYX) [ST] P 08/27/201909/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Paychex, Inc. (PAYX) [ST] P 05/23/201806/05/2018$1,001 - $15,000
+F S: New
+S O: LIVTR
+2000076739SP PayPal Holdings, Inc. (PYPL) [ST] P 02/10/202102/15/2021 $1,001 - $15,000
+F S: Amended
+S O: LIVTR
+SP PayPal Holdings, Inc. (PYPL) [ST] S 10/22/202111/05/2021 $1,001 - $15,000
+F S: New
+S O: LIVTR
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000086463SP PayPal Holdings, Inc. (PYPL) [ST] S 10/22/202110/26/2021$15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP PayPal Holdings, Inc. (PYPL) [ST] P 01/25/202102/05/2021$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP PayPal Holdings, Inc. (PYPL) [ST] P 07/15/202108/05/2021$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Pfizer, Inc. (PFE) [ST] P 07/15/202108/05/2021$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Pfizer, Inc. (PFE) [ST] S 03/14/202304/05/2023$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Phillips 66 (PSX) [ST] P 02/21/202003/05/2020$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Phillips 66 (PSX) [ST] S 04/15/202005/05/2020$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Procter & Gamble Company (PG)
+[ST]
+P 04/17/202005/05/2020$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Procter & Gamble Company (PG)
+[ST]
+S 01/29/201802/05/2018$1,001 - $15,000
+F S: New
+S O: LIVTR
+[[PAGE 12]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000089848SP Putnam Ultra Short Duration
+Income A (PSDTX) [AB]
+S 01/25/202201/28/2022$50,001 -
+$100,000
+F S: Deleted
+S O: CONT IRA
+SP Realty Income Corporation (O)
+[ST]
+S 02/13/201703/05/2017$15,001 -
+$50,000
+F S: New
+S O: INIRA
+2000068091SP Royal Dutch Shell PLC Royal
+Dutch Shell PLC American
+Depositary Shares (RDS.B) [ST]
+S 02/21/202003/20/2020$15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+Royal Dutch Shell PLC Royal
+Dutch Shell PLC American
+Depositary Shares (RDS.B) [ST]
+P 08/29/201909/05/2019$50,001 -
+$100,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+Sherwin-Williams Company
+(SHW) [ST]
+P 09/10/201910/05/2019$50,001 -
+$100,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000068092SP South State Corporation (SSB)
+[ST]
+S (partial) 02/21/202003/20/2020$50,001 -
+$100,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000076734SP South State Corporation (SSB)
+[ST]
+S (partial) 02/10/202102/15/2021 $15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000076731SP South State Corporation (SSB)
+[ST]
+S (partial) 02/18/202102/22/2021$15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000079933SP South State Corporation (SSB)
+[ST]
+S (partial) 05/13/202105/17/2021 $15,001 -
+$50,000
+F S: Amended
+[[PAGE 13]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP SouthState Corporation (SSB) [ST]S (partial) 01/13/202102/05/2021$50,001 -
+$100,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP SouthState Corporation (SSB) [ST]S (partial) 06/09/202107/05/2021$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP SouthState Corporation (SSB) [ST]S (partial) 09/28/202110/05/2021$100,001 -
+$250,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP SouthState Corporation (SSB) [ST]S (partial) 01/13/202302/05/2022$50,001 -
+$100,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP SouthState Corporation (SSB) [ST]S (partial) 03/09/202304/05/2023$50,001 -
+$100,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP SouthState Corporation (SSB) [ST]S (partial) 01/18/202202/05/2022$50,001 -
+$100,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP SouthState Corporation (SSB) [ST]S (partial) 02/09/202203/05/2022$50,001 -
+$100,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP SouthState Corporation (SSB) [ST]S (partial) 02/16/202203/05/2022$50,001 -
+$100,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP SouthState Corporation (SSB) [ST]S (partial) 04/04/202205/05/2022$50,001 -
+$100,000
+F S: New
+[[PAGE 14]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP SouthState Corporation (SSB) [ST]S (partial) 05/05/202206/05/2022$50,001 -
+$100,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP SouthState Corporation (SSB) [ST]S (partial) 01/13/202202/05/2022$50,001 -
+$100,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP SouthState Corporation (SSB) [ST]S (partial) 03/16/202004/05/2020$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP SouthState Corporation (SSB) [ST]S (partial) 04/15/202005/05/2020$100,001 -
+$250,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP SouthState Corporation (SSB) [ST]S (partial) 11/16/202012/05/2020$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SouthState Corporation (SSB) [ST]S (partial) 02/07/201903/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SouthState Corporation (SSB) [ST]S (partial) 05/22/201906/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SouthState Corporation (SSB) [ST]S (partial) 09/10/201910/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SouthState Corporation (SSB) [ST]S (partial) 09/12/201910/05/2019$15,001 -
+$50,000
+F S: New
+[[PAGE 15]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Starbucks Corporation (SBUX)
+[ST]
+P 02/28/202003/05/2020$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Starbucks Corporation (SBUX)
+[ST]
+P 11/16/202012/05/2020$1,001 - $15,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000069532SP Starbucks Corporation (SBUX)
+[ST]
+S 07/02/202007/06/2020$1,001 - $15,000
+F S: Amended
+S O: LIVTR
+SP Starbucks Corporation (SBUX)
+[ST]
+P 12/27/201901/05/2020$1,001 - $15,000
+F S: New
+S O: LIVTR
+2000076737SP Starbucks Corporation (SBUX)
+[ST]
+P 02/26/202103/01/2021$1,001 - $15,000
+F S: Amended
+S O: LIVTR
+2000089846SP Starbucks Corporation (SBUX)
+[ST]
+S 01/25/202201/28/2022$1,001 - $15,000
+F S: Amended
+S O: LIVTR
+SP TE Connectivity Ltd. New
+Switzerland Registered Shares
+(TEL) [ST]
+S 11/20/201812/05/2018$1,001 - $15,000
+F S: New
+S O: LIVTR
+SP TE Connectivity Ltd. New
+Switzerland Registered Shares
+(TEL) [ST]
+P 11/30/201701/05/2018$1,001 - $15,000
+F S: New
+S O: LIVTR
+SP The Cigna Group (CI) [ST] S 02/07/201803/05/2018$15,001 -
+$50,000
+[[PAGE 16]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: LIVTR
+SP Thermo Fisher Scientific Inc
+(TMO) [ST]
+P 03/10/202204/05/2022$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000077846SP Thermo Fisher Scientific Inc
+(TMO) [ST]
+P 03/10/202103/15/2021 $15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Thermo Fisher Scientific Inc
+(TMO) [ST]
+P 01/25/202102/05/2021$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000078994SP Thermo Fisher Scientific Inc
+(TMO) [ST]
+S (partial) 04/12/202104/16/2021$15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000086358SP Truist Financial Corporation (TFC)
+[ST]
+S 04/15/202004/22/2020$15,001 -
+$50,000
+F S: Amended
+S O: LIVTR
+SP United Technologies Corporation
+(UTX) [ST]
+S 01/25/201902/05/2019$1,001 - $15,000
+F S: New
+S O: LIVTR
+SP US T BILL DUE 02/14/19
+(912796QX0) [GS]
+P 08/21/201809/05/2018$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+US T BILL DUE 03/26/20
+(912796SH3) [GS]
+P 08/30/201909/05/2019$50,001 -
+$100,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP US T BILL DUE 08/15/19
+(912796QV4) [GS]
+P 02/15/201903/05/2019$15,001 -
+$50,000
+[[PAGE 17]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: LIVTR
+SP US TREASURY BILL DUE
+10/5/23 (912796YJ2) [GS]
+P 10/07/202211/05/2022 $15,001 -
+$50,000
+F S: New
+S O: LIVTR
+SP US TREASURY BILL DUE
+10/5/23 (912796YJ2) [GS]
+P 12/08/202201/05/2023$15,001 -
+$50,000
+F S: New
+S O: INIRA
+SP US TREASURY BILL DUE
+12/22/22 (912796X87) [GS]
+P 10/07/202211/05/2022 $100,001 -
+$250,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP US TREASURY BILL DUE
+3/23/23 (912796U31) [GS]
+P 09/19/202210/05/2022$100,001 -
+$250,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP US TREASURY BILL DUE
+3/23/23 (912796U31) [GS]
+P 10/07/202211/05/2022 $15,001 -
+$50,000
+F S: New
+S O: INIRA
+SP US TREASURY BILL DUE 7/13/23
+(912796XQ7) [GS]
+P 08/19/202209/05/2022$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+SP US TREASURY BILL DUE 7/13/23
+(912796XQ7) [GS]
+P 08/18/202209/05/2022$100,001 -
+$250,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP US TREASURY BILL DUE 9/15/22
+(912796U49) [GS]
+P 03/21/202204/05/2022$100,001 -
+$250,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP US TREASURY BILL DUE 9/15/22
+(912796U49) [GS]
+P 05/23/202206/05/2022$100,001 -
+$250,000
+[[PAGE 18]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+US TREASURY BILL DUE 9/15/22
+(912796U49) [GS]
+P 03/25/202204/05/2022$15,001 -
+$50,000
+F S: New
+S O: IRA
+US Treasury Bill Due 9/7/23
+(912796YH6) [GS]
+P 09/16/202210/05/2022$15,001 -
+$50,000
+F S: New
+S O: IRA
+SP US TREASURY BILL20U S T BILL
+DUE 07/23/20 (912796WX3) [GS]
+P 02/03/202003/05/2020$15,001 -
+$50,000
+F S: New
+S O: INIRA
+SP US TREASURY BILL24U S T BILL
+DUE 07/11/24 [GS]
+P 07/17/202308/08/2023$15,001 -
+$50,000
+F S: New
+S O: LIVTR
+SP US TREASURY NOTE 2.25%
+03/24 (91282CEG2) [GS]
+P 05/10/202206/05/2022$100,001 -
+$250,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+US Treasury Note 2.25% Due
+3/31/24 (91282CEG2) [GS]
+P 05/10/202206/05/2022$15,001 -
+$50,000
+F S: New
+S O: IRA
+SP US TREASURY NOTE 3.25%
+08/24 (91282CFG1) [GS]
+P 09/16/202210/05/2022$100,001 -
+$250,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP US TREASURY NOTE 4.25%
+09/24 (91282CFN6) [GS]
+P 12/23/202201/05/2023$100,001 -
+$250,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Verizon Communications Inc. (VZ)
+[ST]
+S 01/26/202102/05/2021$50,001 -
+$100,000
+[[PAGE 19]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000076740SP Verizon Communications Inc. (VZ)
+[ST]
+S 02/10/202102/15/2021 $1,001 - $15,000
+F S: Amended
+S O: LIVTR
+Verizon Communications Inc. (VZ)
+[ST]
+P 08/29/201909/05/2019$50,001 -
+$100,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+Walmart Inc. (WMT) [ST] P 08/22/201909/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Walmart Inc. (WMT) [ST] P 06/28/201807/05/2018$1,001 - $15,000
+F S: New
+S O: LIVTR
+SP Walmart Inc. (WMT) [ST] S 05/23/201806/05/2018$1,001 - $15,000
+F S: New
+S O: LIVTR
+SP Walmart Inc. (WMT) [ST] P 01/25/201802/05/2018$1,001 - $15,000
+F S: New
+S O: LIVTR
+Walt Disney Company (DIS) [ST] P 09/27/201910/05/2019$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Walt Disney Company (DIS) [ST] S 04/15/202005/05/2020$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000089847SP Walt Disney Company (DIS) [ST] S 01/25/202201/28/2022$1,001 - $15,000
+F S: Amended
+S O: LIVTR
+[[PAGE 20]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000077847SP Walt Disney Company (DIS) [ST] P 03/10/202103/15/2021 $15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Walt Disney Company (DIS) [ST] P 01/25/202102/05/2021$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+2000097313SP Walt Disney Company (DIS) [ST] S 08/11/202208/18/2022$15,001 -
+$50,000
+F S: Amended
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Walt Disney Company (DIS) [ST] S (partial) 02/10/202203/05/2022$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Walt Disney Company (DIS) [ST] P 03/14/202204/05/2022$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+SP Walt Disney Company (DIS) [ST] P 11/30/201701/05/2018$1,001 - $15,000
+F S: New
+S O: LIVTR
+SP Waste Management, Inc. (WM)
+[ST]
+P 01/13/202202/05/2022$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc. > RWA&A - Securities
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+CONT IRA (Owner: SP)
+INIRA (Owner: SP)
+IRA
+LIVTR (Owner: SP)
+L: US
+[[PAGE 21]]
+R.W. Allen & Associates, Inc.
+L: US
+R.W. Allen & Associates, Inc. ⇒ RWA&A - Securities (100% Interest)
+L: Augusta/ Richmond, GA, US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Richard W. Allen , 08/10/2023

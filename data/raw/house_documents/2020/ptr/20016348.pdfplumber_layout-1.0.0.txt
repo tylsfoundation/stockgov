@@ -1,0 +1,59 @@
+[[PAGE 1]]
+Filing ID #20016348
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Nicholas Van Taylor
+Status: Member
+State/District: TX03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+avanos Medical, Inc. (aVNS) [ST] S 03/17/2020 03/17/2020 $1,001 - $15,000 gfedcb
+FILING STaTUS: New
+SUbHoLDING oF: Vananne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+Exxon Mobil Corporation (XoM) S 03/06/2020 03/06/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STaTUS: New
+SUbHoLDING oF: Vananne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+DESCRIPTIoN: Exxon Mobil Corporation (XoM), Strike Price $60, EXP 05/15/2020, Call option
+Exxon Mobil Corporation (XoM) S 03/13/2020 03/13/2020 $500,001 - gfedcb
+[ST] $1,000,000
+FILING STaTUS: New
+SUbHoLDING oF: Vananne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+General Electric Company (GE) S 03/17/2020 03/17/2020 $15,001 - gfedcb
+[ST] $50,000
+FILING STaTUS: New
+SUbHoLDING oF: Vananne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+Genuine Parts Company (GPC) S 03/17/2020 03/17/2020 $50,001 - gfedcb
+[ST] $100,000
+FILING STaTUS: New
+SUbHoLDING oF: Vananne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+McDonald's Corporation (MCD) S 03/17/2020 03/17/2020 $250,001 - gfedcb
+[ST] $500,000
+FILING STaTUS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHoLDING oF: Vananne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+Walmart Inc. (WMT) [ST] S 03/17/2020 03/17/2020 $250,001 - gfedcb
+$500,000
+FILING STaTUS: New
+SUbHoLDING oF: Vananne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Vananne Holdings LLC GP
+LoCaTIoN: US
+Vananne Holdings LLC GP ⇒ Dagger Management LP
+LoCaTIoN: US
+Vananne Holdings LLC GP ⇒ Dagger Management LP ⇒ Leonidas Capital, LP
+LoCaTIoN: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Nicholas Van Taylor , 04/13/2020

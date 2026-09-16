@@ -1,0 +1,221 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJ05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Alamo Group, Inc. Common Stock
+(ALG) [ST]
+S (partial) 05/06/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Align Technology, Inc. - Common
+Stock (ALGN) [ST]
+S 05/20/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 05/03/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT AMERISAFE, Inc. - Common Stock
+(AMSF) [ST]
+S 05/29/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Blackstone Inc. Common Stock (BX)
+[ST]
+S (partial) 05/20/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Booking Holdings Inc. - Common
+Stock (BKNG) [ST]
+P 05/20/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+Filing ID #20025207
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT COLOPLAST AS SP/ADR (CLPBY)
+[ST]
+P 05/17/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Exact Sciences Corporation -
+Common Stock (EXAS) [ST]
+S 05/10/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Grand Canyon Education, Inc. -
+Common Stock (LOPE) [ST]
+P 05/06/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Haleon plc American Depositary
+Shares (HLN) [ST]
+P 05/20/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Insmed Incorporated - Common
+Stock (INSM) [ST]
+S (partial) 05/28/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Intapp, Inc. - Common Stock (INTA)
+[ST]
+P 05/09/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT KKR & Co. Inc. Common Stock (KKR)
+[ST]
+P 05/10/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Lowe's Companies, Inc. Common
+Stock (LOW) [ST]
+S (partial) 05/01/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT MercadoLibre, Inc. - Common Stock
+(MELI) [ST]
+S (partial) 05/01/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+S (partial) 05/23/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Microsoft Corporation - Common
+Stock (MSFT) [OP]
+P 05/14/202406/05/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $225; Expires 06/20/2025
+C: Ref: 135P8W76
+JT Microsoft Corporation - Common
+Stock (MSFT) [OP]
+P 05/14/202406/05/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $220; Expires 06/20/2025
+C: Ref: 135P8W76
+JT Microsoft Corporation - Common
+Stock (MSFT) [OP]
+S 05/14/202406/05/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $230; Expires 12/19/2025
+JT Microsoft Corporation - Common
+Stock (MSFT) [OP]
+S 05/14/202406/05/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $225; Expires 12/19/2025
+JT Monster Beverage Corporation -
+Common Stock (MNST) [ST]
+S 05/20/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Nintendo Co Ltd ADR (NTDOY) [ST] P 05/22/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Rapid7, Inc. - Common Stock (RPD)
+[ST]
+S 05/15/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Salesforce, Inc. Common Stock
+(CRM) [ST]
+S (partial) 05/30/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT SpringWorks Therapeutics, Inc. -
+common stock (SWTX) [ST]
+P 05/09/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT SYSMEX CORP UNSP/ASDR
+(SSMXY) [ST]
+P 05/06/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT SYSMEX CORP UNSP/ASDR
+(SSMXY) [ST]
+P 05/02/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Tesla, Inc. - Common Stock (TSLA)
+[ST]
+P 05/01/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Texas Roadhouse, Inc. - Common
+Stock (TXRH) [ST]
+S (partial) 05/06/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT The Baldwin Insurance Group, Inc. -
+Class A Common Stock (BWIN) [ST]
+P 05/29/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+S (partial) 05/07/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT UMB Financial Corporation -
+Common Stock (UMBF) [ST]
+P 05/22/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+[[PAGE 5]]
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Morgan Stanley - Portfolio Management Active Assets Account (Owner: JT)
+L: US
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 06/08/2024

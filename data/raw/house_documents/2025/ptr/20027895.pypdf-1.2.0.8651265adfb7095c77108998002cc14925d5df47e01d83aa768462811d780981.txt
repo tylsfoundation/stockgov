@@ -1,0 +1,32 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Neal Patrick MD, Facs Dunn
+Status: Member
+State/District:FL02
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP MicroStrategy Incorporated - Class A
+Common Stock (MSTR) [ST]
+P 12/24/202403/05/2025$15,001 -
+$50,000
+F S: New
+S O: IRA #1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+IRA #1 (Owner: SP)
+D: Held at Merrill Lynch
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Neal Patrick MD, Facs Dunn , 03/10/2025
+Filing ID #20027895

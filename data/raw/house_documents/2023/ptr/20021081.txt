@@ -1,0 +1,156 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Michael K. Simpson
+Status: Member
+State/District:ID02
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+American Airlines Group, Inc. (AAL)
+[ST]
+P 03/18/202103/22/2021$1,001 - $15,000
+F S: New
+S O: D.A. Davidson/Stifel
+Barrick Gold Corporation Common
+Stock (GOLD) [ST]
+S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+BHP Group Limited American
+Depositary Shares (BHP) [ST]
+S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+Cia Energetica De Minas Gerais
+Cemig Pref Shares (CEMCF) [ST]
+S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+Equinor ASA (EQNR) [ST] S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+Ericsson - American Depositary
+Shares each representing 1 underlying
+Class B share (ERIC) [ST]
+S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+Filing ID #20021081
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+First Trust DJ Internet Index Fund
+(FDN) [ST]
+S 05/10/202105/12/2021 $15,001 -
+$50,000
+F S: New
+S O: D.A. Davidson/Stifel
+First Trust NASDAQ-100 Ex-
+Technology Sector Index Fund
+(QQXT) [ST]
+S 01/04/202101/06/2021$15,001 -
+$50,000
+F S: New
+S O: D.A. Davidson/Stifel
+D: This fund terminated on 3/13/2021
+J G C Corp (JGCCF) [ST] S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+Major Drilling Grp Intl Ordinary
+Shares (MJDLF) [ST]
+S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+Malayan Banking Ord Singapore
+Ordinary Shares (MLYNF) [ST]
+S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+Newcrest Mining Ltd Ord Ordinary
+Shares (NCMGF) [ST]
+S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+Newmont Corporation (NEM) [ST] S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+Origin Energy Ltd Ordinary Shares
+(OGFGF) [ST]
+S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+Precision Drilling Corporation (PDS)
+[ST]
+S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+T. Rowe Price Group, Inc. (TROW)
+[ST]
+P 08/03/202208/12/2022$15,001 -
+$50,000
+F S: New
+S O: D.A. Davidson/Stifel
+D: T ROWE PRICE - TRBCX BLUE CHIP GROWTH FUND
+Telefonica Brasil S.A. American
+Depositary Shares (VIV.V) [ST]
+S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+Tesco Plc Ord Ordinary Shares
+(TSCDF) [ST]
+S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+Turkcell Iletisim Hizmetleri AS (TKC)
+[ST]
+S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+U.S. Bancorp (USB) [ST] P 03/14/202303/17/2023$15,001 -
+$50,000
+F S: New
+S O: D.A. Davidson/Stifel
+D: Money Market Fund - US Bancorp
+Woolworths Ltd Ord Ordinary Shares
+(WOLWF) [ST]
+S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+Yamana Gold Inc. Ordinary Shares
+(AUY) [ST]
+S 01/13/202101/13/2021 $1,001 - $15,000
+F S: New
+S O: Euro Pacific Capital IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+D.A. Davidson/Stifel
+D.A. Davidson/Stifel
+[[PAGE 4]]
+Euro Pacific Capital IRA
+Euro Pacific Capital IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Michael K. Simpson , 05/12/2023

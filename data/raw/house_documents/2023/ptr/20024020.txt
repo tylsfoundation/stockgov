@@ -1,0 +1,77 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Compass Minerals Intl Inc (CMP)
+[ST]
+S 10/11/202310/12/2023 $1,001 - $15,000
+F S: New
+S O: Kevin Hern Traditional IRA
+D: sell to close
+JT Inland Real Estate Income Trust [PS] P 10/06/202310/16/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+L: US
+D: Reinvestment of Distribution
+JT JP Morgan Chase & Co. (JPM) [ST] P 10/31/202311/01/2023 $1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT UNITED STATES TREAS BILLS
+ZERO CPN 0.00000% 10/03/2024
+[GS]
+P 10/11/202310/12/2023 $500,001 -
+$1,000,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: buy to open
+JT UNITED STATES TREAS BILLS
+ZERO CPN 0.00000% 10/03/2024
+[GS]
+P 10/11/202310/12/2023 $50,001 -
+$100,000
+F S: New
+S O: Hern Family Foundation
+Filing ID #20024020
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: Buy to open
+Vodafone Group Plc - American
+Depositary Shares each representing
+ten Ordinary Shares (VOD) [ST]
+S 10/11/202310/11/2023 $1,001 - $15,000
+F S: New
+S O: Kevin Hern Traditional IRA
+D: sell to close
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Hern Family Foundation (100% Interest) (Owner: JT)
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+D: Family Revocable Trust
+Hern Family Revocable Trust ⇒ Brokerage Investment Account (100% Interest) (Owner: JT)
+L: US
+D: Stock, Bonds, EFTs, & Mutual funds
+Kevin Hern Traditional IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 11/17/2023

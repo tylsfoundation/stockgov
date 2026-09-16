@@ -1,0 +1,31 @@
+[[PAGE 1]]
+Filing ID #20015069
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District: CA47
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP Americold Realty Trust Common P 01/27/2020 02/14/2020 $1,001 - $15,000 gfedc
+Shares (CoLD) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Neuberger Berman - Individual
+SP Expedia group Inc [CS] P 02/07/2020 02/14/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Neuberger Berman - Individual
+DESCRIPTIoN: Maturity date is 8/15/24, interest rate is 4.5%
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Neuberger Berman - Individual (owner: SP)
+LoCATIoN: US
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Alan S. Lowenthal , 02/15/2020

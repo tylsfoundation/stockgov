@@ -1,0 +1,69 @@
+[[PAGE 1]]
+Filing Id #20017070
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. K. Michael Conaway
+Status: Member
+State/District: TX11
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+"CITIgROUP INC PERPETUAL P 07/01/2020 07/03/2020 $100,001 - gfedc
+FIX/FLT bONdS CALLAbLE CPN $250,000
+6.125% dUE 12/29/49 dTd
+11/13/15 FC 05/15/16 CALL1
+11/15/20 @ 100.000, CUSIP-
+172967Kd2" [OT]
+FILINg STATUS: New
+SUbHOLdINg OF: WF 95 (Wells Fargo Financial)
+LOCATION: US
+dESCRIPTION: "CITIgROUP INC PERPETUAL FIX/FLT bONdS CALLAbLE CPN 6.125% dUE 12/29/49 dTd 11/13/15 FC
+05/15/16 CALL1 11/15/20 @ 100.000, CUSIP-172967Kd2"
+Amazon.com, Inc. (AMZN) [ST] P 07/01/2020 07/03/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 69 (Wells Fargo Financial)
+SP AMERICAN FUNdS THE TAX P 07/20/2020 07/23/2020 $1,001 - $15,000 gfedc
+EXEMPT bONd FUNd OF
+AMERICA [OT]
+FILINg STATUS: New
+SUbHOLdINg OF: SP E62 (Edward Jones)
+LOCATION: US
+dESCRIPTION: AMERICAN FUNdS THE TAX EXEMPT bONd FUNd OF AMERICA
+Apple Inc. (AAPL) [ST] P 07/01/2020 07/03/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 69 (Wells Fargo Financial)
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Home depot, Inc. (Hd) [ST] S 07/01/2020 07/03/2020 $50,001 - gfedcb
+$100,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 69 (Wells Fargo Financial)
+Pfizer, Inc. (PFE) [ST] P 07/01/2020 07/03/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 69 (Wells Fargo Financial)
+Raytheon Technologies S 07/01/2020 07/03/2020 $15,001 - gfedcb
+Corporation (RTX) [ST] $50,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 69 (Wells Fargo Financial)
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+SP E62 (Edward Jones) (Owner: SP)
+LOCATION: US
+WF 69 (Wells Fargo Financial)
+LOCATION: US
+WF 95 (Wells Fargo Financial)
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. K. Michael Conaway , 09/04/2020

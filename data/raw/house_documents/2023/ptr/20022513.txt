@@ -1,0 +1,68 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Robert J. Wittman
+Status: Member
+State/District:VA01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Global X MSCI Norway ETF [OT] S 02/03/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+L: US
+D: Mutual fund
+Ishares MSCI Euro Financial [OT] P 02/03/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+L: US
+D: Mutual fund
+Ishares US Pharmaceuticals ETF [OT]P 02/03/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+L: US
+D: Mutual fund
+Ishares US Technology ETF [OT] S (partial) 02/03/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+L: US
+D: Mutual fund
+Microsoft Corporation (MSFT) [ST] S (partial) 02/03/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+Filing ID #20022513
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SPDR Bloomberg Short Term HI [OT]S 02/03/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+L: US
+D: Mutual fund
+Vaneck Morningstar Intl Moat ETF
+[OT]
+P 02/03/202303/01/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+L: US
+D: Mutual fund
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley INH IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Robert J. Wittman , 03/05/2023

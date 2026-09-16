@@ -1,0 +1,62 @@
+[[PAGE 1]]
+Filing ID #20017625
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Suzan K. DelBene
+Status: Member
+State/District: WA01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Florida HSg Fin Corp Homeowner S 10/01/2020 10/01/2020 $1,001 - $15,000 gfedc
+MTg 2.15% Due 07/01/29 [gS]
+FIlINg STATuS: New
+DESCRIPTION: Redemption
+JT ID ST BlDg Auth 5%23 5.00 % S 09/01/2020 09/01/2020 $50,001 - gfedc
+Due Sep 1, 2023 [gS] $100,000
+FIlINg STATuS: New
+DESCRIPTION: Redemption
+JT Michigan ST HSg Dev Auth 1.25% P 10/30/2020 10/30/2020 $500,001 - gfedc
+Due 06/01/27 [gS] $1,000,000
+FIlINg STATuS: New
+SP Microsoft Corporation (MSFT) P 09/30/2020 09/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SP Microsoft Corporation (MSFT) S (partial) 09/02/2020 09/02/2020 $5,000,001 - gfedcb
+[ST] $25,000,000
+FIlINg STATuS: New
+JT New York NY go BDS Ser. Fiscal P 10/08/2020 10/08/2020 $500,001 - gfedc
+2008J 5.00% Due 08/01/26 [gS] $1,000,000
+FIlINg STATuS: New
+JT New York ST Dorm Auth ST pers P 10/30/2020 10/30/2020 $15,001 - gfedc
+Income [gS] $50,000
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+JT New York ST Dorm Auth ST pers P 10/23/2020 10/23/2020 $50,001 - gfedc
+Income [gS] $100,000
+FIlINg STATuS: New
+JT New York ST Dorm Auth ST Pers P 10/15/2020 10/15/2020 $15,001 - gfedc
+Income [gS] $50,000
+FIlINg STATuS: New
+JT Round Rock Tex Indpt SCH Dist P 10/13/2020 10/13/2020 $15,001 - gfedc
+5.00% Due 08/01/25 [gS] $50,000
+FIlINg STATuS: New
+JT Round Rock Tex Indpt SCH Dist P 10/23/2020 10/23/2020 $15,001 - gfedc
+5.00% Due 08/01/25 [gS] $50,000
+FIlINg STATuS: New
+JT Texas ST Tax Rev Antic NTS P 09/04/2020 09/04/2020 $500,001 - gfedc
+4.00% Due 08/26/21 [gS] $1,000,000
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 11/09/2020

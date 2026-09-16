@@ -1,0 +1,79 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Nicholas V. Taylor
+Status: Member
+State/District:TX03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Bristol-Myers Squibb Company
+(BMY) [ST]
+S (partial) 11/28/202211/28/2022 $100,001 -
+$250,000
+F S: New
+S O: VanAnne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+Chevron Corporation (CVX) [ST] S (partial) 11/28/202211/28/2022 $500,001 -
+$1,000,000
+F S: New
+S O: VanAnne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+Eli Lilly and Company (LLY) [ST] S (partial) 11/28/202211/28/2022 $1,000,001 -
+$5,000,000
+F S: New
+S O: VanAnne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+Exxon Mobil Corporation (XOM) [ST]S (partial) 11/28/202211/28/2022 $1,000,001 -
+$5,000,000
+F S: New
+S O: VanAnne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+Moody's Corporation (MCO) [ST] S 11/28/202211/28/2022 $250,001 -
+$500,000
+F S: New
+S O: VanAnne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+Occidental Petroleum Corporation
+(OXY) [ST]
+S 11/28/202211/28/2022 $1,001 - $15,000
+F S: New
+S O: VanAnne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+Filing ID #20020767
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Santos, Ltd. Unsponsored ADR
+(SSLTY) [ST]
+S 11/28/202211/28/2022 $15,001 - $50,000
+F S: New
+S O: VanAnne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+Zimmer Biomet Holdings, Inc. (ZBH)
+[ST]
+S 11/28/202211/28/2022 $100,001 -
+$250,000
+F S: New
+S O: VanAnne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+ZimVie Inc. (ZIMV) [ST] S 11/28/202211/28/2022 $1,001 - $15,000
+F S: New
+S O: VanAnne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+VanAnne Holdings LLC GP
+L: US
+VanAnne Holdings LLC GP ⇒ Dagger Management LP
+L: US
+VanAnne Holdings LLC GP ⇒ Dagger Management LP ⇒ Leonidas Capital, LP
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Nicholas V. Taylor , 12/26/2022

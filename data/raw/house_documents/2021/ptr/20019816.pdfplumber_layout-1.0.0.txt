@@ -1,0 +1,26 @@
+[[PAGE 1]]
+Filing ID #20019816
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Suzan K. DelBene
+Status: Member
+State/District: WA01
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Illinois HSg Dev Auth Rev BDS P 11/12/2021 11/12/2021 $1,001 - $15,000 gfedc
+Ser. 1.70% Due 4/1/2031 [gS]
+FIlINg STATuS: New
+JT Kentucky Economic Dev Fin Auth S 11/10/2021 11/10/2021 $250,001 - gfedcb
+Rev Rev 2.70% Due 5/1/2039 [gS] $500,000
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 11/19/2021

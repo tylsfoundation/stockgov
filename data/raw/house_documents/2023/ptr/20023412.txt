@@ -1,0 +1,93 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. James French Hill
+Status: Member
+State/District:AR02
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+3M Company (MMM) [ST] P 11/22/202311/22/2023 $15,001 -
+$50,000
+F S: New
+S O: HILL 1998 TRUST (FORMERLY HILL FAMILY TRUST)
+Altria Group, Inc. (MO) [ST] S 11/22/202311/22/2023 $50,001 -
+$100,000
+F S: New
+S O: HILL 2012 TRUST (FORMERLY JAY F HILL TRUST)
+Fidelity National Information
+Services, Inc. (FIS) [ST]
+P 11/22/202311/22/2023 $15,001 -
+$50,000
+F S: New
+S O: HILL 1998 TRUST (FORMERLY HILL FAMILY TRUST)
+Intel Corporation (INTC) [ST] P 11/22/202311/22/2023 $1,001 - $15,000
+F S: New
+S O: J French Hill - Revocable Trust
+Markel Group Inc. (MKL) [ST] P 11/22/202311/22/2023 $50,001 -
+$100,000
+F S: New
+S O: J French Hill - Revocable Trust
+Philip Morris International Inc (PM)
+[ST]
+S 11/22/202311/22/2023 $100,001 -
+$250,000
+F S: New
+S O: HILL 2012 TRUST (FORMERLY JAY F HILL TRUST)
+Filing ID #20023412
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+PotlatchDeltic Corporation (PCH)
+[ST]
+P 11/22/202311/22/2023 $15,001 -
+$50,000
+F S: New
+S O: HILL 1998 TRUST (FORMERLY HILL FAMILY TRUST)
+PotlatchDeltic Corporation (PCH)
+[ST]
+P 11/22/202311/22/2023 $1,001 - $15,000
+F S: New
+S O: J French Hill - IRA
+SP PotlatchDeltic Corporation (PCH)
+[ST]
+P 11/22/202311/22/2023 $1,001 - $15,000
+F S: New
+S O: Martha M Hill - IRA
+Visa Inc. (V) [ST] P 11/22/202311/22/2023 $50,001 -
+$100,000
+F S: New
+S O: HILL 1998 TRUST (FORMERLY HILL FAMILY TRUST)
+Warner Bros. Discovery, Inc. - Series
+A (WBD) [ST]
+P 11/22/202311/22/2023 $1,001 - $15,000
+F S: New
+S O: HILL 1998 TRUST (FORMERLY HILL FAMILY TRUST)
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+HILL 1998 TRUST (FORMERLY HILL FAMILY TRUST)
+HILL 2012 TRUST (FORMERLY JAY F HILL TRUST)
+J French Hill - IRA
+D: Simmons Investment Services / LPL
+J French Hill - Revocable Trust
+D: Simmons Investment Services / LPL
+Martha M Hill - IRA (Owner: SP)
+D: Simmons Investment Services / LPL
+I P O
+Yes No
+C S
+[[PAGE 3]]
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. James French Hill , 12/13/2023

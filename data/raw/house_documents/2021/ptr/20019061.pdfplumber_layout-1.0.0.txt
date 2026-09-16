@@ -1,0 +1,51 @@
+[[PAGE 1]]
+Filing ID #20019061
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Dwight Evans
+Status: Member
+State/District: PA03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Alphabet Inc. - Class A (gOOgl) S (partial) 05/11/2021 07/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+Celanese Corporation Celanese P 05/26/2021 07/01/2021 $1,001 - $15,000 gfedc
+Corporation (CE) [ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+CSX Corporation (CSX) [ST] P 05/26/2021 07/01/2021 $1,001 - $15,000 gfedc
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+lockheed Martin Corporation P 05/26/2021 07/01/2021 $1,001 - $15,000 gfedc
+(lMT) [ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+Quanta Services, Inc. (PWR) [ST] P 05/26/2021 07/01/2021 $1,001 - $15,000 gfedc
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+Southwest Airlines Company P 05/26/2021 07/01/2021 $1,001 - $15,000 gfedc
+(lUV) [ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+The Carlyle group Inc. (Cg) [ST] S (partial) 05/26/2021 07/01/2021 $1,001 - $15,000 gfedc
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+PROEQUITIES
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dwight Evans , 07/09/2021

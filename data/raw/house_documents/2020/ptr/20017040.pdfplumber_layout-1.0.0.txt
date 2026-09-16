@@ -1,0 +1,44 @@
+[[PAGE 1]]
+Filing ID #20017040
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. John Rutherford
+Status: Member
+State/District: Fl04
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Bristol-Myers Squibb Company P 06/21/2020 06/21/2020 $1,001 - $15,000 gfedc
+(BMY) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Enel Societa Per Azioni P 05/27/2020 05/27/2020 $1,001 - $15,000 gfedc
+unsponsored ADR (ENlAY) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Norwegian Cruise line Holdings P 05/11/2020 05/11/2020 $1,001 - $15,000 gfedc
+ltd. Ordinary Shares (NClH) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Jefferson National 457B
+VAlE S.A. American Depositary P 06/22/2020 06/22/2020 $1,001 - $15,000 gfedc
+Shares Each Representing one
+common share (VAlE) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Jefferson National 457B
+National Financial Services/Fidelity - Premiere Select IRA Domestic
+DESCRIPTION: Separately Managed Account - IRA
+[[PAGE 2]]
+National Financial Services/Fidelity - Premiere Select IRA Int'l
+DESCRIPTION: Separately Managed Account - IRA
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. John Rutherford , 07/29/2020

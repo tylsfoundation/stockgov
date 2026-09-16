@@ -1,0 +1,492 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Jared Moskowitz
+Status: Member
+State/District:FL23
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+A.O. Smith Corporation Common
+Stock (AOS) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+C: The transactions disclosed on this report all occurred in an account directed by an independent financial
+manager. Due to an administrative error, the report preparer did not have viewing access to this account online and did not
+receive transaction notifications during the covered period. The issue was discovered while preparing the CY 2023 financial
+disclosure report and was promptly rectified. Safeguards have since been implemented to ensure all future transactions are
+timely reported.
+Abbott Laboratories Common Stock
+(ABT) [ST]
+S 02/13/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Air Products and Chemicals, Inc.
+Common Stock (APD) [ST]
+S 02/01/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 02/13/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Filing ID #20025712
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Amgen Inc. - Common Stock (AMGN)
+[ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Analog Devices, Inc. - Common Stock
+(ADI) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 09/01/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 02/13/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Atmos Energy Corporation Common
+Stock (ATO) [ST]
+P 09/01/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Automatic Data Processing, Inc. -
+Common Stock (ADP) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Brown & Brown, Inc. Common Stock
+(BRO) [ST]
+P 12/28/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Caterpillar, Inc. Common Stock (CAT)
+[ST]
+S 12/28/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Chevron Corporation Common Stock
+(CVX) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Citigroup, Inc. Common Stock (C)
+[ST]
+S 07/14/202308/12/2024$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Costco Wholesale Corporation -
+Common Stock (COST) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Costco Wholesale Corporation -
+Common Stock (COST) [ST]
+P 12/28/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Cummins Inc. Common Stock (CMI)
+[ST]
+P 09/27/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Dollar General Corporation Common
+Stock (DG) [ST]
+S 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Elevance Health, Inc. Common Stock
+(ELV) [ST]
+P 02/13/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Elevance Health, Inc. Common Stock
+(ELV) [ST]
+P 02/01/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Eli Lilly and Company Common Stock
+(LLY) [ST]
+P 12/28/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Eli Lilly and Company Common Stock
+(LLY) [ST]
+P 09/01/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Exxon Mobil Corporation Common
+Stock (XOM) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+FactSet Research Systems Inc.
+Common Stock (FDS) [ST]
+P 02/01/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Home Depot, Inc. (HD) [ST] P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Hormel Foods Corporation Common
+Stock (HRL) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Hormel Foods Corporation Common
+Stock (HRL) [ST]
+S 12/28/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Intel Corporation - Common Stock
+(INTC) [ST]
+S 07/14/202308/12/2024$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Jack Henry & Associates, Inc. -
+Common Stock (JKHY) [ST]
+S 12/28/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Johnson & Johnson Common StockP 07/14/202308/12/2024$1,001 - $15,000
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(JNJ) [ST]
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Kimberly-Clark Corporation Common
+Stock (KMB) [ST]
+S 02/01/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Linde plc - Ordinary Shares (LIN)
+[ST]
+P 09/01/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Lockheed Martin Corporation
+Common Stock (LMT) [ST]
+P 02/13/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Lowe's Companies, Inc. Common
+Stock (LOW) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Mastercard Incorporated Common
+Stock (MA) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+McDonald's Corporation Common
+Stock (MCD) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+McDonald's Corporation Common
+Stock (MCD) [ST]
+P 12/28/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Medtronic plc. Ordinary Shares
+(MDT) [ST]
+S 12/28/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Medtronic plc. Ordinary SharesP 07/14/202308/12/2024$1,001 - $15,000
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(MDT) [ST]
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+P 09/01/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 09/01/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Mondelez International, Inc. - Class A
+Common Stock (MDLZ) [ST]
+P 02/01/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+NextEra Energy, Inc. Common Stock
+(NEE) [ST]
+S (partial) 02/13/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+NextEra Energy, Inc. Common Stock
+(NEE) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Nike, Inc. Common Stock (NKE) [ST] P 09/01/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Nike, Inc. Common Stock (NKE) [ST] S 02/01/202408/12/2024$1,001 - $15,000
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Pepsico, Inc. (PEP) [ST] P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Pfizer, Inc. Common Stock (PFE) [ST]S 09/01/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Procter & Gamble Company (PG) [ST]P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Public Service Enterprise Group
+Incorporated Common Stock (PEG)
+[ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Raymond James Financial, Inc.
+Common Stock (RJF) [ST]
+S 07/14/202308/12/2024$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Roper Technologies, Inc. (ROP) [ST] P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+RPM International Inc. Common
+Stock (RPM) [ST]
+P 02/13/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+RTX Corporation Common Stock
+(RTX) [ST]
+S 09/27/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+S&P Global Inc. Common Stock
+(SPGI) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Morgan Stanley Active Assets (1)
+S&P Global Inc. Common Stock
+(SPGI) [ST]
+P 02/13/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Snap-On Incorporated Common Stock
+(SNA) [ST]
+P 02/01/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Southern Company (SO) [ST] P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Southern Company (SO) [ST] S 02/13/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Starbucks Corporation - Common
+Stock (SBUX) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+STERIS plc (STE) [ST] P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Sysco Corporation Common Stock
+(SYY) [ST]
+S 09/01/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Target Corporation Common Stock
+(TGT) [ST]
+S 09/27/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Target Corporation Common Stock
+(TGT) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Texas Instruments Incorporated -
+Common Stock (TXN) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+T-Mobile US, Inc. (TMUS) [ST] P 12/26/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+T-Mobile US, Inc. (TMUS) [ST] P 12/28/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+T-Mobile US, Inc. (TMUS) [ST] P 02/13/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Tractor Supply Company - Common
+Stock (TSCO) [ST]
+P 09/01/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 02/13/202408/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Visa Inc. (V) [ST] P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+W.W. Grainger, Inc. Common Stock
+(GWW) [ST]
+P 07/14/202308/12/2024$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Walt Disney Company (DIS) [ST] S 07/14/202308/12/2024$1,001 - $15,000
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley Active Assets (1)
+WEC Energy Group, Inc. Common
+Stock (WEC) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+West Pharmaceutical Services, Inc.
+Common Stock (WST) [ST]
+P 07/14/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+West Pharmaceutical Services, Inc.
+Common Stock (WST) [ST]
+P 12/28/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Zoetis Inc. Class A Common Stock
+(ZTS) [ST]
+P 12/28/202308/12/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Morgan Stanley Active Assets (1)
+L: US
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Jared Moskowitz , 08/21/2024

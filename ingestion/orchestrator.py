@@ -24,6 +24,14 @@ class RunSummary:
 
 
 @dataclass(frozen=True)
+class DocumentSelection:
+    """Documents selected by a processor-specific metadata filter."""
+
+    documents: list[DiscoveredDocument]
+    messages: tuple[str, ...] = ()
+
+
+@dataclass(frozen=True)
 class ProcessingOutcome:
     """Generic processor result semantics shared across document types."""
 
@@ -66,16 +74,36 @@ class DocumentOrchestrator:
         root: Path | None = None,
         limit: int | None = None,
         requires_ocr: bool = False,
+        from_year: int | None = None,
         handler: Callable[[Any, DiscoveredDocument], Any] | None = None,
     ) -> RunSummary:
         summary = RunSummary()
         documents = self.discover(root)
-        if limit is not None:
-            documents = documents[:limit]
-        summary.discovered = len(documents)
         processor = self.processors.get(document_type)
         if processor is None:
             raise ValueError(f"No processor registered for {document_type!r}")
+        selector = getattr(processor, "select_documents", None)
+        if from_year is not None and selector is None:
+            raise ValueError(
+                f"Processor {document_type!r} does not support filing-year selection"
+            )
+        if selector and (from_year is not None or requires_ocr):
+            selection = selector(
+                documents,
+                from_year=from_year,
+                requires_ocr=requires_ocr,
+                database_url=self.config.database_url,
+            )
+            if isinstance(selection, DocumentSelection):
+                documents = selection.documents
+                summary.messages.extend(selection.messages)
+            else:
+                documents = selection
+        if limit is not None:
+            documents = documents[:limit]
+        summary.discovered = len(documents)
+        for message in summary.messages:
+            self.logger.info(message)
         for item in documents:
             try:
                 result = handler(processor, item) if handler else processor.process(item.path, requires_ocr=requires_ocr)

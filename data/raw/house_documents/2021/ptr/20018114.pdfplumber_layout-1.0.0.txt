@@ -1,0 +1,99 @@
+[[PAGE 1]]
+Filing Id #20018114
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Michael K. Simpson
+Status: Member
+State/District: Id02
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+barrick gold Corporation Common S 01/11/2021 01/13/2021 $1,001 - $15,000 gfedc
+Stock (gOld) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Euro Pacific Capital IRA
+bHP group limited American S 01/11/2021 01/13/2021 $1,001 - $15,000 gfedcb
+depositary Shares (bHP) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Euro Pacific Capital IRA
+Comp En de Mn Cemig AdS S 01/11/2021 01/13/2021 $1,001 - $15,000 gfedc
+American depositary Shares (CIg)
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Euro Pacific Capital IRA
+Equinor ASA (EQNR) [ST] S 01/11/2021 01/13/2021 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOldINg OF: Euro Pacific Capital IRA
+Ericsson - American depositary S 01/11/2021 01/13/2021 $1,001 - $15,000 gfedc
+Shares each representing 1
+underlying Class b share (ERIC)
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Euro Pacific Capital IRA
+J g C Corp (JgCCF) [ST] S 01/12/2021 01/14/2021 $1,001 - $15,000 gfedc
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+SubHOldINg OF: Euro Pacific Capital IRA
+Major drilling grp Intl Ordinary S 01/11/2021 01/13/2021 $1,001 - $15,000 gfedc
+Shares (MJdlF) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Euro Pacific Capital IRA
+Malayan banking Ord Singapore S 01/12/2021 01/13/2021 $1,001 - $15,000 gfedc
+Ordinary Shares (MlYNF) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Euro Pacific Capital IRA
+Newcrest Mining ltd Ord Ordinary S 01/11/2021 01/13/2021 $1,001 - $15,000 gfedcb
+Shares (NCMgF) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Euro Pacific Capital IRA
+Newmont Corporation (NEM) [ST] S 01/11/2021 01/13/2021 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOldINg OF: Euro Pacific Capital IRA
+Origin Energy ltd Ordinary Shares S 01/12/2021 01/14/2021 $1,001 - $15,000 gfedc
+(OgFgF) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Euro Pacific Capital IRA
+Precision drilling Corporation S 01/11/2021 01/13/2021 $1,001 - $15,000 gfedc
+(PdS) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Euro Pacific Capital IRA
+Telefonica brasil S.A. American S 01/11/2021 01/13/2021 $1,001 - $15,000 gfedc
+depositary Shares (VIV) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Euro Pacific Capital IRA
+Tesco Plc Ord Ordinary Shares S 01/11/2021 01/13/2021 $1,001 - $15,000 gfedc
+(TSCdF) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Euro Pacific Capital IRA
+Turkcell Iletisim Hizmetleri AS S 01/11/2021 01/13/2021 $1,001 - $15,000 gfedc
+(TKC) [ST]
+FIlINg STATuS: New
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOldINg OF: Euro Pacific Capital IRA
+Woolworths ltd Ord Ordinary S 01/11/2021 01/13/2021 $1,001 - $15,000 gfedcb
+Shares (WOlWF) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Euro Pacific Capital IRA
+Yamana gold Inc. Ordinary Shares S 01/11/2021 01/13/2021 $1,001 - $15,000 gfedc
+(AuY) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Euro Pacific Capital IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Euro Pacific Capital IRA
+Euro Pacific Capital IRA
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Michael K. Simpson , 02/01/2021

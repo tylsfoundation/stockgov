@@ -1,0 +1,79 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Marjorie Taylor Greene
+Status: Member
+State/District:GA14
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 08/28/202508/29/2025$1,001 - $15,000
+F S: New
+Exelon Corporation (EXC) [ST] P 08/28/202508/29/2025$15,001 -
+$50,000
+F S: New
+FedEx Corporation Common Stock
+(FDX) [ST]
+P 08/28/202508/29/2025$15,001 -
+$50,000
+F S: New
+MercadoLibre, Inc. - Common Stock
+(MELI) [ST]
+P 08/28/202508/29/2025$1,001 - $15,000
+F S: New
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+P 08/28/202508/29/2025$1,001 - $15,000
+F S: New
+Morgan Stanley Common Stock (MS)
+[ST]
+P 08/28/202508/29/2025$1,001 - $15,000
+F S: New
+Novo Nordisk A/S Common Stock
+(NVO) [ST]
+P 08/28/202508/29/2025$1,001 - $15,000
+F S: New
+Pepsico, Inc. (PEP) [ST] P 08/28/202508/29/2025$1,001 - $15,000
+Filing ID #20030996
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+Ryman Hospitality Properties, Inc.
+(RHP) [ST]
+P 08/28/202508/29/2025$15,001 -
+$50,000
+F S: New
+Southern Company (SO) [ST] P 08/28/202508/29/2025$1,001 - $15,000
+F S: New
+United Parcel Service, Inc. Common
+Stock (UPS) [ST]
+P 08/28/202508/29/2025$1,001 - $15,000
+F S: New
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 08/28/202508/29/2025$1,001 - $15,000
+F S: New
+US Treasury Bill [GS] S 08/28/202508/29/2025$15,001 -
+$50,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Marjorie Taylor Greene , 08/29/2025

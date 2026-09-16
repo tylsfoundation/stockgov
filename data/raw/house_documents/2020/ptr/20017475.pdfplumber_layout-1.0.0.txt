@@ -1,0 +1,129 @@
+[[PAGE 1]]
+Filing Id #20017475
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+filer information
+name: Hon. K. Michael Conaway
+Status: Member
+State/District: TX11
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Abbott Laboratories (AbT) [ST] P 09/28/2020 10/02/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 10 (Wells Fargo Financial)
+Abbott Laboratories (AbT) [ST] P 09/28/2020 10/02/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 25 (Wells Fargo Financial)
+Alphabet Inc. - Class A (gOOgL) P 09/08/2020 09/11/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 69 (Wells Fargo Financial)
+Apple Inc. (AAPL) [ST] S (partial) 09/08/2020 09/11/2020 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 10 (Wells Fargo Financial)
+Apple Inc. (AAPL) [ST] S (partial) 09/08/2020 09/11/2020 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 69 (Wells Fargo Financial)
+bANK NOVA SCOTIA 0% 1Y: LKd S 09/24/2020 09/28/2020 $15,001 - gfedcb
+EURO STOXX 50 INdEX dUE $50,000
+09/24/2020 CPN 0.000% dUE
+09/24/20 [OT]
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUbHOLdINg OF: WF 25 (Wells Fargo Financial)
+LOCATION: US
+dESCRIPTION: bANK NOVA SCOTIA 0% 1Y: LKd EURO STOXX 50 INdEX dUE 09/24/2020 CPN 0.000% dUE 09/24/20
+Redemption
+FIFTH THIRd bANCORP FIX TO P 09/21/2020 09/24/2020 $15,001 - gfedc
+FLT JR SbRdNTd CALLAbLE $50,000
+PERPTL CPN 5.100% dUE
+12/31/49 [OT]
+FILINg STATUS: New
+SUbHOLdINg OF: WF 10 (Wells Fargo Financial)
+LOCATION: US
+dESCRIPTION: FIFTH THIRd bANCORP FIX TO FLT JR SbRdNTd CALLAbLE PERPTL CPN 5.100% dUE 12/31/49
+First Trust NASdAQ Cybersecurity P 09/21/2020 09/25/2020 $15,001 - gfedc
+ETF (CIbR) [ST] $50,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 25 (Wells Fargo Financial)
+Intuit Inc. (INTU) [ST] S 09/08/2020 09/11/2020 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 69 (Wells Fargo Financial)
+JP Morgan Chase & Co. (JPM) S 09/09/2020 09/11/2020 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 69 (Wells Fargo Financial)
+JP Morgan Chase & Co. (JPM) S 09/08/2020 09/11/2020 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 10 (Wells Fargo Financial)
+JPMORgAN CHASE & CO P 09/28/2020 10/02/2020 $15,001 - gfedc
+FIX/FLT JR SbRdNTd PERP $50,000
+MAT CLLb NRA TAXAbLE CPN
+4.051% dUE 12/29/49 [OT]
+FILINg STATUS: New
+SUbHOLdINg OF: WF 25 (Wells Fargo Financial)
+LOCATION: US
+dESCRIPTION: JPMORgAN CHASE & CO FIX/FLT JR SbRdNTd PERP MAT CLLb NRA TAXAbLE CPN 4.051% dUE
+12/29/49
+Principal U.S. Mega-Cap ETF P 09/21/2020 09/25/2020 $1,001 - $15,000 gfedc
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+(USMC) [ST]
+FILINg STATUS: New
+SUbHOLdINg OF: WF 25 (Wells Fargo Financial)
+Principal U.S. Mega-Cap ETF S (partial) 09/08/2020 09/11/2020 $15,001 - gfedcb
+(USMC) [ST] $50,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 10 (Wells Fargo Financial)
+SPdR S&P 500 (SPY) [ST] S (partial) 09/08/2020 09/11/2020 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 10 (Wells Fargo Financial)
+Vanguard Consumer Staples ETF S 09/21/2020 09/24/2020 $50,001 - gfedcb
+(VdC) [ST] $100,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 10 (Wells Fargo Financial)
+Vanguard Consumer Staples ETF S 09/21/2020 09/24/2020 $15,001 - gfedcb
+(VdC) [ST] $50,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 25 (Wells Fargo Financial)
+Vanguard Consumer Staples ETF S 09/21/2020 09/24/2020 $15,001 - gfedcb
+(VdC) [ST] $50,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 53 (Wells Fargo Financial)
+Vanguard div Appreciation ETF S (partial) 09/08/2020 09/11/2020 $50,001 - gfedcb
+(VIg) [ST] $100,000
+FILINg STATUS: New
+SUbHOLdINg OF: WF 10 (Wells Fargo Financial)
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+WF 10 (Wells Fargo Financial)
+LOCATION: US
+WF 25 (Wells Fargo Financial)
+LOCATION: US
+WF 53 (Wells Fargo Financial)
+LOCATION: US
+[[PAGE 4]]
+WF 69 (Wells Fargo Financial)
+LOCATION: US
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. K. Michael Conaway , 10/05/2020

@@ -1,0 +1,112 @@
+[[PAGE 1]]
+Filing ID #20017274
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. David B. McKinley
+Status: Member
+State/District: WV01
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Abbott laboratories (ABT) [ST] S (partial) 08/28/2020 08/31/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+JT Activision Blizzard, Inc (ATVI) P 08/25/2020 08/31/2020 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+Activision Blizzard, Inc (ATVI) P 08/20/2020 08/31/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA's > IRA- Spouse
+Anthem, Inc. (ANTM) [ST] S 08/20/2020 08/31/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA's > IRA- Spouse
+JT Apple Inc. (AAPl) [ST] S (partial) 08/28/2020 08/31/2020 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+JT Becton, Dickinson and Company S 08/25/2020 08/31/2020 $15,001 - gfedcb
+(BDX) [ST] $50,000
+FIlINg STATuS: New
+Becton, Dickinson and Company S 08/20/2020 08/31/2020 $1,001 - $15,000 gfedc
+(BDX) [ST]
+FIlINg STATuS: New
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SuBHOlDINg OF: IRA's > IRA- Spouse
+CarMax Inc (KMX) [ST] P 08/20/2020 08/31/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA's > IRA- Spouse
+Ecolab Inc. (ECl) [ST] S 08/20/2020 08/31/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA's > IRA- Spouse
+JT Ecolab Inc. (ECl) [ST] S (partial) 08/25/2020 08/31/2020 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+JT Estee lauder Companies, Inc. (El) S (partial) 08/28/2020 08/31/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+JT Home Depot, Inc. (HD) [ST] S (partial) 08/28/2020 08/31/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+JT Intuit Inc. (INTu) [ST] S (partial) 08/28/2020 08/31/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+JT Mastercard Incorporated (MA) S (partial) 08/28/2020 08/31/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+JT Microsoft Corporation (MSFT) S (partial) 08/28/2020 08/31/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+Netflix, Inc. (NFlX) [ST] P 08/20/2020 08/31/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA's > IRA- Spouse
+QuAlCOMM Incorporated P 08/20/2020 08/31/2020 $1,001 - $15,000 gfedc
+(QCOM) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA's > IRA- Spouse
+JT QuAlCOMM Incorporated P 08/25/2020 08/31/2020 $15,001 - gfedc
+(QCOM) [ST] $50,000
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FIlINg STATuS: New
+JT Raytheon Technologies S (partial) 08/25/2020 08/31/2020 $15,001 - gfedc
+Corporation (RTX) [ST] $50,000
+FIlINg STATuS: New
+Raytheon Technologies S 08/20/2020 08/31/2020 $1,001 - $15,000 gfedc
+Corporation (RTX) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA's > IRA- Spouse
+RPM International Inc. (RPM) P 08/20/2020 08/31/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA's > IRA- Spouse
+JT RPM International Inc. (RPM) S (partial) 08/28/2020 08/31/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+JT RPM International Inc. (RPM) P 08/25/2020 08/31/2020 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+Sysco Corporation (SYY) [ST] S 08/25/2020 08/31/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA's > IRA- Spouse
+JT Waste Management, Inc. (WM) S (partial) 08/28/2020 08/31/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+IRA's
+IRA's ⇒ IRA- Spouse
+DESCRIPTION: Traditional Financial Investments in Jt, SP, IRA, Rollover IRA and Filer-owned are primarily managed by a third
+party Registered Investment Advisory manager who has discretion for trades.
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 4]]
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. David B. McKinley , 09/03/2020

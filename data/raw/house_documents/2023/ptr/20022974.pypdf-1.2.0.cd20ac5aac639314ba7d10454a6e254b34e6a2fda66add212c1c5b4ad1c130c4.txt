@@ -1,0 +1,109 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Lois Frankel
+Status: Member
+State/District:FL22
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Boston Scientific Corporation (BSX)
+[ST]
+S (partial) 04/19/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Boston Scientific Corporation (BSX)
+[ST]
+S (partial) 05/01/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Charles River Laboratories
+International, Inc. (CRL) [ST]
+P 04/25/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Comcast Corporation - Class A
+(CMCSA) [ST]
+S (partial) 05/03/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+EPAM Systems, Inc. (EPAM) [ST] S (partial) 04/19/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Gartner, Inc. (IT) [ST] S (partial) 04/19/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Filing ID #20022974
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Hess Corporation (HES) [ST] S (partial) 04/24/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+PNC Financial Services Group, Inc.
+(PNC) [ST]
+P 04/26/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+PNC Financial Services Group, Inc.
+(PNC) [ST]
+P 04/19/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+PPG Industries, Inc. (PPG) [ST] S (partial) 04/19/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+PPG Industries, Inc. (PPG) [ST] S (partial) 04/26/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+ProLogis, Inc. (PLD) [ST] P 05/03/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+The Hershey Company (HSY) [ST] S (partial) 04/24/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Ubiquiti Inc. (UI) [ST] S (partial) 04/19/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Ubiquiti Inc. (UI) [ST] S 05/03/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Vontier Corporation (VNT) [ST] S (partial) 04/24/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+W.R. Berkley Corporation (WRB)
+[ST]
+P 05/01/202305/19/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley IRA - X141
+D: Managed by MFS Investment MGMT
+Morgan Stanley IRA - X142
+D: Managed by Anchor Capital Advisors LLC
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 05/19/2023

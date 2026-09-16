@@ -1,0 +1,75 @@
+[[PAGE 1]]
+Filing ID #20017911
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Lois Frankel
+Status: Member
+State/District: FL21
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Avery Dennison Corporation (AVY) S (partial) 11/16/2020 11/16/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+bank of Hawaii Corporation (bOH) P 11/16/2020 11/16/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+bluebird bio, Inc. (bLuE) [ST] S 12/11/2020 12/11/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+bluebird bio, Inc. (bLuE) [ST] S (partial) 12/10/2020 12/10/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Ciena Corporation (CIEN) [ST] S 11/20/2020 11/20/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Fluor Corporation (FLR) [ST] P 11/30/2020 11/30/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Fluor Corporation (FLR) [ST] P 12/01/2020 12/01/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Hexcel Corporation (HXL) [ST] P 12/03/2020 12/03/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Insperity, Inc. (NSP) [ST] S (partial) 11/16/2020 11/16/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+NXP Semiconductors N.V. (NXPI) S (partial) 12/09/2020 12/09/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Portland General Electric Co (POR) P 11/30/2020 11/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+PPL Corporation (PPL) [ST] S 12/11/2020 12/11/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Thermo Fisher Scientific Inc P 12/09/2020 12/09/2020 $1,001 - $15,000 gfedc
+(TMO) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Morgan Stanley IRA - X141
+DESCRIPTION: Managed by MFS Investment MGMT
+Morgan Stanley IRA - X142
+DESCRIPTION: Managed by Anchor Capital Advisors LLC
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 3]]
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 12/28/2020

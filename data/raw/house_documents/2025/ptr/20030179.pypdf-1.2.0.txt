@@ -1,0 +1,100 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Dwight Evans
+Status: Member
+State/District:PA03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+AbbVie Inc. Common Stock (ABBV)
+[ST]
+S (partial) 04/03/202504/16/2025$1,001 - $15,000
+F S: New
+S O: CETERA
+Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+P 04/03/202504/16/2025$1,001 - $15,000
+F S: New
+S O: CETERA
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 04/03/202504/16/2025$1,001 - $15,000
+F S: New
+S O: CETERA
+American Tower Corporation (AMT)
+[ST]
+S (partial) 04/03/202504/16/2025$1,001 - $15,000
+F S: New
+S O: CETERA
+Intel Corporation - Common Stock
+(INTC) [ST]
+P 04/03/202504/16/2025$1,001 - $15,000
+F S: New
+S O: CETERA
+International Business Machines
+Corporation Common Stock (IBM)
+[ST]
+P 04/03/202504/16/2025$1,001 - $15,000
+F S: New
+S O: CETERA
+Filing ID #20030179
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Kinder Morgan, Inc. Common Stock
+(KMI) [ST]
+S (partial) 04/03/202504/16/2025$1,001 - $15,000
+F S: New
+S O: CETERA
+NextEra Energy, Inc. Common Stock
+(NEE) [ST]
+S (partial) 04/03/202504/16/2025$1,001 - $15,000
+F S: New
+S O: CETERA
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 04/03/202504/16/2025$1,001 - $15,000
+F S: New
+S O: CETERA
+ONEOK, Inc. Common Stock (OKE)
+[ST]
+S (partial) 04/03/202504/16/2025$1,001 - $15,000
+F S: New
+S O: CETERA
+Quanta Services, Inc. Common Stock
+(PWR) [ST]
+S (partial) 04/03/202504/16/2025$1,001 - $15,000
+F S: New
+S O: CETERA
+ServiceNow, Inc. Common Stock
+(NOW) [ST]
+S (partial) 04/03/202504/16/2025$1,001 - $15,000
+F S: New
+S O: CETERA
+Williams Companies, Inc. (WMB)
+[ST]
+S (partial) 04/03/202504/16/2025$1,001 - $15,000
+F S: New
+S O: CETERA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+CETERA
+I P O
+[[PAGE 3]]
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dwight Evans , 04/17/2025

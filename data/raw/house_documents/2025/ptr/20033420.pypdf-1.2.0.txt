@@ -1,0 +1,122 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Julie Johnson
+Status: Member
+State/District:TX32
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Alaska Air Group, Inc. Common Stock
+(ALK) [ST]
+S 10/22/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 10/21/202511/04/2025 $1,001 - $15,000
+F S: New
+S O: Chase Brokerage Account (3935)
+JT Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 10/27/202511/04/2025 $1,001 - $15,000
+F S: New
+S O: Chase Brokerage Account (3935)
+JT Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 10/31/202511/04/2025 $1,001 - $15,000
+F S: New
+S O: Chase Brokerage Account (3935)
+JT Carrier Global Corporation Common
+Stock (CARR) [ST]
+S 10/06/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Carrier Global Corporation Common
+Stock (CARR) [ST]
+P 10/07/202511/04/2025 $1,001 - $15,000
+F S: New
+S O: Chase Brokerage Account (3935)
+Filing ID #20033420
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Danaher Corporation Common Stock
+(DHR) [ST]
+P 10/07/202511/04/2025 $1,001 - $15,000
+F S: New
+S O: Chase Brokerage Account (3935)
+JT Deere & Company Common Stock
+(DE) [ST]
+S 10/22/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT F5, Inc. - Common Stock (FFIV) [ST] S 10/22/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Fiserv, Inc. Common Stock (FI) [ST] S 10/06/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Gen Digital Inc. - Common Stock
+(GEN) [ST]
+S 10/22/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Kroger Company (KR) [ST] S 10/06/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Parker-Hannifin Corporation
+Common Stock (PH) [ST]
+S (partial) 10/08/202511/04/2025 $1,001 - $15,000
+F S: New
+S O: Chase Brokerage Account (3935)
+JT Parker-Hannifin Corporation
+Common Stock (PH) [ST]
+S 10/31/202511/04/2025 $1,001 - $15,000
+F S: New
+S O: Chase Brokerage Account (3935)
+JT PNC Financial Services Group, Inc.
+(PNC) [ST]
+S 10/21/202511/04/2025 $1,001 - $15,000
+F S: New
+S O: Chase Brokerage Account (3935)
+JT VeriSign, Inc. - Common StockS 10/06/202511/06/2025 $1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(VRSN) [ST]
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Weyerhaeuser Company Common
+Stock (WY) [ST]
+S 10/22/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Chase Brokerage Account (3935) (Owner: JT)
+L: US
+Merrill Lynch Long Term Growth (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Julie Johnson , 11/14/2025

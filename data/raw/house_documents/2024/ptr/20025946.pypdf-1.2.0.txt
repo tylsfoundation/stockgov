@@ -1,0 +1,36 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Greg Landsman
+Status: Member
+State/District:OH01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Diamondback Energy, Inc. - Common
+Stock (FANG) [ST]
+S 09/10/202410/02/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT NextEra Energy, Inc. Common Stock
+(NEE) [ST]
+P 09/10/202410/02/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Rockefeller Capital Management (1) (100% Interest) (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Greg Landsman , 10/14/2024
+Filing ID #20025946

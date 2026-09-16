@@ -1,0 +1,45 @@
+[[PAGE 1]]
+Filing ID #20016805
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Michael Garcia
+Status: Member
+State/District: CA25
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Boeing Company (BA) [ST] S 06/03/2020 06/03/2020 $15,001 - gfedcb
+$50,000
+FIlING STATuS: New
+Boeing Company (BA) [ST] S 06/05/2020 06/05/2020 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+Direxion Financial Bull 3X Shares S 06/03/2020 06/03/2020 $1,001 - $15,000 gfedcb
+(FAS) [ET]
+FIlING STATuS: New
+Starbucks Corporation (SBuX) S 06/16/2020 06/16/2020 $15,001 - gfedcb
+[ST] $50,000
+FIlING STATuS: New
+Tesla, Inc. (TSlA) [ST] S 06/03/2020 06/03/2020 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+Tesla, Inc. (TSlA) [ST] S 05/21/2020 05/21/2020 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+uber Technologies, Inc. (uBER) S 06/03/2020 06/03/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlING STATuS: New
+united States Oil Fund (uSO) [ET] P 05/28/2020 05/28/2020 $15,001 - gfedc
+$50,000
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlING STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Michael Garcia , 06/17/2020

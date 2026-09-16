@@ -1,0 +1,51 @@
+[[PAGE 1]]
+Filing Id #20016812
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Steve Cohen
+Status: Member
+State/District: TN09
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+berkshire Hathaway Inc. New S 05/11/2020 06/18/2020 $1,001 - $15,000 gfedcb
+(bRK.b) [ST]
+FILINg STATUS: New
+SUbHOLdINg OF: Stephens Advantage Account
+Chevron Corporation (CVX) [ST] S 05/11/2020 06/18/2020 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLdINg OF: Stephens Advantage Account
+Coca-Cola Company (KO) [ST] S 05/11/2020 06/18/2020 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLdINg OF: Stephens Advantage Account
+First Horizon National Corporation S 05/11/2020 06/18/2020 $1,001 - $15,000 gfedcb
+(FHN) [ST]
+FILINg STATUS: New
+SUbHOLdINg OF: Stephens Advantage Account
+Healthpeak Properties, Inc. S 05/11/2020 06/18/2020 $1,001 - $15,000 gfedcb
+(PEAK) [ST]
+FILINg STATUS: New
+SUbHOLdINg OF: Stephens Advantage Account
+Schlumberger N.V. (SLb) [ST] S 05/11/2020 06/18/2020 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLdINg OF: Stephens Advantage Account
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Walt disney Company (dIS) [ST] S 05/11/2020 06/18/2020 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLdINg OF: Stephens Advantage Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Stephens Advantage Account
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Steve Cohen , 06/18/2020

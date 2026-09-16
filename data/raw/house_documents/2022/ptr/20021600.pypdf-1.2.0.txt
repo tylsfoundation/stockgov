@@ -1,0 +1,199 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Neal Patrick MD, Facs Dunn
+Status: Member
+State/District:FL02
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+AT&T Inc. Depositary Shares, each
+representing a 1/1,000th interest in a
+share of 5.000% Perpetual Preferred
+Stock, Series A (T$A) [ST]
+P 08/15/202208/23/2022$15,001 -
+$50,000
+F S: New
+S O: IRA #1
+Cadence Bank 5.50% Series A
+(CADE$A) [ST]
+P 08/10/202208/23/2022$15,001 -
+$50,000
+F S: New
+S O: IRA #1
+Cadence Bank 5.50% Series A
+(CADE$A) [ST]
+P 08/15/202208/23/2022$1,001 - $15,000
+F S: New
+S O: IRA #1
+Capital One Financial Corporation
+Depositary shares each representing a
+1/40th interest in a share of Fixed
+Rate Non-Cumulative Perpetual
+Preferred Stock, Series I of the Issuer
+(COF$I) [ST]
+P 08/15/202208/23/2022$15,001 -
+$50,000
+F S: New
+S O: IRA #1
+Capital One Financial Corporation
+Depositary shares each representing a
+1/40th interest in a share of Fixed
+Rate Non-Cumulative Perpetual
+Preferred Stock, Series I of the Issuer
+(COF$I) [ST]
+P 08/10/202208/23/2022$15,001 -
+$50,000
+Filing ID #20021600
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: IRA #1
+J P Morgan Chase & Co Depositary
+Shares, each representing a 1/400th
+interest in a share of JPMorgan Chase
+& Co. 4.75% Non-Cumulative
+Preferred Stock, Series GG (JPM$J)
+[ST]
+P 08/10/202208/23/2022$15,001 -
+$50,000
+F S: New
+S O: IRA #1
+J P Morgan Chase & Co Depositary
+Shares, each representing a 1/400th
+interest in a share of JPMorgan Chase
+& Co. 4.75% Non-Cumulative
+Preferred Stock, Series GG (JPM$J)
+[ST]
+P 08/15/202208/23/2022$15,001 -
+$50,000
+F S: New
+S O: IRA #1
+KeyCorp Depositary Shares each
+representing a 1/40th ownership
+interest in a share of Fixed Rate
+Perpetual Non-Cumulative Preferred
+Stock, Series F (KEY$J) [ST]
+P 08/15/202208/23/2022$15,001 -
+$50,000
+F S: New
+S O: IRA #1
+KeyCorp Depositary Shares each
+representing a 1/40th ownership
+interest in a share of Fixed Rate
+Perpetual Non-Cumulative Preferred
+Stock, Series F (KEY$J) [ST]
+P 08/10/202208/23/2022$15,001 -
+$50,000
+F S: New
+S O: IRA #1
+KeyCorp Depositary Shares each
+representing a 1/40th ownership
+interest in a share of Fixed Rate
+Perpetual Non-Cumulative Preferred
+Stock, Series F (KEY$J) [ST]
+P 08/10/202208/23/2022$1,001 - $15,000
+F S: New
+S O: IRA #2
+Regions Financial Corporation
+Depositary Shares, Each Representing
+a 1/40th Interest in a Share of 4.45%
+Non-Cumulative Perpetual Preferred
+P 08/10/202208/23/2022$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Stock, Series E (RF$E) [ST]
+F S: New
+S O: IRA #2
+Regions Financial Corporation
+Depositary Shares, Each Representing
+a 1/40th Interest in a Share of 4.45%
+Non-Cumulative Perpetual Preferred
+Stock, Series E (RF$E) [ST]
+P 08/10/202208/23/2022$15,001 -
+$50,000
+F S: New
+S O: IRA #1
+Regions Financial Corporation
+Depositary Shares, Each Representing
+a 1/40th Interest in a Share of 4.45%
+Non-Cumulative Perpetual Preferred
+Stock, Series E (RF$E) [ST]
+P 08/15/202208/23/2022$15,001 -
+$50,000
+F S: New
+S O: IRA #1
+Truist Financial Corporation
+Depositary Shares, each representing
+1/1,000th interest in a share of Series
+R Non-Cumulative Perpetual
+Preferred Stock (TFC$R) [ST]
+P 08/15/202208/23/2022$15,001 -
+$50,000
+F S: New
+S O: IRA #1
+U.S. Bancorp Depositary Shares each
+representing a 1/1,000th interest in a
+share of Series K Non-Cumulative
+Perpetual Preferred Stock (USB$P)
+[ST]
+P 08/15/202208/23/2022$15,001 -
+$50,000
+F S: New
+S O: IRA #1
+Wells Fargo & Company Depositary
+Shares, each representing a 1/1,000th
+interest in a share of Non-Cumulative
+Perpetual Class A Preferred Stock,
+Series Y (WFC$Y) [ST]
+P 08/15/202208/23/2022$15,001 -
+$50,000
+F S: New
+S O: IRA #1
+Wells Fargo & Company Depositary
+Shares, each representing a 1/1,000th
+interest in a share of Non-Cumulative
+Perpetual Class A Preferred Stock,
+Series Y (WFC$Y) [ST]
+P 08/10/202208/23/2022$15,001 -
+$50,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: IRA #1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+IRA #1
+D: Held at Merrill Lynch
+IRA #2
+D: Held at Merrill Lynch
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Neal Patrick MD, Facs Dunn , 09/09/2022

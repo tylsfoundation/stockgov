@@ -1,0 +1,54 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. William R. Keating
+Status: Member
+State/District:MA09
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+ORACLE CORP NOTE CALL MAKE
+WHOLE 2.30000% 03/25/2028 [CS]
+S 09/15/202210/20/2022$15,001 -
+$50,000
+F S: New
+S O: Bill's IRA
+D: 68389XCD5
+Ross Stores, Inc. (ROST) [ST] S 09/09/202210/20/2022$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+TJX Companies, Inc. (TJX) [ST] P 09/09/202210/20/2022$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+UNITED STATES TREAS SER C-2032
+2.87500% 05/15/2032 NTS NOTE
+[GS]
+P 07/20/202209/01/2022$15,001 -
+$50,000
+F S: New
+S O: Bill's IRA
+VERIZON COMMUNICATIONS INC
+4.01600% 12/03/2029 SER C NOTE
+CALL MAKE WHOLE [CS]
+P 09/30/202210/20/2022$15,001 -
+$50,000
+F S: New
+S O: Bill's IRA
+D: 92343VEU4
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+Filing ID #20021629
+[[PAGE 2]]
+A C D
+Bill's IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. William R. Keating , 10/30/2022

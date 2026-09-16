@@ -1,0 +1,58 @@
+[[PAGE 1]]
+Filing ID #20018944
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Lois Frankel
+Status: Member
+State/District: FL21
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Cigna Corporation (CI) [ST] P 06/09/2021 06/09/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Comcast Corporation - Class A P 05/19/2021 05/19/2021 $1,001 - $15,000 gfedc
+(CMCSA) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Progressive Corporation (PGR) P 05/26/2021 05/26/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Progressive Corporation (PGR) P 06/02/2021 06/02/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Progressive Corporation (PGR) P 05/27/2021 05/27/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+u.S. bancorp (uSb) [ST] S (partial) 05/27/2021 05/27/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+u.S. bancorp (uSb) [ST] S 06/02/2021 06/02/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+u.S. bancorp (uSb) [ST] S (partial) 05/26/2021 05/26/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+u.S. bancorp (uSb) [ST] S (partial) 05/19/2021 05/19/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan Stanley IRA - X141
+DESCRIPTION: Managed by MFS Investment MGMT
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 06/30/2021

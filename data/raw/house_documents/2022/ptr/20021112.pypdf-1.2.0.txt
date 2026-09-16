@@ -1,0 +1,157 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. David Madison Cawthorn
+Status: Member
+State/District:NC11
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Bitcoin [OT] P 01/24/202201/24/2022$15,001 -
+$50,000
+F S: New
+L: US
+D: Virtual currency
+Bitcoin [OT] P 01/25/202201/25/2022$1,001 - $15,000
+F S: New
+L: US
+D: Virtual currency
+Bitcoin [OT] P 01/26/202201/26/2022$15,001 -
+$50,000
+F S: New
+L: US
+D: Virtual currency
+Bitcoin [OT] P 01/27/202201/27/2022$1,001 - $15,000
+F S: New
+L: US
+D: Virtual Currency
+Bitcoin [OT] P 03/30/202203/30/2022$15,001 -
+$50,000
+F S: New
+L: US
+D: Virtual currency
+Ethereum [OT] S (partial) 03/23/202203/23/2022$15,001 -
+Filing ID #20021112
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+$50,000
+F S: New
+L: US
+D: Virtual currency
+Ethereum [OT] P 03/25/202203/25/2022$1,001 - $15,000
+F S: New
+L: US
+D: Virtual currency
+Ethereum [OT] S (partial) 01/26/202201/26/2022$15,001 -
+$50,000
+F S: New
+L: US
+D: Virtual currency
+Ethereum [OT] P 01/25/202201/25/2022$15,001 -
+$50,000
+F S: New
+L: US
+D: Virtual currency
+Ethereum [OT] P 01/29/202201/29/2022$15,001 -
+$50,000
+F S: New
+L: US
+D: Virtual currency
+Kryll [OT] P 03/23/202203/23/2022$50,001 -
+$100,000
+F S: New
+L: US
+D: Virtual currency
+Kryll [OT] S (partial) 03/24/202203/24/2022$50,001 -
+$100,000
+F S: New
+L: US
+D: Virtual currency
+Kryll [OT] P 03/24/202203/24/2022$15,001 -
+$50,000
+F S: New
+L: US
+D: Virtual currency
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Kryll [OT] S (partial) 03/25/202203/25/2022$1,001 - $15,000
+F S: New
+L: US
+D: Virtual currency
+Let's Go Brandon [OT] S (partial) 01/04/202201/04/2022$15,001 -
+$50,000
+F S: New
+L: US
+D: Virtual currency
+Request [OT] P 03/23/202203/23/2022$1,001 - $15,000
+F S: New
+L: US
+D: Virtual currency
+Request [OT] S 03/24/202203/24/2022$1,001 - $15,000
+F S: New
+L: US
+D: Virtual currency
+Request [OT] P 03/25/202203/25/2022$1,001 - $15,000
+F S: New
+L: US
+D: Virtual currency
+Solana [OT] S (partial) 03/23/202203/23/2022$15,001 -
+$50,000
+F S: New
+L: US
+D: Virtual currency
+Solana [OT] P 03/24/202203/24/2022$15,001 -
+$50,000
+F S: New
+L: US
+D: Virtual currency
+Solana [OT] S 03/25/202203/25/2022$15,001 -
+$50,000
+F S: New
+L: US
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: Virtual currency
+Solana [OT] P 02/10/202202/10/2022$1,001 - $15,000
+F S: New
+L: US
+D: Virtual currency
+Solana [OT] P 02/12/202202/12/2022$1,001 - $15,000
+F S: New
+L: US
+D: Virtual currency
+Solana [OT] P 02/15/202202/15/2022$1,001 - $15,000
+F S: New
+L: US
+D: Virtual currency
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. David Madison Cawthorn , 06/08/2022

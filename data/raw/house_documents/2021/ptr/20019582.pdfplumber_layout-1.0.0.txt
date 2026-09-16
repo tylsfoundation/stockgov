@@ -1,0 +1,74 @@
+[[PAGE 1]]
+Filing ID #20019582
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Patrick Fallon
+Status: Member
+State/District: TX04
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Amazon.com, Inc. (AMZN) [ST] S 10/04/2021 10/04/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+American Airlines group, Inc. S 10/04/2021 10/04/2021 $1,001 - $15,000 gfedc
+(AAl) [ST]
+FIlINg STATuS: New
+Boeing Company (BA) [ST] S 10/04/2021 10/04/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+CrowdStrike Holdings, Inc. - Class S 10/01/2021 10/01/2021 $1,001 - $15,000 gfedc
+A (CRWD) [ST]
+FIlINg STATuS: New
+CrowdStrike Holdings, Inc. - Class P 10/01/2021 10/01/2021 $100,001 - gfedc
+A (CRWD) [ST] $250,000
+FIlINg STATuS: New
+CrowdStrike Holdings, Inc. - Class P 10/01/2021 10/01/2021 $15,001 - gfedc
+A (CRWD) [ST] $50,000
+FIlINg STATuS: New
+CrowdStrike Holdings, Inc. - Class P 10/01/2021 10/01/2021 $1,001 - $15,000 gfedc
+A (CRWD) [ST]
+FIlINg STATuS: New
+CrowdStrike Holdings, Inc. - Class P 10/01/2021 10/01/2021 $1,001 - $15,000 gfedc
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+A (CRWD) [ST]
+FIlINg STATuS: New
+CrowdStrike Holdings, Inc. - Class P 10/01/2021 10/01/2021 $1,001 - $15,000 gfedc
+A (CRWD) [ST]
+FIlINg STATuS: New
+CrowdStrike Holdings, Inc. - Class P 10/01/2021 10/01/2021 $1,001 - $15,000 gfedc
+A (CRWD) [ST]
+FIlINg STATuS: New
+CrowdStrike Holdings, Inc. - Class S 10/01/2021 10/01/2021 $1,001 - $15,000 gfedc
+A (CRWD) [ST]
+FIlINg STATuS: New
+FedEx Corporation (FDX) [ST] S 10/04/2021 10/04/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Southwest Airlines Company (luV) S 10/04/2021 10/04/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Square, Inc. Class A (SQ) [ST] P 10/04/2021 10/04/2021 $100,001 - gfedc
+$250,000
+FIlINg STATuS: New
+Square, Inc. Class A (SQ) [ST] S 10/04/2021 10/04/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Twitter, Inc. (TWTR) [ST] S 10/04/2021 10/04/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Verizon Communications Inc. (VZ) S 10/04/2021 10/04/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Walt Disney Company (DIS) [ST] S 10/04/2021 10/04/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+[[PAGE 3]]
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Patrick Fallon , 10/05/2021

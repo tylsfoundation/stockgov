@@ -1,0 +1,338 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Rob Bresnahan
+Status: Member
+State/District:PA08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+AbbVie Inc. Common Stock (ABBV)
+[ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Air Products and Chemicals, Inc.
+Common Stock (APD) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Alexandria Real Estate Equities, Inc.
+Common Stock (ARE) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Ameren Corporation Common Stock
+(AEE) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Baxter International Inc. Common
+Stock (BAX) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Becton, Dickinson and Company
+Common Stock (BDX) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Filing ID #20030482
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Biogen Inc. - Common Stock (BIIB)
+[ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Centene Corporation Common Stock
+(CNC) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Coca-Cola Company (KO) [ST] S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Consolidated Edison, Inc. Common
+Stock (ED) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+DexCom, Inc. - Common Stock
+(DXCM) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Dow Inc. Common Stock (DOW) [ST] P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+DuPont de Nemours, Inc. Common
+Stock (DD) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Eastman Chemical Company Common
+Stock (EMN) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Electronic Arts Inc. - Common Stock
+(EA) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+EOG Resources, Inc. Common StockP 05/15/202505/15/2025$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(EOG) [ST]
+F S: New
+S O: JP Morgan Brokerage Account
+GE Aerospace Common Stock (GE)
+[ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+General Dynamics Corporation
+Common Stock (GD) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Halliburton Company Common Stock
+(HAL) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Healthpeak Properties, Inc. Common
+Stock (DOC) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Host Hotels & Resorts, Inc. - Common
+Stock (HST) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Humana Inc. Common Stock (HUM)
+[ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+IDEXX Laboratories, Inc. - Common
+Stock (IDXX) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Lockheed Martin CorporationP 05/15/202505/15/2025$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Common Stock (LMT) [ST]
+F S: New
+S O: JP Morgan Brokerage Account
+LyondellBasell Industries NV
+Ordinary Shares Class A (LYB) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Marsh & McLennan Companies, Inc.
+Common Stock (MMC) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+P 05/13/202505/13/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 05/09/202505/09/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Molina Healthcare Inc Common Stock
+(MOH) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Netflix, Inc. - Common Stock (NFLX)
+[ST]
+S 05/13/202505/13/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Northrop Grumman Corporation
+Common Stock (NOC) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Nucor Corporation Common Stock
+(NUE) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+NVIDIA Corporation - Common StockP 05/12/202505/12/2025$1,001 - $15,000
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(NVDA) [ST]
+F S: New
+S O: JP Morgan Brokerage Account #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 05/16/202505/16/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 05/13/202505/13/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Okta, Inc. - Class A Common Stock
+(OKTA) [ST]
+P 05/09/202505/09/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Onto Innovation Inc. Common Stock
+(ONTO) [ST]
+S (partial) 05/09/202505/09/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Onto Innovation Inc. Common Stock
+(ONTO) [ST]
+S 05/12/202505/12/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+PPG Industries, Inc. Common Stock
+(PPG) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Regeneron Pharmaceuticals, Inc. -
+Common Stock (REGN) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Robinhood Markets, Inc. - Class A
+Common Stock (HOOD) [ST]
+P 05/13/202505/13/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Tempus AI, Inc. - Class A CommonP 05/09/202505/09/2025$1,001 - $15,000
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Stock (TEM) [ST]
+F S: New
+S O: JP Morgan Brokerage Account #2
+Tesla, Inc. - Common Stock (TSLA)
+[ST]
+P 05/12/202505/12/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Tesla, Inc. - Common Stock (TSLA)
+[ST]
+P 05/16/202505/16/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Texas Instruments Incorporated -
+Common Stock (TXN) [ST]
+P 05/12/202505/12/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+The Cooper Companies, Inc. (COO)
+[ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+The Trade Desk, Inc. - Class A
+Common Stock (TTD) [ST]
+P 05/09/202505/09/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Valero Energy Corporation Common
+Stock (VLO) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Veeva Systems Inc. Class A Common
+Stock (VEEV) [ST]
+S 05/16/202505/16/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Waste Management, Inc. Common
+Stock (WM) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Waters Corporation Common StockP 05/15/202505/15/2025$1,001 - $15,000
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(WAT) [ST]
+F S: New
+S O: JP Morgan Brokerage Account
+Westinghouse Air Brake Technologies
+Corporation Common Stock (WAB)
+[ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Weyerhaeuser Company Common
+Stock (WY) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+JP Morgan Brokerage Account
+L: US
+JP Morgan Brokerage Account #2
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Rob Bresnahan , 06/09/2025

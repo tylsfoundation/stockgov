@@ -1,0 +1,50 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Thomas H. Kean Jr
+Status: Member
+State/District:NJ07
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 05/08/202506/05/2025$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Aon plc Class A Ordinary Shares
+(AON) [ST]
+P 05/27/202506/05/2025$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Becton, Dickinson and Company
+Common Stock (BDX) [ST]
+P 05/13/202506/05/2025$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Crown Holdings, Inc. (CCK) [ST] S (partial) 05/08/202506/05/2025$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Thermo Fisher Scientific Inc Common
+Stock (TMO) [ST]
+P 05/05/202506/05/2025$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Kean Family Partnership (33% Interest)
+Filing ID #20030491
+[[PAGE 2]]
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Thomas H. Kean Jr, 06/17/2025

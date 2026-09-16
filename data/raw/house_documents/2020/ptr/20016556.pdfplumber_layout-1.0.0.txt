@@ -1,0 +1,141 @@
+[[PAGE 1]]
+Filing Id #20016556
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District: NJ05
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT aIa Group, Ltd. Sponsored P 04/17/2020 05/06/2020 $1,001 - $15,000 gfedc
+american depository Receipt
+(aaGIY) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT alnylam Pharmaceuticals, Inc. P 04/06/2020 05/06/2020 $1,001 - $15,000 gfedc
+(aLNY) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT alphabet Inc. - Class C Capital S (partial) 04/17/2020 05/06/2020 $1,001 - $15,000 gfedc
+Stock (GooG) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT alphabet Inc. - Class C Capital S (partial) 04/30/2020 05/06/2020 $1,001 - $15,000 gfedc
+Stock (GooG) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT apple Inc. (aaPL) [ST] S (partial) 04/20/2020 05/06/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT arista Networks, Inc. (aNET) [ST] P 04/13/2020 05/06/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT boeing Company (ba) [ST] S 04/09/2020 05/06/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT boeing Company (ba) [ST] S (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT boston Scientific Corporation S (partial) 04/09/2020 05/06/2020 $1,001 - $15,000 gfedcb
+(bSX) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT boston Scientific Corporation S 04/14/2020 05/06/2020 $1,001 - $15,000 gfedcb
+(bSX) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Chugai Pharmaceutical Ltd S (partial) 04/13/2020 05/06/2020 $1,001 - $15,000 gfedcb
+Unsponsored adR (CHGCY) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Facebook, Inc. - Class a (Fb) [ST] P 04/30/2020 05/06/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT HealthEquity, Inc. (HQY) [ST] P 04/03/2020 05/06/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Intuitive Surgical, Inc. (ISRG) [ST] S (partial) 04/17/2020 05/06/2020 $1,001 - $15,000 gfedcb
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Komatsu Ltd ord american P 04/13/2020 05/06/2020 $1,001 - $15,000 gfedc
+depositary Shares (KMTUY) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Las Vegas Sands Corp. (LVS) [ST] S (partial) 04/27/2020 05/06/2020 $1,001 - $15,000 gfedc
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Linde plc ordinary Share (LIN) S (partial) 04/13/2020 05/06/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Mastercard Incorporated (Ma) S (partial) 04/17/2020 05/06/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Microsoft Corporation (MSFT) S (partial) 04/13/2020 05/06/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Rio Tinto Plc (RIo) [ST] P 04/13/2020 05/06/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Rio Tinto Plc (RIo) [ST] P 04/14/2020 05/06/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Roche Holdings aG basel S (partial) 04/14/2020 05/06/2020 $1,001 - $15,000 gfedcb
+american depositary Shares
+(RHHbY) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Royal dutch Shell PLC Royal dutch P 04/13/2020 05/06/2020 $1,001 - $15,000 gfedc
+Shell PLC american depositary
+Shares (RdS.b) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Schlumberger N.V. (SLb) [ST] S 04/13/2020 05/06/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Schneider Electric SE Unsponsored P 04/14/2020 05/06/2020 $1,001 - $15,000 gfedc
+adR (SbGSY) [ST]
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Seattle Genetics, Inc. (SGEN) [ST] P 04/30/2020 05/06/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Snap Inc. Class a (SNaP) [ST] P 04/23/2020 05/06/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Taiwan Semiconductor P 04/17/2020 05/06/2020 $1,001 - $15,000 gfedc
+Manufacturing Company Ltd.
+(TSM) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Tesla, Inc. (TSLa) [ST] S (partial) 04/17/2020 05/06/2020 $1,001 - $15,000 gfedcb
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan Stanley - Select UMa account # 1 (owner: JT)
+LoCaTIoN: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Josh Gottheimer , 05/13/2020

@@ -1,0 +1,37 @@
+[[PAGE 1]]
+Filing ID #20018412
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Brian Mast
+Status: Member
+State/District: Fl18
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Aphria Inc. - Common Shares P 02/18/2021 02/18/2021 $15,001 - gfedc
+(APHA) [ST] $50,000
+FIlINg STATuS: New
+Eros STX global Corporation A P 02/12/2021 02/12/2021 $15,001 - gfedc
+Ordinary Shares (ESgC) [ST] $50,000
+FIlINg STATuS: New
+Tilray, Inc. - Class 2 (TlRY) [ST] S (partial) 02/09/2021 02/09/2021 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+Tilray, Inc. - Class 2 (TlRY) [ST] S (partial) 02/09/2021 02/09/2021 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+Tilray, Inc. - Class 2 (TlRY) [ST] S 02/10/2021 02/10/2021 $50,001 - gfedcb
+$100,000
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+[[PAGE 2]]
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Brian Mast , 03/17/2021

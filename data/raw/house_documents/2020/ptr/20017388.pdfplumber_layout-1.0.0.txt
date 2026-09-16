@@ -1,0 +1,82 @@
+[[PAGE 1]]
+Filing Id #20017388
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, dC 20515
+filer information
+name: Hon. Mark Green
+Status: Member
+State/District: TN07
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Antero Midstream Corporation P 09/11/2020 09/17/2020 $15,001 - gfedc
+(AM) [ST] $50,000
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Crestwood Equity Partners lP S 09/11/2020 09/17/2020 $100,001 - gfedcb
+(CEQP) [ST] $250,000
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Energy Transfer lP Common units P 09/11/2020 09/17/2020 $15,001 - gfedc
+(ET) [ST] $50,000
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Gaslog Partners lP Common P 09/11/2020 09/17/2020 $1,001 - $15,000 gfedc
+units representing limited
+partnership interests (GlOP) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Genesis Energy, l.P. Common P 09/11/2020 09/17/2020 $1,001 - $15,000 gfedc
+units (GEl) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Golar lNG Partners lP - Common P 09/11/2020 09/17/2020 $1,001 - $15,000 gfedc
+units Representing limited
+Partnership (GMlP) [ST]
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+NGl ENERGY PARTNERS lP P 09/11/2020 09/17/2020 $1,001 - $15,000 gfedc
+Common units representing
+limited Partner Interests (NGl)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Shell Midstream Partners, l.P. P 09/11/2020 09/17/2020 $1,001 - $15,000 gfedc
+Common units representing
+limited Partner Interests (SHlX)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Sprague Resources lP Common P 09/11/2020 09/17/2020 $15,001 - gfedc
+units representing limited Partner $50,000
+Interests (SRlP) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+uSA Compression Partners, lP P 09/11/2020 09/17/2020 $15,001 - gfedc
+Common units Representing $50,000
+limited Partner Interests (uSAC)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Western Midstream Partners, lP P 09/11/2020 09/17/2020 $15,001 - gfedc
+Common units Representing $50,000
+limited Partner Interests (WES)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+AXA Retirement Account
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 3]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Mark Green , 09/20/2020

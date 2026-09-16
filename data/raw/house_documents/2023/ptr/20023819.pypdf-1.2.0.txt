@@ -1,0 +1,37 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Pete Sessions
+Status: Member
+State/District:TX17
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Ares Capital Corporation - Closed End
+Fund (ARCC) [ST]
+P 10/06/202310/06/2023$569.25
+F S: New
+S O: IRA One
+D: 30 shares
+SP Warner Bros. Discovery, Inc. - Series
+A (WBD) [ST]
+S 10/06/202310/06/2023$493.91
+F S: New
+S O: IRA One
+D: 48 shares loss
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+IRA One (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Pete Sessions , 10/13/2023
+Filing ID #20023819

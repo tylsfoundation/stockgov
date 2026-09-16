@@ -1,0 +1,50 @@
+[[PAGE 1]]
+Filing ID #20018830
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. David B. McKinley
+Status: Member
+State/District: WV01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Akamai Technologies, Inc. (AKAM) S 05/12/2021 05/31/2021 $15,001 - gfedcb
+[ST] $50,000
+FIlINg STATuS: New
+JT Cerner Corporation (CERN) [ST] S 05/12/2021 05/31/2021 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+JT Ecolab Inc. (ECl) [ST] S 05/12/2021 05/31/2021 $439.25 gfedc
+FIlINg STATuS: New
+Netflix, Inc. (NFlX) [ST] S 05/27/2021 05/31/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA's > IRA- Spouse
+JT Raytheon Technologies S 05/12/2021 05/31/2021 $1,001 - $15,000 gfedcb
+Corporation (RTX) [ST]
+FIlINg STATuS: New
+JT Roper Technologies, Inc. (ROP) S 05/12/2021 05/31/2021 $15,001 - gfedcb
+[ST] $50,000
+FIlINg STATuS: New
+Stanley Black & Decker, Inc. (SWK) P 05/27/2021 05/31/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA's > IRA- Spouse
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+IRA's
+IRA's ⇒ IRA- Spouse
+DESCRIPTION: Traditional Financial Investments in SEP, IRA, Rollover IRA and Filer-owned are primarily managed by a third
+party Registered Investment Advisory manager who has discretion for trades.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. David B. McKinley , 06/02/2021

@@ -1,0 +1,68 @@
+[[PAGE 1]]
+Filing ID #20012366
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Mikie Sherrill
+Status: Member
+State/District: NJ11
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Becton, Dickinson and Company S 10/30/2019 11/07/2019 $509.87 gfedcb
+(BDX) [ST]
+FIlINg STaTuS: New
+CME group Inc. - Class a (CME) S 09/11/2019 10/07/2019 $405.92 gfedcb
+[ST]
+FIlINg STaTuS: New
+CVS Health Corporation (CVS) P 11/18/2019 12/09/2019 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STaTuS: New
+Johnson & Johnson (JNJ) [ST] P 11/18/2019 12/09/2019 $1,001 - $15,000 gfedc
+FIlINg STaTuS: New
+Microsoft Corporation (MSFT) S 10/17/2019 11/07/2019 $976.45 gfedcb
+[ST]
+FIlINg STaTuS: New
+Microsoft Corporation (MSFT) S 10/22/2019 11/07/2019 $412.82 gfedcb
+[ST]
+FIlINg STaTuS: New
+Microsoft Corporation (MSFT) S 09/11/2019 10/07/2019 $678.84 gfedcb
+[ST]
+FIlINg STaTuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Pfizer, Inc. (PFE) [ST] S 08/02/2019 09/12/2019 $1,001 - $15,000 gfedc
+FIlINg STaTuS: New
+Roche Holdings ag Basel P 10/03/2019 11/07/2019 $1,001 - $15,000 gfedc
+american Depositary Shares
+(RHHBY) [ST]
+FIlINg STaTuS: New
+Roche Holdings ag Basel P 10/04/2019 11/07/2019 $1,001 - $15,000 gfedc
+american Depositary Shares
+(RHHBY) [ST]
+FIlINg STaTuS: New
+Texas Instruments Incorporated S 10/17/2019 11/07/2019 $778.09 gfedcb
+(TXN) [ST]
+FIlINg STaTuS: New
+Tiffany & Co. (TIF) [ST] S 11/25/2019 12/09/2019 $1,001 - $15,000 gfedc
+FIlINg STaTuS: New
+united Technologies Corporation P 08/07/2019 09/12/2019 $1,001 - $15,000 gfedc
+(uTX) [ST]
+FIlINg STaTuS: New
+united Technologies Corporation P 08/29/2019 09/12/2019 $1,001 - $15,000 gfedc
+(uTX) [ST]
+FIlINg STaTuS: New
+Valero Energy Corporation (VlO) P 08/13/2019 09/12/2019 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STaTuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Mikie Sherrill , 01/03/2020

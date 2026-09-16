@@ -1,0 +1,92 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJ05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S (partial) 11/04/202212/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S (partial) 11/02/202212/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT AutoZone, Inc. (AZO) [ST] S (partial) 11/11/202212/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Estee Lauder Companies, Inc. (EL)
+[ST]
+S (partial) 11/07/202212/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Flywire Corporation - Voting (FLYW)
+[ST]
+P 11/14/202212/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT International Business Machines
+Corporation (IBM) [ST]
+P 11/02/202212/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+Filing ID #20022098
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Marriott International - Class A
+(MAR) [ST]
+P 11/16/202212/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Monster Beverage Corporation
+(MNST) [ST]
+P 11/07/202212/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT NVIDIA Corporation (NVDA) [ST] S (partial) 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Tesla, Inc. (TSLA) [ST] S (partial) 11/09/202212/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Tesla, Inc. (TSLA) [ST] S (partial) 11/02/202212/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Thoughtworks Holding, Inc. (TWKS)
+[ST]
+P 11/21/202212/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+L: US
+I P O
+Yes No
+[[PAGE 3]]
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 12/17/2022

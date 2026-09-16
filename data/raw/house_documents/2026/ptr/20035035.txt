@@ -1,0 +1,476 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Julie Johnson
+Status: Member
+State/District:TX32
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000135564JT 3M Company Common Stock
+(MMM) [ST]
+P 03/15/202504/03/2025$1,001 - $15,000
+F S: Amended
+S O: Chase Brokerage Account (3935)
+JT A.O. Smith Corporation Common
+Stock (AOS) [ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT A.O. Smith Corporation Common
+Stock (AOS) [ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Adobe Inc. - Common Stock
+(ADBE) [ST]
+P 10/30/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Adobe Inc. - Common Stock
+(ADBE) [ST]
+S 10/30/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Agilent Technologies, Inc.
+Common Stock (A) [ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+Filing ID #20035035
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Agilent Technologies, Inc.
+Common Stock (A) [ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Alaska Air Group, Inc. Common
+Stock (ALK) [ST]
+P 10/21/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Alaska Air Group, Inc. Common
+Stock (ALK) [ST]
+S 10/21/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Ameren Corporation Common
+Stock (AEE) [ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Ameren Corporation Common
+Stock (AEE) [ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Boeing Company (BA) [ST] P 12/02/202501/09/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Boeing Company (BA) [ST] S 12/02/202501/09/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Carrier Global Corporation
+Common Stock (CARR) [ST]
+S 10/03/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Carrier Global Corporation
+Common Stock (CARR) [ST]
+P 10/03/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT CMS Energy Corporation CommonP 12/08/202501/09/2026$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Stock (CMS) [ST]
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT CMS Energy Corporation Common
+Stock (CMS) [ST]
+S 12/08/202501/09/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Colgate-Palmolive Company
+Common Stock (CL) [ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Colgate-Palmolive Company
+Common Stock (CL) [ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT DaVita Inc. Common Stock (DVA)
+[ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT DaVita Inc. Common Stock (DVA)
+[ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT DBA Sempra Common Stock (SRE)
+[ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT DBA Sempra Common Stock (SRE)
+[ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Deere & Company Common Stock
+(DE) [ST]
+P 10/21/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Deere & Company Common StockS 10/21/202511/06/2025 $1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(DE) [ST]
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Equinix, Inc. - Common Stock
+(EQIX) [ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Equinix, Inc. - Common Stock
+(EQIX) [ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT F5, Inc. - Common Stock (FFIV)
+[ST]
+P 10/21/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT F5, Inc. - Common Stock (FFIV)
+[ST]
+S 10/21/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Fifth Third Bancorp - Common
+Stock (FITB) [ST]
+E 02/02/202603/05/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+D: Comerica stock exchanged for Fifth Third Bancorp stock following merger.
+JT Fiserv, Inc. - Common Stock
+(FISV) [ST]
+S 10/03/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Fiserv, Inc. - Common Stock
+(FISV) [ST]
+P 10/03/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Gen Digital Inc. - Common Stock
+(GEN) [ST]
+P 10/21/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Gen Digital Inc. - Common Stock
+(GEN) [ST]
+S 10/21/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Honeywell International Inc.
+(HON) [ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Honeywell International Inc.
+(HON) [ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT International Paper Company
+Common Stock (IP) [ST]
+P 10/30/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT International Paper Company
+Common Stock (IP) [ST]
+S 10/30/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT KeyCorp Common Stock (KEY)
+[ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT KeyCorp Common Stock (KEY)
+[ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Kroger Company (KR) [ST] P 10/03/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Kroger Company (KR) [ST] S 10/03/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT LyondellBasell Industries NVS 09/23/202510/07/2025$1,001 - $15,000
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Ordinary Shares Class A (LYB) [ST]
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT LyondellBasell Industries NV
+Ordinary Shares Class A (LYB) [ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT McCormick & Company,
+Incorporated Common Stock
+(MKC) [ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT McCormick & Company,
+Incorporated Common Stock
+(MKC) [ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Medtronic plc. Ordinary Shares
+(MDT) [ST]
+S (partial) 05/07/202506/03/2025$1,001 - $15,000
+F S: New
+S O: Chase Brokerage Account (3935)
+JT Molson Coors Beverage Company
+Class B Common Stock (TAP) [ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Molson Coors Beverage Company
+Class B Common Stock (TAP) [ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Mondelez International, Inc. -
+Class A Common Stock (MDLZ)
+[ST]
+P 10/30/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Mondelez International, Inc. -
+Class A Common Stock (MDLZ)
+[ST]
+S 10/30/202511/06/2025 $1,001 - $15,000
+F S: New
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Merrill Lynch Tax Efficient Core
+JT Monster Beverage Corporation -
+Common Stock (MNST) [ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Monster Beverage Corporation -
+Common Stock (MNST) [ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Paychex, Inc. - Common Stock
+(PAYX) [ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Paychex, Inc. - Common Stock
+(PAYX) [ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Paycom Software, Inc. Common
+Stock (PAYC) [ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Paycom Software, Inc. Common
+Stock (PAYC) [ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Public Service Enterprise Group
+Incorporated Common Stock
+(PEG) [ST]
+P 12/08/202501/09/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Public Service Enterprise Group
+Incorporated Common Stock
+(PEG) [ST]
+S 12/08/202501/09/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Quest Diagnostics Incorporated
+Common Stock (DGX) [ST]
+S 10/30/202511/06/2025 $1,001 - $15,000
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Quest Diagnostics Incorporated
+Common Stock (DGX) [ST]
+P 10/30/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Rollins, Inc. Common Stock (ROL)
+[ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Rollins, Inc. Common Stock (ROL)
+[ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT ServiceNow, Inc. Common Stock
+(NOW) [ST]
+S 12/08/202501/09/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT ServiceNow, Inc. Common Stock
+(NOW) [ST]
+P 12/08/202501/09/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT The Cigna Group Common Stock
+(CI) [ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT The Cigna Group Common Stock
+(CI) [ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT UDR, Inc. Common Stock (UDR)
+[ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT UDR, Inc. Common Stock (UDR)
+[ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT VeriSign, Inc. - Common Stock
+(VRSN) [ST]
+P 10/03/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT VeriSign, Inc. - Common Stock
+(VRSN) [ST]
+S 10/03/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Verisk Analytics, Inc. - Common
+Stock (VRSK) [ST]
+S 10/30/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Verisk Analytics, Inc. - Common
+Stock (VRSK) [ST]
+P 10/30/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT WEC Energy Group, Inc. Common
+Stock (WEC) [ST]
+P 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT WEC Energy Group, Inc. Common
+Stock (WEC) [ST]
+S 09/23/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Weyerhaeuser Company Common
+Stock (WY) [ST]
+S 10/21/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Tax Efficient Core
+JT Weyerhaeuser Company Common
+Stock (WY) [ST]
+P 10/21/202511/06/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+[[PAGE 10]]
+I V D
+Chase Brokerage Account (3935) (Owner: JT)
+L: US
+Merrill Lynch Long Term Growth (Owner: JT)
+L: US
+Merrill Lynch Tax Efficient Core (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Julie Johnson , 08/05/2026

@@ -1,0 +1,998 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Thomas Suozzi
+Status: Member
+State/District:NY03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Advanced Micro Devices, Inc.
+(AMD) [ST]
+S (partial) 07/30/201907/31/2019 $1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Advanced Micro Devices, Inc.
+(AMD) [ST]
+S (partial) 06/18/201906/30/2019$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Advanced Micro Devices, Inc.
+(AMD) [ST]
+S (partial) 03/05/201903/31/2019 $15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Advanced Micro Devices, Inc.
+(AMD) [ST]
+P 01/08/201901/31/2019 $15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000086992 Advanced Micro Devices, Inc.
+(AMD) [ST]
+S (partial) 11/18/202111/30/2021 $50,001 -
+$100,000
+F S: Amended
+S O: National Securities- Advisor Discretion Account
+2000084709 Allstate Corporation (ALL) [ST] S (partial) 06/04/202106/30/2021$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+Filing ID #20021165
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Allstate Corporation (ALL) [ST] S 11/29/202211/30/2022 $50,001 -
+$100,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084325 Alphabet Inc. - Class A (GOOGL)
+[ST]
+S 01/05/201701/30/2017 $15,001 -
+$50,000
+F S: Amended
+S O: Charles Schwab Retirement Account
+2000084324 Alphabet Inc. - Class C Capital
+Stock (GOOG) [ST]
+S 01/05/201701/30/2017 $15,001 -
+$50,000
+F S: Amended
+S O: Charles Schwab Retirement Account
+2000084326 AmerisourceBergen Corporation
+(ABC) [ST]
+S 01/05/201701/30/2017 $15,001 -
+$50,000
+F S: Amended
+S O: Charles Schwab Retirement Account
+2000086991 Apple Inc. (AAPL) [ST] S (partial) 11/18/202111/30/2021 $50,001 -
+$100,000
+F S: Amended
+S O: National Securities- Advisor Discretion Account
+2000084721 Apple Inc. (AAPL) [ST] S (partial) 06/04/202106/30/2021$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084700 Apple Inc. (AAPL) [ST] S (partial) 05/05/202105/31/2021 $1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084731 Apple Inc. (AAPL) [ST] S (partial) 07/28/202107/31/2021 $1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084440 Apple Inc. (AAPL) [ST] S (partial) 11/18/201911/30/2019 $1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Apple Inc. (AAPL) [ST] S (partial) 11/15/201911/30/2019 $1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Apple Inc. (AAPL) [ST] P 01/29/201901/31/2019 $15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Apple Inc. (AAPL) [ST] P 05/08/201805/31/2018$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084327 Baidu, Inc. - American Depositary
+Shares, each representing 8
+ordinary share (BIDU) [ST]
+S 01/05/201701/30/2017 $15,001 -
+$50,000
+F S: Amended
+S O: Charles Schwab Retirement Account
+Beyond Meat, Inc. - Common stock
+(BYND) [ST]
+P 08/01/201908/31/2019$1,001 -
+$15,000
+F S: New
+S O: National Securities- Advisor Discretion Account
+2000084328 BlackRock, Inc. (BLK) [ST] S 01/05/201701/30/2017 $1,001 -
+$15,000
+F S: Amended
+S O: Charles Schwab Retirement Account
+Block, Inc. Class A Common Stock,
+(SQ) [ST]
+P 07/08/201907/31/2019 $15,001 -
+$50,000
+F S: New
+S O: National Securities- Advisor Discretion Account
+2000084552 Boeing Company (BA) [ST] S (partial) 06/03/202006/30/2020$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084401 Boeing Company (BA) [ST] P 05/13/201905/31/2019 $1,001 -
+$15,000
+F S: Deleted
+S O: Merrill Lynch- Advisor Discretion Account
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000084400 Boeing Company (BA) [ST] S (partial) 07/30/201907/31/2019 $1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084402 Bristol-Myers Squibb Company
+(BMY) [ST]
+S 04/08/201904/30/2019$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084726 Bristol-Myers Squibb Company
+(BMY) [ST]
+S (partial) 06/04/202106/30/2021$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084729 Bristol-Myers Squibb Company
+(BMY) [ST]
+S (partial) 06/07/202106/30/2021$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+Bristol-Myers Squibb Company
+(BMY) [ST]
+S (partial) 03/29/201903/31/2019 $1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Bristol-Myers Squibb Company
+(BMY) [ST]
+P 04/17/201804/30/2018$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Bristol-Myers Squibb Company
+(BMY) [ST]
+S (partial) 07/30/202007/31/2020$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Bristol-Myers Squibb Company
+(BMY) [ST]
+S (partial) 07/10/202007/31/2020$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084548 Bristol-Myers Squibb Company
+(BMY) [ST]
+S 01/09/202001/31/2020$15,001 -
+$50,000
+F S: Deleted
+S O: Merrill Lynch- Advisor Discretion Account
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000084329 CarMax Inc (KMX) [ST] S 01/05/201701/30/2017 $15,001 -
+$50,000
+F S: Amended
+S O: Charles Schwab Retirement Account
+2000084445 Caterpillar, Inc. (CAT) [ST] S 06/18/201906/30/2019$1,001 -
+$15,000
+F S: Deleted
+S O: Merrill Lynch- Advisor Discretion Account
+2000084330 Cerner Corporation (CERN) [ST] S 01/05/201701/30/2017 $15,001 -
+$50,000
+F S: Amended
+S O: Charles Schwab Retirement Account
+2000084471 Chevron Corporation (CVX) [ST] S 10/17/201910/30/2019$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084715 Cigna Corporation (CI) [ST] S (partial) 06/04/202106/30/2021$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000086262 Cigna Corporation (CI) [ST] S (partial) 10/05/202110/31/2021 $1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+Cigna Corporation (CI) [ST] S (partial) 10/17/201910/31/2019 $1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Cigna Corporation (CI) [ST] S (partial) 09/16/201909/30/2019$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084404 Cigna Corporation (CI) [ST] S (partial) 11/18/201911/30/2019 $50,001 -
+$100,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000084448 Cisco Systems, Inc. (CSCO) [ST] S (partial) 10/17/201910/30/2019$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084446 Citigroup, Inc. (C) [ST] S 01/25/201901/30/2019$1,001 -
+$15,000
+F S: Deleted
+S O: Merrill Lynch- Advisor Discretion Account
+2000084331 CME Group Inc. - Class A (CME)
+[ST]
+S 01/05/201701/30/2017 $1,001 -
+$15,000
+F S: Amended
+S O: Charles Schwab Retirement Account
+2000084447 Control4 Corporation (CTRL) [ST] S 05/13/201905/31/2019 $1,001 -
+$15,000
+F S: Deleted
+S O: Merrill Lynch- Advisor Discretion Account
+Control4 Corporation (CTRL) [ST] S (partial) 04/08/201904/30/2019$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Corning Incorporated (GLW) [ST] S (partial) 09/17/201909/30/2019$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084392 Corning Incorporated (GLW) [ST] P 05/23/201905/30/2019$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084473 Corteva, Inc. (CTVA) [ST] S 08/21/201908/30/2019$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+CrowdStrike Holdings, Inc. - Class
+A (CRWD) [ST]
+P 07/08/201907/31/2019 $1,001 -
+$15,000
+F S: New
+S O: National Securities- Advisor Discretion Account
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Crown Holdings, Inc. (CCK) [ST] S (partial) 04/11/201904/30/2019$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Crown Holdings, Inc. (CCK) [ST] S (partial) 04/08/201904/30/2019$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Crown Holdings, Inc. (CCK) [ST] P 10/02/201810/31/2018 $50,001 -
+$100,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084405 Crown Holdings, Inc. (CCK) [ST] S (partial) 09/24/201909/30/2019$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+CVS Health Corporation (CVS)
+[ST]
+S 11/29/202211/30/2022 $15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000086689 CVS Health Corporation (CVS)
+[ST]
+S (partial) 11/10/202111/15/2021 $15,001 -
+$50,000
+F S: Amended
+S O: National Securities- Advisor Discretion Account
+2000084708 CVS Health Corporation (CVS)
+[ST]
+S (partial) 06/04/202106/30/2021$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+Damen Warehouse Owners, LLC,
+6%, 6% Interest [OL]
+S 12/31/201912/31/2019 $250,001 -
+$500,000
+F S: New
+L: Delaware, DE, US
+D: warehouse held in llc sold in 2019
+Dana Incorporated (DAN) [ST] S (partial) 01/10/202001/31/2020$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000084549 Dana Incorporated (DAN) [ST] S (partial) 07/30/202007/30/2020$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084698 Devon Energy Corporation (DVN)
+[ST]
+S (partial) 05/05/202105/31/2021 $1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084722 Devon Energy Corporation (DVN)
+[ST]
+S (partial) 06/04/202106/30/2021$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084334 Discover Financial Services (DFS)
+[ST]
+S 01/05/201701/30/2017 $1,001 -
+$15,000
+F S: Amended
+S O: Charles Schwab Retirement Account
+2000084723 Domino's Pizza Inc (DPZ) [ST] S (partial) 06/04/202106/30/2021$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084474 Dow Inc. (DOW) [ST] S 08/19/201908/31/2019$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000090692 DowDuPont Inc. (DWDP) [ST] P 03/05/201903/31/2019 $1,001 -
+$15,000
+F S: Deleted
+S O: Merrill Lynch- Advisor Discretion Account
+2000084475 DuPont de Nemours, Inc. (DD)
+[ST]
+S 08/21/201908/31/2019$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+DuPont de Nemours, Inc. (DD)
+[ST]
+S (partial) 03/20/202003/31/2020$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000084718 Eaton Corporation, PLC Ordinary
+Shares (ETN) [ST]
+S (partial) 06/04/202106/30/2021$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084335 eBay Inc. (EBAY) [ST] S 01/05/201701/30/2017 $15,001 -
+$50,000
+F S: Amended
+S O: Charles Schwab Retirement Account
+2000084677 Electrameccanica Vehicles Corp.
+Ltd. (SOLO) [ST]
+S 02/16/202102/28/2021$15,001 -
+$50,000
+F S: Amended
+S O: National Securities- Advisor Discretion Account
+Eli Lilly and Company (LLY) [ST] S (partial) 10/17/201910/31/2019 $1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Exxon Mobil Corporation (XOM)
+[ST]
+S (partial) 04/30/201804/30/2018$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084337 Facebook, Inc. - Class A (FB) [ST] S 01/05/201701/30/2017 $15,001 -
+$50,000
+F S: Amended
+S O: Charles Schwab Retirement Account
+FuelCell Energy, Inc. (FCEL) [ST] S 12/07/202012/31/2020 $15,001 -
+$50,000
+F S: New
+S O: National Securities- Advisor Discretion Account
+FuelCell Energy, Inc. (FCEL) [ST] P 12/02/202012/31/2020 $15,001 -
+$50,000
+F S: New
+S O: National Securities- Advisor Discretion Account
+Generac Holdlings Inc. (GNRC)
+[ST]
+S (partial) 11/15/202211/21/2022 $1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000084609 General Electric Company (GE)
+[ST]
+S 02/24/202002/29/2020$1,001 -
+$15,000
+F S: Deleted
+S O: National Securities- Advisor Discretion Account
+2000084449 General Motors Company (GM)
+[ST]
+S 09/16/201909/16/2019$1,001 -
+$15,000
+F S: Deleted
+S O: Merrill Lynch- Advisor Discretion Account
+2000084725 General Motors Company (GM)
+[ST]
+S (partial) 06/04/202106/30/2021$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+General Motors Company (GM)
+[ST]
+P 06/27/201806/30/2018$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Gettin the Band Back on Broadway
+LLC [OL]
+P 07/03/201807/03/2018$15,001 -
+$50,000
+F S: New
+L: New York, NY, US
+D: Minority interest in LLC located in New York, New York.
+2000084284 Henry Schein, Inc. (HSIC) [ST] S (partial) 12/06/201712/31/2017 $15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+Henry Schein, Inc. (HSIC) [ST] S (partial) 03/29/201803/31/2018$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+HollyFrontier Corporation (HFC)
+[ST]
+S 08/03/202008/31/2020$15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084507 HollyFrontier Corporation (HFC)
+[ST]
+P 05/05/202005/31/2020$15,001 -
+$50,000
+F S: Deleted
+S O: Merrill Lynch- Advisor Discretion Account
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000084450 Intel Corporation (INTC) [ST] S 06/18/201906/30/2019$1,001 -
+$15,000
+F S: Deleted
+S O: Merrill Lynch- Advisor Discretion Account
+2000084717 International Paper Company (IP)
+[ST]
+S (partial) 06/04/202106/30/2021$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084550 International Paper Company (IP)
+[ST]
+S (partial) 07/10/202007/31/2020$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+International Paper Company (IP)
+[ST]
+S (partial) 04/08/201904/30/2019$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+International Paper Company (IP)
+[ST]
+P 10/01/201810/31/2018 $50,001 -
+$100,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+International Paper Company (IP)
+[ST]
+P 12/28/201812/31/2018 $1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084558 iShares TIPS Bond ETF (TIP) [ST] S 03/03/202003/31/2020$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+iShares TIPS Bond ETF (TIP) [ST] S (partial) 03/02/202003/31/2020$100,001 -
+$250,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084579 JMP Group LLC Common Shares
+(JMP) [ST]
+P 03/10/202003/31/2020$1,001 -
+$15,000
+F S: Deleted
+S O: National Securities- Advisor Discretion Account
+[[PAGE 12]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000084479 Johnson & Johnson (JNJ) [ST] S 10/17/201910/31/2019 $1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084614 JP Morgan Chase & Co. (JPM) [ST]P 01/01/202001/31/2020$15,001 -
+$50,000
+F S: Deleted
+S O: Merrill Lynch- Advisor Discretion Account
+2000084551 JP Morgan Chase & Co. (JPM) [ST]S (partial) 07/10/202007/31/2020$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084727 JP Morgan Chase & Co. (JPM) [ST]S (partial) 06/04/202106/30/2021$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084613 JPMorgan Chase Capital XVI JP
+Morgan Alerian MLP ETN (AMJ)
+[ST]
+S 01/01/202001/31/2020$15,001 -
+$50,000
+F S: Deleted
+S O: Merrill Lynch- Advisor Discretion Account
+2000084544 LendingTree, Inc. (TREE) [ST] S (partial) 12/23/202012/31/2020 $1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+Martin Marietta Materials, Inc.
+(MLM) [ST]
+P 10/02/201810/31/2018 $15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Martin Marietta Materials, Inc.
+(MLM) [ST]
+P 10/01/201810/31/2018 $15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084724 Marvell Technology, Inc. (MRVL)
+[ST]
+S (partial) 06/04/202106/30/2021$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+[[PAGE 13]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S (partial) 10/17/201910/31/2019 $15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084720 Microsoft Corporation (MSFT)
+[ST]
+S (partial) 06/04/202106/30/2021$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000086993 NextEra Energy, Inc. (NEE) [ST] S (partial) 11/16/202111/30/2021 $1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084467 NVIDIA Corporation (NVDA) [ST] S 12/02/201912/31/2019 $15,001 -
+$50,000
+F S: Amended
+S O: National Securities- Advisor Discretion Account
+2000084713 NVIDIA Corporation (NVDA) [ST] S (partial) 06/04/202106/30/2021$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084696 NVIDIA Corporation (NVDA) [ST] S (partial) 05/05/202105/31/2021 $15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084546 NVIDIA Corporation (NVDA) [ST] S 03/02/202003/31/2020$100,001 -
+$250,000
+F S: Deleted
+S O: Merrill Lynch- Advisor Discretion Account
+2000084394 NVIDIA Corporation (NVDA) [ST] P 07/29/201907/31/2019 $1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] P 06/06/201906/30/2019$15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+[[PAGE 14]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+NVIDIA Corporation (NVDA) [ST] S (partial) 09/08/202009/30/2020$15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] S (partial) 08/20/202008/31/2020$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] S (partial) 08/19/202008/31/2020$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] S (partial) 08/03/202008/31/2020$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] S (partial) 07/10/202007/31/2020$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] S (partial) 06/03/202006/30/2020$15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084480 Oracle Corporation (ORCL) [ST] S 10/21/201910/31/2019 $1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+Paradise Square Broadway LP [OL]P 11/01/202111/01/2021 $15,001 -
+$50,000
+F S: New
+L: New York, NY, US
+D: Entity produces Broadway shows.
+2000084340 PayPal Holdings, Inc. (PYPL) [ST] S 01/05/201701/30/2017 $15,001 -
+$50,000
+F S: Amended
+[[PAGE 15]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Charles Schwab Retirement Account
+2000084714 PPG Industries, Inc. (PPG) [ST] S (partial) 06/04/202106/30/2021$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+Regeneron Pharmaceuticals, Inc.
+(REGN) [ST]
+S (partial) 08/21/201908/31/2019$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084685 Roblox Corporation Class A
+(RBLX) [ST]
+S 06/30/202106/30/2021$15,001 -
+$50,000
+F S: Amended
+S O: National Securities- Advisor Discretion Account
+RUVO Realty LLC, 100% Interest
+[OL]
+P 11/01/201911/01/2019 $100,001 -
+$250,000
+F S: New
+L: Nassau, NY, US
+D: Office Space for rent starting Jan 1, 2020
+2000084719 Splunk Inc. (SPLK) [ST] S (partial) 06/04/202106/30/2021$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084466 Square, Inc. Class A (SQ) [ST] S 12/02/201912/31/2019 $15,001 -
+$50,000
+F S: Amended
+S O: National Securities- Advisor Discretion Account
+2000084362 Superior Industries International,
+Inc. Common Stock (SUP) [ST]
+S (partial) 12/28/201812/31/2018 $15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084481 Superior Industries International,
+Inc. Common Stock (SUP) [ST]
+S 12/29/201812/31/2018 $1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+Superior Industries International,
+Inc. Common Stock (SUP) [ST]
+P 12/06/201712/31/2017 $1,001 -
+$15,000
+[[PAGE 16]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Superior Industries International,
+Inc. Common Stock (SUP) [ST]
+S (partial) 12/19/201812/31/2018 $1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Superior Industries International,
+Inc. Common Stock (SUP) [ST]
+S (partial) 12/14/201812/31/2018 $15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Superior Industries International,
+Inc. Common Stock (SUP) [ST]
+P 11/08/201811/30/2018 $1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Superior Industries International,
+Inc. Common Stock (SUP) [ST]
+P 11/06/201811/30/2018 $1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Superior Industries International,
+Inc. Common Stock (SUP) [ST]
+P 10/15/201810/31/2018 $1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Superior Industries International,
+Inc. Common Stock (SUP) [ST]
+P 10/02/201810/31/2018 $15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Superior Industries International,
+Inc. Common Stock (SUP) [ST]
+P 10/01/201810/31/2018 $15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Superior Industries International,
+Inc. Common Stock (SUP) [ST]
+P 04/30/201804/30/2018$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084333 The Cooper Companies, Inc. (COO)
+[ST]
+S 01/05/201701/30/2017 $15,001 -
+$50,000
+[[PAGE 17]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: Amended
+S O: Charles Schwab Retirement Account
+2000084341 The Priceline Group Inc. (PCLN)
+[ST]
+S 01/05/201701/30/2017 $15,001 -
+$50,000
+F S: Amended
+S O: Charles Schwab Retirement Account
+2000084693 United Rentals, Inc. (URI) [ST] S (partial) 05/05/202105/31/2021 $15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084710 United Rentals, Inc. (URI) [ST] S (partial) 06/04/202106/30/2021$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+United Rentals, Inc. (URI) [ST] P 03/29/201903/31/2019 $1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+United Rentals, Inc. (URI) [ST] P 01/23/201901/31/2019 $1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+United Rentals, Inc. (URI) [ST] P 12/14/201812/31/2018 $1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Verizon Communications Inc. (VZ)
+[ST]
+P 06/27/201806/30/2018$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084456 Verizon Communications Inc. (VZ)
+[ST]
+S 06/18/201906/30/2019$1,001 -
+$15,000
+F S: Deleted
+S O: Merrill Lynch- Advisor Discretion Account
+Verizon Communications Inc. (VZ)
+[ST]
+S 11/10/202211/21/2022 $1,001 -
+$15,000
+[[PAGE 18]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account- IRA
+2000084716 Visa Inc. (V) [ST] S (partial) 06/04/202106/30/2021$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084457 Walmart Inc. (WMT) [ST] S 06/18/201906/30/2019$1,001 -
+$15,000
+F S: Deleted
+S O: Merrill Lynch- Advisor Discretion Account
+Walmart Inc. (WMT) [ST] P 10/02/201810/31/2018 $15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Walmart Inc. (WMT) [ST] P 03/29/201803/31/2018$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Walmart Inc. (WMT) [ST] S (partial) 04/11/201904/30/2019$1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+2000084557 Waste Management, Inc. (WM)
+[ST]
+S (partial) 03/20/202003/31/2020$1,001 -
+$15,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+2000084728 Weyerhaeuser Company (WY) [ST]S (partial) 06/04/202106/30/2021$15,001 -
+$50,000
+F S: Amended
+S O: Merrill Lynch- Advisor Discretion Account
+Weyerhaeuser Company (WY) [ST]P 10/01/201810/31/2018 $15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Winnebago Industries, Inc. (WGO)
+[ST]
+P 10/11/201810/31/2018 $15,001 -
+$50,000
+[[PAGE 19]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Winnebago Industries, Inc. (WGO)
+[ST]
+P 10/15/201810/31/2018 $1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Winnebago Industries, Inc. (WGO)
+[ST]
+P 10/02/201810/31/2018 $15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Winnebago Industries, Inc. (WGO)
+[ST]
+S (partial) 03/05/201903/31/2019 $1,001 -
+$15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Winnebago Industries, Inc. (WGO)
+[ST]
+S (partial) 02/25/201902/28/2019$15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+Winnebago Industries, Inc. (WGO)
+[ST]
+S (partial) 01/29/201901/31/2019 $15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Charles Schwab Retirement Account
+Merrill Lynch- Advisor Discretion Account
+L: US
+D: Advisor Discretion Account under control of asset manager.
+Merrill Lynch- Advisor Discretion Account
+L: US
+D: Advisor Discretion Account under control of asset manager.
+Merrill Lynch- Advisor Discretion Account- IRA
+National Securities- Advisor Discretion Account
+I P O
+[[PAGE 20]]
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Thomas Suozzi , 12/19/2022

@@ -1,0 +1,36 @@
+[[PAGE 1]]
+Filing ID #20019231
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Marjorie Taylor Greene
+Status: Member
+State/District: GA14
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Amgen Inc. (AMGN) [ST] P 07/19/2021 07/22/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+JT Costco Wholesale Corporation P 07/19/2021 07/22/2021 $1,001 - $15,000 gfedc
+(COST) [ST]
+FIlING STATuS: New
+JT Intel Corporation (INTC) [ST] P 07/19/2021 07/22/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+JT Nestle SA Sponsored ADR P 07/19/2021 07/22/2021 $1,001 - $15,000 gfedc
+representing Registered Shares
+Series B (NSRGY) [ST]
+FIlING STATuS: New
+JT NVIDIA Corporation (NVDA) [ST] P 07/19/2021 07/22/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+JT Visa Inc. (V) [ST] P 07/19/2021 07/22/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 2]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Marjorie Taylor Greene , 08/04/2021

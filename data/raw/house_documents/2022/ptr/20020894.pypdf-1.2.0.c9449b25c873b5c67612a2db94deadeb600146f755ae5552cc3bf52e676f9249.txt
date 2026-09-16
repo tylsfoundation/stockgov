@@ -1,0 +1,44 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. David Madison Cawthorn
+Status: Member
+State/District:NC11
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Ethereum [OT] P 12/31/202112/31/2021 $100,001 -
+$250,000
+F S: New
+L: US
+D: Virtual Currency
+Ethereum [OT] P 12/27/202112/27/2021 $1,001 - $15,000
+F S: New
+L: US
+D: Virtual currency
+Let's Go Brandon [OT] P 12/21/202112/21/2021 $100,001 -
+$250,000
+F S: New
+L: US
+D: Virtual Currency
+Let's Go Brandon [OT] S (partial) 12/31/202212/31/2021 $100,001 -
+$250,000
+F S: New
+L: US
+D: Virtual currency
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+C
+I P O
+Filing ID #20020894
+[[PAGE 2]]
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. David Madison Cawthorn , 05/27/2022

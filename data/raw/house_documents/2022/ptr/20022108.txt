@@ -1,0 +1,164 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Christopher L. Jacobs
+Status: Member
+State/District:NY27
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+AGNC Investment Corp. (AGNC) [ST]P 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Akero Therapeutics, Inc. (AKRO) [ST]P 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Athira Pharma, Inc. (ATHA) [ST] S 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Atreca, Inc. - Class A (BCEL) [ST] S 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Bank of America Corporation (BAC)
+[ST]
+P 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Berkshire Hathaway Inc. (BRK.A)
+[ST]
+P 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+BioLife Solutions, Inc. (BLFS) [ST] P 11/08/202212/07/2022$1,001 - $15,000
+Filing ID #20022108
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Cassava Sciences, Inc. (SAVA) [ST] S 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Chevron Corporation (CVX) [ST] P 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Enochian Biosciences, Inc. (ENOB)
+[ST]
+S 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Exxon Mobil Corporation (XOM) [ST]P 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+FLEX LNG Ltd. Ordinary Shares
+(FLNG) [ST]
+P 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Gevo, Inc. (GEVO) [ST] S 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Health Sciences Acquisitions
+Corporation (HSAC) [ST]
+P 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Helix Energy Solutions Group, Inc.
+(HLX) [ST]
+P 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Helmerich & Payne, Inc. (HP) [ST] P 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Home Depot, Inc. (HD) [ST] S (partial) 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Johnson & Johnson (JNJ) [ST] P 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+JP Morgan Chase & Co. (JPM) [ST] P 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Kodiak Sciences Inc (KOD) [ST] S 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Ocugen, Inc. (OCGN) [ST] S 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Physicians Realty Trust Common
+Shares of Beneficial Interest (DOC)
+[ST]
+S 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Plug Power, Inc. (PLUG) [ST] S 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Relmada Therapeutics, Inc. (RLMD)
+[ST]
+P 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Sabra Health Care REIT, Inc. (SBRA)
+[ST]
+S 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+San Antonio Tx 5.000% 5/15/33 [GS] S 11/15/202212/07/2022$15,001 -
+$50,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > GWK
+Silvergate Capital Corporation Class A
+(SI) [ST]
+S 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Tellurian, Inc, (TLRN) [ST] S 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Uranium Energy Corp. (UEC) [ST] P 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Vaxcyte, Inc. (PCVX) [ST] P 11/08/202212/07/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+CL TRUST
+CL TRUST ⇒ LDJ FAM INV LLC
+CL TRUST ⇒ LDJ FAM INV LLC ⇒ GWK
+CL TRUST ⇒ LDJ FAM INV LLC ⇒ Parametric
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Christopher L. Jacobs , 12/12/2022

@@ -1,0 +1,432 @@
+[[PAGE 1]]
+Filing ID #20016559
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Dean Phillips
+Status: Member
+State/District: MN03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+3M Company (MMM) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+abbott laboratories (aBT) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+advanced Micro Devices, Inc. P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(aMD) [sT]
+FIlINg sTaTus: New
+affiliated Managers group, Inc. s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(aMg) [sT]
+FIlINg sTaTus: New
+aFlaC Incorporated (aFl) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+alliance Data systems Corporation s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(aDs) [sT]
+FIlINg sTaTus: New
+alphabet Inc. - Class C Capital P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+stock (gOOg) [sT]
+FIlINg sTaTus: New
+amazon.com, Inc. (aMZN) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg sTaTus: New
+american International group, Inc. s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+New (aIg) [sT]
+FIlINg sTaTus: New
+apple Inc. (aaPl) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+arconic Corporation (aRNC) [sT] E 04/01/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+DEsCRIPTION: Received shares of arconic Corporation in exchange for arconic Inc.
+COMMENTs: On 4/6/2020 arconic Inc. changed it's name to Howmet aerospace Inc. (HWM)
+aT&T Inc. (T) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+atmos Energy Corporation (aTO) P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+autodesk, Inc. (aDsK) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+avalonBay Communities, Inc. s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(aVB) [sT]
+FIlINg sTaTus: New
+Ball Corporation (Bll) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Bank of america Corporation s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(BaC) [sT]
+FIlINg sTaTus: New
+Baxter International Inc. (BaX) P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Capital One Financial Corporation s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(COF) [sT]
+FIlINg sTaTus: New
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Caterpillar, Inc. (CaT) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+CenterPoint Energy, Inc (CNP) s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Centurylink, Inc. (CTl) [sT] s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Charles schwab Corp Var Rt Perp P 04/27/2020 05/06/2020 $15,001 - gfedc
+Mat Dtd 04/30/2020 [Cs] $50,000
+FIlINg sTaTus: New
+DEsCRIPTION: Preferred security
+Charles schwab Corporation s (partial) 04/24/2020 05/06/2020 $1,001 - $15,000 gfedc
+(sCHW) [sT]
+FIlINg sTaTus: New
+Charles schwab Corporation P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(sCHW) [sT]
+FIlINg sTaTus: New
+Charter Communications, Inc. - P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+Class a (CHTR) [sT]
+FIlINg sTaTus: New
+Chubb limited (CB) [sT] s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Chubb limited (CB) [sT] P 04/15/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+suBHOlDINg OF: - Trust 1
+Citigroup, Inc. (C) [sT] s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Citizens Financial group, Inc. P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(CFg) [sT]
+FIlINg sTaTus: New
+Citrix systems, Inc. (CTXs) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg sTaTus: New
+Comcast Corporation - Class a P 04/17/2020 05/06/2020 $1,001 - $15,000 gfedc
+(CMCsa) [sT]
+FIlINg sTaTus: New
+suBHOlDINg OF: - Trust 1
+Comerica Incorporated (CMa) [sT] s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Costco Wholesale Corporation s 04/02/2020 05/06/2020 $15,001 - gfedcb
+(COsT) [sT] $50,000
+FIlINg sTaTus: New
+Crown Castle International Corp. s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedcb
+(CCI) [sT]
+FIlINg sTaTus: New
+Delta air lines, Inc. (Dal) [sT] s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Digital Realty Trust, Inc. (DlR) P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Discover Financial services (DFs) P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Discovery, Inc. - series a (DIsCa) P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Discovery, Inc. - series C (DIsCK) P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Dollar Tree, Inc. (DlTR) [sT] P 04/17/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+suBHOlDINg OF: - Trust 1
+Dominion Energy Inc Var Rt Perp s (partial) 04/16/2020 05/06/2020 $1,001 - $15,000 gfedc
+Mat dtd 12/13/2019 [Cs]
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg sTaTus: New
+DEsCRIPTION: Preferred security
+Dow Inc. (DOW) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+DTE Energy Company (DTE) [sT] s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+DuPont de Nemours, Inc. (DD) P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+DXC Technology Company (DXC) P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Eastman Chemical Company P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(EMN) [sT]
+FIlINg sTaTus: New
+Emerson Electric Company (EMR) s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Estee lauder Companies, Inc. (El) P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Facebook, Inc. - Class a (FB) [sT] s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Fifth Third Bancorp (FITB) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Flowserve Corporation (Fls) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Ford Motor Company (F) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Fortive Corporation (FTV) [sT] s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+general Mills, Inc. (gIs) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+general Motors Company (gM) s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+genuine Parts Company (gPC) s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+goldman sachs group, Inc. (gs) P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+H&R Block, Inc. (HRB) [sT] s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Hartford Financial services group, P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+Inc. (HIg) [sT]
+FIlINg sTaTus: New
+Host Hotels & Resorts, Inc. (HsT) s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+HP Inc. (HPQ) [sT] s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Huntington Bancshares P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+Incorporated (HBaN) [sT]
+FIlINg sTaTus: New
+International Business Machines s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+Corporation (IBM) [sT]
+FIlINg sTaTus: New
+Intuitive surgical, Inc. (IsRg) [sT] s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Invesco ltd (IVZ) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Iron Mountain Incorporated (IRM) s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Johnson Controls International plc s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+Ordinary share (JCI) [sT]
+FIlINg sTaTus: New
+JP Morgan Chase & Co. (JPM) [sT] s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+KeyCorp (KEY) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Kimberly-Clark Corporation P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(KMB) [sT]
+FIlINg sTaTus: New
+Kohl's Corporation (Kss) [sT] s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Koninklijke Philips N.V. NY P 04/22/2020 05/06/2020 $1,001 - $15,000 gfedc
+Registry shares (PHg) [sT]
+FIlINg sTaTus: New
+suBHOlDINg OF: - Trust 1
+Kroger Company (KR) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+las Vegas sands Corp. (lVs) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+lexington Cnty sC Ref-ser a P 04/16/2020 05/06/2020 $15,001 - gfedc
+unlimited Tax 5.0%; Due $50,000
+02/01/2025 [gs]
+FIlINg sTaTus: New
+lincoln National Corporation P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[[PAGE 8]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+(lNC) [sT]
+FIlINg sTaTus: New
+loews Corporation (l) [sT] s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+lyondellBasell Industries NV s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+Ordinary shares Class a (lYB) [sT]
+FIlINg sTaTus: New
+M&T Bank Corporation (MTB) P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Macy's Inc (M) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+MgM Resorts International P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(MgM) [sT]
+FIlINg sTaTus: New
+Molson Coors Beverage Company P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+Class B (TaP) [sT]
+FIlINg sTaTus: New
+Morgan stanley (Ms) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Mosaic Company (MOs) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Netflix, Inc. (NFlX) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Newell Brands Inc. (NWl) [sT] s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Nisource Inc (NI) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Nordstrom, Inc. (JWN) [sT] s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[[PAGE 9]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg sTaTus: New
+Parker-Hannifin Corporation (PH) s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+People's united Financial, Inc. P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(PBCT) [sT]
+FIlINg sTaTus: New
+Philip Morris International Inc s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(PM) [sT]
+FIlINg sTaTus: New
+PNC Financial services group, Inc. s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(PNC) [sT]
+FIlINg sTaTus: New
+PPg Industries, Inc. (PPg) [sT] s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Principal Financial group Inc P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(PFg) [sT]
+FIlINg sTaTus: New
+Prudential Financial, Inc. (PRu) s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Quanta services, Inc. (PWR) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Quest Diagnostics Incorporated s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(DgX) [sT]
+FIlINg sTaTus: New
+Regeneron Pharmaceuticals, Inc. s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedcb
+(REgN) [sT]
+FIlINg sTaTus: New
+Royal Caribbean Cruises ltd. P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(RCl) [sT]
+FIlINg sTaTus: New
+[[PAGE 10]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+sealed air Corporation (sEE) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+sempra Energy (sRE) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+serviceNow, Inc. (NOW) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+simon Property group, Inc. (sPg) P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+sony Corporation (sNE) [sT] P 04/16/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+suBHOlDINg OF: - Trust 1
+sony Corporation (sNE) [sT] P 04/17/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+suBHOlDINg OF: - Trust 1
+sony Corporation (sNE) [sT] P 04/20/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+suBHOlDINg OF: - Trust 1
+sony Corporation (sNE) [sT] P 04/21/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+suBHOlDINg OF: - Trust 1
+southwest airlines Company s (partial) 04/16/2020 05/06/2020 $1,001 - $15,000 gfedc
+(luV) [sT]
+FIlINg sTaTus: New
+suBHOlDINg OF: - Trust 1
+southwest airlines Company s 04/17/2020 05/06/2020 $1,001 - $15,000 gfedc
+(luV) [sT]
+FIlINg sTaTus: New
+suBHOlDINg OF: - Trust 1
+synchrony Financial (sYF) [sT] s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[[PAGE 11]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg sTaTus: New
+TE Connectivity ltd. New s (partial) 04/22/2020 05/06/2020 $1,001 - $15,000 gfedc
+switzerland Registered shares
+(TEl) [sT]
+FIlINg sTaTus: New
+suBHOlDINg OF: - Trust 1
+TE Connectivity ltd. New s 04/24/2020 05/06/2020 $1,001 - $15,000 gfedc
+switzerland Registered shares
+(TEl) [sT]
+FIlINg sTaTus: New
+suBHOlDINg OF: - Trust 1
+The Bank of New York Mellon P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+Corporation (BK) [sT]
+FIlINg sTaTus: New
+The Kraft Heinz Company (KHC) P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+The Travelers Companies, Inc. P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(TRV) [sT]
+FIlINg sTaTus: New
+Transdigm group Incorporated P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+Transdigm group Inc. (TDg) [sT]
+FIlINg sTaTus: New
+Truist Financial Corporation (TFC) s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Twitter, Inc. (TWTR) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+u.s. Bancorp (usB) [sT] s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+unilever PlC (ul) [sT] P 04/16/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+suBHOlDINg OF: - Trust 1
+[[PAGE 12]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+united Parcel service, Inc. (uPs) P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+united Rentals, Inc. (uRI) [sT] P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Va st Pub sch auth sch s 04/15/2020 05/06/2020 $15,001 - gfedc
+Technology & sec NTs ser V 5.0%; $50,000
+Due 04/15/20 [gs]
+FIlINg sTaTus: New
+Ventas, Inc. (VTR) [sT] s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+ViacomCBs Inc. - Class B (VIaC) s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Vulcan Materials Company (VMC) P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Wabtec Corp (WaB) [OT] s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+lOCaTION: us
+DEsCRIPTION: stock
+Walgreens Boots alliance, Inc. P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+(WBa) [sT]
+FIlINg sTaTus: New
+Wells Fargo & Company (WFC) s (partial) 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Welltower Inc. (HCN) [sT] s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Westrock Company (WRK) [sT] s 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+[[PAGE 13]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Zions Bancorporation N.a. (ZION) P 04/02/2020 05/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+- Trust 1 (100% Interest)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Dean Phillips , 05/07/2020

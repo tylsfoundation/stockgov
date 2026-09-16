@@ -1,0 +1,27 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Michael A. Collins Jr
+Status: Member
+State/District:GA10
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+usdc [CT] P 12/26/202512/26/2025$1,001 - $15,000
+F S: New
+usdc [CT] S 01/12/202601/12/2026$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Michael A. Collins Jr, 01/20/2026
+Filing ID #20033840

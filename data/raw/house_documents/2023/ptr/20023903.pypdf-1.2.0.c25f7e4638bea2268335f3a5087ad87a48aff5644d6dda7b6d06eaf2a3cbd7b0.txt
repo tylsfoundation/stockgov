@@ -1,0 +1,51 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Dan Bishop
+Status: Member
+State/District:NC08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT United States T-bills [GS] P 10/26/202310/26/2023$100,001 -
+$250,000
+F S: New
+S O: Schwab fka TD Ameritrade brokerage account
+SP United States T-bills [GS] P 10/25/202310/25/2023$250,001 -
+$500,000
+F S: New
+S O: Schwab fka Ameritrade Institutional IRA-Jo
+SP United States T-bills [GS] P 10/25/202310/25/2023$100,001 -
+$250,000
+F S: New
+S O: Schwab fka Ameritrade Institutional Jo
+United States T-bills [GS] P 10/26/202310/26/2023$15,001 - $50,000
+F S: New
+S O: Schwab Roth IRA - Dan
+United States T-bills [GS] P 10/26/202310/26/2023$250,001 -
+$500,000
+F S: New
+S O: Schwab fka Ameritrade Institutional IRA-Dan
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Schwab fka Ameritrade Institutional IRA-Dan
+Filing ID #20023903
+[[PAGE 2]]
+Schwab fka Ameritrade Institutional IRA-Jo (Owner: SP)
+Schwab fka Ameritrade Institutional Jo (Owner: SP)
+L: US
+Schwab fka TD Ameritrade brokerage account (Owner: JT)
+L: US
+Schwab Roth IRA - Dan
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dan Bishop , 10/27/2023

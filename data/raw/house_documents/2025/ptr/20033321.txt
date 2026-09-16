@@ -1,0 +1,65 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Thomas Suozzi
+Status: Member
+State/District:NY03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+INTL PAPER CO 4 C PR (INPAP) [ST]S 10/14/202510/16/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account- IRA
+NextEra Energy, Inc. Common Stock
+(NEE) [ST]
+S 10/14/202510/16/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account- IRA
+United States Treasury Bill [GS] P 10/02/202510/02/2025$15,001 -
+$50,000
+F S: New
+S O: National Securities- Advisor Discretion Account
+D: US Treasury Bill
+US Treasury Bill [GS] P 10/02/202510/02/2025$15,001 -
+$50,000
+F S: New
+S O: Thomas Suozzi IRA FBO Thomas Suozzi
+D: US Treasury Bill
+Walmart Inc. Common Stock (WMT)
+[ST]
+S 10/14/202510/16/2025 $15,001 -
+$50,000
+F S: New
+S O: Merrill Lynch- Advisor Discretion Account- IRA
+Weyerhaeuser Company Common
+Stock (WY) [ST]
+S 10/14/202510/16/2025 $1,001 - $15,000
+F S: New
+Filing ID #20033321
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Merrill Lynch- Advisor Discretion Account- IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Merrill Lynch- Advisor Discretion Account- IRA
+National Securities- Advisor Discretion Account
+Thomas Suozzi IRA FBO Thomas Suozzi
+D: Retirement Account
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Thomas Suozzi , 10/21/2025

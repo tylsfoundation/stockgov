@@ -1,0 +1,57 @@
+[[PAGE 1]]
+Filing ID #20017740
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Neal Patrick Dunn MD, FACS
+Status: Member
+State/District: Fl02
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+BancorpSouth Bank 5.50% Series P 11/20/2020 11/24/2020 $1,001 - $15,000 gfedc
+A Non-Cumulative Perpetual
+Preferred Stock (BXS$A) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012
+BancorpSouth Bank 5.50% Series P 11/20/2020 11/24/2020 $1,001 - $15,000 gfedc
+A Non-Cumulative Perpetual
+Preferred Stock (BXS$A) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA #1
+BancorpSouth Bank 5.50% Series S (partial) 11/17/2020 11/24/2020 $50,001 - gfedc
+A Non-Cumulative Perpetual $100,000
+Preferred Stock (BXS$A) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA #2
+BancorpSouth Bank 5.50% Series S 12/07/2020 12/14/2020 $100,001 - gfedc
+A Non-Cumulative Perpetual $250,000
+Preferred Stock (BXS$A) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA #1
+J P Morgan Chase & Co Depositary S 12/07/2020 12/14/2020 $1,001 - $15,000 gfedc
+Shares, each representing a
+1/400th interest in a share of
+6.10% Non-Cumulative Preferred
+Stock, Series AA (JPM$g) [ST]
+FIlINg STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SuBHOlDINg OF: IRA #1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+IRA #1
+DESCRIPTION: Held until 2019 at Summit Bank; moved late 2019 to BancorpSouth
+IRA #2
+DESCRIPTION: Held until 2019 at Summit Bank; moved late 2019 to BancorpSouth
+The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 (100% Interest)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Neal Patrick Dunn MD, FACS , 12/23/2020

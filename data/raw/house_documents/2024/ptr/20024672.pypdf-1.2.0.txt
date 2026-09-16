@@ -1,0 +1,370 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Jared Moskowitz
+Status: Member
+State/District:FL23
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC Air Products and Chemicals, Inc.
+Common Stock (APD) [ST]
+S 02/01/202402/29/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Air Products and Chemicals, Inc.
+Common Stock (APD) [ST]
+S 02/01/202402/29/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Allstate Corporation (ALL) [ST] S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Allstate Corporation (ALL) [ST] S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 07/01/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+Filing ID #20024672
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Atmos Energy Corporation Common
+Stock (ATO) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Best Buy Co., Inc. Common Stock
+(BBY) [ST]
+S 07/01/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Comcast Corporation - Class A
+Common Stock (CMCSA) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Comcast Corporation - Class A
+Common Stock (CMCSA) [ST]
+S 07/17/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC Elevance Health, Inc. Common Stock
+(ELV) [ST]
+P 02/01/202402/29/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Elevance Health, Inc. Common Stock
+(ELV) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Elevance Health, Inc. Common Stock
+(ELV) [ST]
+P 07/01/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC FactSet Research Systems Inc.
+Common Stock (FDS) [ST]
+P 07/01/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC FactSet Research Systems Inc.
+Common Stock (FDS) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC FactSet Research Systems Inc.
+Common Stock (FDS) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC FactSet Research Systems Inc.
+Common Stock (FDS) [ST]
+P 02/01/202402/29/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC FactSet Research Systems Inc.
+Common Stock (FDS) [ST]
+P 02/01/202402/29/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Johnson & Johnson Common Stock
+(JNJ) [ST]
+P 07/01/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+P 07/01/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Kimberly-Clark Corporation Common
+Stock (KMB) [ST]
+S 02/01/202402/29/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Kimberly-Clark Corporation Common
+Stock (KMB) [ST]
+S 02/01/202402/29/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Linde plc - Ordinary Shares (LIN)
+[ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Linde plc - Ordinary Shares (LIN)
+[ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Lockheed Martin Corporation
+Common Stock (LMT) [ST]
+P 07/01/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Mastercard Incorporated Common
+Stock (MA) [ST]
+S (partial) 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Mastercard Incorporated Common
+Stock (MA) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC Mondelez International, Inc. - Class A
+Common Stock (MDLZ) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Mondelez International, Inc. - Class A
+Common Stock (MDLZ) [ST]
+P 07/01/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC NextEra Energy, Inc. Common Stock
+(NEE) [ST]
+P 07/01/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Nike, Inc. Common Stock (NKE) [ST] S 02/01/202402/29/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Nike, Inc. Common Stock (NKE) [ST] S 02/01/202402/29/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Northrop Grumman Corporation
+Common Stock (NOC) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Northrop Grumman Corporation
+Common Stock (NOC) [ST]
+S 07/01/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Oracle Corporation Common StockP 07/05/202407/31/2024$1,001 - $15,000
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(ORCL) [ST]
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Oracle Corporation Common Stock
+(ORCL) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC PNC Financial Services Group, Inc.
+(PNC) [ST]
+S 07/01/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC PNC Financial Services Group, Inc.
+(PNC) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Roper Technologies, Inc. (ROP) [ST] P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Sherwin-Williams Company (SHW)
+[ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Snap-On Incorporated Common
+Stock (SNA) [ST]
+P 02/01/202402/29/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Snap-On Incorporated Common
+Stock (SNA) [ST]
+P 07/01/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Southern Company (SO) [ST] P 07/05/202407/05/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Southern Company (SO) [ST] P 07/05/202407/31/2024$1,001 - $15,000
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Toronto Dominion Bank (TD) [ST] S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Toronto Dominion Bank (TD) [ST] S 07/01/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Tractor Supply Company - Common
+Stock (TSCO) [ST]
+P 07/01/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC W.W. Grainger, Inc. Common Stock
+(GWW) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Waste Management, Inc. Common
+Stock (WM) [ST]
+S (partial) 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC WEC Energy Group, Inc. Common
+Stock (WEC) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC WEC Energy Group, Inc. Common
+Stock (WEC) [ST]
+S 07/01/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Zoetis Inc. Class A Common Stock
+(ZTS) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Zoetis Inc. Class A Common Stock
+(ZTS) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Morgan Stanley Active Assets (5)
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Morgan Stanley Active Assets (5) (Owner: DC)
+L: US
+Morgan Stanley Active Assets (6) (Owner: DC)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Jared Moskowitz , 08/06/2024

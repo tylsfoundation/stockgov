@@ -1,0 +1,62 @@
+[[PAGE 1]]
+Filing ID #20018953
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Marjorie Taylor Greene
+Status: Member
+State/District: GA14
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT AbbVie Inc. (ABBV) [ST] P 06/16/2021 06/18/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+DESCRIPTION: Dividends reinvested
+JT Applied Materials, Inc. (AMAT) P 06/16/2021 06/18/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlING STATuS: New
+DESCRIPTION: Dividends reinvested
+JT AT&T Inc. (T) [ST] P 06/16/2021 06/18/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+DESCRIPTION: Dividends Reinvested
+JT Chevron Corporation (CVX) [ST] P 06/16/2021 06/18/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+DESCRIPTION: Dividends reinvested
+JT International Paper Company (IP) P 06/16/2021 06/18/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlING STATuS: New
+DESCRIPTION: Dividends reinvested
+JT Kinder Morgan, Inc. (KMI) [ST] P 06/16/2021 06/18/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+DESCRIPTION: Dividends reinvested
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Nestle SA Sponsored ADR P 06/16/2021 06/18/2021 $1,001 - $15,000 gfedc
+representing Registered Shares
+Series B (NSRGY) [ST]
+FIlING STATuS: New
+DC Square, Inc. Class A (SQ) [ST] P 06/03/2021 06/07/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+SuBHOlDING OF: Derek IRA
+DESCRIPTION: Dividends reinvested
+JT Taiwan Semiconductor P 06/16/2021 06/18/2021 $1,001 - $15,000 gfedc
+Manufacturing Company ltd.
+(TSM) [ST]
+FIlING STATuS: New
+JT Walgreens Boots Alliance, Inc. P 06/16/2021 06/18/2021 $1,001 - $15,000 gfedc
+(WBA) [ST]
+FIlING STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Derek IRA (Owner: DC)
+DESCRIPTION: Derek's IRA
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Marjorie Taylor Greene , 06/21/2021

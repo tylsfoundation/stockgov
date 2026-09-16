@@ -1,0 +1,83 @@
+[[PAGE 1]]
+Filing ID #20017791
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Dwight Evans
+Status: Member
+State/District: PA03
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Alphabet Inc. - Class A (gOOgl) S (partial) 10/21/2020 11/27/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+AlPS Sector Dividend Dogs ETF S 10/29/2020 11/27/2020 $1,001 - $15,000 gfedc
+(SDOg) [ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+Amazon.com, Inc. (AMZN) [ST] S (partial) 10/21/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+American Electric Power Company, S (partial) 10/29/2020 11/27/2020 $1,001 - $15,000 gfedc
+Inc. (AEP) [ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+ARK genomic Revolution ETF P 10/29/2020 11/27/2020 $1,001 - $15,000 gfedc
+(ARKg) [ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+ARK Innovation ETF (ARKK) [ST] S (partial) 10/14/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+AT&T Inc. (T) [ST] S 10/29/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+baidu, Inc. - American Depositary P 10/29/2020 11/27/2020 $1,001 - $15,000 gfedc
+Shares, each representing one
+tenth Class A ordinary share
+(bIDU) [ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+global X NASDAQ-100 Covered S (partial) 10/29/2020 11/27/2020 $1,001 - $15,000 gfedc
+Call ETF (QYlD) [ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+Hannon Armstrong Sustainable S (partial) 10/14/2020 11/27/2020 $1,001 - $15,000 gfedc
+Infrastructure Capital, Inc. (HASI)
+[ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+Intel Corporation (INTC) [ST] S 10/29/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+International business Machines P 10/29/2020 11/27/2020 $1,001 - $15,000 gfedc
+Corporation (IbM) [ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+PayPal Holdings, Inc. (PYPl) [ST] P 10/29/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+Salesforce.com Inc (CRM) [ST] P 10/29/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+Tesla, Inc. (TSlA) [ST] P 10/29/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+[[PAGE 3]]
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+PROEQUITIES
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dwight Evans , 12/03/2020

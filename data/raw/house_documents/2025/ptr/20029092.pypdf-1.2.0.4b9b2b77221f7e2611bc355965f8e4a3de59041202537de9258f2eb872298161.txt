@@ -1,0 +1,300 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Byron Donalds
+Status: Member
+State/District:FL19
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Abbott Laboratories Common Stock
+(ABT) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Abbott Laboratories Common Stock
+(ABT) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Arista Networks, Inc. Common Stock
+(ANET) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Arista Networks, Inc. Common Stock
+(ANET) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Filing ID #20029092
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Autodesk, Inc. - Common Stock
+(ADSK) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Autodesk, Inc. - Common Stock
+(ADSK) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Brown & Brown, Inc. Common Stock
+(BRO) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Brown & Brown, Inc. Common Stock
+(BRO) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Chemed Corp (CHE) [ST] S 03/06/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Chemed Corp (CHE) [ST] S 03/06/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Chipotle Mexican Grill, Inc. Common
+Stock (CMG) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Chipotle Mexican Grill, Inc. CommonP 03/20/202504/07/2025$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Stock (CMG) [ST]
+F S: New
+S O: Moran Wealth IRA
+DoorDash, Inc. - Common Stock
+(DASH) [ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP DoorDash, Inc. - Common Stock
+(DASH) [ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Equifax, Inc. Common Stock (EFX)
+[ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Equifax, Inc. Common Stock (EFX)
+[ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+First Citizens BancShares, Inc. - Class
+A Common Stock (FCNCA) [ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP First Citizens BancShares, Inc. - Class
+A Common Stock (FCNCA) [ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Fiserv, Inc. Common Stock (FI) [ST] P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Fiserv, Inc. Common Stock (FI) [ST] P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Gartner, Inc. Common Stock (IT) [ST]S 03/20/202504/07/2025$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Moran Wealth IRA
+SP Gartner, Inc. Common Stock (IT) [ST]S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP GoDaddy Inc. Class A Common Stock
+(GDDY) [ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+GoDaddy Inc. Class A Common Stock
+(GDDY) [ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP MSCI Inc. Common Stock (MSCI)
+[ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+MSCI Inc. Common Stock (MSCI)
+[ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Novo Nordisk A/S Common Stock
+(NVO) [ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Novo Nordisk A/S Common Stock
+(NVO) [ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Moran Wealth IRA
+SP PayPal Holdings, Inc. - Common
+Stock (PYPL) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+PayPal Holdings, Inc. - Common
+Stock (PYPL) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Progressive Corporation (PGR) [ST] P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Progressive Corporation (PGR) [ST] P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Robinhood Markets, Inc. - Class A
+Common Stock (HOOD) [ST]
+P 03/06/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Robinhood Markets, Inc. - Class A
+Common Stock (HOOD) [ST]
+P 03/06/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Robinhood Markets, Inc. - Class A
+Common Stock (HOOD) [ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Robinhood Markets, Inc. - Class A
+Common Stock (HOOD) [ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+The Trade Desk, Inc. - Class A
+Common Stock (TTD) [ST]
+P 03/06/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP The Trade Desk, Inc. - Class A
+Common Stock (TTD) [ST]
+P 03/06/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Tradeweb Markets Inc. - Class A
+Common Stock (TW) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Tradeweb Markets Inc. - Class A
+Common Stock (TW) [ST]
+P 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Veeva Systems Inc. Class A Common
+Stock (VEEV) [ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Veeva Systems Inc. Class A Common
+Stock (VEEV) [ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Vertex Pharmaceuticals Incorporated
+- Common Stock (VRTX) [ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Vertex Pharmaceuticals Incorporated
+- Common Stock (VRTX) [ST]
+S 03/20/202504/07/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Moran Wealth IRA
+Moran Wealth IRA (Owner: SP)
+I P O
+[[PAGE 7]]
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Byron Donalds , 04/14/2025

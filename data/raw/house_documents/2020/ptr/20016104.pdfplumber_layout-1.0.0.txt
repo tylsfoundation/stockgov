@@ -1,0 +1,58 @@
+[[PAGE 1]]
+Filing Id #20016104
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Greg Gianforte
+Status: Member
+State/District: MT00
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Enersys (ENS) [ST] P 03/02/2020 03/09/2020 $15,001 - gfedc
+$50,000
+FILING STaTuS: New
+SubHOLdING OF: Newsouth Small Cap Equities
+JT NV5 Global, Inc. (NVEE) [ST] P 03/06/2020 03/09/2020 $15,001 - gfedc
+$50,000
+FILING STaTuS: New
+SubHOLdING OF: Newsouth Small Cap Equities
+JT OneSpaWorld Holdings Limited - P 03/03/2020 03/09/2020 $15,001 - gfedc
+Common Shares (OSW) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Newsouth Small Cap Equities
+JT OneSpaWorld Holdings Limited - P 03/03/2020 03/09/2020 $1,001 - $15,000 gfedc
+Common Shares (OSW) [ST]
+FILING STaTuS: New
+SubHOLdING OF: Newsouth Small Cap Equities
+JT Shionogi & Co Ltd unsponsored P 02/20/2020 02/24/2020 $100,001 - gfedc
+adR (SGIOY) [ST] $250,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT ViaSat, Inc. (VSaT) [ST] P 03/03/2020 03/09/2020 $15,001 - gfedc
+$50,000
+FILING STaTuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOLdING OF: Newsouth Small Cap Equities
+JT ViaSat, Inc. (VSaT) [ST] P 03/04/2020 03/09/2020 $1,001 - $15,000 gfedc
+FILING STaTuS: New
+SubHOLdING OF: Newsouth Small Cap Equities
+JT WW International, Inc. (WW) [ST] P 03/02/2020 03/09/2020 $15,001 - gfedc
+$50,000
+FILING STaTuS: New
+SubHOLdING OF: Newsouth Small Cap Equities
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Harding Loevner International Equity (Owner: JT)
+Newsouth Small Cap Equities (Owner: JT)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Greg Gianforte , 03/09/2020

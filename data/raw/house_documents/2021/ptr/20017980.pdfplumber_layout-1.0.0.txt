@@ -1,0 +1,255 @@
+[[PAGE 1]]
+Filing ID #20017980
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Susie Lee
+Status: Member
+State/District: NV03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Albertsons Companies, Inc. Class A S 12/16/2020 01/01/2021 $1,001 - $15,000 gfedc
+(ACI) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Ameresco, Inc. Class A (AMRC) P 12/22/2020 01/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Ameresco, Inc. Class A (AMRC) P 12/29/2020 01/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT AMETEK, Inc. (AME) [ST] S (partial) 12/11/2020 01/01/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Aptiv PLC Ordinary Shares (APTV) P 12/11/2020 01/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Ball Corporation (BLL) [ST] S (partial) 12/29/2020 01/01/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT CDW Corporation (CDW) [ST] P 12/16/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Charter Communications, Inc. - S (partial) 12/10/2020 01/01/2021 $1,001 - $15,000 gfedcb
+Class A (CHTR) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT CoStar group, Inc. (CSgP) [ST] S 12/22/2020 01/01/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Dine Brands global, Inc. (DIN) P 12/03/2020 01/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Dine Brands global, Inc. (DIN) P 12/08/2020 01/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Dun & Bradstreet Holdings, Inc. S (partial) 12/22/2020 01/01/2021 $1,001 - $15,000 gfedc
+(DNB) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Dun & Bradstreet Holdings, Inc. S 12/23/2020 01/01/2021 $1,001 - $15,000 gfedc
+(DNB) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Fidelity National Information S (partial) 12/29/2020 01/01/2021 $1,001 - $15,000 gfedcb
+Services, Inc. (FIS) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Fortive Corporation (FTV) [ST] S 12/11/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT gartner, Inc. (IT) [ST] P 12/16/2020 01/01/2021 $1,001 - $15,000 gfedc
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT gartner, Inc. (IT) [ST] P 12/08/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT genuine Parts Company (gPC) S 12/03/2020 01/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Hill-Rom Holdings Inc (HRC) [ST] S (partial) 12/03/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Hill-Rom Holdings Inc (HRC) [ST] S (partial) 12/16/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Howard Hughes Corporation P 12/29/2020 01/01/2021 $1,001 - $15,000 gfedc
+(HHC) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Howard Hughes Corporation P 12/10/2020 01/01/2021 $1,001 - $15,000 gfedc
+(HHC) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Howard Hughes Corporation P 12/16/2020 01/01/2021 $1,001 - $15,000 gfedc
+(HHC) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT IHS Markit Ltd. Common Shares S (partial) 12/08/2020 01/01/2021 $1,001 - $15,000 gfedcb
+(INFO) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT IQVIA Holdings, Inc. (IQV) [ST] P 12/16/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Laboratory Corporation of America S 12/16/2020 01/01/2021 $1,001 - $15,000 gfedcb
+Holdings (LH) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Mattel, Inc. (MAT) [ST] P 12/08/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT MSCI Inc (MSCI) [ST] P 12/22/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT NortonLifeLock Inc. (NLOK) [ST] P 12/03/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT PRA Health Sciences, Inc. (PRAH) S 12/16/2020 01/01/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Rackspace Technology, Inc. (RXT) P 12/16/2020 01/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Realogy Holdings Corp. (RLgY) P 12/11/2020 01/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Realogy Holdings Corp. (RLgY) P 12/10/2020 01/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Realty Income Corporation (O) P 12/02/2020 01/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Republic Services, Inc. (RSg) [ST] S (partial) 12/22/2020 01/01/2021 $1,001 - $15,000 gfedcb
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Roper Technologies, Inc. (ROP) S (partial) 12/11/2020 01/01/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Service Corporation International S (partial) 12/22/2020 01/01/2021 $1,001 - $15,000 gfedc
+(SCI) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Service Properties Trust - Shares of P 12/29/2020 01/01/2021 $1,001 - $15,000 gfedc
+Beneficial Interest (SVC) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Sirius XM Holdings Inc. (SIRI) S 12/28/2020 01/01/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Teleflex Incorporated (TFX) [ST] P 12/08/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Teleflex Incorporated (TFX) [ST] P 12/03/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Teleflex Incorporated (TFX) [ST] P 12/16/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Tetra Tech, Inc. (TTEK) [ST] P 12/22/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT The AZEK Company Inc. Class A P 12/16/2020 01/01/2021 $1,001 - $15,000 gfedc
+(AZEK) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Under Armour, Inc. Class A (UAA) P 12/08/2020 01/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Under Armour, Inc. Class A (UAA) P 12/03/2020 01/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Vertiv Holdings, LLC Class A (VRT) P 12/11/2020 01/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Vontier Corporation (VNT) [ST] P 12/11/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT WESCO International, Inc. (WCC) P 12/11/2020 01/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Westlake Chemical Corporation P 12/10/2020 01/01/2021 $1,001 - $15,000 gfedc
+(WLK) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Westlake Chemical Corporation P 12/16/2020 01/01/2021 $1,001 - $15,000 gfedc
+(WLK) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Westrock Company (WRK) [ST] P 12/16/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Westrock Company (WRK) [ST] P 12/10/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Zebra Technologies Corporation - S (partial) 12/08/2020 01/01/2021 $1,001 - $15,000 gfedcb
+Class A (ZBRA) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Zimmer Biomet Holdings, Inc. P 12/03/2020 01/01/2021 $1,001 - $15,000 gfedc
+(ZBH) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Zimmer Biomet Holdings, Inc. P 12/16/2020 01/01/2021 $1,001 - $15,000 gfedc
+(ZBH) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Zimmer Biomet Holdings, Inc. P 12/08/2020 01/01/2021 $1,001 - $15,000 gfedc
+(ZBH) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+DSL Living Trust (Owner: JT)
+DSL Living Trust ⇒ Bank of New York Brokerage Account 340 (Owner: JT)
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Susie Lee , 01/11/2021

@@ -1,0 +1,52 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. William R. Keating
+Status: Member
+State/District:MA09
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alphabet Inc. - Class A (GOOGL) [ST] P 02/13/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+JP Morgan Chase & Co. (JPM) [ST] P 02/13/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+Lam Research Corporation (LRCX)
+[ST]
+P 02/13/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+NXP Semiconductors N.V. (NXPI)
+[ST]
+P 02/13/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+PNC Financial Services Group, Inc.
+(PNC) [ST]
+P 02/13/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+Veeva Systems Inc. Class A (VEEV)
+[ST]
+P 02/13/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+Filing ID #20022490
+[[PAGE 2]]
+A C D
+Bill's IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. William R. Keating , 02/28/2023

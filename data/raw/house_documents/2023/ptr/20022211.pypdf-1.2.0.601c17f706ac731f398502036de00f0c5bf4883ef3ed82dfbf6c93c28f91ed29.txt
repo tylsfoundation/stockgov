@@ -1,0 +1,70 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Virginia Foxx
+Status: Member
+State/District:NC05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Alliance Resource Partners, L.P. -
+Common Units Representing Limited
+Partnership Interests (ARLP) [ST]
+P 12/09/202212/09/2022$1,001 - $15,000
+F S: New
+JT Altria Group, Inc. (MO) [ST] P 12/06/202212/06/2022$50,001 -
+$100,000
+F S: New
+JT Duke Energy Corporation Depositary
+Shares, each representing a 1/1,000th
+interest in a share of 5.75% Series A
+Cumulative Redeemable Perpetual
+Preferred Stock (DUK$A) [ST]
+P 12/29/202212/29/2022$1,001 - $15,000
+F S: New
+JT Hess Corporation (HES) [ST] S 12/30/202212/30/2022$50,001 -
+$100,000
+F S: New
+JT iShares Preferred and Income
+Securities ETF (PFF) [ST]
+P 12/08/202212/08/2022$1,001 - $15,000
+F S: New
+JT iShares Preferred and Income
+Securities ETF (PFF) [ST]
+P 12/09/202212/09/2022$15,001 -
+$50,000
+F S: New
+JT Marathon Oil Corporation (MRO)
+[ST]
+P 12/05/202212/05/2022$1,001 - $15,000
+Filing ID #20022211
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+JT Vector Group Ltd. (VGR) [ST] P 12/30/202212/30/2022$1,001 - $15,000
+F S: New
+JT Via Renewables, Inc. - 8.75% Series A
+Fixed-to-Floating Rate Cumulative
+Redeemable Perpetual Preferred
+Stock (VIASP) [ST]
+P 12/09/202212/09/2022$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Virginia Foxx , 01/03/2023

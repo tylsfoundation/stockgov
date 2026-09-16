@@ -1,0 +1,110 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Christopher L. Jacobs
+Status: Member
+State/District:NY27
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Anaplan, Inc. (PLAN) [ST] S 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Antero Resources Corporation (AR)
+[ST]
+P 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Callon Petroleum Company (CPE)
+[ST]
+P 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Centennial Resource Development,
+Inc. - Class A (CDEV) [ST]
+P 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Energy Fuels Inc Ordinary Shares
+(UUUU) [ST]
+P 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Kosmos Energy Ltd. Common Shares
+(KOS) [ST]
+P 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Filing ID #20020793
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Nabors Industries Ltd. (NBR) [ST] P 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+NexTier Oilfield Solutions Inc. (NEX)
+[ST]
+P 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Patterson-UTI Energy, Inc. (PTEN)
+[ST]
+P 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Peloton Interactive, Inc. (PTON) [ST] S 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+SM Energy Company (SM) [ST] P 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Tellurian Inc. (TELL) [ST] P 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Uber Technologies, Inc. (UBER) [ST] S 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Uranium Energy Corp. (UEC) [ST] P 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Walt Disney Company (DIS) [ST] S (partial) 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Wynn Resorts, Limited (WYNN) [ST] S 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Zillow Group, Inc. - Class C Capital
+Stock (Z) [ST]
+S 04/11/202205/09/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+CL TRUST
+CL TRUST ⇒ LDJ FAM INV LLC
+CL TRUST ⇒ LDJ FAM INV LLC ⇒ Parametric
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Christopher L. Jacobs , 05/19/2022

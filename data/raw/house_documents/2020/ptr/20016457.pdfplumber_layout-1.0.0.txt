@@ -1,0 +1,103 @@
+[[PAGE 1]]
+Filing Id #20016457
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Steve Cohen
+Status: Member
+State/District: TN09
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+AT&T Inc. (T) [ST] S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+berkshire Hathaway Inc. New S 03/26/2020 04/22/2020 $15,001 - gfedcb
+(bRK.b) [ST] $50,000
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+Chevron Corporation (CVX) [ST] S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+Coca-Cola Company (KO) [ST] S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+Cohen & Steers Quality Income S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+Realty Fund Inc Common Shares
+(RQI) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+Eli lilly and Company (llY) [ST] S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Emergent biosolutions, Inc. (EbS) S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+Exxon Mobil Corporation (XOM) S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+Fidelity dividend ETF for Rising S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+Rates (FdRR) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+First Horizon National Corporation S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+(FHN) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+Healthpeak Properties, Inc. S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+(PEAK) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+Host Hotels & Resorts, Inc. (HST) S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+International business Machines S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+Corporation (IbM) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+Microsoft Corporation (MSFT) S 03/26/2020 04/22/2020 $15,001 - gfedcb
+[ST] $50,000
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+Raytheon Company (RTN) [ST] S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Regions Financial Corporation S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+(RF) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+Schlumberger N.V. (Slb) [ST] S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+Sony Corporation (SNE) [ST] S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+Toyota Motor Corporation (TM) S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+Walt disney Company (dIS) [ST] S 03/26/2020 04/22/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOldINg OF: Stephens SEP IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Stephens SEP IRA
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Steve Cohen , 04/22/2020

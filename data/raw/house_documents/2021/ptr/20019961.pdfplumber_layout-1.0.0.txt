@@ -1,0 +1,157 @@
+[[PAGE 1]]
+Filing Id #20019961
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+filer information
+name: Hon. Josh Gottheimer
+Status: Member
+State/District: NJ05
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Alphabet Inc. - Class C Capital P 11/03/2021 12/06/2021 $1,001 - $15,000 gfedc
+Stock (GOOG) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT AutoZone, Inc. (AZO) [ST] P 11/10/2021 12/06/2021 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Compass Minerals Intl Inc (CMP) S 11/16/2021 12/06/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Emergent biosolutions, Inc. (EbS) S 11/05/2021 12/06/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Equifax, Inc. (EFX) [ST] P 11/19/2021 12/06/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Haier Smart Home Co Ltd AdR P 11/19/2021 12/06/2021 $1,001 - $15,000 gfedc
+(HSHCY) [OT]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+LOCATION: US
+dESCRIPTION: AdR Stock
+JT Haier Smart Home Co Ltd AdR P 11/24/2021 12/06/2021 $1,001 - $15,000 gfedc
+(HSHCY) [OT]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+LOCATION: US
+dESCRIPTION: AdR Stock
+JT Heartland Express, Inc. (HTLd) S (partial) 11/04/2021 12/06/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Helios Technologies, Inc. (HLIO) S (partial) 11/03/2021 12/06/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Lam Research Corporation (LRCX) S (partial) 11/08/2021 12/06/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT LHC Group - common stock P 11/04/2021 12/06/2021 $1,001 - $15,000 gfedc
+(LHCG) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT MarketAxess Holdings, Inc. S 11/12/2021 12/06/2021 $1,001 - $15,000 gfedcb
+(MKTX) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Mastercard Incorporated (MA) S 11/02/2021 12/06/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Microsoft Corporation (MSFT) P 11/15/2021 12/06/2021 $5,000,001 - gfedc
+[OP] $25,000,000
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Portfolio Management Active Assets Account
+dESCRIPTION: Call options; Strike Price $150; Expires 3/18/2022
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Microsoft Corporation (MSFT) P 11/15/2021 12/06/2021 $1,000,001 - gfedc
+[OP] $5,000,000
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Portfolio Management Active Assets Account
+dESCRIPTION: Call options; Strike Price $145; Expires 3/18/2022
+JT Microsoft Corporation (MSFT) P 11/15/2021 12/06/2021 $500,001 - gfedc
+[OP] $1,000,000
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Portfolio Management Active Assets Account
+dESCRIPTION: Call options; Strike Price $160; Expires 1/21/2022
+JT Microsoft Corporation (MSFT) S 11/15/2021 12/06/2021 $500,001 - gfedc
+[OP] $1,000,000
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Portfolio Management Active Assets Account
+dESCRIPTION: Call options; Strike Price $160; Expires 9/16/2022
+JT Microsoft Corporation (MSFT) S 11/15/2021 12/06/2021 $5,000,001 - gfedc
+[OP] $25,000,000
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Portfolio Management Active Assets Account
+dESCRIPTION: Call options; Strike Price $150; Expires 9/16/2022
+JT Microsoft Corporation (MSFT) S 11/15/2021 12/06/2021 $1,000,001 - gfedc
+[OP] $5,000,000
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Portfolio Management Active Assets Account
+dESCRIPTION: Call options; Strike Price $145; Expires 9/16/2022
+JT Norfolk Southern Corporation S (partial) 11/02/2021 12/06/2021 $1,001 - $15,000 gfedcb
+(NSC) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT PayPal Holdings, Inc. (PYPL) [ST] S (partial) 11/08/2021 12/06/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT PayPal Holdings, Inc. (PYPL) [ST] S (partial) 11/12/2021 12/06/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT PayPal Holdings, Inc. (PYPL) [ST] S (partial) 11/09/2021 12/06/2021 $1,001 - $15,000 gfedcb
+[[PAGE 4]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT PayPal Holdings, Inc. (PYPL) [ST] S (partial) 11/02/2021 12/06/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Rockwell Automation, Inc. (ROK) S (partial) 11/02/2021 12/06/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT SS&C Technologies Holdings, Inc. S 11/05/2021 12/06/2021 $1,001 - $15,000 gfedcb
+(SSNC) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Tapestry, Inc. (TPR) [ST] S (partial) 11/02/2021 12/06/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Terex Corporation (TEX) [ST] P 11/04/2021 12/06/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Uber Technologies, Inc. (UbER) S 11/30/2021 12/06/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Morgan Stanley - Portfolio Management Active Assets Account (Owner: JT)
+LOCATION: US
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+LOCATION: US
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 5]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 12/13/2021

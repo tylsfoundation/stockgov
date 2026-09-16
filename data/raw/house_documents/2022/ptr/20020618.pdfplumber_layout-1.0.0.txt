@@ -1,0 +1,53 @@
+[[PAGE 1]]
+Filing ID #20020618
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Donald Sternoff Beyer Jr.
+Status: Member
+State/District: VA08
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Daifuku Co Ltd Ordinary Shares S 03/01/2022 03/13/2022 $1,001 - $15,000 gfedcb
+(DAIUF) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 65 units Daifuku Co Ltd
+JT Fanuc Limited Ordinary Shares S 03/01/2022 03/13/2022 $1,001 - $15,000 gfedc
+(FANUF) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 40 units Fanuc Ltd
+JT NextEra Energy, Inc. (NEE) [ST] S 03/07/2022 03/13/2022 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 15,000 units NextEra Energy Cap Holdings
+JT VgP N.V. NPV common [PS] S 03/01/2022 03/13/2022 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+LOCATION: BE
+DESCRIPTION: sale of 100 units VgP N.V. NPV common
+JT Virginia College Bldg 3.00% S 03/07/2022 03/13/2022 $15,001 - gfedc
+02/01/37 [gS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTION: sale of 35,000 units Virginia College Building 3.00% 02/01/37
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Stocks, Bonds, & Mutual Funds (Owner: JT)
+LOCATION: VA, US
+COmmeNTS
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Donald Sternoff Beyer Jr., 04/01/2022

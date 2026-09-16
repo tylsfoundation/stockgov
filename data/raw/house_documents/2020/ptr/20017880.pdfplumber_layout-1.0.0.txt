@@ -1,0 +1,28 @@
+[[PAGE 1]]
+Filing ID #20017880
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. James Comer
+Status: Member
+State/District: KY01
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Republic Bancorp, Inc. - Class A S 11/20/2020 11/20/2020 $1,001 - $15,000 gfedc
+(RBCAA) [ST]
+FIlINg STATuS: New
+Rite Aid Corporation (RAD) [ST] S 12/17/2020 12/17/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Slack Technologies, Inc. Class A S 12/10/2020 12/10/2020 $1,001 - $15,000 gfedc
+(WORK) [ST]
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. James Comer , 12/18/2020

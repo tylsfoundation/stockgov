@@ -1,0 +1,138 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT AGCO Corporation Common Stock
+(AGCO) [ST]
+P 06/20/202406/21/2024$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Devon Energy Corporation Common
+Stock (DVN) [ST]
+P 06/28/202406/29/2024$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Devon Energy Corporation Common
+Stock (DVN) [ST]
+P 06/28/202406/29/2024$1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+D: Dividend Reinvestment
+JT Emerson Electric Company Common
+Stock (EMR) [ST]
+P 06/10/202406/11/2024$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Exxon Mobil Corporation Common
+Stock (XOM) [ST]
+P 06/10/202406/11/2024$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+Filing ID #20025473
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Exxon Mobil Corporation Common
+Stock (XOM) [ST]
+P 06/10/202406/11/2024$1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+D: Dividend Reinvestment
+JT Home Depot, Inc. (HD) [ST] P 06/13/202406/14/2024$1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+D: Dividend Reinvestment
+JT Home Depot, Inc. (HD) [ST] P 06/13/202406/14/2024$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Johnson & Johnson Common Stock
+(JNJ) [ST]
+P 06/04/202406/05/2024$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Linde plc - Ordinary Shares (LIN)
+[ST]
+P 06/21/202406/22/2024$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Lockheed Martin Corporation
+Common Stock (LMT) [ST]
+P 06/28/202406/29/2024$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT NextEra Energy, Inc. Common Stock
+(NEE) [ST]
+P 06/17/202406/18/2024$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Rockwell Automation, Inc. Common
+Stock (ROK) [ST]
+P 06/10/202406/11/2024$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: Dividend Reinvestment
+JT RTX Corporation Common Stock
+(RTX) [ST]
+P 06/13/202406/14/2024$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 06/25/202406/26/2024$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Williams Companies, Inc. (WMB)
+[ST]
+P 06/24/202406/25/2024$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Hern Family Foundation (100% Interest) (Owner: JT)
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+D: Family Revocable Trust
+Hern Family Revocable Trust ⇒ Brokerage Investment Account (100% Interest) (Owner: JT)
+L: US
+D: Stock, Bonds, EFTs, & Mutual funds
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 07/15/2024

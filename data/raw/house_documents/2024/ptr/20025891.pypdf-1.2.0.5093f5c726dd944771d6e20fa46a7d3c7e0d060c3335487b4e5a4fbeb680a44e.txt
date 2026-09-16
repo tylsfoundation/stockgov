@@ -1,0 +1,148 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. William R. Keating
+Status: Member
+State/District:MA09
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+BANK AMERICA CORP SER M MTN
+3.97000% 03/05/2029 CALL MAKE
+WHOLE [CS]
+S (partial) 09/11/202409/23/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 06051GHG7
+BECTON DICKINSON &CO NOTE
+CALL MAKE WHOLE 3.73400%
+12/15/2024 [CS]
+S (partial) 09/11/202409/23/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 075887BF5
+Caterpillar, Inc. Common Stock (CAT)
+[ST]
+S 09/11/202409/23/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+COMCAST CORP NEW NOTE CALL
+MAKE WHOLE 4.25000%
+10/15/2030 [CS]
+S (partial) 09/11/202409/23/2024$15,001 -
+$50,000
+F S: New
+S O: Bill's IRA
+D: 20030NCU3
+ELEVANCE HEALTH INC NOTE
+CALL MAKE WHOLE 3.65000%
+12/01/2027 [CS]
+S (partial) 09/11/202409/23/2024$1,001 - $15,000
+F S: New
+Filing ID #20025891
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Bill's IRA
+D: 036752AB9
+GENERAL MTRS CO NOTE CALL
+MAKE WHOLE 5.60000%
+10/15/2032 [CS]
+S (partial) 09/11/202409/23/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 37045VAZ3
+JPMORGAN CHASE &CO NOTE
+CALL MAKE WHOLE 5.29900%
+07/24/2029 [CS]
+S (partial) 09/11/202409/23/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 46647PDU7
+LOWES COS INC NOTE CALL MAKE
+WHOLE 3.10000% 05/03/2027 [CS]
+S (partial) 09/11/202409/23/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 548661DP9
+META PLATFORMS INC NOTE CALL
+MAKE WHOLE 4.95000%
+05/15/2033 [CS]
+S (partial) 09/11/202409/23/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 30303M8N5
+MICROSOFT CORP NOTE CALL
+MAKE WHOLE 3.12500% 11/03/2025
+[CS]
+S (partial) 09/11/202409/23/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 594918BJ2
+NXP Semiconductors N.V. - Common
+Stock (NXPI) [ST]
+S 09/11/202409/23/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+PEPSICO INC NOTE CALL MAKE
+WHOLE 3.90000% 07/18/2032 [CS]
+S (partial) 09/11/202409/23/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: 713448FM5
+T MOBILE USA INC NOTE 4.75000%
+02/01/2028 [CS]
+S (partial) 09/11/202409/23/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 87264AAV7
+UNION PAC CORP NOTE CALL
+MAKE WHOLE 3.95000%
+09/10/2028 [CS]
+S (partial) 09/11/202409/23/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 907818EY0
+UNITED STATES TREAS SER C-2032
+2.87500% 05/15/2032 NTS NOTE
+[GS]
+S 09/11/202409/23/2024$15,001 -
+$50,000
+F S: New
+S O: Bill's IRA
+D: 91282CEP2
+VERIZON COMMUNICATIONS INC
+4.01600% 12/03/2029 SER C NOTE
+CALL MAKE WHOLE [CS]
+S (partial) 09/11/202409/23/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 92343VEU4
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Bill's IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. William R. Keating , 09/24/2024

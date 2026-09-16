@@ -1,0 +1,82 @@
+[[PAGE 1]]
+Filing ID #20017502
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Susie Lee
+Status: Member
+State/District: NV03
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Ally Financial Inc. (ALLY) [ST] P 09/28/2020 10/01/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Charles Schwab Corporation S 09/28/2020 10/01/2020 $1,001 - $15,000 gfedc
+(SCHW) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Discover Financial Services (DFS) P 09/28/2020 10/01/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Dun & Bradstreet Holdings, Inc. P 09/18/2020 10/01/2020 $1,001 - $15,000 gfedc
+(DNB) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Energizer Holdings, Inc. (ENR) S 09/18/2020 10/01/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT gFL Environmental Inc. P 09/18/2020 10/01/2020 $1,001 - $15,000 gfedc
+Subordinate voting shares, no par
+value (gFL) [ST]
+FILINg STATUS: New
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Hannon Armstrong Sustainable P 09/18/2020 10/01/2020 $1,001 - $15,000 gfedc
+Infrastructure Capital, Inc. (HASI)
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Hologic, Inc. (HOLX) [ST] P 09/18/2020 10/01/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT LPL Financial Holdings Inc. P 09/28/2020 10/01/2020 $1,001 - $15,000 gfedc
+(LPLA) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Mattel, Inc. (MAT) [ST] P 09/18/2020 10/01/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Rackspace Technology, Inc. (RXT) P 09/01/2020 10/01/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Republic Services, Inc. (RSg) [ST] S (partial) 09/18/2020 10/01/2020 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Robert Half International Inc. S 09/18/2020 10/01/2020 $1,001 - $15,000 gfedcb
+(RHI) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Toll Brothers, Inc. (TOL) [ST] S 09/18/2020 10/01/2020 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+[[PAGE 3]]
+DSL Living Trust (Owner: JT)
+DSL Living Trust ⇒ Bank of New York Brokerage Account 340 (Owner: JT)
+LOCATION: US
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Susie Lee , 10/24/2020

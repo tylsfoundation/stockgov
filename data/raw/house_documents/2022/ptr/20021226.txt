@@ -1,0 +1,127 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kathy Manning
+Status: Member
+State/District:NC06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Adobe Inc. (ADBE) [ST] S (partial) 06/10/202207/05/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+C: Remaining shares transferred to a Donor Advised Fund
+JT Align Technology, Inc. (ALGN) [ST] S 06/15/202207/05/2022$15,001 -
+$50,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+JT American Tower Corporation (AMT)
+[ST]
+S 06/15/202207/05/2022$50,001 -
+$100,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+JT ASML Holding N.V. - New York
+Registry Shares (ASML) [ST]
+S 06/10/202207/05/2022$50,001 -
+$100,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+JT Blackstone Inc. (BX) [ST] S 06/15/202207/05/2022$15,001 -
+$50,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+JT Chipotle Mexican Grill, Inc. (CMG)
+[ST]
+S 06/15/202207/05/2022$15,001 -
+$50,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+Filing ID #20021226
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Chipotle Mexican Grill, Inc. (CMG)
+[ST]
+S (partial) 06/10/202207/05/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+JT CME Group Inc. - Class A (CME) [ST]S (partial) 06/10/202207/05/2022$15,001 -
+$50,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+C: Remaining shares transferred to a Donor Advised Fund
+JT Equinix, Inc. (EQIX) [ST] S 06/10/202207/05/2022$15,001 -
+$50,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+JT Illumina, Inc. (ILMN) [ST] S 06/10/202207/05/2022$15,001 -
+$50,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+JT Intuitive Surgical, Inc. (ISRG) [ST] S (partial) 06/10/202207/05/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+C: Remaining shares transferred to a Donor Advised Fund
+JT Match Group, Inc. (MTCH) [ST] S 06/10/202207/05/2022$15,001 -
+$50,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+JT Netflix, Inc. (NFLX) [ST] S 06/10/202207/05/2022$15,001 -
+$50,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+JT NVIDIA Corporation (NVDA) [ST] S (partial) 06/10/202207/05/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+C: Remaining shares transferred to a Donor Advised Fund
+JT ServiceNow, Inc. (NOW) [ST] S (partial) 06/10/202207/05/2022$15,001 -
+$50,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+JT ServiceNow, Inc. (NOW) [ST] S 06/15/202207/05/2022$15,001 -
+$50,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+JT Snap Inc. Class A (SNAP) [ST] S 06/10/202207/05/2022$15,001 -
+$50,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+JT Visa Inc. (V) [ST] S 06/15/202207/05/2022$50,001 -
+$100,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+SP Wonder Media Network, LLC [PS] P 06/14/202206/14/2022$250,001 -
+$500,000
+F S: New
+L: US
+D: Class Preferred Units
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Charles Schwab - Edgewood Management LLC (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kathy Manning , 07/07/2022

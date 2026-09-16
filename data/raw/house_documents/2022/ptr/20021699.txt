@@ -1,0 +1,37 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Zoe Lofgren
+Status: Member
+State/District:CA19
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Applied Materials, Inc. (AMAT) [ST] S 08/25/202209/13/2022$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Charles River Laboratories
+International, Inc. (CRL) [ST]
+S 08/25/202209/13/2022$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Walt Disney Company (DIS) [ST] P 08/25/202209/13/2022$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+John Marshall Collins Rollover IRA (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Filing ID #20021699
+[[PAGE 2]]
+Digitally Signed: Hon. Zoe Lofgren , 09/13/2022

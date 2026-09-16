@@ -1,0 +1,53 @@
+[[PAGE 1]]
+Filing ID #20018244
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. John A. Yarmuth
+Status: Member
+State/District: KY03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+American Express Company (AXP) P 01/13/2021 02/10/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Arena Pharmaceuticals, Inc. P 02/12/2021 02/19/2021 $1,001 - $15,000 gfedc
+(ARNA) [ST]
+FIlINg STATuS: New
+Aurora Cannabis Inc. Common P 02/12/2021 02/19/2021 $1,001 - $15,000 gfedc
+Shares (ACB) [ST]
+FIlINg STATuS: New
+Canopy growth Corporation - P 02/12/2021 02/19/2021 $1,001 - $15,000 gfedc
+Common Shares (CgC) [ST]
+FIlINg STATuS: New
+Cintas Corporation (CTAS) [ST] P 01/28/2021 02/10/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Costco Wholesale Corporation S (partial) 01/28/2021 02/10/2021 $1,001 - $15,000 gfedcb
+(COST) [ST]
+FIlINg STATuS: New
+Cronos group Inc. - Common Share P 02/12/2021 02/19/2021 $1,001 - $15,000 gfedc
+(CRON) [ST]
+FIlINg STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Intercontinental Exchange Inc. S 01/11/2021 02/10/2021 $1,001 - $15,000 gfedcb
+(ICE) [ST]
+FIlINg STATuS: New
+Mastercard Incorporated (MA) [ST] S (partial) 01/28/2021 02/10/2021 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+Tilray, Inc. - Class 2 (TlRY) [ST] P 02/12/2021 02/19/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Visa Inc. (V) [ST] S (partial) 01/28/2021 02/10/2021 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. John A. Yarmuth , 02/19/2021

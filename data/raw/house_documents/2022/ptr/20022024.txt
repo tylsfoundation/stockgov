@@ -1,0 +1,44 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. William R. Keating
+Status: Member
+State/District:MA09
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Adobe Inc. (ADBE) [ST] S 11/09/202211/21/2022 $1,001 - $15,000
+F S: New
+S O: Bill's IRA
+MORGAN STANLEY MTN CALL [CS]S 11/04/202211/21/2022 $15,001 -
+$50,000
+F S: New
+S O: Bill's IRA
+D: 61746BDQ6 MORGAN STANLEY MTN CALL MAKE WHOLE 3.87500% 04/29/2024
+MORGAN STANLEY SER I MTN
+6.34200% 10/18/2033 [CS]
+P 11/04/202211/21/2022 $15,001 -
+$50,000
+F S: New
+S O: Bill's IRA
+D: 61747YEY7 MORGAN STANLEY SER I MTN 6.34200% 10/18/2033 CALL MAKE WHOLE
+ServiceNow, Inc. (NOW) [ST] P 11/09/202211/21/2022 $1,001 - $15,000
+F S: New
+S O: Bill's IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Bill's IRA
+I P O
+Filing ID #20022024
+[[PAGE 2]]
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. William R. Keating , 11/21/2022

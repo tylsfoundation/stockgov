@@ -1,0 +1,54 @@
+[[PAGE 1]]
+Filing ID #20019847
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Thomas Suozzi
+Status: Member
+State/District: NY03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+CVS Health Corporation (CVS) S 11/10/2021 11/15/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: National Securities- Advisor Discretion Account
+Dow Inc. (DOW) [ST] P 11/04/2021 11/15/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: National Securities- Advisor Discretion Account
+global X FinTech ETF (FINX) [ST] P 11/04/2021 11/15/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: National Securities- Advisor Discretion Account
+PayPal Holdings, Inc. (PYPl) [ST] P 11/04/2021 11/15/2021 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+SubHOlDINg OF: National Securities- Advisor Discretion Account
+Schlumberger N.V. (Slb) [ST] P 11/04/2021 11/15/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: National Securities- Advisor Discretion Account
+The bank of New York Mellon S 11/10/2021 11/15/2021 $50,001 - gfedc
+Corporation (bK) [ST] $100,000
+FIlINg STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOlDINg OF: National Securities- Advisor Discretion Account
+TJX Companies, Inc. (TJX) [ST] P 11/04/2021 11/15/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: National Securities- Advisor Discretion Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+National Securities- Advisor Discretion Account
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Thomas Suozzi , 11/18/2021

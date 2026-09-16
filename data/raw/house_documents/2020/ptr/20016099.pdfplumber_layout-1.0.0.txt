@@ -1,0 +1,407 @@
+[[PAGE 1]]
+Filing ID #20016099
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Donald Sternoff Beyer Jr
+Status: Member
+State/District: VA08
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Accenture plc Class A ordinary P 01/09/2020 02/02/2020 $1,001 - $15,000 gfedc
+Shares (ACN) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units Accenture PLC
+JT Alphabet Inc. - Class C Capital P 01/13/2020 02/02/2020 $1,001 - $15,000 gfedc
+Stock (goog) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 5 units Alphabet Inc Class C
+JT Alphabet Inc. - Class C Capital P 01/28/2020 02/02/2020 $1,001 - $15,000 gfedc
+Stock (goog) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 5 units Alphabet Inc Class C
+JT Amazon.com, Inc. (AMZN) [ST] P 01/10/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 5 units Amazon.com Inc
+JT Apple Inc. (AAPL) [ST] P 01/14/2020 02/02/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Apple Inc. com
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Apple Inc. (AAPL) [ST] P 01/28/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units Apple Inc common
+JT Berkshire Hathaway Inc. New P 01/13/2020 02/02/2020 $1,001 - $15,000 gfedc
+(BRK.B) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units Berkshire Hathaway Inc - Class B
+JT BLF FedFund TDDXX [CS] S 01/13/2020 02/02/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 01/09/2020 02/02/2020 $100,001 - gfedc
+$250,000
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 01/10/2020 02/02/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 01/16/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 01/15/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 01/14/2020 02/02/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTIoN: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 01/24/2020 02/02/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 01/27/2020 02/02/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 01/30/2020 02/02/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 01/29/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 01/28/2020 02/02/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: Sweep sale Blackrock Liq FDS FedFund
+JT Citigroup, Inc. (C) [ST] P 01/27/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 100 units Citigroup Inc.
+JT Citigroup, Inc. (C) [ST] P 01/09/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Citigroup Inc.
+JT Cognex Corporation (CgNX) [ST] P 01/28/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Cognex Corp
+JT CryoPort, Inc. (CYRX) [ST] P 01/13/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 200 units Cryoport Inc. Common Par
+JT Daifuku Co Ltd ordinary Shares P 01/29/2020 02/02/2020 $1,001 - $15,000 gfedc
+(DAIUF) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 100 units Daifuku Co Ltd
+JT Delta Air Lines, Inc. (DAL) [ST] P 01/24/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Delta Air Lines Inc
+JT Delta Air Lines, Inc. (DAL) [ST] P 01/15/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 100 units Delta Air Lines Inc.
+JT District Columbia Rev 4.00% [gS] P 01/09/2020 02/02/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50,000 units District Columbia Rev 4.00% 04/01/32
+JT Ecolab Inc. (ECL) [ST] P 01/14/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Ecolab Inc.
+JT Editas Medicine, Inc. (EDIT) [ST] P 01/09/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 75 units of Editas Medicine Inc. common
+JT Editas Medicine, Inc. (EDIT) [ST] P 01/27/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTIoN: 75 units Editas Medicine Inc.
+JT Estee Lauder Companies, Inc. (EL) P 01/24/2020 02/02/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units Estee Lauder Companies Class A
+JT Estee Lauder Companies, Inc. (EL) P 01/14/2020 02/02/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Estee Lauder Companies Class A
+JT Fanuc Limited ordinary Shares P 01/16/2020 02/02/2020 $1,001 - $15,000 gfedc
+(FANUF) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 10 units FANUC Ltd
+JT FLIR Systems, Inc. (FLIR) [ST] P 01/24/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Flir Systems Inc.
+JT goldman Sachs group, Inc. (gS) P 01/27/2020 02/02/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units goldman Sachs group Inc.
+JT Illumina, Inc. (ILMN) [ST] P 01/10/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 10 units Illumina Inc
+JT Illumina, Inc. (ILMN) [ST] P 01/27/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 15 units Illumina Inc.
+JT Impinj, Inc. (PI) [ST] P 01/28/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 115 units Impinj Inc.
+JT Intellia Therapeutics, Inc. (NTLA) P 01/14/2020 02/02/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units Intellia Therapeutics Inc
+JT Intuitive Surgical, Inc. (ISRg) [ST] P 01/28/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 5 units Intuitive Surgical Inc.
+JT London Stock Exchange group plc P 01/28/2020 02/02/2020 $1,001 - $15,000 gfedc
+ordinary Shares (LDNXF) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 100 units London Stock Exchange ordinary
+JT London Stock Exchange group plc P 01/14/2020 02/02/2020 $1,001 - $15,000 gfedc
+ordinary Shares (LDNXF) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 100 units London Stock Exchange ordinary
+JT LVMH Moet Hennessy Louis P 01/24/2020 02/02/2020 $1,001 - $15,000 gfedc
+Vuitton Unsponsored American
+Depositary Receipt (LVMUY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 75 units LVMH Moet Hennessy ADR
+JT LVMH Moet Hennessy Louis P 01/09/2020 02/02/2020 $1,001 - $15,000 gfedc
+Vuitton Unsponsored American
+Depositary Receipt (LVMUY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units LVMH Moet Hennessy ADR
+JT Microsoft Corporation (MSFT) P 01/09/2020 02/02/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 75 units Microsoft Corp
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Microsoft Corporation (MSFT) P 01/24/2020 02/02/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units Microsoft Corp
+JT MSCI Inc (MSCI) [ST] P 01/27/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units MSCI Inc. Class A
+JT MSCI Inc (MSCI) [ST] P 01/10/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units MSCI inc Class A
+JT Nasdaq, Inc. (NDAQ) [ST] P 01/24/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units NASDAQ Inc.
+JT Nestle SA Sponsored ADR P 01/27/2020 02/02/2020 $1,001 - $15,000 gfedc
+representing Registered Shares
+Series B (NSRgY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Nestle NAM Spon ADR
+JT Nestle SA Sponsored ADR P 01/09/2020 02/02/2020 $1,001 - $15,000 gfedc
+representing Registered Shares
+Series B (NSRgY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Nestle NAM Sponsored ADR
+JT New York State MTg AgY 3.45% P 01/13/2020 02/02/2020 $50,001 - gfedc
+[gS] $100,000
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50,000 units New York State MTg AgY 3.45% 10/01/33
+JT NextEra Energy, Inc. (NEE) [ST] P 01/14/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+[[PAGE 8]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Nextera Energy Inc
+JT NextEra Energy, Inc. (NEE) [ST] P 01/28/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units Nextera Energy Inc.
+JT Nike, Inc. (NKE) [ST] P 01/10/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Nike Inc Class B
+JT Nike, Inc. (NKE) [ST] P 01/27/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units Nike Inc Class B
+JT Novartis Ag (NVS) [ST] P 01/27/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 Units Novartis Ag Spon ADR
+JT Novartis Ag (NVS) [ST] P 01/14/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units Novartis Ag Spon ADR
+JT NVIDIA Corporation (NVDA) [ST] P 01/10/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units NVIDIA Corp
+JT Pepsico, Inc. (PEP) [ST] P 01/13/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units Pepsico Inc.
+JT Roper Technologies, Inc. (RoP) P 01/14/2020 02/02/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+[[PAGE 9]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTIoN: 20 units Roper Technologies Inc.
+JT Roper Technologies, Inc. (RoP) P 01/24/2020 02/02/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units Roper Technologies Inc
+JT Splunk Inc. (SPLK) [ST] P 01/24/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Splunk Inc.
+JT Square, Inc. Class A (SQ) [ST] P 01/28/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 200 units Square Inc Class A common
+JT Target Corporation (TgT) [ST] P 01/24/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units Target Corp
+JT Target Corporation (TgT) [ST] P 01/13/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units Target Corp
+JT Teladoc Health, Inc. (TDoC) [ST] P 01/09/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Teledoc Healthy Inc common
+JT Teladoc Health, Inc. (TDoC) [ST] P 01/28/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Teladoc Health Inc common
+JT Terreno Realty Corporation P 01/10/2020 02/02/2020 $1,001 - $15,000 gfedc
+(TRNo) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 100 units Terreno Realty Corp
+[[PAGE 10]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Terreno Realty Corporation P 01/24/2020 02/02/2020 $1,001 - $15,000 gfedc
+(TRNo) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Terreno Realty Corp
+JT TJX Companies, Inc. (TJX) [ST] P 01/27/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 75 units TJX Companies Inc.
+JT TJX Companies, Inc. (TJX) [ST] P 01/13/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 125 units TJX Companies Inc. New
+JT UnitedHealth group Incorporated P 01/09/2020 02/02/2020 $1,001 - $15,000 gfedc
+Common Stock (UNH) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units UnitedHealth group Inc.
+JT Verizon Communications Inc. (VZ) P 01/14/2020 02/02/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Verizon Communications
+JT Visa Inc. (V) [ST] P 01/14/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units Visa Inc Class A
+JT Walt Disney Company (DIS) [ST] P 01/10/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 50 units The Walt Disney Co
+JT Walt Disney Company (DIS) [ST] P 01/27/2020 02/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Stocks, Bonds, & Mutual Funds
+DESCRIPTIoN: 25 units The Walt Disney Co
+[[PAGE 11]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Stocks, Bonds, & Mutual Funds (owner: JT)
+LoCATIoN: VA, US
+COmmeNTS
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Donald Sternoff Beyer Jr, 02/22/2020

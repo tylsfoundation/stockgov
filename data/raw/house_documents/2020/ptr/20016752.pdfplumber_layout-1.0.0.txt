@@ -1,0 +1,35 @@
+[[PAGE 1]]
+Filing ID #20016752
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Earl Leroy Carter
+Status: Member
+State/District: gA01
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+MARIETTA gA DEV AUTH RFDg P 05/13/2020 06/02/2020 $15,001 - gfedc
+SPSU STDNT HSg [gS] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Stifel
+DESCRIPTION: Due 6/15/24
+PRIVATE CLLgS & UNIV REV P 05/13/2020 06/02/2020 $15,001 - gfedc
+SAVANNAH CLLg ART & DSgN $50,000
+[gS]
+FILINg STATUS: New
+SUbHOLDINg OF: Stifel
+DESCRIPTION: DUE 4/01/35
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Stifel
+LOCATION: US
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+[[PAGE 2]]
+Digitally Signed: Hon. Earl Leroy Carter , 06/11/2020

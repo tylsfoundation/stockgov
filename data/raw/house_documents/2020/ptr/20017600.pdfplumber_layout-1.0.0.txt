@@ -1,0 +1,207 @@
+[[PAGE 1]]
+Filing ID #20017600
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Joe Courtney
+Status: Member
+State/District: CT02
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP Alibaba group Holding Limited S 10/09/2020 10/09/2020 $15,001 - gfedc
+American Depositary Shares each $50,000
+representing eight Ordinary share
+(BABA) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP Blackrock Advantage Large Cap - P 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+MALRX [OT]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+LOCATION: US
+DESCRIPTION: MALRX
+SP BlackRock Credit Allocation S 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+Income Trust (BTZ) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP Blackrock Debt Strategies Fund, S 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+Inc. (DSU) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP Blackrock Emerging Markets Fund P 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+- MADCX [OT]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+LOCATION: US
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+DESCRIPTION: MADCX
+SP Blackrock High Yield Municipal P 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+Fund - MAYHX [OT]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+LOCATION: US
+DESCRIPTION: MAYHX
+SP Blackrock National Municipal P 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+Fund - MANLX [OT]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+LOCATION: US
+DESCRIPTION: MANLX
+SP Blackrock Technologies P 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+Opportunity Fund - BgSIX [OT]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+LOCATION: US
+DESCRIPTION: BgSIX
+SP Eaton Vance Limited Duration S 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+Income Fund Common Shares of
+Beneficial Interest (EVV) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP Energy Transfer LP Common S 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+Units (ET) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP Ford Motor Company (F) [ST] S 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP global X Super Dividend ETF S 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+(DIV) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP goldman Sachs Dynamic Muni S 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+Income Fund [OT]
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+LOCATION: US
+DESCRIPTION: gSMTX
+SP Hartford Core Equity Fund - P 10/09/2020 10/09/2020 $15,001 - gfedc
+HgIIX [OT] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+LOCATION: US
+DESCRIPTION: HgIIX
+SP iShares 20+ Year Treasury Bond P 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+ETF (TLT) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP iShares 7-10 Year Treasury Bond P 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+ETF (IEF) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP iShares Core MSCI EAFE ETF P 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+(IEFA) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP iShares Core S&P 500 ETF (IVV) P 10/09/2020 10/09/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP iShares Core S&P Small-Cap ETF P 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+(IJR) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP iShares ESg Aware MSCI USA P 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+ETF (ESgU) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP iShares International Select S 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+Dividend ETF (IDV) [ST]
+FILINg STATUS: New
+[[PAGE 4]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHOLDINg OF: Inherited Brokerage Account
+SP iShares MSCI EAFE growth ETF P 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+(EFg) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP iShares MSCI USA Min Vol Factor P 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+ETF (USMV) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP iShares MSCI USA Value Factor P 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+ETF (VLUE) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP iShares U.S. Medical Devices ETF P 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+(IHI) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP Nintendo Co Ltd ADR (NTDOY) S 10/09/2020 10/09/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP Pimco Investments Income Inst'l S 10/09/2020 10/09/2020 $15,001 - gfedc
+[OT] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+LOCATION: US
+DESCRIPTION: PIMIX
+SP Pimco Municipal Bond Fund - P 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+PMUPX [OT]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+LOCATION: US
+DESCRIPTION: PMUPX
+SP Rivernorth Funds Doubleline S 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+Strategic Income [OT]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+[[PAGE 5]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+LOCATION: US
+DESCRIPTION: RNSIX
+SP SPDR Blackstone gSO Senior Loan S 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+ETF (SRLN) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+DESCRIPTION: Reported on FD as "SSgA Active"
+SP Vanguard Div Appreciation ETF S 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+(VIg) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP Vanguard Total Stock Market ETF S 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+(VTI) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP WCM Focused Int'l growth [OT] S 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+LOCATION: US
+DESCRIPTION: WCMIX
+SP WisdomTree CBOE S&P 500 S 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+PutWrite Strategy Fund (PUTW)
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+SP WisdomTree Emerging Markets P 10/09/2020 10/09/2020 $1,001 - $15,000 gfedc
+Ex-State Owned Enterprises Fund
+(XSOE) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Inherited Brokerage Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Inherited Brokerage Account (Owner: SP)
+LOCATION: US
+DESCRIPTION: Account inherited in 2019
+[[PAGE 6]]
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Joe Courtney , 11/06/2020

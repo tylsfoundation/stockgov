@@ -1,0 +1,100 @@
+[[PAGE 1]]
+Filing ID #20016927
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. David Trone
+Status: Member
+State/District: MD06
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Apple Inc. (AAPL) [ST] S (partial) 03/04/2020 03/04/2020 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Insurance Trust 1
+JT bANK OF AMERICA CORP S 03/19/2019 03/19/2019 $100,001 - gfedc
+VARIAbLE RATE NOTE [OT] $250,000
+FILINg STATUS: New
+SUbHOLDINg OF: JP Morgan Investment Account
+LOCATION: US
+DESCRIPTION: Fixed Income
+JT bARC CbEN SPX [OT] S 04/03/2019 04/03/2019 $250,001 - gfedcb
+$500,000
+FILINg STATUS: New
+SUbHOLDINg OF: JP Morgan Investment Account
+LOCATION: US
+DESCRIPTION: Structured Note 4/3/19
+JT Db DD CbEN SX5E [OT] S 05/15/2019 05/15/2019 $100,001 - gfedcb
+$250,000
+FILINg STATUS: New
+SUbHOLDINg OF: JP Morgan Investment Account
+LOCATION: US
+DESCRIPTION: Structured Note 5/15/2019
+JT DISCOVER FINANCIAL [OT] S 01/25/2019 01/25/2019 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: JP Morgan Investment Account
+LOCATION: US
+DESCRIPTION: Fixed Income
+JT gOLDMAN SACHS gROUP INC S 01/25/2019 01/25/2019 $50,001 - gfedc
+VARIAbLE RATE NOTE [OT] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: JP Morgan Investment Account
+LOCATION: US
+DESCRIPTION: Fixed Income
+JT gS MARKET PLUS SPX [OT] S 12/26/2019 12/26/2019 $250,001 - gfedc
+$500,000
+FILINg STATUS: New
+SUbHOLDINg OF: JP Morgan Investment Account
+LOCATION: US
+DESCRIPTION: Structured Note 12/26/19
+JT JPM DD CbEN SX5E 10/30/19 S 10/30/2019 10/30/2019 $100,001 - gfedcb
+[OT] $250,000
+FILINg STATUS: New
+SUbHOLDINg OF: JP Morgan Investment Account
+LOCATION: US
+DESCRIPTION: Structured Note 10/30/2019
+SP Kontoor brands, Inc. (KTb) [ST] S (partial) 03/04/2020 03/04/2020 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Insurance Trust 1
+JT Morgan Stanley (MS) [ST] P 03/19/2020 03/19/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: JP Morgan Investment Account
+JT Morgan Stanley Variable Rate S 03/19/2020 03/19/2020 $100,001 - gfedc
+Note [OT] $250,000
+FILINg STATUS: New
+SUbHOLDINg OF: JP Morgan Investment Account
+LOCATION: US
+DESCRIPTION: Fixed Income
+SP V.F. Corporation (VFC) [ST] S 10/03/2019 10/03/2019 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Insurance Trust 1
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT VOYA FINL INC [OT] S 11/04/2019 11/04/2019 $100,001 - gfedcb
+$250,000
+FILINg STATUS: New
+SUbHOLDINg OF: JP Morgan Investment Account
+LOCATION: US
+DESCRIPTION: Fixed Income
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Insurance Trust 1 (Owner: SP)
+JP Morgan Investment Account (Owner: JT)
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. David Trone , 08/13/2020

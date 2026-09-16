@@ -1,0 +1,123 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Byron Donalds
+Status: Member
+State/District:FL19
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Brown & Brown, Inc. Common Stock
+(BRO) [ST]
+S 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Brown & Brown, Inc. Common Stock
+(BRO) [ST]
+S 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Chipotle Mexican Grill, Inc. Common
+Stock (CMG) [ST]
+S 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Chipotle Mexican Grill, Inc. Common
+Stock (CMG) [ST]
+S 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Fiserv, Inc. Common Stock (FI) [ST] S 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Fiserv, Inc. Common Stock (FI) [ST] S 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Filing ID #20032234
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Fortinet, Inc. - Common Stock
+(FTNT) [ST]
+S 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Fortinet, Inc. - Common Stock
+(FTNT) [ST]
+S 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+IDEXX Laboratories, Inc. - Common
+Stock (IDXX) [ST]
+P 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP IDEXX Laboratories, Inc. - Common
+Stock (IDXX) [ST]
+P 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Molina Healthcare Inc Common
+Stock (MOH) [ST]
+S 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Molina Healthcare Inc Common
+Stock (MOH) [ST]
+S 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Progressive Corporation (PGR) [ST] S 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Progressive Corporation (PGR) [ST] S 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP The Trade Desk, Inc. - Class A
+Common Stock (TTD) [ST]
+S 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+The Trade Desk, Inc. - Class AS 09/04/202510/01/2025$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Common Stock (TTD) [ST]
+F S: New
+S O: Moran Wealth IRA
+Tradeweb Markets Inc. - Class A
+Common Stock (TW) [ST]
+S 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Tradeweb Markets Inc. - Class A
+Common Stock (TW) [ST]
+S 09/04/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Moran Wealth IRA
+Moran Wealth IRA (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Byron Donalds , 10/07/2025

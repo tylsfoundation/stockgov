@@ -1,0 +1,116 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. John W. Rose
+Status: Member
+State/District:TN06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S 06/03/202506/04/2025$1,000,001 -
+$5,000,000
+F S: New
+S O: Raymond James Brokerage Account
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S 06/03/202506/04/2025$250,001 -
+$500,000
+F S: New
+S O: Raymond James Brokerage Account
+AMERICAN FUNDS CAPITAL
+WORLD GROWTH & INCOME FD
+CL A M/F (Symbol: CWGIX) [OT]
+S 06/03/202507/04/2025$250,001 -
+$500,000
+F S: New
+S O: Raymond James Brokerage Account
+L: US
+D: AMERICAN FUNDS CAPITAL WORLD GROWTH & INCOME FD CL A M/F (Symbol: CWGIX)
+AMERICAN FUNDS EUPAC FUND
+CL A M/F (Symbol: AEPGX) [OT]
+S 06/03/202506/04/2025$250,001 -
+$500,000
+F S: New
+S O: Raymond James Brokerage Account
+L: US
+D: AMERICAN FUNDS EUPAC FUND CL A M/F (Symbol: AEPGX)
+AMERICAN FUNDS GROWTH
+FUND OF AMERICA FUND CL A
+M/F (Symbol: AGTHX) [OT]
+S 06/03/202506/04/2025$500,001 -
+$1,000,000
+F S: New
+S O: Raymond James Brokerage Account
+Filing ID #20030610
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+L: US
+D: AMERICAN FUNDS GROWTH FUND OF AMERICA FUND CL A M/F (Symbol: AGTHX)
+AMERICAN FUNDS INVESTMENT
+CO OF AMERICA FD CL A M/F
+(Symbol: AIVSX) [OT]
+S 06/03/202506/04/2025$250,001 -
+$500,000
+F S: New
+S O: Raymond James Brokerage Account
+L: US
+D: AMERICAN FUNDS INVESTMENT CO OF AMERICA FD CL A M/F (Symbol: AIVSX)
+AMERICAN FUNDS SMALLCAP
+WORLD FUND CL A M/F (SMCWX)
+[OT]
+S 06/03/202506/04/2025$500,001 -
+$1,000,000
+F S: New
+S O: Raymond James Brokerage Account
+L: US
+D: AMERICAN FUNDS SMALLCAP WORLD FUND CL A M/F (SMCWX)
+AMERICAN FUNDS SMALLCAP
+WORLD FUND CL A M/F (Symbol:
+SMCWX) [OT]
+S 06/03/202506/04/2025$500,001 -
+$1,000,000
+F S: New
+S O: Raymond James Brokerage Account
+L: US
+D: AMERICAN FUNDS SMALLCAP WORLD FUND CL A M/F (Symbol: SMCWX)
+JPMORGAN U.S. GOVERNMENT
+MONEY MARKET FD CAPITAL CL
+M/M (Symbol: OGVXX) [OT]
+P 06/03/202506/04/2025$1,000,001 -
+$5,000,000
+F S: New
+S O: Raymond James Brokerage Account
+L: US
+D: JPMORGAN U.S. GOVERNMENT MONEY MARKET FD CAPITAL CL M/M (Symbol: OGVXX)
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 06/03/202506/04/2025$250,001 -
+$500,000
+F S: New
+S O: Raymond James Brokerage Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Raymond James Brokerage Account (100% Interest)
+L: Nashville, TN, US
+D: John Williams Rose Brokerage Account.
+[[PAGE 3]]
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. John W. Rose , 07/04/2025

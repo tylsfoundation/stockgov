@@ -1,0 +1,41 @@
+[[PAGE 1]]
+Filing ID #20019858
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. John Rutherford
+Status: Member
+State/District: Fl04
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+2000068416 bristol-Myers Squibb Company P 07/21/2020 07/21/2020 $1,001 - gfedc
+(bMY) [ST] $15,000
+FIlINg STATuS: Amended
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Comcast Corporation - Class A S 02/23/2021 02/23/2021 $1,001 - gfedc
+(CMCSA) [ST] $15,000
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+2000068417 VAlE S.A. American P 07/22/2020 07/22/2020 $1,001 - gfedc
+Depositary Shares Each $15,000
+Representing one common
+share (VAlE) [ST]
+FIlINg STATuS: Amended
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+National Financial Services/Fidelity - Premiere Select IRA Domestic
+DESCRIPTION: Separately Managed Account - IRA
+National Financial Services/Fidelity - Premiere Select IRA Int'l
+DESCRIPTION: Separately Managed Account - IRA
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 2]]
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. John Rutherford , 11/19/2021

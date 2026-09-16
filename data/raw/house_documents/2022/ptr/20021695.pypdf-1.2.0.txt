@@ -1,0 +1,387 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kathy Manning
+Status: Member
+State/District:NC06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Alphabet Inc. - Class A (GOOGL) [ST]P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Altria Group, Inc. (MO) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Amazon.com, Inc. (AMZN) [ST] P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Amcor plc Ordinary Shares (AMCR)
+[ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT American International Group, Inc.
+New (AIG) [ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Ameriprise Financial, Inc. (AMP) [ST]S 08/03/202209/06/2022$1,001 - $15,000
+Filing ID #20021695
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Amgen Inc. (AMGN) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT APA Corporation (APA) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Apple Inc. (AAPL) [ST] P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP AT&T Inc. (T) [ST] S 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT AT&T Inc. (T) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT AutoZone, Inc. (AZO) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Bank of America Corporation (BAC)
+[ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Bank of America Corporation (BAC)
+[ST]
+P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Berkshire Hathaway Inc. New
+(BRK.B) [ST]
+P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Best Buy Co., Inc. (BBY) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Biogen Inc. (BIIB) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Boston Properties, Inc. (BXP) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Broadcom Inc. (AVGO) [ST] P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Builders FirstSource, Inc. (BLDR)
+[ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Capital One Financial Corporation
+(COF) [ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Cardinal Health, Inc. (CAH) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Celanese Corporation Celanese
+Corporation (CE) [ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Charter Communications, Inc. - Class
+A (CHTR) [ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Chevron Corporation (CVX) [ST] P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Citigroup, Inc. (C) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Comerica Incorporated (CMA) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Costco Wholesale Corporation (COST)
+[ST]
+P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Crown Holdings, Inc. (CCK) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Darden Restaurants, Inc. (DRI) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Devon Energy Corporation (DVN)
+[ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Discover Financial Services (DFS)
+[ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Domino's Pizza Inc (DPZ) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Eastman Chemical Company (EMN)
+[ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Exxon Mobil Corporation (XOM) [ST]P 08/05/202209/06/2022$1,001 - $15,000
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Fair Isaac Corproation (FICO) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Gartner, Inc. (IT) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT HCA Healthcare, Inc. (HCA) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Home Depot, Inc. (HD) [ST] P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Host Hotels (HST) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT HP Inc. (HPQ) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT International Paper Company (IP)
+[ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Johnson & Johnson (JNJ) [ST] P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT KeyCorp (KEY) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Kinder Morgan, Inc. (KMI) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT L3Harris Technologies, Inc. (LHX)
+[ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Liberty Global plc - Class C Ordinary
+Shares (LBTYK) [ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Loews Corporation (L) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Lowe's Companies, Inc. (LOW) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Lumen Technologies, Inc. (LUMN)
+[ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Marathon Oil Corporation (MRO)
+[ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Marathon Petroleum Corporation
+(MPC) [ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Masco Corporation (MAS) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT McKesson Corporation (MCK) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S (partial) 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Meta Platforms, Inc. - Class A (META)
+[ST]
+P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT MetLife, Inc. (MET) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Microsoft Corporation (MSFT) [ST] P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Northrop Grumman Corporation
+(NOC) [ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP NVIDIA Corporation (NVDA) [ST] P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT NVR, Inc. (NVR) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Oracle Corporation (ORCL) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Pepsico, Inc. (PEP) [ST] P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Pfizer, Inc. (PFE) [ST] P 08/05/202209/06/2022$1,001 - $15,000
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Procter & Gamble Company (PG) [ST]P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Prudential Financial, Inc. (PRU) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT PulteGroup, Inc. (PHM) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Quest Diagnostics Incorporated
+(DGX) [ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Regency Centers Corporation (REG)
+[ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Simon Property Group, Inc. (SPG)
+[ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Synchrony Financial (SYF) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Tesla, Inc. (TSLA) [ST] P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT The Bank of New York Mellon
+Corporation (BK) [ST]
+S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Union Pacific Corporation (UNP) [ST]S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Wells Fargo & Company (WFC) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Weyerhaeuser Company (WY) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Whirlpool Corporation (WHR) [ST] S 08/03/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Charles Schwab - O'Shaughnessy Asset Management (Owner: JT)
+L: US
+D: F/K/A Charles Schwab - Edgewood Management LLC
+The 2011 Randall R. Kaplan Living Trust (Owner: SP)
+The 2011 Randall R. Kaplan Living Trust ⇒ MV Capital - Brokerage #3 (Owner: SP)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kathy Manning , 09/14/2022

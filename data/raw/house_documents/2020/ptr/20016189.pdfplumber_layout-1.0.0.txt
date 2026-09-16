@@ -1,0 +1,65 @@
+[[PAGE 1]]
+Filing ID #20016189
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Kim Schrier
+Status: Member
+State/District: WA08
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Apple Inc. (AAPl) [ST] S 02/28/2020 02/29/2020 $250,001 - gfedcb
+$500,000
+FIlING STATuS: New
+SubHOlDING OF: Gowing Family Trust Secondary Account
+JT Apple Inc. (AAPl) [ST] S 03/02/2020 03/03/2020 $1,000,001 - gfedcb
+$5,000,000
+FIlING STATuS: New
+SubHOlDING OF: Gowing Family Trust Secondary Account
+JT Apple Inc. (AAPl) [ST] S 03/03/2020 03/04/2020 $250,001 - gfedcb
+$500,000
+FIlING STATuS: New
+SubHOlDING OF: Gowing Family Trust Secondary Account
+JT Apple Inc. (AAPl) [ST] S 02/28/2020 02/29/2020 $100,001 - gfedcb
+$250,000
+FIlING STATuS: New
+SubHOlDING OF: Gowing Family Trust Primary Account
+JT Apple Inc. (AAPl) [ST] S 03/02/2020 03/03/2020 $250,001 - gfedcb
+$500,000
+FIlING STATuS: New
+SubHOlDING OF: Gowing Family Trust Primary Account
+JT Apple Inc. (AAPl) [ST] S 03/03/2020 03/04/2020 $1,000,001 - gfedcb
+$5,000,000
+FIlING STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOlDING OF: Gowing Family Trust Primary Account
+SP Apple Inc. (AAPl) [ST] S 03/03/2020 03/04/2020 $250,001 - gfedcb
+$500,000
+FIlING STATuS: New
+SubHOlDING OF: David's IRA
+SP Tesla, Inc. (TSlA) [ST] S 03/03/2020 03/04/2020 $100,001 - gfedcb
+$250,000
+FIlING STATuS: New
+SubHOlDING OF: David's IRA
+JT Tesla, Inc. (TSlA) [ST] S 03/03/2020 03/04/2020 $100,001 - gfedcb
+$250,000
+FIlING STATuS: New
+SubHOlDING OF: Gowing Family Trust Secondary Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+David's IRA (Owner: SP)
+Gowing Family Trust Primary Account (Owner: JT)
+DESCRIPTION: Kimberly Schrier Gowing and David Noble Gowing Trustees
+Gowing Family Trust Secondary Account (Owner: JT)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Kim Schrier , 03/08/2020

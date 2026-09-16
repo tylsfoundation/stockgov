@@ -1,0 +1,63 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Chip Roy
+Status: Member
+State/District:TX21
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT AT&T Inc. (T) [ST] S 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+SP Atlas Energy Solutions Inc. Common
+Stock (AESI) [ST]
+S (partial) 03/12/202404/10/2024$250,001 -
+$500,000
+F S: New
+D: Sold part of holding.
+SP Chevron Corporation Common Stock
+(CVX) [ST]
+S 04/10/202404/10/2024$15,001 -
+$50,000
+F S: New
+D: Sold entire holding.
+JT Energy Transfer LP Common Units
+(ET) [ST]
+S 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+SP Exxon Mobil Corporation Common
+Stock (XOM) [ST]
+S 04/10/202404/10/2024$15,001 -
+$50,000
+F S: New
+D: Sold entire holding
+Kinder Morgan, Inc. Common Stock
+(KMI) [ST]
+S 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+JT Nustar Energy L.P. Common Units
+(NS) [ST]
+S 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+Filing ID #20024848
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Chip Roy , 04/11/2024

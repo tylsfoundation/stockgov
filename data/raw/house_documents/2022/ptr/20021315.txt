@@ -1,0 +1,155 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Virginia Foxx
+Status: Member
+State/District:NC05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Altria Group, Inc. (MO) [ST] S 06/29/202206/29/2022$100,001 -
+$250,000
+F S: New
+JT Apollo Asset Management, Inc.
+6.375% Series A Preferred Stock
+(AAM$A) [ST]
+P 06/13/202206/13/2022$1,001 - $15,000
+F S: New
+JT AT&T Inc. (T) [ST] S 06/14/202206/14/2022$100,001 -
+$250,000
+F S: New
+JT British American Tobacco Industries,
+p.l.c. Common Stock ADR (BTI) [ST]
+P 06/30/202206/30/2022$1,001 - $15,000
+F S: New
+JT British American Tobacco Industries,
+p.l.c. Common Stock ADR (BTI) [ST]
+P 06/13/202206/13/2022$1,001 - $15,000
+F S: New
+JT CAPITAL ONE BANK (U 3%25CD)
+[OT]
+P 06/03/202206/03/2022$50,001 -
+$100,000
+F S: New
+L: US
+D: CD Maturity date 6/9/25
+JT Clearway Energy, Inc. Class A
+(CWEN.A) [ST]
+S 06/15/202206/15/2022$50,001 -
+$100,000
+Filing ID #20021315
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+JT Clearway Energy, Inc. Class A
+(CWEN.A) [ST]
+P 06/16/202206/16/2022$1,001 - $15,000
+F S: New
+JT Clearway Energy, Inc. Class A
+(CWEN.A) [ST]
+S 06/22/202206/22/2022$1,001 - $15,000
+F S: New
+JT Duke Energy Corporation Depositary
+Shares, each representing a 1/1,000th
+interest in a share of 5.75% Series A
+Cumulative Redeemable Perpetual
+Preferred Stock (DUK$A) [ST]
+P 06/17/202206/17/2022$1,001 - $15,000
+F S: New
+JT Enterprise Products Partners L.P.
+(EPD) [ST]
+S 06/23/202206/23/2022$100,001 -
+$250,000
+F S: New
+JT Exxon Mobil Corporation (XOM) [ST]S 06/23/202206/23/2022$100,001 -
+$250,000
+F S: New
+JT Exxon Mobil Corporation (XOM) [ST]P 06/13/202206/13/2022$1,001 - $15,000
+F S: New
+JT Green Plains Partners LP - Common
+Units (GPP) [ST]
+S 06/13/202206/13/2022$15,001 -
+$50,000
+F S: New
+JT KNOT Offshore Partners LP Common
+Units representing Limited Partner
+Interests (KNOP) [ST]
+P 06/10/202206/10/2022$1,001 - $15,000
+F S: New
+JT Magellan Midstream Partners L.P.
+Limited Partnership (MMP) [ST]
+P 06/15/202206/15/2022$1,001 - $15,000
+F S: New
+JT Manulife Financial Corporation
+(MFC) [ST]
+S 06/22/202206/22/2022$100,001 -
+$250,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT National Health Investors, Inc. (NHI)
+[ST]
+P 06/28/202206/28/2022$15,001 -
+$50,000
+F S: New
+JT Plains All American Pipeline, L.P. -
+Common Units representing Limited
+Partner Interests (PAA) [ST]
+S 06/23/202206/23/2022$100,001 -
+$250,000
+F S: New
+JT Rio Tinto Plc (RIO) [ST] S 06/17/202206/17/2022$50,001 -
+$100,000
+F S: New
+JT SCHWAB S&P 500 INDEX - SWPPX
+[OT]
+S 06/22/202206/22/2022$100,001 -
+$250,000
+F S: New
+L: US
+D: Mutual Fund
+JT Sisecam Resources LP Common Units
+representing limited partner interests
+(SIRE) [ST]
+P 06/10/202206/10/2022$1,001 - $15,000
+F S: New
+JT TotalEnergies SE (TTE) [ST] S 06/03/202206/03/2022$50,001 -
+$100,000
+F S: New
+JT UBS BANK USA 3.2%24CD [OT] P 06/22/202206/22/2022$50,001 -
+$100,000
+F S: New
+L: US
+D: CD maturity date 7/1/24
+JT USD Partners LP Common Units
+representing limited partner interest
+(USDP) [ST]
+P 06/03/202206/03/2022$15,001 -
+$50,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+[[PAGE 4]]
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Virginia Foxx , 07/05/2022

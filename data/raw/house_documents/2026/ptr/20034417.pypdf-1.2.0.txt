@@ -1,0 +1,89 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. William R. Keating
+Status: Member
+State/District:MA09
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JPMORGAN CHASE &CO NOTE
+CALL MAKE WHOLE 5.57200%
+04/22/2036 [CS]
+P 05/08/202605/18/2026$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 46647PEX0
+NORTHROP GRUMMAN CORP
+NOTE 4.40000% 05/01/2030 CALL
+MAKE WHOLE [CS]
+P 05/08/202605/18/2026$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 666807BS0
+OTIS WORLDWIDE CORP NOTE
+CALL MAKE WHOLE 5.25000%
+08/16/2028 [CS]
+P 04/29/202605/04/2026$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 68902VAP2
+SIMON PPTY GROUP LP NOTE
+CALL MAKE WHOLE 5.12500%
+10/01/2035 [CS]
+P 05/08/202605/18/2026$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 46647PEX0
+T MOBILE USA INC NOTE CALL
+MAKE WHOLE 5.05000%
+07/15/2033 [CS]
+P 04/17/202604/27/2026$1,001 - $15,000
+Filing ID #20034417
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Bill's IRA
+D: 87264ACY9
+THE CAMPBELLS COMPANY NOTE
+5.40000% 03/21/2034 CALL MAKE
+WHOLE [CS]
+S 05/06/202605/18/2026$15,001 -
+$50,000
+F S: New
+S O: Bill's IRA
+D: 134429BP3
+UNITED STATES TREAS BILLS
+ZERO CPN 0.00000% 05/28/2026
+[GS]
+P 04/30/202605/04/2026$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 912797SW8
+VMWARE LLC NOTE CALL MAKE
+WHOLE 4.70000% 05/15/2030 [CS]
+P 05/08/202605/18/2026$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 928563AF2
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Bill's IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. William R. Keating , 05/18/2026

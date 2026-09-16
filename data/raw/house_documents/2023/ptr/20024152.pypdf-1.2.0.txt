@@ -1,0 +1,287 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. John Curtis
+Status: Member
+State/District:UT03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Abbott Laboratories (ABT) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Adobe Inc. (ADBE) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Advanced Micro Devices, Inc. (AMD)
+[ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S 12/04/202312/04/2023$15,001 -
+$50,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Amazon.com, Inc. (AMZN) [ST] S 12/04/202312/04/2023$15,001 -
+$50,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT American Express Company (AXP)
+[ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+Filing ID #20024152
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Apple Inc. (AAPL) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Applied Materials, Inc. (AMAT) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT AutoZone, Inc. (AZO) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Berkshire Hathaway Inc. New
+(BRK.B) [ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT BlackRock, Inc. (BLK) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Boston Scientific Corporation (BSX)
+[ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Caterpillar, Inc. (CAT) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Chevron Corporation (CVX) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Chipotle Mexican Grill, Inc. (CMG)
+[ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Coca-Cola Company (KO) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Comcast Corporation - Class A
+(CMCSA) [ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT ConocoPhillips (COP) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Constellation Brands, Inc. (STZ) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Costco Wholesale Corporation (COST)
+[ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT CSX Corporation (CSX) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Danaher Corporation (DHR) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Deere & Company (DE) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Edwards Lifesciences Corporation
+(EW) [ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Elevance Health, Inc. (ELV) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Eli Lilly and Company (LLY) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Northwestern Mutual - Joint
+JT Emerson Electric Company (EMR)
+[ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Fiserv, Inc. (FI) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Goldman Sachs Group, Inc. (GS) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Hilton Worldwide Holdings Inc.
+(HLT) [ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Home Depot, Inc. (HD) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Honeywell International Inc. (HON)
+[ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Intercontinental Exchange Inc. (ICE)
+[ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT JP Morgan Chase & Co. (JPM) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT KLA Corporation (KLAC) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Lam Research Corporation (LRCX)
+[ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Mastercard Incorporated (MA) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Meta Platforms, Inc. - Class A (META)
+[ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Microsoft Corporation (MSFT) [ST] S 12/04/202312/04/2023$15,001 -
+$50,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Nike, Inc. (NKE) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT NVIDIA Corporation (NVDA) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Palo Alto Networks, Inc. (PANW) [ST]S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Pepsico, Inc. (PEP) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Procter & Gamble Company (PG) [ST]S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT RTX Corporation (RTX) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT S&P Global Inc. (SPGI) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Salesforce, Inc. (CRM) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Sherwin-Williams Company (SHW)
+[ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Starbucks Corporation (SBUX) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Texas Instruments Incorporated
+(TXN) [ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Thermo Fisher Scientific Inc (TMO)
+[ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT T-Mobile US, Inc. (TMUS) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Union Pacific Corporation (UNP) [ST]S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Valero Energy Corporation (VLO)
+[ST]
+S 12/04/202312/04/2023$1,001 - $15,000
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Northwestern Mutual - Joint
+JT Visa Inc. (V) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Zoetis Inc. Class A (ZTS) [ST] S 12/04/202312/04/2023$1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Northwestern Mutual - Joint (Owner: JT)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. John Curtis , 12/15/2023

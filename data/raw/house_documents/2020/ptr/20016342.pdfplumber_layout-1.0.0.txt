@@ -1,0 +1,117 @@
+[[PAGE 1]]
+Filing ID #20016342
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. David B. McKinley
+Status: Member
+State/District: WV01
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Aaron's, Inc. (AAN) [ST] S 03/09/2020 03/31/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT Aaron's, Inc. (AAN) [ST] S 03/23/2020 03/31/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+JT Alphabet Inc. - Class A (googl) P 03/23/2020 03/31/2020 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+Alphabet Inc. - Class A (googl) P 03/09/2020 03/31/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT Anthem, Inc. (ANTM) [ST] P 03/23/2020 03/31/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+JT Apple Inc. (AAPl) [ST] S (partial) 03/23/2020 03/31/2020 $50,001 - gfedcb
+$100,000
+FIlINg STATuS: New
+Apple Inc. (AAPl) [ST] P 03/09/2020 03/31/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT CACI International, Inc. Class A P 03/23/2020 03/31/2020 $15,001 - gfedc
+(CACI) [ST] $50,000
+FIlINg STATuS: New
+JT Costco Wholesale Corporation S (partial) 03/23/2020 03/31/2020 $1,001 - $15,000 gfedcb
+(CoST) [ST]
+FIlINg STATuS: New
+Costco Wholesale Corporation S (partial) 03/09/2020 03/31/2020 $1,001 - $15,000 gfedc
+(CoST) [ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+Darden Restaurants, Inc. (DRI) S 03/09/2020 03/31/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+Dollar Tree, Inc. (DlTR) [ST] S 03/09/2020 03/31/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT Dollar Tree, Inc. (DlTR) [ST] S 03/23/2020 03/31/2020 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+global Payments Inc. (gPN) [ST] S (partial) 03/09/2020 03/31/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT MAIN STREET FINANCIAl E 03/28/2020 04/14/2020 $15,001 - gfedc
+SERVICES CoRPoRATIoN [PS] $50,000
+FIlINg STATuS: New
+loCATIoN: uS
+DESCRIPTIoN: Main Street Financial Services Corp is the parent company of Main Street Bank Corp, headquartered in
+Wheeling, WV. The Stock is privately traded.
+Microsoft Corporation (MSFT) S (partial) 03/09/2020 03/31/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+S&P global Inc. (SPgI) [ST] P 03/09/2020 03/31/2020 $1,001 - $15,000 gfedc
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT S&P global Inc. (SPgI) [ST] P 03/23/2020 03/31/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+JT Starbucks Corporation (SBuX) P 03/23/2020 03/31/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+JT Sysco Corporation (SYY) [ST] P 03/23/2020 03/31/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+JT Thermo Fisher Scientific Inc S (partial) 03/23/2020 03/31/2020 $15,001 - gfedcb
+(TMo) [ST] $50,000
+FIlINg STATuS: New
+JT TJX Companies, Inc. (TJX) [ST] P 03/23/2020 03/31/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+JT Tractor Supply Company (TSCo) P 03/03/2020 03/31/2020 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+JT united Technologies Corporation P 03/23/2020 03/31/2020 $1,001 - $15,000 gfedc
+(uTX) [ST]
+FIlINg STATuS: New
+JT unitedHealth group Incorporated S (partial) 03/23/2020 03/31/2020 $15,001 - gfedcb
+Common Stock (uNH) [ST] $50,000
+FIlINg STATuS: New
+JT Waste Management, Inc. (WM) P 03/23/2020 03/31/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+IRA's
+[[PAGE 4]]
+IRA's ⇒ IRA- Spouse
+DESCRIPTIoN: Traditional Financial Investments in Jt, SP, IRA, Rollover IRA and Filer-owned are primarily managed by a third
+party Registered Investment Advisory manager who has discretion for trades.
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. David B. McKinley , 04/15/2020

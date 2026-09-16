@@ -1,0 +1,100 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Elizabeth Fletcher
+Status: Member
+State/District:TX07
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S (partial) 04/08/202604/13/2026$1,001 - $15,000
+F S: New
+S O: Filer Brokerage Account (CB)
+D: Asset inherited Jan. 2026
+Ameriprise Financial, Inc. Common
+Stock (AMP) [ST]
+S (partial) 04/08/202604/13/2026$1,001 - $15,000
+F S: New
+S O: Filer Brokerage Account (CB)
+D: Asset inherited Jan. 2026
+Apple Inc. - Common Stock (AAPL)
+[ST]
+S (partial) 04/08/202604/13/2026$1,001 - $15,000
+F S: New
+S O: Filer Brokerage Account (CB)
+D: Asset inherited Jan. 2026
+Eaton Corporation, PLC Ordinary
+Shares (ETN) [ST]
+S (partial) 04/08/202604/13/2026$1,001 - $15,000
+F S: New
+S O: Filer Brokerage Account (CB)
+D: Asset inherited Jan. 2026
+Eli Lilly and Company Common Stock
+(LLY) [ST]
+S (partial) 04/08/202604/13/2026$1,001 - $15,000
+F S: New
+S O: Filer Brokerage Account (CB)
+D: Asset inherited Jan. 2026
+Filing ID #20034413
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+S (partial) 04/08/202604/13/2026$1,001 - $15,000
+F S: New
+S O: Filer Brokerage Account (CB)
+D: Asset inherited Jan. 2026
+KLA Corporation - Common Stock
+(KLAC) [ST]
+S (partial) 04/08/202604/13/2026$1,001 - $15,000
+F S: New
+S O: Filer Brokerage Account (CB)
+D: Asset inherited Jan. 2026
+McKesson Corporation Common
+Stock (MCK) [ST]
+S (partial) 04/08/202604/13/2026$1,001 - $15,000
+F S: New
+S O: Filer Brokerage Account (CB)
+D: Asset inherited Jan. 2026
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S (partial) 04/08/202604/13/2026$1,001 - $15,000
+F S: New
+S O: Filer Brokerage Account (CB)
+D: Asset inherited Jan. 2026
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S (partial) 04/08/202604/13/2026$1,001 - $15,000
+F S: New
+S O: Filer Brokerage Account (CB)
+D: Asset inherited Jan. 2026
+Quanta Services, Inc. Common Stock
+(PWR) [ST]
+S (partial) 04/08/202604/13/2026$1,001 - $15,000
+F S: New
+S O: Filer Brokerage Account (CB)
+D: Asset inherited Jan. 2026
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Filer Brokerage Account (CB)
+I P O
+[[PAGE 3]]
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Elizabeth Fletcher , 05/01/2026

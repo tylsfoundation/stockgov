@@ -1,0 +1,65 @@
+[[PAGE 1]]
+Filing ID #20019734
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. James R. Langevin
+Status: Member
+State/District: RI02
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+generac Holdlings Inc. (gNRC) P 10/01/2021 11/02/2021 $50,001 - gfedc
+[ST] $100,000
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+generac Holdlings Inc. (gNRC) P 10/01/2021 11/02/2021 $1,001 - $15,000 gfedc
+[OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call Options; Strike Price $400; Expires 11/19/21
+generac Holdlings Inc. (gNRC) S 10/15/2021 11/02/2021 $15,001 - gfedcb
+[OP] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call Options; Strike Price $400; Expires 11/19/21
+generac Holdlings Inc. (gNRC) S 10/15/2021 11/02/2021 $15,001 - gfedcb
+[OP] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call Options; Strike Price $400; Expires 11/19/21
+generac Holdlings Inc. (gNRC) S 10/28/2021 11/02/2021 $100,001 - gfedcb
+[ST] $250,000
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Meta Platforms, Inc. - Class A (FB) S 10/19/2021 11/02/2021 $1,001 - $15,000 gfedcb
+[OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Formerly known as Facebook Inc CL A - Call Options; Strike Price $360; Expires 10/29/21
+Zillow group, Inc. - Class C Capital P 10/04/2021 11/02/2021 $1,001 - $15,000 gfedc
+Stock (Z) [OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call Options; Strike Price $84; Expires 11/12/21
+Zillow group, Inc. - Class C Capital S 10/28/2021 11/02/2021 $1,001 - $15,000 gfedcb
+Stock (Z) [OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call Options; Strike Price $84; Expires 11/12/21
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Brokerage Account
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. James R. Langevin , 11/15/2021

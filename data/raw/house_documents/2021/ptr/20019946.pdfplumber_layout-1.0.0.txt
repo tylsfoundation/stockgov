@@ -1,0 +1,63 @@
+[[PAGE 1]]
+Filing ID #20019946
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Virginia Foxx
+Status: Member
+State/District: NC05
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Antero Midstream Corporation P 11/11/2021 11/11/2021 $1,001 - $15,000 gfedc
+(AM) [ST]
+FIlINg STATuS: New
+JT AT&T Inc. (T) [ST] P 11/02/2021 11/02/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+JT AT&T Inc. (T) [ST] P 11/04/2021 11/04/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+JT Blackstone Mortgage Trust, Inc. P 11/26/2021 11/26/2021 $15,001 - gfedc
+(BXMT) [ST] $50,000
+FIlINg STATuS: New
+JT Enterprise Products Partners l.P. P 11/19/2021 11/19/2021 $1,001 - $15,000 gfedc
+(EPD) [ST]
+FIlINg STATuS: New
+JT Enterprise Products Partners l.P. P 11/15/2021 11/15/2021 $1,001 - $15,000 gfedc
+(EPD) [ST]
+FIlINg STATuS: New
+JT Industrial logistics Properties P 11/19/2021 11/19/2021 $1,001 - $15,000 gfedc
+Trust - Common Shares of
+Beneficial Interest (IlPT) [ST]
+FIlINg STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT National Health Investors, Inc. P 11/08/2021 11/08/2021 $1,001 - $15,000 gfedc
+(NHI) [ST]
+FIlINg STATuS: New
+JT Pembina Pipeline Corp. Ordinary P 11/30/2021 11/30/2021 $1,001 - $15,000 gfedc
+Shares (PBA) [ST]
+FIlINg STATuS: New
+JT Philip Morris International Inc P 11/23/2021 11/23/2021 $1,001 - $15,000 gfedc
+(PM) [ST]
+FIlINg STATuS: New
+JT Plains All American Pipeline, l.P. - P 11/26/2021 11/26/2021 $15,001 - gfedc
+Common units representing $50,000
+limited Partner Interests (PAA)
+[ST]
+FIlINg STATuS: New
+JT Plains All American Pipeline, l.P. - P 11/15/2021 11/15/2021 $1,001 - $15,000 gfedc
+Common units representing
+limited Partner Interests (PAA)
+[ST]
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Virginia Foxx , 12/03/2021

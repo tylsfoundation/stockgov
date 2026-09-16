@@ -1,0 +1,49 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Thomas H. Kean Jr.
+Status: Member
+State/District:NJ07
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Crown Holdings, Inc. (CCK) [ST] P 04/19/202309/14/2023$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Danaher Corporation (DHR) [ST] P 07/31/202309/14/2023$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Fidelity National Information
+Services, Inc. (FIS) [ST]
+S 05/04/202309/14/2023$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Fidelity National Information
+Services, Inc. (FIS) [ST]
+P 06/12/202309/14/2023$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Global Payments Inc. (GPN) [ST] S 06/12/202309/14/2023$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+JP Morgan Chase & Co. (JPM) [ST] P 04/03/202309/14/2023$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+Filing ID #20023717
+[[PAGE 2]]
+A C D
+Kean Family Partnership (33% Interest)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Thomas H. Kean Jr., 09/18/2023

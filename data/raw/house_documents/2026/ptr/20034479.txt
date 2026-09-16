@@ -1,0 +1,101 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Maria Elvira Salazar
+Status: Member
+State/District:FL27
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Amgen Inc. - Common Stock (AMGN)
+[ST]
+S 04/17/202605/01/2026$15,001 -
+$50,000
+F S: New
+S O: UBS Brokerage Account
+Carrier Global Corporation Common
+Stock (CARR) [ST]
+P 05/01/202605/01/2026$1,001 - $15,000
+F S: New
+S O: UBS Brokerage Account
+Carrier Global Corporation Common
+Stock (CARR) [ST]
+P 05/01/202605/01/2026$15,001 -
+$50,000
+F S: New
+S O: UBS IRA Account
+Marvell Technology, Inc. - Common
+Stock (MRVL) [ST]
+P 04/06/202605/01/2026$15,001 -
+$50,000
+F S: New
+S O: UBS Brokerage Account
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 04/17/202605/01/2026$15,001 -
+$50,000
+F S: New
+S O: UBS Brokerage Account
+Salesforce, Inc. Common Stock
+(CRM) [ST]
+P 04/06/202605/01/2026$15,001 -
+$50,000
+F S: New
+S O: UBS Brokerage Account
+Filing ID #20034479
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Sherwin-Williams Company (SHW)
+[ST]
+P 04/20/202605/01/2026$15,001 -
+$50,000
+F S: New
+S O: UBS IRA Account
+Sherwin-Williams Company (SHW)
+[ST]
+P 04/20/202605/01/2026$1,001 - $15,000
+F S: New
+S O: UBS Brokerage Account
+United Rentals, Inc. Common Stock
+(URI) [ST]
+P 04/24/202605/01/2026$1,001 - $15,000
+F S: New
+S O: UBS IRA Account
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 04/22/202605/01/2026$1,001 - $15,000
+F S: New
+S O: UBS Brokerage Account
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 04/22/202605/01/2026$1,001 - $15,000
+F S: New
+S O: UBS IRA Account
+Voyager Technologies, Inc. Class A
+Common Stock (VOYG) [ST]
+P 04/14/202605/01/2026$1,001 - $15,000
+F S: New
+S O: UBS Brokerage Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+UBS Brokerage Account
+UBS IRA Account
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+[[PAGE 3]]
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Maria Elvira Salazar , 05/08/2026

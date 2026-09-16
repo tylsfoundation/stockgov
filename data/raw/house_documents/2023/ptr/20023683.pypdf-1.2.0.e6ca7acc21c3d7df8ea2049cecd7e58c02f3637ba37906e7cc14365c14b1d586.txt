@@ -1,0 +1,49 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Pete Sessions
+Status: Member
+State/District:TX17
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Alerian MLP ETF (AMLP) [ST] S 09/01/202309/13/2023$1,001 - $15,000
+F S: New
+S O: Trust One
+D: sold loss
+SP Microsoft Corporation (MSFT) [ST] P 09/20/202309/23/2023$1,001 - $15,000
+F S: New
+S O: Trust One
+D: 20 shares Schwab + 20 more Schwab
+SP NVIDIA Corporation (NVDA) [ST] P 09/12/202309/13/2023$1,001 - $15,000
+F S: New
+S O: IRA Two
+D: 3 shares $1344
+SP US Treasury 912797GQ4 [GS] P 09/13/202309/13/2023$100,001 -
+$250,000
+F S: New
+S O: Trust One
+D: US Treasury 5.524% 912797GQ4 $150k
+SP US Treasury BILL 03/21/2024 [GS] P 09/22/202309/22/2023$15,001 -
+$50,000
+F S: New
+S O: Trust One
+D: US Treasury BILL 03/21/2024 5.6% Schwab
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+Filing ID #20023683
+[[PAGE 2]]
+A C D
+IRA Two (Owner: SP)
+Trust One (100% Interest) (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Pete Sessions , 09/23/2023

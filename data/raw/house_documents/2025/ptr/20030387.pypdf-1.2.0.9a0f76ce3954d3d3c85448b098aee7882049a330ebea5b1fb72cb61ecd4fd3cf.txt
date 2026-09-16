@@ -1,0 +1,2334 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Jefferson Shreve
+Status: Member
+State/District:IN06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+3M Company Common Stock (MMM)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Abbott Laboratories Common Stock
+(ABT) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Adobe Inc. - Common Stock (ADBE)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Adobe Inc. - Common Stock (ADBE)
+[ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Advanced Micro Devices, Inc. (AMD)
+[ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Filing ID #20030387
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Advanced Micro Devices, Inc. -
+Common Stock (AMD) [ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Agilent Technologies, Inc. Common
+Stock (A) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Akamai Technologies, Inc. - Common
+Stock (AKAM) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Albemarle Corporation Common
+Stock (ALB) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Alnylam Pharmaceuticals, Inc. -
+Common Stock (ALNY) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+S 05/12/202505/15/2025$250,001 -
+$500,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Account Closing
+American Eagle Outfitters, Inc.
+Common Stock (AEO) [ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+American Eagle Outfitters, Inc.
+Common Stock (AEO) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+American Express Company Common
+Stock (AXP) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+American Express Company Common
+Stock (AXP) [ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+American International Group, Inc.
+New Common Stock (AIG) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+American Tower Corporation (AMT)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+American Water Works Company,
+Inc. Common Stock (AWK) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Amgen Inc. - Common Stock (AMGN)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Analog Devices, Inc. - Common Stock
+(ADI) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Aon plc Class A Ordinary Shares
+(AON) [ST]
+S 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Apple Inc. - Common Stock (AAPL)
+[ST]
+S (partial) 05/08/202505/15/2025$500,001 -
+$1,000,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Apple Inc. - Common Stock (AAPL)
+[ST]
+S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Applied Materials, Inc. - Common
+Stock (AMAT) [ST]
+S (partial) 05/08/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Applied Materials, Inc. - Common
+Stock (AMAT) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Applovin Corporation - Class A
+Common Stock (APP) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Aptiv PLC Ordinary Shares (APTV)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Aptiv PLC Ordinary Shares (APTV)
+[ST]
+S (partial) 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Arch Capital Group Ltd. - Common
+Stock (ACGL) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Ares Management Corporation Class
+A Common Stock (ARES) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Arista Networks, Inc. Common Stock
+(ANET) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+AT&T Inc. (T) [ST] S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Autodesk, Inc. - Common Stock
+(ADSK) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Automatic Data Processing, Inc. -
+Common Stock (ADP) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+AutoZone, Inc. Common Stock (AZO)
+[ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Axon Enterprise, Inc. - Common
+Stock (AXON) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Ball Corporation Common Stock
+(BALL) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Ball Corporation Common Stock
+(BALL) [ST]
+S (partial) 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Bank of America Corporation
+Common Stock (BAC) [ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Bank of America Corporation
+Common Stock (BAC) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Account Closing
+BlackRock, Inc. Common Stock (BLK)
+[ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+BlackRock, Inc. Common Stock (BLK)
+[ST]
+S (partial) 05/08/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Block, Inc. Class A Common Stock,
+(XYZ) [ST]
+S 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Boeing Company (BA) [ST] S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Booking Holdings Inc. - Common
+Stock (BKNG) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Boston Scientific Corporation
+Common Stock (BSX) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Bristol-Myers Squibb Company
+Common Stock (BMY) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Buckle, Inc. (BKE) [ST] S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Cadence Design Systems, Inc. -
+Common Stock (CDNS) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Carnival Corporation Common Stock
+(CCL) [ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Carnival Corporation Common Stock
+(CCL) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Casella Waste Systems, Inc. - Class A
+Common Stock (CWST) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Caterpillar, Inc. Common Stock (CAT)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Cboe Global Markets, Inc. (CBOE)
+[ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Cencora, Inc. Common Stock (COR)
+[ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Centene Corporation Common Stock
+(CNC) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Charles River Laboratories
+International, Inc. Common Stock
+(CRL) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Charles River Laboratories
+International, Inc. Common Stock
+(CRL) [ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Charles Schwab Corporation (SCHW)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Charter Communications, Inc. - Class
+A Common Stock (CHTR) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Cheniere Energy, Inc. Common Stock
+(LNG) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Chevron Corporation Common Stock
+(CVX) [ST]
+S (partial) 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Chevron Corporation Common Stock
+(CVX) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Chipotle Mexican Grill, Inc. Common
+Stock (CMG) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Chubb Limited Common Stock (CB)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Cintas Corporation - Common Stock
+(CTAS) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Cintas Corporation - Common Stock
+(CTAS) [ST]
+S (partial) 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Cisco Systems, Inc. - Common Stock
+(CSCO) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Citigroup Inc 5.875 2033-02-22 [CS] S 05/13/202505/15/2025$50,001 -
+$100,000
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Cloudflare, Inc. Class A Common
+Stock (NET) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+CME Group Inc. - Class A Common
+Stock (CME) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+CNO Financial Group, Inc. Common
+Stock (CNO) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Coca-Cola Company (KO) [ST] S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Coinbase Global, Inc. - Class A
+Common Stock (COIN) [ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Coinbase Global, Inc. - Class A
+Common Stock (COIN) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Colorado St Brd Governors Univ
+Enterprise Sys Rev 5.000 2030-03-01
+[GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 12]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Comcast 6.50% maturing 11/15/35
+[CS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Comcast Corporation - Class A
+Common Stock (CMCSA) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Connecticut St Spl Tax Oblig Rev 5.00
+2032-5-1/ 207758ZUO [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+ConocoPhillips Common Stock (COP)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Constellation Energy Corporation -
+Common Stock (CEG) [ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Constellation Energy Corporation -
+Common Stock (CEG) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Copart, Inc. - Common Stock (CPRT)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Corpus Christi Tex Indpt Sch Dist
+4.000 2028-08-15 [GS]
+S 05/13/202505/15/2025$50,001 -
+$100,000
+[[PAGE 13]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+CoStar Group, Inc. - Common Stock
+(CSGP) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Costco Wholesale Corporation -
+Common Stock (COST) [ST]
+S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Coterra Energy Inc. Common Stock
+(CTRA) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Coterra Energy Inc. Common Stock
+(CTRA) [ST]
+S (partial) 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+CrowdStrike Holdings, Inc. - Class A
+Common Stock (CRWD) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Crown Castle Inc. Common Stock
+(CCI) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+CSX Corporation (CSX) [ST] S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 14]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Cuyahoga Cnty Ohio Economic Dev
+Rev 5.000 2025-12-01 [GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+CVS Health Corporation Common
+Stock (CVS) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Cypress Fairbanks Tex Indpt Sch Dist
+5.0000 2032-02-15 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Danaher Corporation Common Stock
+(DHR) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Danaher Corporation Common Stock
+(DHR) [ST]
+P 05/08/201505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Deere & Company Common Stock
+(DE) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Delta Air Lines, Inc. Common Stock
+(DAL) [ST]
+P 05/08/201505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Delta Air Lines, Inc. Common Stock
+(DAL) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+[[PAGE 15]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Denton Cnty Tex 4.0000 2029-07-15
+[GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Denton Tex 5.0000 2029-02-15 [GS] S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Denton Tex Indpt Sch Dist 5.0000
+2029-08-15 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Devon Energy Corporation Common
+Stock (DVN) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Devon Energy Corporation Common
+Stock (DVN) [ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+DexCom, Inc. - Common Stock
+(DXCM) [ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+DexCom, Inc. - Common Stock
+(DXCM) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Discover Financial Services CommonS 05/12/202505/15/2025$15,001 -
+[[PAGE 16]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Stock (DFS) [ST] $50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+District Columbia Income Tax Rev
+5.000 2032-03-01 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Dollar General Corporation Common
+Stock (DG) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+DoorDash, Inc. - Common Stock
+(DASH) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Douglas Cnty Neb Sch Dist No001
+5.000 2028-12-15 [GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Ecolab Inc. Common Stock (ECL)
+[ST]
+S 05/08/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Edwards Lifesciences Corporation
+Common Stock (EW) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Elevance Health, Inc. Common Stock
+(ELV) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+[[PAGE 17]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: Account Closing
+Eli Lilly and Company Common Stock
+(LLY) [ST]
+S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+EPAM Systems, Inc. Common Stock
+(EPAM) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Exponent, Inc. - Common Stock
+(EXPO) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Exxon Mobil Corporation Common
+Stock (XOM) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Fidelity National Information
+Services, Inc. Common Stock (FIS)
+[ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+First Busey Corporation - Common
+Stock (BUSE) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Fiserv, Inc. Common Stock (FI) [ST] S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Florida St Dept Environmental ProtnS 05/13/202505/15/2025$1,001 - $15,000
+[[PAGE 18]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Preservation Rev 5.00 2026-07-01
+[GS]
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Florida St Dept Transn Fing Corp Rev
+5.000 2032-07-01 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Fort Bend Tex Indpt Sch Dist 5.00
+2027-8-15/ 346843KW4 [GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Fortinet, Inc. - Common Stock
+(FTNT) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+GE Aerospace Common Stock (GE)
+[ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+GE Aerospace Common Stock (GE)
+[ST]
+P 05/08/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+GE Vernova Inc. Common Stock
+(GEV) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+General Motors Company Common
+Stock (GM) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+[[PAGE 19]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Account Closing
+General Motors Financial Company
+Inc 2.35 2031-01-08 [CS]
+S 05/13/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Gilead Sciences, Inc. - Common Stock
+(GILD) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Goldman Sachs Group, Inc. (GS) [ST] P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Goldman Sachs Group, Inc. (GS) [ST] S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Grand Praire Tex 5.0000 2032-02-15
+[GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Greater Orlando Aviation Auth
+Orlando FLA Arpt Fac Rev 2032-10-
+01 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Gregory Portland Tex Indpt Sch Dist
+5.000 2028-02-15 [GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 20]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Halliburton Company Common Stock
+(HAL) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Halliburton Company Common Stock
+(HAL) [ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Hanover Insurance Group Inc (THG)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Highwoods Properties, Inc. Common
+Stock (HIW) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+HNI Corporation Common Stock
+(HNI) [ST]
+S 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Home BancShares, Inc. Common
+Stock (HOMB) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Home Depot, Inc. (HD) [ST] S (partial) 05/08/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Home Depot, Inc. (HD) [ST] S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+[[PAGE 21]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Houston Tex 5.000 2031-03-01/
+4423315C4 [GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Hubbell Inc Common Stock (HUBB)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+IDACORP, Inc. Common Stock (IDA)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+IDEXX Laboratories, Inc. - Common
+Stock (IDXX) [ST]
+S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+International Business Machines
+Corporation Common Stock (IBM)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Intuit Inc. - Common Stock (INTU)
+[ST]
+S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Intuitive Surgical, Inc. - Common
+Stock (ISRG) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 22]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Intuitive Surgical, Inc. - Common
+Stock (ISRG) [ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Johnson & Johnson Common Stock
+(JNJ) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+JP Morgan 4.912 7-25-33 '32/
+46647PDH6 [CS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Kansas City MO 4.0000 2030-02-01
+[GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Kroger Company (KR) [ST] S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Lakewood Ohio City Sch Dist 5.0000
+2025-12-01 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Lam Research Corporation - Common
+Stock (LRCX) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+[[PAGE 23]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Laredo TEX 5.000 2031-2-15/
+516824JB6 [GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Las Vegas Nev 4.000 2027-06-01
+[GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Lennar Corporation Class A Common
+Stock (LEN) [ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Lennar Corporation Class A Common
+Stock (LEN) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Linde plc - Ordinary Shares (LIN)
+[ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Littelfuse, Inc. - Common Stock
+(LFUS) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Lockheed Martin Corporation
+Common Stock (LMT) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 24]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Lovejoy Indpt Sch Dist Tex 4.0000
+2032-2-15 [GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Lowe's Companies, Inc. Common
+Stock (LOW) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+lululemon athletica inc. - Common
+Stock (LULU) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Marathon Petroleum Corporation
+Common Stock (MPC) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Marvell Technology, Inc. - Common
+Stock (MRVL) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Marvell Technology, Inc. - Common
+Stock (MRVL) [ST]
+S (partial) 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Maryland St Dept Transn Cons
+Transn 5.000 2029-09-01 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Mastercard Incorporated Common
+Stock (MA) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+[[PAGE 25]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Match Group, Inc. - Common Stock
+(MTCH) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+McDonald's Corporation Common
+Stock (MCD) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+McKesson Corporation Common
+Stock (MCK) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Medtronic plc. Ordinary Shares
+(MDT) [ST]
+S 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Memphis TN 5.0000 2032-05-01
+[GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Memphis-Shelby Cnty TN Indl Dev
+Brd Economic Dev Growth Engine
+TDZ Rev 5.0000 2025-11-01 [GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 26]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Metropolitan Govt Nashville &
+Davidson CntyTN 4.0000 2032-01-
+01/ 592112UX2 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 05/12/202505/15/2025$500,001 -
+$1,000,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 05/08/202505/15/2025$500,001 -
+$1,000,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+MicroStrategy Incorporated - Class A
+Common Stock (MSTR) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Minnesota ST 5.00 2025-08-01 [GS] S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Minnesota St 5.00000 2025-08-01
+[GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Nasdaq, Inc. - Common Stock
+(NDAQ) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Netflix, Inc. - Common Stock (NFLX)
+[ST]
+S 05/12/202505/15/2025$100,001 -
+$250,000
+[[PAGE 27]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+New York NY 5.0000 2028-08-01
+[GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+New York NY 5.0000 2033-08-01
+[GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+New York NY City Transitional Fin
+Auth Bldg Aid Rev 5.000 2029-07-15
+[GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+New York NY Transitional Fin Auth
+Bldg Aid Rev 5.0000 2030-07-15 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Newmont Corporation (NEM) [ST] S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+NextEra Energy, Inc. Common Stock
+(NEE) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+NiSource Inc Common Stock (NI)
+[ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 28]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 05/12/202505/15/2025$500,001 -
+$1,000,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 05/08/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Occidental Petroleum Corporation
+Common Stock (OXY) [ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Occidental Petroleum Corporation
+Common Stock (OXY) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+OGE Energy Corp Common Stock
+(OGE) [ST]
+S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Ohio St Spl Oblig 5.0000 2029-04-01
+[GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Ohio St Wtr Dev Auth Wtr Pollution
+Ctl Rev 5.000 2032-06-01 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Ohio St Wtr Dev Auth Wtr Pollution
+Ctl Rev 5.000 2032-06-01 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+[[PAGE 29]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Old Republic International
+Corporation Common Stock (ORI)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Omaha Pub Pwr Dist Neb Elec Rev
+5.0000 2027-02-01 [GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Oracle Corporation Common Stock
+(ORCL) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Oracle Corporation Common Stock
+(ORCL) [ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Oregon St 5.0000 2028-12-01 [GS] S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Oviedo FLA Util Rev 5.0000 2032-10-
+01 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Palantir Technologies Inc. - Class A
+Common Stock (PLTR) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 30]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Palo Alto Networks, Inc. (PANW) [ST]P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Palo Alto Networks, Inc. (PANW) [ST]S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+PayPal Holdings, Inc. - Common
+Stock (PYPL) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Pepsico, Inc. (PEP) [ST] S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Philip Morris International Inc
+Common Stock (PM) [ST]
+S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Phillips 66 Common Stock (PSX) [ST]S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Pierce Cnty Wash Dist No 010
+Tacoma 5.000 2025-12-01 [GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Plano Tex Indpt Sch Dist 5.0000
+2032-02-15 [GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+[[PAGE 31]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+PNC Finl Svc 6.875 10/20/34 '33 FRN
+[CS]
+S 05/13/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Port Tacoma Wash Rev 4.0000 2025-
+12-01 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Primerica, Inc. Common Stock (PRI)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Procter & Gamble Company (PG) [ST]S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Progressive Corporation (PGR) [ST] S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Prudential Financial, Inc. Common
+Stock (PRU) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+PulteGroup, Inc. Common Stock
+(PHM) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 32]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Quanta Services, Inc. Common Stock
+(PWR) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Rapid7, Inc. - Common Stock (RPD)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Realty Income Corporation Common
+Stock (O) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+RLI Corp. Common Stock (RLI) [ST] S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Ross Stores, Inc. - Common Stock
+(ROST) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Royal Caribbean Cruises Ltd.
+Common Stock (RCL) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Royal Gold, Inc. - Common Stock
+(RGLD) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+RTX Corporation Common Stock
+(RTX) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+[[PAGE 33]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Rush Enterprises, Inc. - Class B
+Common Stock (RUSHB) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+S&P Global Inc. Common Stock
+(SPGI) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Salesforce, Inc. Common Stock (CRM)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Salesforce, Inc. Common Stock (CRM)
+[ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+SBA Communications Corporation -
+Class A Common Stock (SBAC) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Schneider National, Inc. Common
+Stock (SNDR) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Sherman Tex 5.0000 2025-08-15
+[GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 34]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Sherwin-Williams Company (SHW)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Snowflake Inc. Class A Common Stock
+(SNOW) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+South Jordan Utah Sales Tax Rev 5.00
+2028-8-15 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Southwest Allen Ind Multi Sch Bldg
+Corp 5.0000 2029-07-15 [GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Spotify Technology S.A. Ordinary
+Shares (SPOT) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Spotsylvania Cnty VA Wtr & Swr Rev
+5.0000 2025-12-01 [GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Stryker Corporation Common Stock
+(SYK) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Synopsys, Inc. - Common Stock
+(SNPS) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+[[PAGE 35]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Sysco Corporation Common Stock
+(SYY) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Take-Two Interactive Software, Inc. -
+Common Stock (TTWO) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Tesla, Inc. - Common Stock (TSLA)
+[ST]
+S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Texas Instruments Incorporated -
+Common Stock (TXN) [ST]
+S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Texas Instruments Incorporated -
+Common Stock (TXN) [ST]
+S (partial) 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Texas Tech Univ Revs 5.000 2029-
+02-15 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+The Carlyle Group Inc. - Common
+Stock (CG) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 36]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+The Cigna Group Common Stock (CI)
+[ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+The J.M. Smucker Company Common
+Stock (SJM) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+The Trade Desk, Inc. - Class A
+Common Stock (TTD) [ST]
+P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+The Trade Desk, Inc. - Class A
+Common Stock (TTD) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+TJX Companies, Inc. (TJX) [ST] S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Trane Technologies plc (TT) [ST] S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Transdigm Group Incorporated
+Common Stock (TDG) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Transdigm Group Incorporated
+Common Stock (TDG) [ST]
+S (partial) 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+[[PAGE 37]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Tri-cnty Met Transn Dist Ore Rev
+5.000 2027-09-01 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Union Pacific Corporation Common
+Stock (UNP) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+United Community Banks, Inc.
+Common Stock (UCB) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+United Parcel Service, Inc. Common
+Stock (UPS) [ST]
+S 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Univest Financial Corporation -
+Common Stock (UVSP) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 38]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Verizon Communications Inc.
+Common Stock (VZ) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Vermillion S D Sch Dist No 13-1
+5.0000 2030-08-01 [GS]
+S 05/13/202505/15/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Vertex Pharmaceuticals Incorporated
+- Common Stock (VRTX) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Visa Inc. (V) [ST] S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Vistancia Cmnty Facs Dist Arizona
+4.00 2025-07-15 [GS]
+S 05/13/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Walmart Inc. Common Stock (WMT)
+[ST]
+S 05/12/202505/15/2025$100,001 -
+$250,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Walt Disney Company (DIS) [ST] S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Walt Disney Company (DIS) [ST] P 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+[[PAGE 39]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Warner Bros. Discovery, Inc. - Series
+A Common Stock (WBD) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Washington Cnty Tenn 4.0000 2027-
+06-01 [GS]
+S 05/13/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Weld Cnty Colo Sch Dist No Re
+4.50000 2025-12-01 [GS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Wells Fargo & Company Common
+Stock (WFC) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Wells Fargo 5.574 07/25/29 '28 Mtn
+[CS]
+S 05/13/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Wells Fargo 6.491 10/23/34 '33 MTN
+[CS]
+S 05/13/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Welltower Inc. Common Stock
+(WELL) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+[[PAGE 40]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Western Digital Corporation -
+Common Stock (WDC) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Williams Companies, Inc. (WMB)
+[ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Workday, Inc. - Class A Common
+Stock (WDAY) [ST]
+S (partial) 05/08/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Workday, Inc. - Class A Common
+Stock (WDAY) [ST]
+S 05/12/202505/15/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Zoetis Inc. Class A Common Stock
+(ZTS) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+Zoom Communications, Inc. - Class A
+Common Stock (ZM) [ST]
+S 05/12/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Account Closing
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+CRT - Standard Unit Trust
+I P O
+Yes No
+[[PAGE 41]]
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Jefferson Shreve , 06/22/2025

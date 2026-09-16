@@ -1,0 +1,41 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Daniel Goldman
+Status: Member
+State/District:NY10
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SIG GROUP AG UNSP/ADR (SIGCY)
+[ST]
+S 08/03/202309/12/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MP
+D: Transferred from Daniel Goldman Grandchildren 1986 Trust TLH ADR
+Wolters Kluwer N V Ord American
+Depositary Shares (WTKWY) [ST]
+S 08/03/202309/12/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MP
+D: Transferred from Daniel Goldman Grandchildren 1986 Trust TLH ADR
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Daniel Goldman Grandchildren 1986 Trust
+Daniel Goldman Grandchildren 1986 Trust ⇒ MP
+L: US
+C
+I P O
+Yes No
+C S
+Filing ID #20023677
+[[PAGE 2]]
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Daniel Goldman , 09/17/2023

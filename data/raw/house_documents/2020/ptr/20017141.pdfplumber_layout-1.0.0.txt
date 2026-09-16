@@ -1,0 +1,38 @@
+[[PAGE 1]]
+Filing ID #20017141
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Earl Blumenauer
+Status: Member
+State/District: OR03
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP A T & T Inc 3.4%25 [CS] S 07/30/2020 08/10/2020 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: Submitted for Tender. Part of my spouse's retirement portfolio.
+SP Federal Ntnl Mor 0.25%23 Due P 07/24/2020 08/10/2020 $15,001 - gfedc
+06/26/23 [gS] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Part of my spouse's retirement portfolio.
+SP FirstEnergy Corp. (FE) [ST] P 07/22/2020 08/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+DESCRIPTION: Part of my spouse's retirement portfolio.
+SP Intel Corporation (INTC) [ST] P 07/24/2020 08/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+DESCRIPTION: Part of my spouse's retirement portfolio.
+SP Weyerhaeuser Co. Reit [CS] S (partial) 07/23/2020 08/10/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+DESCRIPTION: Part of my spouse's retirement portfolio.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 2]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Earl Blumenauer , 08/10/2020

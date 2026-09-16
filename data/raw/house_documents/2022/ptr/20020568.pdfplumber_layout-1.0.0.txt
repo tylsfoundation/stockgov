@@ -1,0 +1,48 @@
+[[PAGE 1]]
+Filing ID #20020568
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Marjorie Taylor Greene
+Status: Member
+State/District: GA14
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Advanced Micro Devices, Inc. P 02/22/2022 02/24/2022 $1,001 - $15,000 gfedc
+(AMD) [ST]
+FIlING STATuS: New
+AFlAC Incorporated (AFl) [ST] P 02/22/2022 02/24/2022 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+Amgen Inc. (AMGN) [ST] P 02/22/2022 02/24/2022 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+Automatic Data Processing, Inc. P 02/22/2022 02/24/2022 $1,001 - $15,000 gfedc
+(ADP) [ST]
+FIlING STATuS: New
+Caterpillar, Inc. (CAT) [ST] P 02/22/2022 02/24/2022 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+Chevron Corporation (CVX) [ST] P 02/22/2022 02/24/2022 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+Clorox Company (ClX) [ST] P 02/22/2022 02/24/2022 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+lockheed Martin Corporation P 02/22/2022 02/24/2022 $1,001 - $15,000 gfedc
+(lMT) [ST]
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlING STATuS: New
+NextEra Energy, Inc. (NEE) [ST] P 02/22/2022 02/24/2022 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+Walgreens Boots Alliance, Inc. P 02/22/2022 02/24/2022 $1,001 - $15,000 gfedc
+(WBA) [ST]
+FIlING STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Marjorie Taylor Greene , 03/07/2022

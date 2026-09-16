@@ -1,0 +1,33 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Mike Kelly
+Status: Member
+State/District:PA16
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Connecticut St Hlth & Educ Ref Ser M
+Rev 5% Due 7/1/24 [GS]
+S 01/24/202402/06/2024$100,001 -
+$250,000
+F S: New
+SP Florida St Hsg Fin Corp Revenue
+Social Bon Rev Call 07/01/30 3% due
+7/1/52 [GS]
+S (partial) 01/01/202402/06/2024$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Mike Kelly , 02/13/2024
+Filing ID #20024494

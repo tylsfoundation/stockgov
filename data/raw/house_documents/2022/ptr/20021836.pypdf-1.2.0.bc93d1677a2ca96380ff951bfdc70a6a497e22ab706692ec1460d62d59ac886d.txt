@@ -1,0 +1,152 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Scott Franklin
+Status: Member
+State/District:FL15
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Cisco Systems, Inc. (CSCO) [ST] P 09/13/202209/30/2022$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+Cisco Systems, Inc. (CSCO) [ST] P 09/13/202209/30/2022$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Fidelity Advisor Total Bond CL Z
+(FBKWX) [CS]
+S 09/08/202209/30/2022$100,001 -
+$250,000
+F S: New
+S O: Fidelity Traditional IRA
+D: Sold 18,669.832 shares at $9.60
+Fidelity Advisor Total Bond CL Z
+(FBKWX) [CS]
+S 09/08/202209/30/2022$15,001 -
+$50,000
+F S: New
+S O: Fidelity Roth IRA
+D: Sold 2,290.102 shares at $9.60
+SP Fidelity Advisor Total Bond CL Z
+(FBKWX) [CS]
+S 09/09/202209/30/2022$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+D: Sold 925.633 shares at $9.61
+SP Fidelity Contrafund (FCNTX) [CS] P 09/13/202209/30/2022$1,001 - $15,000
+Filing ID #20021836
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Fidelity Roth IRA
+D: Bought 163.162 shares at $13.79
+SP Fidelity Nasdaq Composite Index ETF
+(ONEQ) [ST]
+P 09/13/202209/30/2022$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Home Depot, Inc. (HD) [ST] P 09/09/202209/30/2022$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Home Depot, Inc. (HD) [ST] P 09/09/202209/30/2022$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+SP iShares S&P 500 Growth ETF (IVW)
+[ST]
+P 09/13/202209/30/2022$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Lockheed Martin Corporation (LMT)
+[ST]
+P 09/12/202209/30/2022$50,001 -
+$100,000
+F S: New
+S O: Fidelity Traditional IRA
+Lockheed Martin Corporation (LMT)
+[ST]
+P 09/12/202209/30/2022$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Lord Abbett Ultra Short Bond CL I
+(LUBYX) [CS]
+P 09/09/202209/30/2022$15,001 -
+$50,000
+F S: New
+S O: Fidelity Roth IRA
+D: Bought 2,032.520 shares at $9.84
+Lord Abbett Ultra Short Bond CL I
+(LUBYX) [CS]
+P 09/09/202209/30/2022$100,001 -
+$250,000
+F S: New
+S O: Fidelity Traditional IRA
+D: Bought 12,703.252 shares at $9.84
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Lord Abbett Ultra Short Bond CL I
+(LUBYX) [CS]
+P 09/09/202209/30/2022$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+D: Purchased 660.569 shares at $9.84
+Medtronic plc. Ordinary Shares
+(MDT) [ST]
+P 09/13/202209/30/2022$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+Medtronic plc. Ordinary Shares
+(MDT) [ST]
+P 09/13/202209/30/2022$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Microsoft Corporation (MSFT) [ST] P 09/13/202209/30/2022$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+Starbucks Corporation (SBUX) [ST] P 09/09/202209/30/2022$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+Starbucks Corporation (SBUX) [ST] P 09/09/202209/30/2022$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Walmart Inc. (WMT) [ST] P 09/13/202209/30/2022$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Walmart Inc. (WMT) [ST] P 09/13/202209/30/2022$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Fidelity Roth IRA
+[[PAGE 4]]
+Fidelity Roth IRA (Owner: SP)
+Fidelity Traditional IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Scott Franklin , 10/11/2022

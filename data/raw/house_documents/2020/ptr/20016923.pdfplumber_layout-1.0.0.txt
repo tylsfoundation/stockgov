@@ -1,0 +1,42 @@
+[[PAGE 1]]
+Filing ID #20016923
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Scott H. Peters
+Status: Member
+State/District: CA52
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+DC uNIV EDuC [gS] S 06/18/2020 06/30/2020 $250,001 - gfedc
+$500,000
+FIlINg STATuS: New
+East Bay Muni util Dist, CA [gS] S 06/01/2020 06/30/2020 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+gainesville Fl COMB uTIl [gS] S (partial) 06/18/2020 06/30/2020 $250,001 - gfedc
+$500,000
+FIlINg STATuS: New
+MA BAY TRAN AuTH MASS S (partial) 06/18/2020 06/30/2020 $250,001 - gfedc
+TRAN [gS] $500,000
+FIlINg STATuS: New
+SP u.S. Treasury Bills [gS] S 06/11/2020 06/30/2020 $500,001 - gfedc
+$1,000,000
+FIlINg STATuS: New
+SP u.S. Treasury Bills [gS] P 06/16/2020 06/30/2020 $500,001 - gfedc
+$1,000,000
+FIlINg STATuS: New
+W Palm Beach Fl COMB uTIl S 06/15/2020 06/30/2020 $100,001 - gfedc
+[gS] $250,000
+FIlINg STATuS: New
+[[PAGE 2]]
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Scott H. Peters , 07/12/2020

@@ -1,0 +1,458 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJ05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT AbbVie Inc. (ABBV) [ST] S (partial) 01/27/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT AbbVie Inc. (ABBV) [ST] S (partial) 01/20/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Adobe Inc. (ADBE) [ST] P 01/31/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Align Technology, Inc. (ALGN) [ST] P 01/27/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Allegro MicroSystems, Inc. (ALGM)
+[ST]
+P 01/23/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Allianz SE ADR (ALIZY) [OT] S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+L: US
+D: ADR stock
+Filing ID #20022412
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S (partial) 01/27/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 01/20/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Amgen Inc. (AMGN) [ST] S (partial) 01/27/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Apple Inc. (AAPL) [ST] S (partial) 01/27/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Apple Inc. (AAPL) [ST] S (partial) 01/20/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Apple Inc. (AAPL) [ST] S (partial) 01/13/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Apple Inc. (AAPL) [ST] P 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Automatic Data Processing, Inc.
+(ADP) [ST]
+P 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Automatic Data Processing, Inc.
+(ADP) [ST]
+S (partial) 01/17/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Automatic Data Processing, Inc.
+(ADP) [ST]
+S (partial) 01/31/202302/06/2023$1,001 - $15,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Morgan Stanley - Select UMA Account # 1
+JT AutoZone, Inc. (AZO) [ST] S (partial) 01/13/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT BHP Group Limited American
+Depositary Shares (BHP) [ST]
+S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT BlackRock, Inc. (BLK) [ST] S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Blackstone Inc. (BX) [ST] P 01/27/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Block, Inc. Class A Common Stock,
+(SQ) [ST]
+P 01/20/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Block, Inc. Class A Common Stock,
+(SQ) [ST]
+P 01/31/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Block, Inc. Class A Common Stock,
+(SQ) [ST]
+P 01/27/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Capital One Financial Corporation
+(COF) [ST]
+P 01/27/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Charles Schwab Corporation (SCHW)
+[ST]
+P 01/18/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Cincinnati Financial Corporation
+(CINF) [ST]
+S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Cisco Systems, Inc. (CSCO) [ST] S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Coca-Cola Company (KO) [ST] S (partial) 01/13/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Coca-Cola Company (KO) [ST] S (partial) 01/20/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Coca-Cola Company (KO) [ST] S (partial) 01/31/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT ConocoPhillips (COP) [ST] P 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Dbs Group Holdings Ltd Ord
+American Depositary Shares (DBSDY)
+[ST]
+S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Deere & Company (DE) [ST] P 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Eli Lilly and Company (LLY) [ST] P 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Eli Lilly and Company (LLY) [ST] S (partial) 01/31/202302/06/2023$1,001 - $15,000
+F S: New
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Morgan Stanley - Select UMA Account # 1
+JT Eli Lilly and Company (LLY) [ST] S (partial) 01/27/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Etsy, Inc. (ETSY) [ST] P 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Exact Sciences Corporation (EXAS)
+[ST]
+P 01/20/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Fastenal Company (FAST) [ST] S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Fidelity National Information
+Services, Inc. (FIS) [ST]
+P 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Freeport-McMoRan, Inc. (FCX) [ST] P 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Globus Medical, Inc. Class A (GMED)
+[ST]
+S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT HCA Healthcare, Inc. (HCA) [ST] S (partial) 01/27/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Houlihan Lokey, Inc. Class A (HLI)
+[ST]
+S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT HubSpot, Inc. (HUBS) [ST] P 01/27/202302/06/2023$1,001 - $15,000
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT ICF International, Inc. (ICFI) [ST] S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT International Business Machines
+Corporation (IBM) [ST]
+S (partial) 01/20/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT International Business Machines
+Corporation (IBM) [ST]
+S 01/31/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT International Business Machines
+Corporation (IBM) [ST]
+P 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Johnson & Johnson (JNJ) [ST] S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Lam Research Corporation (LRCX)
+[ST]
+S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT MACOM Technology Solutions
+Holdings, Inc. (MTSI) [ST]
+S (partial) 01/23/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT MACOM Technology Solutions
+Holdings, Inc. (MTSI) [ST]
+S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Mastercard Incorporated (MA) [ST] P 01/20/202302/06/2023$1,001 - $15,000
+F S: New
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Morgan Stanley - Select UMA Account # 1
+JT Mastercard Incorporated (MA) [ST] P 01/12/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Match Group, Inc. (MTCH) [ST] P 01/31/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT McKesson Corporation (MCK) [ST] S (partial) 01/31/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT MercadoLibre, Inc. (MELI) [ST] P 01/31/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT MercadoLibre, Inc. (MELI) [ST] P 01/17/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Meta Platforms, Inc. - Class A
+(META) [ST]
+P 01/31/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Meta Platforms, Inc. - Class A
+(META) [ST]
+P 01/27/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Microsoft Corporation (MSFT) [ST] S (partial) 01/27/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Microsoft Corporation (MSFT) [OP] S 01/04/202302/06/2023$500,001 -
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+$1,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $155; Expires 09/15/23
+JT Microsoft Corporation (MSFT) [OP] S 01/04/202302/06/2023$500,001 -
+$1,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $155; Expires 07/21/23
+JT Microsoft Corporation (MSFT) [OP] S 01/04/202302/06/2023$250,001 -
+$500,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $165; Expires 06/16/23
+JT Microsoft Corporation (MSFT) [OP] P 01/04/202302/06/2023$500,001 -
+$1,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $150; Expires 06/16/23
+JT Microsoft Corporation (MSFT) [OP] P 01/04/202302/06/2023$500,001 -
+$1,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $150; Expires 06/16/23
+JT Microsoft Corporation (MSFT) [OP] P 01/04/202302/06/2023$250,001 -
+$500,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $160; Expires 03/17/23
+JT Monster Beverage Corporation
+(MNST) [ST]
+P 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT MSCI Inc (MSCI) [ST] S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Netflix, Inc. (NFLX) [ST] P 01/11/202302/06/2023$1,001 - $15,000
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Netflix, Inc. (NFLX) [ST] P 01/20/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Oracle Corporation (ORCL) [ST] P 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Paychex, Inc. (PAYX) [ST] S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Rockwell Automation, Inc. (ROK)
+[ST]
+P 01/12/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Salesforce, Inc. (CRM) [ST] P 01/13/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Shopify Inc. Class A Subordinate
+Voting Shares (SHOP) [ST]
+P 01/17/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Shopify Inc. Class A Subordinate
+Voting Shares (SHOP) [ST]
+P 01/31/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Shopify Inc. Class A Subordinate
+Voting Shares (SHOP) [ST]
+P 01/23/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Snap Inc. Class A (SNAP) [ST] P 01/31/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Syneos Health, Inc. - Class A (SYNH)
+[ST]
+S 01/23/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Tencent Holdings Limited
+Unsponsored ADR Representing B
+Shares (TCEHY) [ST]
+S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Tesla, Inc. (TSLA) [ST] P 01/27/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Thermo Fisher Scientific Inc (TMO)
+[ST]
+S (partial) 01/11/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT United Parcel Service, Inc. (UPS) [ST]S (partial) 01/31/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S (partial) 01/31/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S (partial) 01/17/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Workday, Inc. - Class A (WDAY) [ST] P 01/23/202302/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley - Portfolio Management Active Assets Account (Owner: JT)
+[[PAGE 11]]
+L: US
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 02/17/2023

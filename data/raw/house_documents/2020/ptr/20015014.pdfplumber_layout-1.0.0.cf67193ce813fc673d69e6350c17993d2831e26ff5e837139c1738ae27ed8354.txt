@@ -1,0 +1,191 @@
+[[PAGE 1]]
+Filing ID #20015014
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Dean Phillips
+Status: Member
+State/District: MN03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+accenture plc Class a Ordinary s (partial) 01/08/2020 02/05/2020 $1,001 - $15,000 gfedcb
+shares (aCN) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+accenture plc Class a Ordinary s (partial) 01/09/2020 02/05/2020 $1,001 - $15,000 gfedcb
+shares (aCN) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+berkshire Hathaway Inc. New P 01/07/2020 02/05/2020 $1,001 - $15,000 gfedc
+(bRK.b) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+booking Holdings Inc. (bKNg) P 01/27/2020 02/05/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+booking Holdings Inc. (bKNg) P 01/28/2020 02/05/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Charles schwab Corporation s (partial) 01/08/2020 02/05/2020 $1,001 - $15,000 gfedc
+(sCHW) [sT]
+FIlINg sTaTus: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Charles schwab Corporation P 01/08/2020 02/05/2020 $1,001 - $15,000 gfedc
+(sCHW) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Charles schwab Corporation P 01/09/2020 02/05/2020 $1,001 - $15,000 gfedc
+(sCHW) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Charles schwab Corporation s (partial) 01/17/2020 02/05/2020 $1,001 - $15,000 gfedc
+(sCHW) [sT]
+FIlINg sTaTus: New
+Chubb limited (Cb) [sT] P 01/07/2020 02/05/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Comcast Corporation - Class a P 01/08/2020 02/05/2020 $1,001 - $15,000 gfedc
+(CMCsa) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Comcast Corporation - Class a P 01/09/2020 02/05/2020 $1,001 - $15,000 gfedc
+(CMCsa) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Dollar general Corporation (Dg) s (partial) 01/09/2020 02/05/2020 $1,001 - $15,000 gfedcb
+[sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Dollar general Corporation (Dg) s (partial) 01/08/2020 02/05/2020 $1,001 - $15,000 gfedcb
+[sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Dollar general Corporation (Dg) s (partial) 01/07/2020 02/05/2020 $1,001 - $15,000 gfedcb
+[sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Eaton Corporation, PlC Ordinary P 01/09/2020 02/05/2020 $1,001 - $15,000 gfedc
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+shares (ETN) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Eaton Corporation, PlC Ordinary P 01/07/2020 02/05/2020 $1,001 - $15,000 gfedc
+shares (ETN) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Eaton Corporation, PlC Ordinary P 01/08/2020 02/05/2020 $1,001 - $15,000 gfedc
+shares (ETN) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Eaton Corporation, PlC Ordinary P 01/10/2020 02/05/2020 $1,001 - $15,000 gfedc
+shares (ETN) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+goldman sachs group Inc. Var Rt P 01/23/2020 02/05/2020 $1,001 - $15,000 gfedc
+Perp Mat dtd 01/28/2020 [Cs]
+FIlINg sTaTus: New
+DEsCRIPTION: Preferred security
+JP Morgan Chase & Co. (JPM) s (partial) 01/27/2020 02/05/2020 $1,001 - $15,000 gfedcb
+[sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+JP Morgan Chase & Co. (JPM) s (partial) 01/28/2020 02/05/2020 $1,001 - $15,000 gfedcb
+[sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Nestle sa sponsored aDR s (partial) 01/07/2020 02/05/2020 $1,001 - $15,000 gfedcb
+representing Registered shares
+series b (NsRgY) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Nestle sa sponsored aDR s (partial) 01/08/2020 02/05/2020 $1,001 - $15,000 gfedcb
+representing Registered shares
+series b (NsRgY) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Nestle sa sponsored aDR s (partial) 01/09/2020 02/05/2020 $1,001 - $15,000 gfedcb
+representing Registered shares
+series b (NsRgY) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Northern Trust Corporation P 01/14/2020 02/05/2020 $1,001 - $15,000 gfedc
+(NTRs) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Northern Trust Corporation P 01/15/2020 02/05/2020 $1,001 - $15,000 gfedc
+(NTRs) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Pepsico, Inc. (PEP) [sT] s (partial) 01/10/2020 02/05/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+PPg Industries, Inc. (PPg) [sT] s (partial) 01/09/2020 02/05/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+PPg Industries, Inc. (PPg) [sT] s (partial) 01/08/2020 02/05/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Quest Diagnostics Incorporated P 01/17/2020 02/05/2020 $1,001 - $15,000 gfedc
+(DgX) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+southwest airlines Company P 01/08/2020 02/05/2020 $1,001 - $15,000 gfedc
+(luV) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+southwest airlines Company P 01/09/2020 02/05/2020 $1,001 - $15,000 gfedc
+(luV) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+stanley black & Decker, Inc. s (partial) 01/08/2020 02/05/2020 $1,001 - $15,000 gfedcb
+(sWK) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+stanley black & Decker, Inc. s (partial) 01/10/2020 02/05/2020 $1,001 - $15,000 gfedcb
+(sWK) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+stanley black & Decker, Inc. s 01/13/2020 02/05/2020 $1,001 - $15,000 gfedcb
+(sWK) [sT]
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+synchrony Financial (sYF) [sT] P 01/22/2020 02/05/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+TJX Companies, Inc. (TJX) [sT] s (partial) 01/15/2020 02/05/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+subHOlDINg OF: - Trust 1
+Wells Fargo & Company (WFC) s (partial) 01/15/2020 02/05/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Wells Fargo & Company (WFC) P 01/15/2020 02/05/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+- Trust 1 (100% Interest)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Dean Phillips , 02/07/2020

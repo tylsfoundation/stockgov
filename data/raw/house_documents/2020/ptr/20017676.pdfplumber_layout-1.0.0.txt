@@ -1,0 +1,44 @@
+[[PAGE 1]]
+Filing ID #20017676
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Ed Perlmutter
+Status: Member
+State/District: CO07
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Berkshire Hathaway Inc. New P 09/01/2020 10/11/2020 $1,001 - $15,000 gfedc
+(BRK.B) [ST]
+FIlINg STATuS: New
+SP gilead Sciences, Inc. (gIlD) [ST] S (partial) 09/01/2020 10/11/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SP Microsoft Corporation (MSFT) S (partial) 09/23/2020 10/11/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SP Microsoft Corporation (MSFT) S (partial) 09/14/2020 10/11/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+SP NVIDIA Corporation (NVDA) [ST] P 09/03/2020 10/11/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SP Pfizer, Inc. (PFE) [ST] S (partial) 09/01/2020 10/11/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SP Square, Inc. Class A (SQ) [ST] P 09/18/2020 10/11/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SP Verizon Communications Inc. (VZ) S (partial) 09/01/2020 10/11/2020 $1,001 - $15,000 gfedcb
+[ST]
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Ed Perlmutter , 11/11/2020

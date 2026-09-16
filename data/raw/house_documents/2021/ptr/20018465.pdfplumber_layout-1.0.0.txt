@@ -1,0 +1,267 @@
+[[PAGE 1]]
+Filing ID #20018465
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. William R. Keating
+Status: Member
+State/District: MA09
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Accenture plc Class A Ordinary P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+Shares (ACN) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Alphabet Inc. - Class A (gOOgl) P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+ANTHEM INC NOTE CAll MAKE P 04/16/2021 04/16/2021 $15,001 - gfedc
+WHOlE 3.65000% 12/01/2027 $50,000
+[CS]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+DESCRIPTION: 036752AB9
+Aramark (ARMK) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+AutoZone, Inc. (AZO) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Baxter International Inc. (BAX) P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SuBHOlDINg OF: Bill's IRA
+Baxter International Inc. (BAX) P 04/14/2021 04/16/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+BECTON DICKINSON &CO NOTE P 03/30/2021 04/06/2021 $15,001 - gfedc
+CAll MAKE WHOlE 3.73400% $50,000
+12/15/2024 [CS]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+DESCRIPTION: corporate bond
+BJ's Wholesale Club Holdings, Inc. P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+(BJ) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+BK OF AMERICA CORP SER M P 04/16/2021 04/16/2021 $15,001 - gfedc
+MTN 3.97000% 03/05/2029 CAll $50,000
+MAKE WHOlE [CS]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+DESCRIPTION: 06051gHg7
+Boeing Company (BA) [ST] P 04/14/2021 04/16/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Boeing Company (BA) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Booking Holdings Inc. (BKNg) P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+CACI International, Inc. Class A P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+(CACI) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Capital One Financial Corporation P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+(COF) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Caterpillar, Inc. (CAT) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+CDW Corporation (CDW) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Chevron Corporation (CVX) [ST] S 04/14/2021 04/16/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Chevron Corporation (CVX) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+CITIgROuP INC NOTE CAll P 03/18/2021 03/26/2021 $15,001 - gfedc
+MAKE WHOlE 3.20000% $50,000
+10/21/2026 [CS]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+DESCRIPTION: Corporate bond
+Crown Castle International Corp. P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+(CCI) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+CVS Health Corporation (CVS) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Electronic Arts Inc. (EA) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+ENERgY TRANSFER l P NOTE P 03/30/2021 04/06/2021 $15,001 - gfedc
+CAll MAKE WHOlE 5.87500% $50,000
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+01/15/2024 [CS]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+DESCRIPTION: corporate bond
+Fiserv, Inc. (FISV) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+gENERAl MTRS FINl CO INC P 03/18/2021 03/26/2021 $15,001 - gfedc
+NOTE 5.10000% 01/17/2024 CAll $50,000
+MAKE WHOlE [CS]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+DESCRIPTION: Corporate bond
+Intercontinental Exchange Inc. P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+(ICE) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Intuit Inc. (INTu) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Jacobs Engineering group Inc. (J) P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+JP Morgan Chase & Co. (JPM) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+lam Research Corporation (lRCX) P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+lowe's Companies, Inc. (lOW) P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Mastercard Incorporated (MA) P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Medtronic plc. Ordinary Shares P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+(MDT) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Merck & Company, Inc. Common P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+Stock (MRK) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Microsoft Corporation (MSFT) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Microsoft Corporation (MSFT) [ST] P 04/14/2021 04/16/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Moody's Corporation (MCO) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+MORgAN STANlEY MTN CAll P 04/16/2021 04/16/2021 $15,001 - gfedc
+MAKE WHOlE 3.87500% $50,000
+04/29/2024 [CS]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+DESCRIPTION: 61746BDQ6
+NETFlIX INC. SER B NOTE P 04/30/2021 04/06/2021 $15,001 - gfedc
+4.87500% 04/15/2028 CAll $50,000
+MAKE WHOlE [CS]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+DESCRIPTION: corporate bond
+Northrop grumman Corporation P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+(NOC) [ST]
+FIlINg STATuS: New
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SuBHOlDINg OF: Bill's IRA
+NXP Semiconductors N.V. (NXPI) P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Pepsico, Inc. (PEP) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+PNC Financial Services group, Inc. P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+(PNC) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Procter & gamble Company (Pg) P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Procter & gamble Company (Pg) P 04/14/2021 04/16/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Ross Stores, Inc. (ROST) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+SIMON PPTY gROuP lP NOTE P 03/18/2021 03/26/2021 $15,001 - gfedc
+CAll MAKE WHOlE 2.45000% $50,000
+09/13/2029 [CS]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+DESCRIPTION: Corporate bond
+Suncor Energy Inc. (Su) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Suncor Energy Inc. (Su) [ST] S 04/14/2021 04/16/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SuBHOlDINg OF: Bill's IRA
+united Rentals, Inc. (uRI) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+unitedHealth group Incorporated P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+Common Stock (uNH) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+Veeva Systems Inc. Class A (VEEV) P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+VeriSign, Inc. (VRSN) [ST] P 03/17/2021 03/26/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+VeriSign, Inc. (VRSN) [ST] P 04/14/2021 04/16/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+WAlgREEN CO NOTE CAll P 03/30/2021 04/06/2021 $15,001 - gfedc
+MAKE WHOlE 3.10000% $50,000
+09/15/2022 [CS]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+DESCRIPTION: corporate bond
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Bill's IRA
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. William R. Keating , 04/27/2021

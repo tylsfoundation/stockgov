@@ -1,0 +1,41 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Zoe Lofgren
+Status: Member
+State/District:CA18
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Deskworks Inc. [PS] S (partial) 03/11/202303/11/2023 $100,001 -
+$250,000
+F S: New
+L: Sunnyvale, CA, US
+D: Software company
+SP Expedia Group, Inc. (EXPE) [ST] S 08/25/202205/05/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+2000093460SP Union Pacific Corporation (UNP)
+[CS]
+P 04/04/202205/10/2022$15,001 -
+$50,000
+F S: Amended
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+John Marshall Collins Rollover IRA (Owner: SP)
+I P O
+Yes No
+C S
+Filing ID #20022637
+[[PAGE 2]]
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Zoe Lofgren , 05/15/2023

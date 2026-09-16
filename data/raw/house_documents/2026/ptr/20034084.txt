@@ -1,0 +1,70 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Jefferson Shreve
+Status: Member
+State/District:IN06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Brighthouse Buffered Annuity Russell
+2000 Cap Rate [VA]
+S 02/09/202602/28/2026$5,000,001 -
+$25,000,000
+F S: New
+S O: Registered Index Linked Annuity (RILA)
+D: Buffered Indexed Annuity Exchange
+Brighthouse Buffered Annuity S&P
+500 Trigger Rate [VA]
+S 02/09/202602/28/2026$5,000,001 -
+$25,000,000
+F S: New
+S O: Registered Index Linked Annuity (RILA)
+D: Buffered Indexed Annuity Exchange
+Prudential RILA - 10% Buffer 3-year
+Alliance Bernstein 500 Plus Index
+[VA]
+P 02/17/202602/28/2026$1,000,001 -
+$5,000,000
+F S: New
+S O: Registered Index Linked Annuity (RILA)
+D: Buffered Indexed Annuity Exchange
+Prudential RILA - 10% Buffer 3-year
+S&P 500 Index [VA]
+P 02/17/202602/28/2026$1,000,001 -
+$5,000,000
+F S: New
+S O: Registered Index Linked Annuity (RILA)
+D: Buffered Indexed Annuity Exchange
+Prudential RILA - 10% Buffer 6-year
+Alliance Bernstein 500 Plus Index
+with participation rate [VA]
+P 02/17/202602/28/2026$1,000,001 -
+$5,000,000
+F S: New
+S O: Registered Index Linked Annuity (RILA)
+Filing ID #20034084
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: Buffered Indexed Annuity Exchange
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Registered Index Linked Annuity (RILA)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Jefferson Shreve , 03/14/2026

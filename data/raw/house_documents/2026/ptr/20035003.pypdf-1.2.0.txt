@@ -1,0 +1,137 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Thomas H. Kean Jr
+Status: Member
+State/District:NJ07
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S (partial) 06/02/202606/18/2026$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co.
+Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S (partial) 06/24/202607/01/2026$15,001 -
+$50,000
+F S: New
+S O: Kean Family Partnership
+Analog Devices, Inc. - Common Stock
+(ADI) [ST]
+S (partial) 06/30/202607/01/2026$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Check Point Software Technologies
+Ltd. - Ordinary Shares (CHKP) [ST]
+S 06/01/202607/01/2026$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+EQT Corporation Common Stock
+(EQT) [ST]
+P 06/01/202607/01/2026$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+ESAB Corporation Common Stock
+(ESAB) [ST]
+P 06/22/202607/01/2026$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Filing ID #20035003
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+ESAB Corporation Common Stock
+(ESAB) [ST]
+P 06/24/202607/01/2026$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Gildan Activewear, Inc. Class A Sub.
+Vot. Common Stock (GIL) [ST]
+S 06/17/202607/01/2026$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Gildan Activewear, Inc. Class A Sub.
+Vot. Common Stock (GIL) [ST]
+P 06/02/202607/01/2026$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Johnson & Johnson Common Stock
+(JNJ) [ST]
+S (partial) 06/29/202607/13/2026$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co.
+Johnson & Johnson Common Stock
+(JNJ) [ST]
+S (partial) 06/02/202606/18/2026$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co.
+Markel Group Inc. Common Stock
+(MKL) [ST]
+S (partial) 06/02/202606/18/2026$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co.
+Markel Group Inc. Common Stock
+(MKL) [ST]
+S (partial) 06/29/202607/13/2026$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co.
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S (partial) 06/02/202606/18/2026$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co.
+S&P Global Inc. Common Stock
+(SPGI) [ST]
+S (partial) 06/29/202607/13/2026$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co.
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Stryker Corporation Common Stock
+(SYK) [ST]
+S (partial) 06/02/202606/18/2026$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co.
+U.S. Treasury Note 3.875%
+6/15/2028 [GS]
+P 06/17/202607/01/2026$15,001 -
+$50,000
+F S: New
+S O: Kean Family Partnership
+Wheaton Precious Metals Corp
+Common Shares (WPM) [ST]
+P 06/04/202607/01/2026$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Kean Family Partnership (33% Interest)
+L: US
+State Street Bank & Trust Co.
+C
+Transactions are initiated and made by third party advisors with no input from Rep. Kean.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Thomas H. Kean Jr, 07/15/2026

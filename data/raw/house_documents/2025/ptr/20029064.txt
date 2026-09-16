@@ -1,0 +1,138 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Julie Johnson
+Status: Member
+State/District:TX32
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT 3M Company Common Stock (MMM)
+[ST]
+P 03/12/202504/03/2025$1,001 - $15,000
+F S: New
+S O: Chase Brokerage Account (3935)
+JT 3M Company Common Stock (MMM)
+[ST]
+P 03/15/202404/03/2025$1,001 - $15,000
+F S: New
+S O: Chase Brokerage Account (3935)
+JT Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+S (partial) 03/14/202504/03/2025$1,001 - $15,000
+F S: New
+S O: Chase Brokerage Account (3935)
+JT Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+S (partial) 03/12/202504/03/2025$1,001 - $15,000
+F S: New
+S O: Chase Brokerage Account (3935)
+JT Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+S 03/19/202504/03/2025$1,001 - $15,000
+F S: New
+S O: Chase Brokerage Account (3935)
+JT Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+S 03/03/202504/08/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+Filing ID #20029064
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Agilent Technologies, Inc. Common
+Stock (A) [ST]
+S 03/03/202504/08/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Alcon Inc. Ordinary Shares (ALC)
+[ST]
+S 03/03/202504/08/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S 03/03/202504/08/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Capital One Financial Corporation
+Common Stock (COF) [ST]
+P 03/21/202504/03/2025$1,001 - $15,000
+F S: New
+S O: Chase Brokerage Account (3935)
+JT PNC Financial Services Group, Inc.
+(PNC) [ST]
+S 03/03/202504/08/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Sonos, Inc. - Common Stock (SONO)
+[ST]
+S 03/11/202504/08/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+S 03/11/202504/08/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Teradyne, Inc. (TER) [ST] S 03/03/202504/08/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT The Cigna Group Common Stock (CI)
+[ST]
+S 03/03/202504/08/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT The Cigna Group Common Stock (CI)
+[ST]
+P 03/19/202504/03/2025$1,001 - $15,000
+F S: New
+S O: Chase Brokerage Account (3935)
+JT United Parks & Resorts Inc. Common
+Stock (PRKS) [ST]
+S 03/03/202504/08/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Webster Financial Corporation
+Common Stock (WBS) [ST]
+S 03/11/202504/08/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+JT Zoetis Inc. Class A Common Stock
+(ZTS) [ST]
+S 03/03/202504/08/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Long Term Growth
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Chase Brokerage Account (3935) (Owner: JT)
+L: US
+Merrill Lynch Long Term Growth (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Julie Johnson , 04/14/2025

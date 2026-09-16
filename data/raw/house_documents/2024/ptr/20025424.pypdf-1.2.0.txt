@@ -1,0 +1,46 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Scott H. Peters
+Status: Member
+State/District:CA50
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Alhambra CA USD SCH [GS] P 06/03/202406/30/2024$250,001 -
+$500,000
+F S: New
+SP San Francisco CA IMPT SCH [GS] S 06/17/202406/30/2024$50,001 -
+$100,000
+F S: New
+SP Torch Capital III LP [OT] P 06/27/202406/30/2024$15,001 - $50,000
+F S: New
+L: US
+D: Pooled Investment Fund
+SP U.S Treasury Bills [GS] S (partial) 06/07/202406/30/2024$250,001 -
+$500,000
+F S: New
+SP U.S Treasury Bills [GS] S (partial) 06/20/202406/30/2024Spouse/DC Over
+$1,000,000
+F S: New
+SP U.S Treasury Bills [GS] S (partial) 06/11/202406/30/2024$250,001 -
+$500,000
+F S: New
+SP UNIV CA PUB EDUC [GS] P 06/21/202406/30/2024$50,001 -
+$100,000
+F S: New
+Filing ID #20025424
+[[PAGE 2]]
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Scott H. Peters , 07/15/2024

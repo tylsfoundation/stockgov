@@ -1,0 +1,344 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Susie Lee
+Status: Member
+State/District:NV03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Acadia Healthcare Company, Inc.
+(ACHC) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT AdaptHealth Corp. (AHCO) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Ally Financial Inc. (ALLY) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT American Water Works Company,
+Inc. (AWK) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT AMETEK, Inc. (AME) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Aptiv PLC Ordinary Shares (APTV)
+[ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Avantor, Inc. (AVTR) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+Filing ID #20022081
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Ball Corporation (BALL) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Bath & Body Works, Inc. (BBWI) [ST]S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Berry Global Group, Inc. (BERY) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Bio-Rad Laboratories, Inc. Class A
+(BIO) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Black Knight, Inc. (BKI) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Booz Allen Hamilton Holding
+Corporation (BAH) [ST]
+S 11/30/202212/05/2022$15,001 -
+$50,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Bright Horizons Family Solutions Inc.
+(BFAM) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Broadridge Financial Solutions, Inc.
+(BR) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Brown & Brown, Inc. (BRO) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Builders FirstSource, Inc. (BLDR)
+[ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Caesars Entertainment, Inc. (CZR)
+[ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Catalent, Inc. (CTLT) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT CDW Corporation (CDW) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT ChampionX Corporation (CHX) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Churchill Downs, Incorporated
+(CHDN) [ST]
+S 11/30/202212/05/2022$15,001 -
+$50,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Clarivate Plc Ordinary Shares (CLVT)
+[ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Crown Holdings, Inc. (CCK) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Cushman & Wakefield plc Ordinary
+Shares (CWK) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Discover Financial Services (DFS)
+[ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Diversey Holdings, Ltd. - Ordinary
+Shares (DSEY) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Elanco Animal Health Incorporated
+(ELAN) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Element Solutions Inc. (ESI) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Entegris, Inc. (ENTG) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT GFL Environmental Inc. Subordinate
+voting shares, no par value (GFL) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Global Payments Inc. (GPN) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT HCA Healthcare, Inc. (HCA) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Hologic, Inc. (HOLX) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Leslie's, Inc. (LESL) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Live Nation Entertainment, Inc.
+(LYV) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT LKQ Corporation (LKQ) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Marvell Technology, Inc. (MRVL)
+[ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Mattel, Inc. (MAT) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Molson Coors Beverage Company
+Class B (TAP) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Palo Alto Networks, Inc. (PANW) [ST]S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Performance Food Group Company
+(PFGC) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Planet Fitness, Inc. (PLNT) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Qorvo, Inc. (QRVO) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Republic Services, Inc. (RSG) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Resideo Technologies, Inc. (REZI)
+[ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Scotts Miracle-Gro Company (SMG)
+[ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Service Corporation International
+(SCI) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Shift4 Payments, Inc. Class A (FOUR)
+[ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT SS&C Technologies Holdings, Inc.
+(SSNC) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Stanley Black & Decker, Inc. (SWK)
+[ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Syneos Health, Inc. - Class A (SYNH)
+[ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Teledyne Technologies Incorporated
+(TDY) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Teleflex Incorporated (TFX) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT The AZEK Company Inc. Class A
+(AZEK) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT The Goodyear Tire & Rubber
+Company (GT) [ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT TransUnion (TRU) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT US Foods Holding Corp. (USFD) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Verisk Analytics, Inc. (VRSK) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Vertiv Holdings, LLC Class A (VRT)
+[ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT VICI Properties Inc. (VICI) [ST] S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT WESCO International, Inc. (WCC)
+[ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Xylem Inc. Common Stock New (XYL)
+[ST]
+S 11/30/202212/05/2022$1,001 - $15,000
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Zebra Technologies Corporation -S 11/30/202212/05/2022$1,001 - $15,000
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Class A (ZBRA) [ST]
+F S: New
+S O: DSL Living Trust > Bank of New York Brokerage Account 340
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+DSL Living Trust (Owner: JT)
+DSL Living Trust ⇒ Bank of New York Brokerage Account 340 (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Susie Lee , 12/29/2022

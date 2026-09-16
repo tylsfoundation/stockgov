@@ -1,0 +1,167 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJ05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT ABIOMED, Inc. (ABMD) [ST] S 09/14/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Allianz SE ADR (ALIZY) [OT] S (partial) 09/15/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+L: US
+D: ADR stock
+JT Alnylam Pharmaceuticals, Inc.
+(ALNY) [ST]
+P 09/28/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Automatic Data Processing, Inc.
+(ADP) [ST]
+P 09/26/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT BHP Group Limited American
+Depositary Shares (BHP) [ST]
+S (partial) 09/15/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Blackstone Inc. (BX) [ST] S (partial) 09/14/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+Filing ID #20021821
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Cognizant Technology Solutions
+Corporation - Class A (CTSH) [ST]
+S (partial) 09/15/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Covetrus, Inc. (CVET) [ST] S 09/15/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Deere & Company (DE) [ST] S (partial) 09/12/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT DexCom, Inc. (DXCM) [ST] S (partial) 09/28/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Fidelity National Information
+Services, Inc. (FIS) [ST]
+S (partial) 09/15/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Flywire Corporation - Voting (FLYW)
+[ST]
+P 09/27/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT HCA Healthcare, Inc. (HCA) [ST] S (partial) 09/28/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Magnolia Oil & Gas Corporation Class
+A (MGY) [ST]
+S (partial) 09/27/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT MongoDB, Inc. - Class A (MDB) [ST] S (partial) 09/15/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT NVIDIA Corporation (NVDA) [ST] S (partial) 09/15/202210/05/2022$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Oracle Corporation (ORCL) [ST] S (partial) 09/28/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Paylocity Holding Corporation (PCTY)
+[ST]
+S (partial) 09/21/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Regeneron Pharmaceuticals, Inc.
+(REGN) [ST]
+P 09/12/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Salesforce, Inc. (CRM) [ST] S (partial) 09/15/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT SAP SE ADS (SAP) [ST] S (partial) 09/01/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Shimano Inc. ADR [OT] P 09/26/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+L: US
+D: ADR stock
+JT Shimano Inc. ADR [OT] P 09/27/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+L: US
+D: ADR stock
+JT Stag Industrial, Inc. (STAG) [ST] P 09/15/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Tencent Holdings Limited
+Unsponsored ADR Representing B
+S (partial) 09/15/202210/05/2022$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Shares (TCEHY) [ST]
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Thoughtworks Holding, Inc. (TWKS)
+[ST]
+S (partial) 09/15/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 09/28/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Verizon Communications Inc. (VZ)
+[ST]
+S (partial) 09/15/202210/05/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 10/16/2022

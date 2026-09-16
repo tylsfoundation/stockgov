@@ -1,0 +1,42 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Debbie Dingell
+Status: Member
+State/District:MI06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Cohen & Steers Tax-Advantaged
+Preferred Securities and Income Fund
+Common Shares of Beneficial Interest
+(PTA) [ST]
+P 04/21/202604/27/2026$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Smith Barney LLC IRA
+JT MICHIGAN ST HSG DEV AUTH
+SINGLE FAMILY M [GS]
+P 04/21/202604/27/2026$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Smith Barney LLC Brokerage Account
+D: Municipal Bond; Maturity Date - 12/01/2039; Coupon Rate - 4%
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Morgan Stanley Smith Barney LLC Brokerage Account (Owner: JT)
+L: US
+Morgan Stanley Smith Barney LLC IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Filing ID #20034416
+[[PAGE 2]]
+Digitally Signed: Hon. Debbie Dingell , 04/28/2026

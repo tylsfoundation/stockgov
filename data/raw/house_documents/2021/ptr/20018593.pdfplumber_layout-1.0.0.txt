@@ -1,0 +1,35 @@
+[[PAGE 1]]
+Filing ID #20018593
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District: CA47
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT CDW LLC / CDW FIN [CS] P 04/01/2021 04/08/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Malumed Lowenthal Rev Trust
+DESCRIPTION: Maturity date is 12/01/2024, interest rate is 5.5%
+JT Fidelity Natl Information Svcs [CS] S 03/03/2021 04/14/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Malumed Lowenthal Rev Trust
+DESCRIPTION: It was tendered. Maturity date is 06/05/2024, interest rate is 3.875%
+JT Mondelez Intl [CS] S 03/31/2021 04/15/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Malumed Lowenthal Rev Trust
+DESCRIPTION: It was redeemed, maturity date is 04/13/2023, interest rate is 2.125%
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Neuberger Berman - Malumed Lowenthal Rev Trust (Owner: JT)
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+[[PAGE 2]]
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Alan S. Lowenthal , 04/15/2021

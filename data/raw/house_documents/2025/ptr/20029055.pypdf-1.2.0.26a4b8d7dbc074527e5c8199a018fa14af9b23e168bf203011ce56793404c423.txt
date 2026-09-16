@@ -1,0 +1,140 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Rob Bresnahan
+Status: Member
+State/District:PA08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+S 03/11/202503/11/2025 $1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Cadence Design Systems, Inc. -
+Common Stock (CDNS) [ST]
+P 03/17/202503/17/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Intel Corporation - Common Stock
+(INTC) [ST]
+P 03/13/202503/13/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+International Business Machines
+Corporation Common Stock (IBM)
+[ST]
+P 03/11/202503/11/2025 $1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+International Business Machines
+Corporation Common Stock (IBM)
+[ST]
+P 03/10/202503/10/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+MercadoLibre, Inc. - Common Stock
+(MELI) [ST]
+P 03/10/202503/10/2025$1,001 - $15,000
+F S: New
+Filing ID #20029055
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: JP Morgan Brokerage Account #2
+Nu Holdings Ltd. Class A Ordinary
+Shares (NU) [ST]
+P 03/10/202503/10/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S (partial) 03/11/202503/11/2025 $1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Oracle Corporation Common Stock
+(ORCL) [ST]
+S 03/11/202503/11/2025 $1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Reddit, Inc. Class A Common Stock
+(RDDT) [ST]
+S 03/11/202503/11/2025 $1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Robinhood Markets, Inc. - Class A
+Common Stock (HOOD) [ST]
+S 03/11/202503/11/2025 $1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Robinhood Markets, Inc. - Class A
+Common Stock (HOOD) [ST]
+S (partial) 03/11/202503/11/2025 $1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+SBA Communications Corporation -
+Class A Common Stock (SBAC) [ST]
+P 03/11/202503/11/2025 $1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Sea Limited American Depositary
+Shares, each representing one Class A
+Ordinary Share (SE) [ST]
+P 03/11/202503/10/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+ServiceNow, Inc. Common Stock
+(NOW) [ST]
+P 03/13/202503/13/2025$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: JP Morgan Brokerage Account #2
+Tesla, Inc. - Common Stock (TSLA)
+[ST]
+S (partial) 03/11/202503/11/2025 $1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Tesla, Inc. - Common Stock (TSLA)
+[ST]
+S (partial) 03/10/202503/10/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Texas Instruments Incorporated -
+Common Stock (TXN) [ST]
+P 03/10/202503/10/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+P 03/10/202503/10/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+JP Morgan Brokerage Account #2
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Rob Bresnahan , 04/09/2025

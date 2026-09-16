@@ -1,0 +1,88 @@
+[[PAGE 1]]
+Filing ID #20017738
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Michael Garcia
+Status: Member
+State/District: CA25
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+American Airlines Group, Inc. P 07/09/2020 07/09/2020 $15,001 - gfedc
+(AAl) [ST] $50,000
+FIlING STATuS: New
+American Airlines Group, Inc. P 10/26/2020 10/26/2020 $15,001 - gfedc
+(AAl) [ST] $50,000
+FIlING STATuS: New
+American Airlines Group, Inc. S (partial) 11/09/2020 11/09/2020 $15,001 - gfedcb
+(AAl) [ST] $50,000
+FIlING STATuS: New
+Boeing Company (BA) [ST] S 08/10/2020 08/10/2020 $15,001 - gfedcb
+$50,000
+FIlING STATuS: New
+Boeing Company (BA) [ST] S 11/13/2020 11/13/2020 $15,001 - gfedcb
+$50,000
+FIlING STATuS: New
+Direxion Financial Bull 3X Shares S 11/11/2020 11/11/2020 $15,001 - gfedcb
+(FAS) [ST] $50,000
+FIlING STATuS: New
+Direxion Financial Bull 3X Shares S 11/05/2020 11/05/2020 $15,001 - gfedcb
+(FAS) [ST] $50,000
+FIlING STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Direxion Financial Bull 3X Shares P 07/09/2020 07/09/2020 $1,001 - $15,000 gfedc
+(FAS) [ST]
+FIlING STATuS: New
+Direxion Financial Bull 3X Shares P 10/26/2020 10/26/2020 $15,001 - gfedc
+(FAS) [ST] $50,000
+FIlING STATuS: New
+Direxion Financial Bull 3X Shares S (partial) 11/09/2020 11/09/2020 $15,001 - gfedcb
+(FAS) [ST] $50,000
+FIlING STATuS: New
+iPath Series B S&P 500 VIX Short- P 11/16/2020 11/16/2020 $15,001 - gfedc
+Term Futures ETN (VXX) [ST] $50,000
+FIlING STATuS: New
+Tesla, Inc. (TSlA) [ST] S (partial) 11/16/2020 11/16/2020 $15,001 - gfedcb
+$50,000
+FIlING STATuS: New
+Tesla, Inc. (TSlA) [ST] P 11/17/2020 11/17/2020 $15,001 - gfedc
+$50,000
+FIlING STATuS: New
+Tesla, Inc. (TSlA) [ST] S (partial) 11/23/2020 11/23/2020 $15,001 - gfedcb
+$50,000
+FIlING STATuS: New
+Tesla, Inc. (TSlA) [ST] P 11/13/2020 11/13/2020 $15,001 - gfedc
+$50,000
+FIlING STATuS: New
+Tesla, Inc. (TSlA) [ST] P 10/26/2020 10/26/2020 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+Tesla, Inc. (TSlA) [ST] P 09/04/2020 09/04/2020 $15,001 - gfedc
+$50,000
+FIlING STATuS: New
+uber Technologies, Inc. (uBER) S 11/05/2020 11/05/2020 $15,001 - gfedcb
+[ST] $50,000
+FIlING STATuS: New
+uBS Group AG Registered S 11/09/2020 11/09/2020 $15,001 - gfedcb
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedcb
+Ordinary Shares (uBS) [ST] $50,000
+FIlING STATuS: New
+VanEck Vectors Oil Services ETF S 11/18/2020 11/18/2020 $1,001 - $15,000 gfedcb
+(OIH) [ST]
+FIlING STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Michael Garcia , 11/23/2020

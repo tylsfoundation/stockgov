@@ -1,0 +1,129 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Richard Dean Dr McCormick
+Status: Member
+State/District:GA06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Abbott Laboratories Common Stock
+(ABT) [ST]
+P 06/12/202607/08/2026$1,001 - $15,000
+F S: New
+S O: Growth Partners IRA
+Abbott Laboratories Common Stock
+(ABT) [ST]
+P 06/12/202607/08/2026$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Analog Devices, Inc. - Common Stock
+(ADI) [ST]
+S (partial) 06/12/202607/08/2026$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Analog Devices, Inc. - Common Stock
+(ADI) [ST]
+S (partial) 06/12/202607/08/2026$1,001 - $15,000
+F S: New
+S O: Growth Partners IRA
+BlackRock, Inc. Common Stock (BLK)
+[ST]
+S (partial) 06/12/202607/08/2026$1,001 - $15,000
+F S: New
+S O: Growth Partners IRA
+Cisco Systems, Inc. - Common Stock
+(CSCO) [ST]
+S (partial) 06/12/202607/08/2026$1,001 - $15,000
+F S: New
+S O: Growth Partners IRA
+Filing ID #20034954
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Cisco Systems, Inc. - Common Stock
+(CSCO) [ST]
+S (partial) 06/12/202607/08/2026$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Intercontinental Exchange Inc.
+Common Stock (ICE) [ST]
+P 06/12/202607/08/2026$1,001 - $15,000
+F S: New
+S O: Growth Partners IRA
+Ishares Morningstar ETF Mid Cap
+(IMCB) [OT]
+S (partial) 06/12/202607/08/2026$1,001 - $15,000
+F S: New
+S O: Growth Partners IRA
+L: US
+D: ETF
+L3Harris Technologies, Inc. Common
+Stock (LHX) [ST]
+P 06/12/202607/08/2026$1,001 - $15,000
+F S: New
+S O: Growth Partners IRA
+L3Harris Technologies, Inc. Common
+Stock (LHX) [ST]
+P 06/12/202607/08/2026$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+State Street SPDR ETF Portfolio S&P
+600 Small (SPSM) [OT]
+S (partial) 06/12/202607/08/2026$1,001 - $15,000
+F S: New
+S O: Growth Partners IRA
+L: US
+D: ETF
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S (partial) 06/12/202607/08/2026$1,001 - $15,000
+F S: New
+S O: Growth Partners IRA
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S (partial) 06/12/202607/08/2026$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Vanguard Mega Cap Growth ETFS (partial) 06/12/202607/08/2026$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(MGK) [OT]
+F S: New
+S O: Growth Partners Roth IRA
+L: US
+D: ETF
+Vanguard Mega Cap Growth ETF
+(MGK) [OT]
+S (partial) 06/12/202607/08/2026$1,001 - $15,000
+F S: New
+S O: Growth Partners IRA
+L: US
+D: ETF
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Growth Partners IRA
+Growth Partners Roth IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Richard Dean Dr McCormick , 07/09/2026

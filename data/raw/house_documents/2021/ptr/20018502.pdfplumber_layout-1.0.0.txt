@@ -1,0 +1,71 @@
+[[PAGE 1]]
+Filing ID #20018502
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Sean Patrick Maloney
+Status: Member
+State/District: NY18
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Apple Inc. (AAPl) [ST] S 06/26/2020 06/30/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+DESCRIPTION: Actual amount of transaction: $2446.86
+COMMENTS: Note regarding all transactions on this report: Filer and his brothers inherited their mother's IRA upon her
+death. After completion of probate, the estate's financial advisors liquidated the assets in June 2020. During preparations
+for filer's 2020 FD report, it was determined that these 8 transactions totaling $11k should have been reported on a PTR. As
+soon as this oversight was discovered, this filing was submitted to provide full transparency into that sale.
+blackRock, Inc. (blK) [ST] S 06/26/2020 06/30/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+DESCRIPTION: Actual amount of transaction: $1031.86
+Diageo plc (DEO) [ST] S 06/26/2020 06/30/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+DESCRIPTION: Actual amount of transaction: $1044.32
+Fastenal Company (FAST) [ST] S 06/26/2020 06/30/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+DESCRIPTION: Actual amount of transaction: $1038.27
+Microsoft Corporation (MSFT) S 06/26/2020 06/30/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOlDINg OF: Inherited IRA
+DESCRIPTION: Actual amount of transaction: $1150.31
+Nestle SA Sponsored ADR S 06/26/2020 06/30/2020 $1,001 - $15,000 gfedcb
+representing Registered Shares
+Series b (NSRgY) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+DESCRIPTION: Actual amount of transaction: $1722.28
+Roche Holdings Ag basel S 06/26/2020 06/30/2020 $1,001 - $15,000 gfedcb
+American Depositary Shares
+(RHHbY) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+DESCRIPTION: Actual amount of transaction: $1236.32
+Taiwan Semiconductor S 06/26/2020 06/30/2020 $1,001 - $15,000 gfedcb
+Manufacturing Company ltd.
+(TSM) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+DESCRIPTION: Actual amount of transaction: $1381.13
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Inherited IRA
+DESCRIPTION: Inherited in 2019
+COmmeNTS
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Sean Patrick Maloney , 04/02/2021

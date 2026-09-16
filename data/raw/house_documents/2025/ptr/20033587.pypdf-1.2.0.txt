@@ -1,0 +1,43 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Suzan K. DelBene
+Status: Member
+State/District:WA01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT New Jersey ST Transn TR FD Auth
+SYS BDS 5.00% Due Jun 15, 2035
+[GS]
+S 11/18/202511/18/2025 $250,001 -
+$500,000
+F S: New
+JT Tarrant CNTY Tex Cultural Ed Facs
+Fin 5.00 % Due Nov 15, 2051 [GS]
+P 11/19/202511/19/2025 $250,001 -
+$500,000
+F S: New
+JT TX Trans Commn TPK 5%42 TPK
+Tran Due 08/15/42 [GS]
+P 11/18/202511/18/2025 $1,001 - $15,000
+F S: New
+JT Washington ST MTR Veh Fuel Tax
+Related 5.00 % Due Aug 1, 2028 [GS]
+P 11/21/202511/21/2025 $15,001 -
+$50,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 12/08/2025
+Filing ID #20033587

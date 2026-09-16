@@ -1,0 +1,51 @@
+[[PAGE 1]]
+Filing ID #20017063
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Carolyn B. Maloney
+Status: Member
+State/District: NY12
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIDElITY FUNDS FIDElITY S (partial) 06/02/2020 07/22/2020 $50,001 - gfedc
+TREASURIES ONlY [GS] $100,000
+FIlING STATUS: New
+DESCRIPTION: SAlE OF $100,000 FIDElITY FUNDS FIDElITY TREASURIES ONlY, FRSXX
+FIDElITY FUNDS FIDElITY S (partial) 06/04/2020 07/22/2020 $250,001 - gfedc
+TREASURIES ONlY [GS] $500,000
+FIlING STATUS: New
+DESCRIPTION: SAlE OF $300,000 FIDElITY FUNDS FIDElITY TREASURIES ONlY, FRSXX
+New York NY CITY MUN WTR P 09/21/2021 10/19/2021 $15,001 - gfedc
+FIN AUTH WTR & SWR RFDG $50,000
+FISl 2016 SER A B/E [GS]
+FIlING STATUS: New
+DESCRIPTION: NEW YORK NY CITY MUN WTR FIN AUTH WTR & SWR SYS RFDG FISl 2016 SER A B/E, COUPON 4.50%,
+DUE 06-15-2032, CUSIP 64972GJZ8
+NEW YORK NY CITY MUN WTR P 09/29/2021 10/19/2021 $15,001 - gfedc
+FIN AUTH WTR & SWR SYS SCD $50,000
+GEN RSlTN SUBSER CC1 REV
+[GS]
+FIlING STATUS: New
+DESCRIPTION: NEW YORK NY CITY MUN WTR FIN AUTH WTR &k SWR SYS SCD GEN RSlTN SUBSER CC1 REV,
+COUPON 5.25%, DUE 06-15-2037, CUSIP 64972GKl7
+PORT AUTH NY & NJ RFDG AMT P 09/30/2021 10/19/2021 $15,001 - gfedc
+CONS ONE HUNDRED NINETY $50,000
+SEVENTH SER REV [GS]
+FIlING STATUS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTION: PORT AUTH NY & NJ RFDG AMT CONS ONE HUNDRED NINETY SEVENTH SER REV, COUPON 5.00%,
+DUE 11-15-2033, CUSIP 73358WC77
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Carolyn B. Maloney , 10/22/2021

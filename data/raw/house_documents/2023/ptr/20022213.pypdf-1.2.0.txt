@@ -1,0 +1,153 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Virginia Foxx
+Status: Member
+State/District:NC05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000092114JT AEGON N.V. (AEG) [ST] S 03/07/202203/07/2022$15,001 -
+$50,000
+F S: Amended
+2000092135JT Arlington Asset Investment Corp
+7.00% (AAIC$B) [ST]
+P 03/31/202203/31/2022$1,001 - $15,000
+F S: Amended
+2000092136JT British American Tobacco
+Industries, p.l.c. Common Stock
+ADR (BTI) [ST]
+P 03/31/202203/31/2022$1,001 - $15,000
+F S: Amended
+2000092133JT British American Tobacco
+Industries, p.l.c. Common Stock
+ADR (BTI) [ST]
+P 03/29/202203/29/2022$15,001 -
+$50,000
+F S: Amended
+2000092137JT Capital Power Corp. Ordinary
+Shares (CPXWF) [ST]
+P 03/24/202203/24/2022$1,001 - $15,000
+F S: Amended
+2000092116JT Capital Power Corp. Ordinary
+Shares (CPXWF) [ST]
+P 03/21/202203/21/2022$15,001 -
+$50,000
+F S: Amended
+2000092126JT Capital Power Corp. Ordinary
+Shares (CPXWF) [ST]
+P 03/23/202203/23/2022$15,001 -
+$50,000
+F S: Amended
+Filing ID #20022213
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000092127JT Capital Power Corp. Ordinary
+Shares (CPXWF) [ST]
+P 03/08/202203/08/2022$15,001 -
+$50,000
+F S: Amended
+2000092125JT Clearway Energy, Inc. Class A
+(CWEN.A) [ST]
+P 03/23/202203/23/2022$50,001 -
+$100,000
+F S: Amended
+2000092130JT ConAgra Brands, Inc. (CAG) [ST] S 03/28/202203/28/2022$50,001 -
+$100,000
+F S: Amended
+2000092124JT ConAgra Brands, Inc. (CAG) [ST] P 03/04/202203/04/2022$1,001 - $15,000
+F S: Amended
+2000092128JT Duke Energy Corporation
+Depositary Shares, each
+representing a 1/1,000th interest
+in a share of 5.75% Series A
+Cumulative Redeemable Perpetual
+Preferred Stock (DUK$A) [ST]
+P 03/25/202203/25/2022$15,001 -
+$50,000
+F S: Amended
+2000092123JT Exxon Mobil Corporation (XOM)
+[ST]
+P 03/10/202203/10/2022$1,001 - $15,000
+F S: Amended
+2000092118JT Fidelity MSCI Health Care Index
+ETF (FHLC) [ST]
+S 03/08/202203/08/2022$15,001 -
+$50,000
+F S: Amended
+2000092129JT Flowers Foods, Inc. (FLO) [ST] S 03/28/202203/28/2022$50,001 -
+$100,000
+F S: Amended
+2000092121JT General Mills, Inc. (GIS) [ST] S 03/22/202203/22/2022$50,001 -
+$100,000
+F S: Amended
+2000092119JT Hartford Core Bond ETF (HCRB)
+[ST]
+S 03/08/202203/08/2022$15,001 -
+$50,000
+F S: Amended
+2000092117JT Hercules Capital, Inc. (HTGC) [ST]P 03/07/202203/07/2022$15,001 -
+$50,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: Amended
+2000092113JT Hercules Capital, Inc. (HTGC) [ST]P 03/04/202203/04/2022$15,001 -
+$50,000
+F S: Amended
+2000092138JT Hercules Capital, Inc. (HTGC) [ST]P 03/08/202203/08/2022$1,001 - $15,000
+F S: Amended
+2000092115JT Old Republic International
+Corporation (ORI) [ST]
+P 03/07/202203/07/2022$1,001 - $15,000
+F S: Amended
+2000092112JT Old Republic International
+Corporation (ORI) [ST]
+P 03/01/202203/01/2022$15,001 -
+$50,000
+F S: Amended
+2000092122JT Philip Morris International Inc
+(PM) [ST]
+S 03/23/202203/23/2022$100,001 -
+$250,000
+F S: Amended
+2000092120JT PPL Corporation (PPL) [ST] S 03/14/202203/14/2022$100,001 -
+$250,000
+F S: Amended
+2000092132JT Ryder System, Inc. (R) [ST] P 03/28/202203/28/2022$15,001 -
+$50,000
+F S: Amended
+2000092134JT Sisecam Resources LP Common
+Units representing limited partner
+interests (SIRE) [ST]
+P 03/30/202203/30/2022$15,001 -
+$50,000
+F S: Amended
+2000092131JT Tyson Foods, Inc. (TSN) [ST] S 03/28/202203/28/2022$15,001 -
+$50,000
+F S: Amended
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+[[PAGE 4]]
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Virginia Foxx , 01/03/2023

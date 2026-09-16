@@ -1,0 +1,37 @@
+[[PAGE 1]]
+Filing ID #20020458
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Daniel Meuser
+Status: Member
+State/District: PA09
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP NVIDIA Corporation (NVDA) [ST] S (partial) 01/21/2022 02/01/2022 $100,001 - gfedcb
+$250,000
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab Brokerage Account
+DC NVIDIA Corporation (NVDA) [ST] S (partial) 01/21/2022 02/01/2022 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab DM Brokerage Account
+DC NVIDIA Corporation (NVDA) [ST] S (partial) 01/21/2022 02/01/2022 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Brokerage Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Schwab Brokerage Account (Owner: SP)
+LOCATION: US
+Schwab DM Brokerage Account (Owner: DC)
+LOCATION: US
+Schwab JM Brokerage Account (Owner: DC)
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 2]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Daniel Meuser , 02/16/2022

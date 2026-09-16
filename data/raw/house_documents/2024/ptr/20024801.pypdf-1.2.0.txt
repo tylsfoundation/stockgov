@@ -1,0 +1,222 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJ05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Adobe Inc. - Common Stock (ADBE)
+[ST]
+S (partial) 03/15/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Adobe Inc. - Common Stock (ADBE)
+[ST]
+S (partial) 03/13/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Advanced Micro Devices, Inc. (AMD)
+[ST]
+P 03/18/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Advanced Micro Devices, Inc. (AMD)
+[ST]
+P 03/15/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Agree Realty Corporation Common
+Stock (ADC) [ST]
+S 03/14/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Apple Inc. - Common Stock (AAPL)
+[ST]
+S (partial) 03/22/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+Filing ID #20024801
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Apple Inc. - Common Stock (AAPL)
+[ST]
+S (partial) 03/15/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT BHP Group Limited American
+Depositary Shares (BHP) [ST]
+S (partial) 03/12/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT BioNTech SE - American Depositary
+Shares (BNTX) [ST]
+S 03/14/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Block, Inc. Class A Common Stock,
+(SQ) [ST]
+P 03/21/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT CBIZ, Inc. Common Stock (CBZ) [ST] S (partial) 03/07/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT D.R. Horton, Inc. Common Stock
+(DHI) [ST]
+P 03/14/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT D.R. Horton, Inc. Common Stock
+(DHI) [ST]
+P 03/07/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT DASSAULT SYSTEMES SA ADR
+(DASTY) [ST]
+P 03/13/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Eaton Corporation, PLC Ordinary
+Shares (ETN) [ST]
+S (partial) 03/13/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT EEN ENERGY HLDGS UNSP/ADR
+(XNGSY) [ST]
+P 03/26/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Endava plc American Depositary
+Shares (DAVA) [ST]
+S 03/14/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Fox Factory Holding Corp. - Common
+Stock (FOXF) [ST]
+S 03/14/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT HAIER SMART HOME U/ADR
+(HSHCY) [ST]
+S (partial) 03/14/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT HCA Healthcare, Inc. Common Stock
+(HCA) [ST]
+S 03/01/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Intapp, Inc. - Common Stock (INTA)
+[ST]
+S 03/14/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Marriott International - Class A
+Common Stock (MAR) [ST]
+S (partial) 03/13/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT MercadoLibre, Inc. - Common Stock
+(MELI) [ST]
+S (partial) 03/15/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT MercadoLibre, Inc. - Common Stock
+(MELI) [ST]
+P 03/12/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT OceanFirst Financial Corp. - Common
+Stock (OCFC) [ST]
+S (partial) 03/14/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Perella Weinberg Partners - Class A
+Common Stock (PWP) [ST]
+P 03/07/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Salesforce, Inc. Common Stock (CRM)
+[ST]
+S (partial) 03/13/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Shiseido Co Ltd Ord American
+Depositary Shares (SSDOY) [ST]
+S 03/13/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Shoals Technologies Group, Inc. -
+Class A Common Stock (SHLS) [ST]
+S 03/14/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Synopsys, Inc. - Common Stock
+(SNPS) [ST]
+S (partial) 03/13/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+S (partial) 03/12/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Tesla, Inc. - Common Stock (TSLA)
+[ST]
+S (partial) 03/15/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Transdigm Group Incorporated
+Common Stock (TDG) [ST]
+S (partial) 03/13/202404/04/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 04/07/2024

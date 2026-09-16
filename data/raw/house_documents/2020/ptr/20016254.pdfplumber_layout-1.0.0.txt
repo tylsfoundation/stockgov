@@ -1,0 +1,81 @@
+[[PAGE 1]]
+Filing ID #20016254
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Kevin Hern
+Status: Member
+State/District: oK01
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+bed bath & beyond Inc. (bbbY) s 02/27/2020 02/28/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTATus: New
+subHolDINg oF: Kevin Hern Traditional IRA
+JT Estee lauder Companies, Inc. (El) P 02/14/2020 02/15/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTATus: New
+subHolDINg oF: Hern Family Foundation
+First Trust Enhanced short P 02/27/2020 02/28/2020 $100,001 - gfedc
+Maturity ETF (FTsM) [sT] $250,000
+FIlINg sTATus: New
+subHolDINg oF: Kevin Hern Traditional IRA
+JT Fs Energy and Power Fund [Ps] P 02/04/2020 02/05/2020 $1,001 - $15,000 gfedc
+FIlINg sTATus: New
+subHolDINg oF: Hern Family Revocable Trust
+loCATIoN: us
+DEsCRIPTIoN: Dividend reinvestment
+JT Intercontinental Exchange Inc. P 02/14/2020 02/15/2020 $1,001 - $15,000 gfedc
+(ICE) [sT]
+FIlINg sTATus: New
+subHolDINg oF: Hern Family Foundation
+JT Mondelez International, Inc. - P 02/14/2020 02/15/2020 $1,001 - $15,000 gfedc
+Class A (MDlZ) [sT]
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FIlINg sTATus: New
+subHolDINg oF: Hern Family Foundation
+Ngl ENERgY PARTNERs lP s 02/27/2020 02/28/2020 $15,001 - gfedc
+Common units representing $50,000
+limited Partner Interests (Ngl)
+[sT]
+FIlINg sTATus: New
+subHolDINg oF: Kevin Hern Traditional IRA
+Ngl ENERgY PARTNERs lP P 02/14/2020 02/15/2020 $1,001 - $15,000 gfedc
+Common units representing
+limited Partner Interests (Ngl)
+[sT]
+FIlINg sTATus: New
+subHolDINg oF: Kevin Hern Traditional IRA
+DEsCRIPTIoN: Dividend Reinvestment
+JT oNEoK, Inc. (oKE) [sT] P 02/14/2020 02/15/2020 $1,001 - $15,000 gfedc
+FIlINg sTATus: New
+subHolDINg oF: Hern Family Revocable Trust
+DEsCRIPTIoN: Dividend Reinvesment
+Walgreens boots Alliance, Inc. s 02/27/2020 02/28/2020 $1,001 - $15,000 gfedc
+(WbA) [sT]
+FIlINg sTATus: New
+subHolDINg oF: Kevin Hern Traditional IRA
+JT WisdomTree u.s. Quality P 02/14/2020 02/15/2020 $1,001 - $15,000 gfedc
+shareholder Yield Fund (QsY) [sT]
+FIlINg sTATus: New
+subHolDINg oF: Hern Family Foundation
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Hern Family Foundation (100% Interest) (owner: JT)
+Hern Family Revocable Trust (100% Interest) (owner: JT)
+DEsCRIPTIoN: Family Revocable Trust
+Kevin Hern Traditional IRA
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 3]]
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Kevin Hern , 03/17/2020

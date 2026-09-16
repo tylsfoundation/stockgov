@@ -1,0 +1,34 @@
+[[PAGE 1]]
+Filing ID #20017563
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. John Rutherford
+Status: Member
+State/District: Fl04
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Comcast Corporation - Class A P 08/18/2020 08/20/2020 $1,001 - $15,000 gfedc
+(CMCSA) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Persimmon Plc unsponsored ADR P 10/13/2020 10/15/2020 $1,001 - $15,000 gfedc
+(PSMMY) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+National Financial Services/Fidelity - Premiere Select IRA Domestic
+DESCRIPTION: Separately Managed Account - IRA
+National Financial Services/Fidelity - Premiere Select IRA Int'l
+DESCRIPTION: Separately Managed Account - IRA
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+[[PAGE 2]]
+Digitally Signed: Hon. John Rutherford , 10/20/2020

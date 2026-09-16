@@ -1,0 +1,54 @@
+[[PAGE 1]]
+Filing ID #20018967
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Tom Malinowski
+Status: Member
+State/District: NJ07
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Ameresco, Inc. Class A (AMRC) S 05/26/2021 05/31/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+Celcuity Inc. (CElC) [ST] S 05/26/2021 05/31/2021 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+DoorDash, Inc. Class A (DASH) S 05/18/2021 05/31/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+DESCRIPTION: short
+Heron Therapeutics, Inc. (APPAD) S 05/18/2021 05/31/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: short
+lumber liquidators Holdings, Inc P 05/07/2021 05/31/2021 $15,001 - gfedc
+(ll) [ST] $50,000
+FIlINg STATuS: New
+Pacira BioSciences, Inc. (PCRX) P 05/06/2021 05/31/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Peloton Interactive, Inc. (PTON) S 05/11/2021 05/31/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTION: short
+Quidel Corporation (QDEl) [ST] P 05/11/2021 05/31/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+The Honest Company, Inc. (HNST) S 05/11/2021 05/31/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: short
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Tom Malinowski , 06/23/2021

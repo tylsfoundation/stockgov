@@ -1,0 +1,130 @@
+[[PAGE 1]]
+Filing Id #20018243
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the house of Representatives • legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Mrs. Marjorie Taylor Greene
+Status: Member
+State/District: GA14
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Advanced Micro devices, Inc. P 01/21/2021 01/21/2021 $1,001 - $15,000 gfedc
+(AMd) [ST]
+FIlING STATuS: New
+JT Alphabet Inc. - Class C Capital S 01/20/2021 01/20/2021 $15,001 - gfedcb
+Stock (GOOG) [ST] $50,000
+FIlING STATuS: New
+SP Alphabet Inc. - Class C Capital S 01/20/2021 01/20/2021 $1,001 - $15,000 gfedcb
+Stock (GOOG) [ST]
+FIlING STATuS: New
+SubhOldING OF: Perry IRA
+SP Amazon.com, Inc. (AMZN) [ST] S 01/20/2021 01/20/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SubhOldING OF: Perry IRA
+JT Amazon.com, Inc. (AMZN) [ST] S 01/20/2021 01/20/2021 $15,001 - gfedcb
+$50,000
+FIlING STATuS: New
+JT Apple Inc. (AAPl) [ST] S 01/20/2021 01/20/2021 $15,001 - gfedcb
+$50,000
+FIlING STATuS: New
+SP Apple Inc. (AAPl) [ST] S 01/20/2021 01/20/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubhOldING OF: Perry IRA
+JT bank of America Corporation P 01/21/2021 01/21/2021 $1,001 - $15,000 gfedc
+(bAC) [ST]
+FIlING STATuS: New
+SP broadcom Inc. (AVGO) [ST] P 01/22/2021 01/22/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+SubhOldING OF: Perry IRA
+JT Caterpillar, Inc. (CAT) [ST] P 01/21/2021 01/21/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+SP Coca-Cola Company (KO) [ST] P 01/22/2021 01/22/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+SubhOldING OF: Perry IRA
+JT CRISPR Therapeutics AG - P 01/21/2021 01/21/2021 $1,001 - $15,000 gfedc
+Common Shares (CRSP) [ST]
+FIlING STATuS: New
+JT draftKings Inc. - Class A (dKNG) P 01/21/2021 01/21/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlING STATuS: New
+SP Facebook, Inc. - Class A (Fb) [ST] S 01/20/2021 01/20/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SubhOldING OF: Perry IRA
+JT Facebook, Inc. - Class A (Fb) [ST] S 01/20/2021 01/20/2021 $15,001 - gfedcb
+$50,000
+FIlING STATuS: New
+JT Gilead Sciences, Inc. (GIld) [ST] P 01/21/2021 01/21/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+SP Goldman Sachs Group, Inc. (GS) P 01/22/2021 01/22/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlING STATuS: New
+SubhOldING OF: Perry IRA
+JT J.M. Smucker Company (SJM) P 01/21/2021 01/21/2021 $1,001 - $15,000 gfedc
+[ST]
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlING STATuS: New
+JT lockheed Martin Corporation P 01/21/2021 01/21/2021 $1,001 - $15,000 gfedc
+(lMT) [ST]
+FIlING STATuS: New
+JT lululemon athletica inc. (lulu) P 01/21/2021 01/21/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlING STATuS: New
+SP lululemon athletica inc. (lulu) P 01/22/2021 01/22/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlING STATuS: New
+SubhOldING OF: Perry IRA
+JT Medical Marijuana, Inc. (MJNA) S 02/05/2021 02/05/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlING STATuS: New
+SP PagSeguro digital ltd. Class A P 01/22/2021 01/22/2021 $1,001 - $15,000 gfedc
+Common Shares (PAGS) [ST]
+FIlING STATuS: New
+SubhOldING OF: Perry IRA
+JT PagSeguro digital ltd. Class A P 01/21/2021 01/21/2021 $1,001 - $15,000 gfedc
+Common Shares (PAGS) [ST]
+FIlING STATuS: New
+JT Penn National Gaming, Inc. P 01/21/2021 01/21/2021 $1,001 - $15,000 gfedc
+(PENN) [ST]
+FIlING STATuS: New
+SP Penn National Gaming, Inc. P 01/22/2021 01/22/2021 $1,001 - $15,000 gfedc
+(PENN) [ST]
+FIlING STATuS: New
+SubhOldING OF: Perry IRA
+JT ServiceNow, Inc. (NOW) [ST] P 01/21/2021 01/21/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+JT Softbank Corp unsponsored AdR P 01/21/2021 01/21/2021 $1,001 - $15,000 gfedc
+(SFTbY) [ST]
+FIlING STATuS: New
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Taiwan Semiconductor P 01/22/2021 01/22/2021 $1,001 - $15,000 gfedc
+Manufacturing Company ltd.
+(TSM) [ST]
+FIlING STATuS: New
+SubhOldING OF: Perry IRA
+SP Tesla, Inc. (TSlA) [ST] P 01/22/2021 01/22/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+SubhOldING OF: Perry IRA
+JT Walmart Inc. (WMT) [ST] P 01/21/2021 01/21/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Perry IRA (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Mrs. Marjorie Taylor Greene , 02/19/2021

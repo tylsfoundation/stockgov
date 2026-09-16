@@ -1,0 +1,208 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Michael Patrick Guest
+Status: Member
+State/District:MS03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP AbbVie Inc. (ABBV) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Airbnb, Inc. - Class A (ABNB) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Allstate Corporation (ALL) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Amazon.com, Inc. (AMZN) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Apple Inc. (AAPL) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP AT&T Inc. (T) [ST] S 08/01/202308/04/2023$1,001 - $15,000
+F S: New
+S O: KINV - CP
+SP AT&T Inc. (T) [ST] S 08/01/202308/07/2023$1,001 - $15,000
+F S: New
+Filing ID #20023442
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Trust - KF19
+SP Chevron Corporation (CVX) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Chord Energy Corporation (CHRD)
+[ST]
+P 08/04/202308/07/2023$15,001 -
+$50,000
+F S: New
+S O: TR - SP
+SP e.l.f. Beauty, Inc. (ELF) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Exxon Mobil Corporation (XOM) [ST]P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP General Dynamics Corporation (GD)
+[ST]
+P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Johnson & Johnson (JNJ) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP JP Morgan Chase & Co. (JPM) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Kinder Morgan, Inc. (KMI) [ST] S 08/01/202308/04/2023$15,001 -
+$50,000
+F S: New
+S O: KINV - CP
+SP Lafayette Cnty Miss Go Pub IMPT
+BDS 2023 DUE 06/01/2043
+04.000% (506120KP8) [GS]
+P 08/01/202308/07/2023$15,001 -
+$50,000
+F S: New
+S O: Trust - KF19
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Lincoln National Corporation (LNC)
+[ST]
+P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Lowe's Companies, Inc. (LOW) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP McDonald's Corporation (MCD) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Medtronic plc. Ordinary Shares
+(MDT) [ST]
+P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Microsoft Corporation (MSFT) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP MISSISSIPPI DEV BK SPL OBLIG
+BDS 2018 (DUE 10/01/2037
+03.750%) [GS]
+P 08/09/202308/15/2023$15,001 -
+$50,000
+F S: New
+S O: Trust - KF19
+SP Mississippi St Univ Edl Bldg C REV
+BDS 2015 DUE 11/01/2044 04.000%
+(605699PU5) [GS]
+P 08/01/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP NextEra Energy, Inc. (NEE) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP NVIDIA Corporation (NVDA) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Oracle Corporation (ORCL) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Trust - KF19
+SP Permian Resources Corporation Class
+A (PR) [ST]
+P 08/09/202308/15/2023$1,001 - $15,000
+F S: New
+S O: TR - SP
+SP Southwest Gas Holdings, Inc.
+Common Stock (SWX) [ST]
+P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Tesla, Inc. (TSLA) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Tractor Supply Company (TSCO) [ST]P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Uber Technologies, Inc. (UBER) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Univ Mississippi MS Eductnl BLDG
+CORP REV CAMPUS IMPT DUE
+11/01/2039 04.000% (914476PV2)
+[GS]
+P 08/01/202308/07/2023$50,001 -
+$100,000
+F S: New
+S O: Trust - KF19
+SP Univ Southern Mississippi ED BLDG
+CORP REV REF BDS 2017 DUE
+03/01/2043 04.000% (784532JF1)
+[GS]
+P 08/01/202308/07/2023$15,001 -
+$50,000
+F S: New
+S O: Trust - KF19
+SP Valero Energy Corporation (VLO)
+[ST]
+P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Walmart Inc. (WMT) [ST] P 08/07/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Warner Bros. Discovery, Inc. - Series
+A (WBD) [ST]
+S 08/01/202308/07/2023$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+KINV - CP (Owner: SP)
+L: US
+TR - SP (Owner: SP)
+L: US
+Trust - KF19 (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Michael Patrick Guest , 08/23/2023

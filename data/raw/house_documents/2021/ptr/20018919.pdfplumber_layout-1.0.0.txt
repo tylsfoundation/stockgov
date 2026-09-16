@@ -1,0 +1,228 @@
+[[PAGE 1]]
+Filing ID #20018919
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Kevin Hern
+Status: Member
+State/District: OK01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Accenture plc Class A Ordinary P 05/14/2021 05/15/2021 $1,001 - $15,000 gfedc
+Shares (ACN) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Buy
+DC AdaptHealth Corp. - Class A P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+(AHCO) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Kelby Austin Hern Trust
+DESCRIPTION: Buy
+DC AdaptHealth Corp. - Class A P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+(AHCO) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Kaden Everett Hern Trust
+DESCRIPTION: buy
+DC AdaptHealth Corp. - Class A P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+(AHCO) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Gabrielle Ashtyn Hern Trust
+DESCRIPTION: buy
+JT Adobe Inc. (ADBE) [ST] P 05/20/2021 05/21/2021 $250,001 - gfedc
+$500,000
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: buy
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DC Boston Scientific Corporation P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+(BSX) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Kelby Austin Hern Trust
+DESCRIPTION: buy open
+DC Boston Scientific Corporation P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+(BSX) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Kaden Everett Hern Trust
+DESCRIPTION: buy open
+DC Boston Scientific Corporation P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+(BSX) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Gabrielle Ashtyn Hern Trust
+DESCRIPTION: Buy open
+JT Cadence Design Systems, Inc. P 05/26/2021 05/27/2021 $100,001 - gfedc
+(CDNS) [ST] $250,000
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: buy
+DC CareCloud, Inc. (MTBC) [ST] P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Kelby Austin Hern Trust
+DESCRIPTION: buy
+DC CareCloud, Inc. (MTBC) [ST] P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Kaden Everett Hern Trust
+DESCRIPTION: buy
+DC CareCloud, Inc. (MTBC) [ST] P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Gabrielle Ashtyn Hern Roth IRA
+DESCRIPTION: buy
+JT CareCloud, Inc. (MTBC) [ST] P 05/20/2021 05/21/2021 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTION: buy
+JT Emerson Electric Company (EMR) P 05/18/2021 05/19/2021 $250,001 - gfedc
+[ST] $500,000
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Buy
+DC Exact Sciences Corporation P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+(EXAS) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Kelby Austin Hern Trust
+DESCRIPTION: buy
+DC Exact Sciences Corporation P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+(EXAS) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Kaden Everett Hern Trust
+DESCRIPTION: buy
+DC Exact Sciences Corporation P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+(EXAS) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Gabrielle Ashtyn Hern Roth IRA
+DESCRIPTION: buy
+JT Exact Sciences Corporation P 05/20/2021 05/21/2021 $50,001 - gfedc
+(EXAS) [ST] $100,000
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Buy
+JT Freeport-McMoRan, Inc. (FCX) P 05/18/2021 05/19/2021 $100,001 - gfedc
+[ST] $250,000
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: buy
+JT Honeywell International Inc. P 05/18/2021 05/19/2021 $250,001 - gfedc
+(HON) [ST] $500,000
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: buy
+JT ICON plc - Ordinary Shares (ICLR) P 05/18/2021 05/19/2021 $100,001 - gfedc
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+[ST] $250,000
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Buy
+JT IQVIA Holdings, Inc. (IQV) [ST] P 05/18/2021 05/19/2021 $100,001 - gfedc
+$250,000
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Buy
+DC IQVIA Holdings, Inc. (IQV) [ST] P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Kelby Austin Hern Trust
+DESCRIPTION: Buy
+DC IQVIA Holdings, Inc. (IQV) [ST] P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Kaden Everett Hern Trust
+DESCRIPTION: Buy
+DC IQVIA Holdings, Inc. (IQV) [ST] P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Gabrielle Ashtyn Hern Trust
+DESCRIPTION: Buy
+JT Magellan Midstream Partners L.P. P 05/14/2021 05/15/2021 $1,001 - $15,000 gfedc
+Limited Partnership (MMP) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Reinvest ROC
+JT NextEra Energy, Inc. (NEE) [ST] P 05/18/2021 05/19/2021 $250,001 - gfedc
+$500,000
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Buy
+JT ONEOK, Inc. (OKE) [ST] P 05/26/2021 05/27/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: reinvested dividends
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT O'Reilly Automotive, Inc. (ORLY) P 05/18/2021 05/19/2021 $100,001 - gfedc
+[ST] $250,000
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Buy
+JT Progress Software Corporation P 05/26/2021 05/27/2021 $50,001 - gfedc
+(PRGS) [ST] $100,000
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Buy
+JT PTC Inc. (PTC) [ST] P 05/26/2021 05/27/2021 $50,001 - gfedc
+$100,000
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Buy
+JT Rockwell Automation, Inc. (ROK) P 05/18/2021 05/19/2021 $250,001 - gfedc
+[ST] $500,000
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: buy
+JT Texas Instruments Incorporated P 05/17/2021 05/18/2021 $1,001 - $15,000 gfedc
+(TXN) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Dividend Reinvestment
+JT Vuzix Corporation (VUZI) [ST] P 05/18/2021 05/19/2021 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUBHOLDING OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Buy
+DC Vuzix Corporation (VUZI) [ST] P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Kelby Austin Hern Trust
+DESCRIPTION: Buy
+DC Vuzix Corporation (VUZI) [ST] P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Kaden Everett Hern Trust
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTION: Buy
+DC Vuzix Corporation (VUZI) [ST] P 05/20/2021 05/21/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Gabrielle Ashtyn Hern Trust
+DESCRIPTION: Buy
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Gabrielle Ashtyn Hern Roth IRA (Owner: DC)
+DESCRIPTION: Ashtyn's Roth IRA
+Gabrielle Ashtyn Hern Trust (100% Interest) (Owner: DC)
+DESCRIPTION: Revocable Trust Account fbo Gabrielle Ashtyn Hern
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+DESCRIPTION: Family Revocable Trust
+Hern Family Revocable Trust ⇒ Brokerage Investment Account (100% Interest) (Owner: JT)
+LOCATION: US
+DESCRIPTION: Stock, Bonds, EFTs, & Mutual funds
+Kaden Everett Hern Trust (Owner: DC)
+Kelby Austin Hern Trust (Owner: DC)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 06/15/2021

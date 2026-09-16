@@ -1,0 +1,563 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Lisa McClain
+Status: Member
+State/District:MI09
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Agree Realty Corporation Common
+Stock (ADC) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Air Products and Chemicals, Inc.
+Common Stock (APD) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Albertsons Companies, Inc. Class A
+Common Stock (ACI) [ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Align Technology, Inc. - Common
+Stock (ALGN) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+S (partial) 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+Filing ID #20032129
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP American Homes 4 Rent Common
+Shares of Beneficial Interest (AMH)
+[ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Amgen Inc. - Common Stock (AMGN)
+[ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Apple Inc. - Common Stock (AAPL)
+[ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP ASML Holding N.V. - New York
+Registry Shares (ASML) [ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Baxter International Inc. Common
+Stock (BAX) [ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Beacon Financial Corporation
+Common stock (BBT) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP BHP Group Limited American
+Depositary Shares (BHP) [ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Boise Cascade, L.L.C. Common Stock
+(BCC) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP British American Tobacco Industries,
+p.l.c. Common Stock ADR (BTI) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Burlington Stores, Inc. Common
+Stock (BURL) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Carrier Global Corporation Common
+Stock (CARR) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Church & Dwight Company, Inc.
+Common Stock (CHD) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Cintas Corporation - Common Stock
+(CTAS) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Coca-Cola Company (KO) [ST] P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Colgate-Palmolive Company Common
+Stock (CL) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Commvault Systems, Inc. - Common
+Stock (CVLT) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Concentra Group Holdings Parent,
+Inc. Common Stock (CON) [ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Concentra Group Holdings Parent,
+Inc. Common Stock (CON) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Constellation Brands, Inc. Common
+Stock (STZ) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Core & Main, Inc. Class A Common
+Stock (CNM) [ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP CoStar Group, Inc. - Common Stock
+(CSGP) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Danaher Corporation Common Stock
+(DHR) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Darden Restaurants, Inc. Common
+Stock (DRI) [ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Diageo plc Common Stock (DEO) [ST]S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Diageo plc Common Stock (DEO) [ST]P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Dolby Laboratories Common Stock
+(DLB) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Dolby Laboratories Common Stock
+(DLB) [ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Domino's Pizza Inc - Common StockS 09/25/202510/01/2025$1,001 - $15,000
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(DPZ) [ST]
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Dynatrace, Inc. Common Stock (DT)
+[ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Dynatrace, Inc. Common Stock (DT)
+[ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Essential Utilities, Inc. Common
+Stock (WTRG) [ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Exponent, Inc. - Common Stock
+(EXPO) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Flowers Foods, Inc. Common Stock
+(FLO) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP FMC Corporation Common Stock
+(FMC) [ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Freeport-McMoRan, Inc. Common
+Stock (FCX) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP FTI Consulting, Inc. Common Stock
+(FCN) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Gartner, Inc. Common Stock (IT) [ST]P 09/11/202510/01/2025$1,001 - $15,000
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Getty Realty Corporation Common
+Stock (GTY) [ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Graphic Packaging Holding Company
+(GPK) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP HCA Healthcare, Inc. Common Stock
+(HCA) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP HDFC Bank Limited Common Stock
+(HDB) [ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP HDFC Bank Limited Common Stock
+(HDB) [ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Hormel Foods Corporation Common
+Stock (HRL) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Hormel Foods Corporation Common
+Stock (HRL) [ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Humana Inc. Common Stock (HUM)
+[ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Ingredion Incorporated Common
+Stock (INGR) [ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Intuit Inc. - Common Stock (INTU)
+[ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Kenvue Inc. Common Stock (KVUE)
+[ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Keurig Dr Pepper Inc. (KDP) [ST] S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Li Auto Inc. - American Depositary
+Shares (LI) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Louisiana-Pacific Corporation
+Common Stock (LPX) [ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP ManpowerGroup Common Stock
+(MAN) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP ManpowerGroup Common Stock
+(MAN) [ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Maplebear Inc. - Common Stock
+(CART) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Merit Medical Systems, Inc. -
+Common Stock (MMSI) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP MGP Ingredients, Inc. - Common
+Stock (MGPI) [ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S (partial) 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP NatWest Group plc American
+Depositary Shares, (NWG) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP NetEase, Inc. - American Depositary
+Shares, each representing 5 ordinary
+shares (NTES) [ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Novartis AG Common Stock (NVS)
+[ST]
+S (partial) 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Novartis AG Common Stock (NVS)
+[ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Novo Nordisk A/S Common Stock
+(NVO) [ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP OGE Energy Corp Common Stock
+(OGE) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Option Care Health, Inc. - Common
+Stock (OPCH) [ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP PayPal Holdings, Inc. - Common
+Stock (PYPL) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Qualys, Inc. - Common Stock (QLYS)
+[ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Reliance, Inc. Common Stock (RS)
+[ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Rollins, Inc. Common Stock (ROL)
+[ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Ryman Hospitality Properties, Inc.
+(RHP) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Sanofi - American Depositary Shares
+(SNY) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP SAP SE ADS (SAP) [ST] P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP SBA Communications Corporation -
+Class A Common Stock (SBAC) [ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP SBA Communications Corporation -
+Class A Common Stock (SBAC) [ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Schlumberger N.V. Common Stock
+(SLB) [ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Schneider National, Inc. Common
+Stock (SNDR) [ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Science Applications International
+Corporation - Common Stock (SAIC)
+[ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Seagate Technology Holdings PLC -
+Ordinary Shares (STX) [ST]
+P 09/08/202510/01/2025$15,001 -
+$50,000
+F S: New
+S O: Charles Schwab 401K > Schwab 824
+SP SpaceX [PS] P 09/12/202510/06/2025$100,001 -
+$250,000
+F S: New
+L: US
+D: Purchase of SpaceX Private Stock.
+SP Sprouts Farmers Market, Inc. -
+Common Stock (SFM) [ST]
+P 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Synopsys, Inc. - Common Stock
+(SNPS) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Tesla, Inc. - Common Stock (TSLA)
+[ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Texas Roadhouse, Inc. - Common
+Stock (TXRH) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP TotalEnergies SE (TTE) [ST] S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Tyler Technologies, Inc. Common
+Stock (TYL) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Unilever PLC Common Stock (UL)
+[ST]
+P 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP Unilever PLC Common Stock (UL)
+[ST]
+S 09/25/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+SP United Parcel Service, Inc. Common
+Stock (UPS) [ST]
+S 09/11/202510/01/2025$1,001 - $15,000
+F S: New
+S O: Charles Schwab Brokerage Account 924
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Charles Schwab 401K (Owner: SP)
+Charles Schwab 401K ⇒ Schwab 824 (Owner: SP)
+Charles Schwab Brokerage Account 924 (Owner: SP)
+D: Three accounts were consolidated into this account in 2025.
+I P O
+Yes No
+C S
+[[PAGE 12]]
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lisa McClain , 10/22/2025

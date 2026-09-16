@@ -1,0 +1,60 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Michael Patrick Guest
+Status: Member
+State/District:MS03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Airbnb, Inc. - Class A Common Stock
+(ABNB) [ST]
+S 12/16/202508/13/2026$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP Chevron Corporation Common Stock
+(CVX) [ST]
+S 12/16/202508/13/2026$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP e.l.f. Beauty, Inc. Common Stock
+(ELF) [ST]
+S 12/16/202508/13/2026$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+SP ExxonMobil Holdings Corporation
+Common Stock (XOM) [ST]
+E 07/02/202608/04/2026$1,001 - $15,000
+F S: New
+S O: Trust - KF19
+D: Shares surrendered through name change
+SP ExxonMobil Holdings Corporation
+Common Stock (XOM) [ST]
+E 07/02/202608/04/2026$1,001 - $15,000
+F S: New
+S O: KINV - CP
+D: Shares surrendered through name change
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+Filing ID #20035130
+[[PAGE 2]]
+I V D
+KINV - CP (Owner: SP)
+L: US
+Trust - KF19 (Owner: SP)
+C
+On 8/13/26, I learned that a family trust made three stock sales on 12/16/25 that should have been reported as periodic transactions. A
+compliance firm missed them, discovering the oversight while preparing my annual House disclosure. I have no role in trust decisions &
+was not consulted on these trades but must report because my wife & children are partial beneficiaries. All sales were at a loss. I notified
+Ethics staff & reported on 8/14/26, & have initiated additional compliance review.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Michael Patrick Guest , 08/14/2026

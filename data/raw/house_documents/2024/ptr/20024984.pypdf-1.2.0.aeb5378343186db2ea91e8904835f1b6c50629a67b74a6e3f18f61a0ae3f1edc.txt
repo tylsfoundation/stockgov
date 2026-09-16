@@ -1,0 +1,117 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Earl Blumenauer
+Status: Member
+State/District:OR03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Blackstone Inc. Common Stock (BX)
+[ST]
+S (partial) 04/04/202405/03/2024$1,001 - $15,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+SP Caterpillar, Inc. Common Stock (CAT)
+[ST]
+S (partial) 04/04/202405/03/2024$1,001 - $15,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+SP Embraer S.A. Common Stock (ERJ)
+[ST]
+S (partial) 04/04/202405/03/2024$1,001 - $15,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+SP Kroger Company (KR) [ST] S 04/04/202405/03/2024$1,001 - $15,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+SP Magna International, Inc. Common
+Stock (MGA) [ST]
+S 04/04/202405/03/2024$1,001 - $15,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+SP McKesson Corporation Common
+Stock (MCK) [ST]
+S (partial) 04/04/202405/03/2024$15,001 -
+$50,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+Filing ID #20024984
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Nike, Inc. Common Stock (NKE) [ST] P 04/04/202405/03/2024$15,001 -
+$50,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+SP Quest Diagnostics Incorporated
+Common Stock (DGX) [ST]
+S 04/04/202405/03/2024$1,001 - $15,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+SP RTX Corporation Common Stock
+(RTX) [ST]
+P 04/04/202405/03/2024$1,001 - $15,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+SP Southern Company (SO) [ST] P 04/04/202405/03/2024$15,001 -
+$50,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+SP TE Connectivity Ltd. New Switzerland
+Registered Shares (TEL) [ST]
+S 04/04/202405/03/2024$15,001 -
+$50,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+SP The Goldman Sachs Var 33 Due
+02/24/33 [CS]
+P 04/04/202405/03/2024$15,001 -
+$50,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+US Treasury Bill 24 Due 06/13/24
+[GS]
+P 04/30/202405/03/2024$15,001 -
+$50,000
+F S: New
+US Treasury Bill24 Due 07/25/24
+[GS]
+P 04/30/202405/03/2024$15,001 -
+$50,000
+F S: New
+SP Visa Inc. (V) [ST] P 04/04/202405/03/2024$1,001 - $15,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+SP Wells Fargo & Co Var 29 Due
+07/25/29 [CS]
+P 04/04/202405/03/2024$15,001 -
+$50,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+D: Part of my spouse's retirement portfolio.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Earl Blumenauer , 05/04/2024

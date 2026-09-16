@@ -1,0 +1,162 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kathy Manning
+Status: Member
+State/District:NC06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Citizens Financial Group, Inc. (CFG)
+[ST]
+S 12/12/202301/02/2024$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP Citizens Financial Group, Inc. (CFG)
+[ST]
+S 12/12/202301/02/2024$15,001 - $50,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Citizens Financial Group, Inc. (CFG)
+[ST]
+S 12/12/202301/02/2024$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Estee Lauder Companies, Inc. (EL)
+[ST]
+S 12/12/202301/02/2024$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP Estee Lauder Companies, Inc. (EL)
+[ST]
+S 12/12/202301/02/2024$15,001 - $50,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Estee Lauder Companies, Inc. (EL)
+[ST]
+S 12/12/202301/02/2024$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+Filing ID #20024231
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP J. Goldman, L.P. [HN] P 01/01/202401/02/2024$100,001 -
+$250,000
+F S: New
+S O: 2021 Kathy E. Manning Irrevocable GST Trust FBO Randall R Kaplan & Descendants > Randall Robert
+Kaplan Alaska LLC
+D: Hedge fund. Fund manager letter on file with the Committee on Ethics.
+J. Goldman, L.P. [HN] P 01/01/202401/02/2024$500,001 -
+$1,000,000
+F S: New
+S O: Randall R. Kaplan Irrevocable GST FBO Kathy Manning & Descendants > Randall Robert Kaplan Alaska
+LLC
+D: Hedge fund. Fund manager letter on file with the Committee on Ethics.
+SP Medtronic plc. Ordinary Shares
+(MDT) [ST]
+S 12/12/202301/02/2024$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Medtronic plc. Ordinary Shares
+(MDT) [ST]
+S 12/12/202301/02/2024$15,001 - $50,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Medtronic plc. Ordinary Shares
+(MDT) [ST]
+S 12/12/202301/02/2024$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP PayPal Holdings, Inc. (PYPL) [ST] S 12/12/202301/02/2024$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP PayPal Holdings, Inc. (PYPL) [ST] S 12/12/202301/02/2024$15,001 - $50,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP PayPal Holdings, Inc. (PYPL) [ST] S 12/12/202301/02/2024$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Pfizer, Inc. (PFE) [ST] S 12/12/202301/02/2024$1,001 - $15,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Pfizer, Inc. (PFE) [ST] S 12/12/202301/02/2024$15,001 - $50,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Pfizer, Inc. (PFE) [ST] S 12/12/202301/02/2024$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP Seven Bridges Multi-Strategy Fund
+LP [HN]
+S 12/31/202301/02/2024Spouse/DC Over
+$1,000,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust
+D: Investment Company. Fund manager letter on file with the Committee on Ethics.
+SP Seven Bridges Multi-Strategy Fund
+Series [HN]
+S (partial) 12/31/202301/02/2024$100,001 -
+$250,000
+F S: New
+S O: 2021 Kathy E. Manning Irrevocable GST Trust FBO Randall R Kaplan & Descendants > Randall Robert
+Kaplan Alaska LLC
+D: Hedge fund. Fund manager letter on file with the Committee on Ethics.
+Seven Bridges Multi-Strategy Fund
+Series [HN]
+S (partial) 12/31/202301/02/2024$500,001 -
+$1,000,000
+F S: New
+S O: Randall R. Kaplan Irrevocable GST FBO Kathy Manning & Descendants > Randall Robert Kaplan Alaska
+LLC
+D: Hedge fund. Fund manager letter on file with the Committee on Ethics.
+SP Walt Disney Company (DIS) [ST] S 12/12/202301/02/2024$15,001 - $50,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Walt Disney Company (DIS) [ST] S 12/12/202301/02/2024$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP Walt Disney Company (DIS) [ST] S 12/12/202301/02/2024$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+[[PAGE 4]]
+A C D
+2021 Kathy E. Manning Irrevocable GST Trust FBO Randall R Kaplan & Descendants (Owner: SP)
+2021 Kathy E. Manning Irrevocable GST Trust FBO Randall R Kaplan & Descendants ⇒ Randall Robert Kaplan Alaska LLC (Owner:
+SP)
+Kathy Manning GST FBO Randall Kaplan (Owner: SP)
+Kathy Manning GST FBO Randall Kaplan ⇒ ManKap Family LLC (Owner: SP)
+L: US
+Kathy Manning GST FBO Randall Kaplan ⇒ ManKap Family LLC ⇒ MV Capital - Brokerage #2 (Owner: SP)
+L: US
+MV Capital - GST Exempt Trust #2 (Owner: SP)
+Randall R. Kaplan Irrevocable GST FBO Kathy Manning & Descendants
+Randall R. Kaplan Irrevocable GST FBO Kathy Manning & Descendants ⇒ Randall Robert Kaplan Alaska LLC
+The 2011 Randall R. Kaplan Living Trust (Owner: SP)
+The 2011 Randall R. Kaplan Living Trust ⇒ MV Capital - Brokerage #2 (Owner: SP)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kathy Manning , 01/12/2024

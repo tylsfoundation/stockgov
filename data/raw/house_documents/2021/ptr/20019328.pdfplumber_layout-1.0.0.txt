@@ -1,0 +1,62 @@
+[[PAGE 1]]
+Filing ID #20019328
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Austin Scott
+Status: Member
+State/District: GA08
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+ballard Power Systems, Inc. - P 08/10/2021 08/10/2021 $1,001 - $15,000 gfedc
+Common Shares (blDP) [ST]
+FIlING STATuS: New
+FuelCell Energy, Inc. (FCEl) [ST] S (partial) 07/16/2021 07/16/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+Katapult Holdings, Inc. (KPlT) P 07/08/2021 07/08/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlING STATuS: New
+Katapult Holdings, Inc. (KPlT) P 07/16/2021 07/16/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlING STATuS: New
+SP Katapult Holdings, Inc. (KPlT) P 07/16/2020 07/16/2020 $15,001 - gfedc
+[ST] $50,000
+FIlING STATuS: New
+SubHOlDING OF: Vivien G Scott IRA
+Katapult Holdings, Inc. (KPlT) P 08/13/2021 08/13/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlING STATuS: New
+Katapult Holdings, Inc. - Warrant P 08/13/2021 08/13/2021 $1,001 - $15,000 gfedc
+(KPlTW) [ST]
+FIlING STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Katapult Holdings, Inc. - Warrant P 08/10/2021 08/10/2021 $1,001 - $15,000 gfedc
+(KPlTW) [ST]
+FIlING STATuS: New
+SP Nuvve Holding Corp. (NVVE) [ST] P 07/16/2020 07/16/2020 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+SubHOlDING OF: Vivien G Scott IRA
+Nuvve Holding Corp. (NVVE) [ST] S (partial) 08/10/2021 08/10/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+Nuvve Holding Corp. (NVVE) [ST] S 08/13/2021 08/13/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+Nuvve Holding Corp. (NVVE) [ST] P 07/16/2021 07/16/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+Plug Power, Inc. (PluG) [ST] S (partial) 07/16/2021 07/16/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Vivien G Scott IRA (Owner: SP)
+DESCRIPTION: Retirement Account
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Austin Scott , 08/13/2021

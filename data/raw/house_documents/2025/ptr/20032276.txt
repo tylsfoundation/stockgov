@@ -1,0 +1,103 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Rob Bresnahan
+Status: Member
+State/District:PA08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+IWM Option [OT] P 09/15/202509/22/2025$1,001 - $15,000
+F S: New
+S O: LPL Account I
+L: US
+D: CALL ISHARES RUSSELL 2000 $175 EXP 09/19/25
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+JT IWM Option [OT] P 09/15/202509/22/2025$1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+L: US
+D: CALL ISHARES RUSSELL 2000 $175 EXP 09/19/25
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+JT QQQ Option [OT] P 09/15/202509/22/2025$1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+L: US
+D: CALL INVESCO QQQ $450 EXP 09/19/25
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+QQQ Option [OT] P 09/16/202509/22/2025$1,001 - $15,000
+Filing ID #20032276
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Kuharchik 401k
+L: US
+D: CALL INVESCO QQQ SER 1 $450 EXP 09/19/25
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+SPY Option [OT] S 09/16/202509/22/2025$1,001 - $15,000
+F S: New
+S O: KCI Holdings LLC > LPL Brokerage Account
+L: US
+D: CALL SPDR S&P 500 ETF TR $550 EXP 09/18/26
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+SPY Option [OT] P 09/16/202509/16/2025$15,001 - $50,000
+F S: New
+S O: KCI Holdings LLC > LPL Brokerage Account
+L: US
+D: CALL SPDR S&P 500 ETF TR $470 EXP 09/19/25
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+SPY Option [OT] P 09/16/202509/22/2025$15,001 - $50,000
+F S: New
+S O: Kuharchik 401k
+L: US
+D: CALL SPDR S&P 500 ETF TR $470 EXP 09/19/25
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Joint Ownership LPL Account (Owner: JT)
+L: US
+D: JTTEN account
+KCI Holdings LLC
+L: PA, US
+KCI Holdings LLC ⇒ LPL Brokerage Account
+[[PAGE 3]]
+L: US
+Kuharchik 401k
+LPL Account I
+L: US
+C
+All investment decisions related to my personal financial portfolio are delegated to professional financial advisors. I have no role in, nor am
+informed of, specific investment decisions prior to their execution. Accordingly, these transactions were planned and executed by a
+financial advisor.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Rob Bresnahan , 10/14/2025

@@ -1,0 +1,74 @@
+[[PAGE 1]]
+Filing ID #20019648
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Donald Sternoff Honorable Beyer Jr
+Status: Member
+State/District: VA08
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Berkshire Hathaway Inc. New P 10/29/2021 10/30/2021 $1,001 - $15,000 gfedc
+(BRK.B) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 5 units Berkshire Hathaway Inc Class B
+JT BLF FedFund TDDXX [CS] P 10/01/2021 10/17/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] P 10/29/2021 10/30/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] P 10/05/2021 10/17/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] S 10/04/2021 10/17/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale Blackrock Liq FDS Fed
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Franco-Nevada Corporation (FNV) S 10/04/2021 10/17/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sale 15 units Franco-Nevada Corp
+JT Impinj, Inc. (PI) [ST] P 10/04/2021 10/17/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 30 units Impinj Inc.
+JT Intellia Therapeutics, Inc. (NTLA) S 10/29/2021 10/30/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 10 units Intellia Therapeutics; capital gains $1,152
+JT LVMH Moet Hennessy Louis S 10/29/2021 10/30/2021 $1,001 - $15,000 gfedcb
+Vuitton Ordinary Shares (LVMHF)
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 10 units LVMH Moet Hennessy ADR; capital gains $379
+JT Salisbury Twp Pa Sch 2.375% S 10/05/2021 10/17/2021 $15,001 - gfedc
+04/01/2025 [gS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: called security
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Stocks, Bonds, & Mutual Funds (Owner: JT)
+LOCATION: VA, US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Donald Sternoff Honorable Beyer Jr, 10/30/2021

@@ -1,0 +1,53 @@
+[[PAGE 1]]
+Filing ID #20019056
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Andrew Garbarino
+Status: Member
+State/District: NY02
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Capital World Grow and Income S 06/03/2021 06/26/2021 $1,001 - $15,000 gfedc
+[OT]
+FILING STATUS: New
+SUbHOLDING OF: Andrew Roth IRA
+LOCATION: US
+DESCRIPTION: Sale of Mutual Fund
+Investment Company of America S 06/03/2021 06/26/2021 $1,001 - $15,000 gfedcb
+AIVSX [OT]
+FILING STATUS: New
+SUbHOLDING OF: Andrew Roth IRA
+LOCATION: US
+DESCRIPTION: Sale of Mutual
+New Perspective ANWPX [OT] S 06/03/2021 06/26/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLDING OF: Andrew Roth IRA
+LOCATION: US
+DESCRIPTION: Sale of Mutual Fund
+New World NEWFX [OT] S 06/03/2021 06/26/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLDING OF: Andrew Roth IRA
+LOCATION: US
+DESCRIPTION: Sale of Mutual Fund
+VMCCX [OT] P 06/07/2021 06/26/2021 $1,001 - $15,000 gfedc
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STATUS: New
+SUbHOLDING OF: Andrew Roth IRA
+LOCATION: US
+DESCRIPTION: Purchase of Mutual Fund
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Andrew Roth IRA
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Andrew Garbarino , 07/09/2021

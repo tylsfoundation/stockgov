@@ -1,0 +1,96 @@
+[[PAGE 1]]
+Filing ID #20020047
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Donald Sternoff Beyer Jr.
+Status: Member
+State/District: VA08
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT AIA group, Ltd. Sponsored S 12/06/2021 12/16/2021 $1,001 - $15,000 gfedc
+American Depository Receipt
+(AAgIY) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 405 units AIA group Ltd
+JT BLF FedFund TDDXX [CS] S 12/06/2021 12/16/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] P 12/01/2021 12/16/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] S 12/02/2021 12/16/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale Blackrock Liq FDS Fed
+JT CVS Health Corporation (CVS) [ST] P 12/21/2021 12/26/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: purchase 36 units CVS Health Corp common
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Fiverr International Ltd. Ordinary S 12/21/2021 12/26/2021 $1,001 - $15,000 gfedc
+Shares, no par value (FVRR) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 30 units Fiverr Intl Ltd Ordinary
+JT guardant Health, Inc. (gH) [ST] S 12/22/2021 12/26/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 35 units guardant Health Inc common
+JT iShares global Healthcare ETF P 12/22/2021 12/26/2021 $1,001 - $15,000 gfedc
+(IXJ) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: purchase 35 shares iShares S&P global Healthcare
+JT iShares U.S. Telecommunications P 12/22/2021 12/26/2021 $1,001 - $15,000 gfedc
+ETF (IYZ) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: purchase iShares US Telecommunications
+JT Nasdaq, Inc. (NDAQ) [ST] P 12/06/2021 12/16/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: five units NASDAQ Inc
+JT Novartis Ag (NVS) [ST] S 12/22/2021 12/26/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 40 units Novartis Ag Spon ADR
+JT Pittsburgh Pa Sch 3.00% 09/01/33 P 12/06/2021 12/16/2021 $15,001 - gfedc
+[gS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 30,000 units Pittsburgh PA School 3.00% 09/01/33
+JT VanEck Biotech ETF (BBH) [ST] P 12/22/2021 12/26/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: purchase 17 shares Vaneck Trust Biotech
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Verizon Communications Inc. (VZ) S 12/22/2021 12/26/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 50 units Verizon Communications
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Stocks, Bonds, & Mutual Funds (Owner: JT)
+LOCATION: VA, US
+COmmeNTS
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Donald Sternoff Beyer Jr., 01/01/2022

@@ -1,0 +1,52 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. William R. Keating
+Status: Member
+State/District:MA09
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+BOEING CO NOTE CALL MAKE
+WHOLE 3.62500% 02/01/2031 [CS]
+S 02/08/202403/11/2024$15,001 -
+$50,000
+F S: New
+S O: Bill's IRA
+D: 097023DC6
+Boeing Company (BA) [ST] S 02/28/202403/11/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+CAPITAL ONE FINL CORP NOTE
+7.62400% 10/30/2031 [CS]
+P 03/07/202403/11/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 14040HDC6
+Transdigm Group Incorporated
+Common Stock (TDG) [ST]
+P 02/28/202403/11/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+United Rentals, Inc. Common Stock
+(URI) [ST]
+S (partial) 02/28/202403/11/2024$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Filing ID #20024668
+[[PAGE 2]]
+Bill's IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. William R. Keating , 03/12/2024

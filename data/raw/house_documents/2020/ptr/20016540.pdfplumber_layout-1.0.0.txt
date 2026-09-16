@@ -1,0 +1,214 @@
+[[PAGE 1]]
+Filing ID #20016540
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. David B. McKinley
+Status: Member
+State/District: WV01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Abbott laboratories (ABT) [ST] P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT Accenture plc Class A ordinary P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+Shares (ACN) [ST]
+FIlINg STATuS: New
+Accenture plc Class A ordinary P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+Shares (ACN) [ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT Akamai Technologies, Inc. P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+(AKAM) [ST]
+FIlINg STATuS: New
+Akamai Technologies, Inc. P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+(AKAM) [ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+Alphabet Inc. - Class A (googl) P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT Alphabet Inc. - Class A (googl) P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+[ST]
+FIlINg STATuS: New
+Anthem, Inc. (ANTM) [ST] P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+Apple Inc. (AAPl) [ST] P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT Apple Inc. (AAPl) [ST] P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+JT Becton, Dickinson and Company P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+(BDX) [ST]
+FIlINg STATuS: New
+Becton, Dickinson and Company P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+(BDX) [ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+Carrier global Corporation S 04/13/2020 04/30/2020 $1,001 - $15,000 gfedc
+(CARR) [ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT Carrier global Corporation S 04/24/2020 04/30/2020 $1,001 - $15,000 gfedc
+(CARR) [ST]
+FIlINg STATuS: New
+JT Costco Wholesale Corporation P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+(CoST) [ST]
+FIlINg STATuS: New
+Costco Wholesale Corporation P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+(CoST) [ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+Ecolab Inc. (ECl) [ST] P 04/30/2020 04/30/2020 $387.85 gfedc
+FIlINg STATuS: New
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT Ecolab Inc. (ECl) [ST] P 04/30/2020 04/30/2020 $387.85 gfedc
+FIlINg STATuS: New
+JT Estee lauder Companies, Inc. (El) P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Estee lauder Companies, Inc. (El) P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+global Payments Inc. (gPN) [ST] P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+Home Depot, Inc. (HD) [ST] P 04/30/2020 04/30/2020 $440.78 gfedc
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+Jacobs Engineering group Inc. (J) P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT Jacobs Engineering group Inc. (J) P 04/30/2020 04/30/2020 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+JT Mastercard Incorporated (MA) P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Mastercard Incorporated (MA) P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+o'Reilly Automotive, Inc. (oRlY) P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT o'Reilly Automotive, Inc. (oRlY) P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+otis Worldwide Corporation S 04/13/2020 04/30/2020 $1,001 - $15,000 gfedc
+(oTIS) [ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT otis Worldwide Corporation S 04/24/2020 04/30/2020 $1,001 - $15,000 gfedc
+(oTIS) [ST]
+FIlINg STATuS: New
+JT Raytheon Technologies P 04/24/2020 04/30/2020 $1,001 - $15,000 gfedc
+Corporation (RTX) [ST]
+FIlINg STATuS: New
+Raytheon Technologies P 04/13/2020 04/30/2020 $1,001 - $15,000 gfedc
+Corporation (RTX) [ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT Raytheon Technologies P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+Corporation (RTX) [ST]
+FIlINg STATuS: New
+Raytheon Technologies P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+Corporation (RTX) [ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+Roper Technologies, Inc. (RoP) P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+S&P global Inc. (SPgI) [ST] P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT S&P global Inc. (SPgI) [ST] P 04/30/2020 04/30/2020 $15,001 - gfedc
+$50,000
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+JT Starbucks Corporation (SBuX) P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Starbucks Corporation (SBuX) P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+Sysco Corporation (SYY) [ST] P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT Thermo Fisher Scientific Inc P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+(TMo) [ST]
+FIlINg STATuS: New
+TJX Companies, Inc. (TJX) [ST] P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT TJX Companies, Inc. (TJX) [ST] P 04/30/2020 04/30/2020 $99.83 gfedc
+FIlINg STATuS: New
+Tractor Supply Company (TSCo) P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT Tractor Supply Company (TSCo) P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+JT united Technologies Corporation E 04/03/2020 04/30/2020 $15,001 - gfedc
+(uTX) [ST] $50,000
+FIlINg STATuS: New
+DESCRIPTIoN: Symbol Change from uTX to RTX , all shares of spinoff sold, see Comments below.
+united Technologies Corporation E 04/03/2020 04/30/2020 $1,001 - $15,000 gfedc
+(uTX) [ST]
+FIlINg STATuS: New
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SuBHolDINg oF: IRA's > IRA- Spouse
+DESCRIPTIoN: Symbol Change from uTX to RTX , all shares of spinoff sold, see Comments below.
+unitedHealth group Incorporated P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+Common Stock (uNH) [ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+Waste Management, Inc. (WM) P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHolDINg oF: IRA's > IRA- Spouse
+JT Waste Management, Inc. (WM) P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+IRA's
+IRA's ⇒ IRA- Spouse
+DESCRIPTIoN: Traditional Financial Investments in Jt, SP, IRA, Rollover IRA and Filer-owned are primarily managed by a third
+party Registered Investment Advisory manager who has discretion for trades.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. David B. McKinley , 05/15/2020

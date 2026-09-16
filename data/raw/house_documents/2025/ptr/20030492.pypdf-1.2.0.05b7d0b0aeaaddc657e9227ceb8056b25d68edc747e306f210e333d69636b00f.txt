@@ -1,0 +1,59 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Chellie Pingree
+Status: Member
+State/District:ME01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+United States Treasury Notes;
+3.875%; Due 1-15-26 [GS]
+P 02/05/202506/11/2025 $15,001 -
+$50,000
+F S: New
+United States Treasury Notes;
+4.125%; Due 6-15-26 [GS]
+P 02/05/202506/11/2025 $15,001 -
+$50,000
+F S: New
+United States Treasury Notes; 4.25%;
+Due 10-15-25 [GS]
+P 02/05/202506/09/2025$15,001 -
+$50,000
+F S: New
+United States Treasury Notes; 4.25%;
+Due 10-15-25 [GS]
+S 05/09/202506/09/2025$15,001 -
+$50,000
+F S: New
+United States Treasury Notes; 4.25%;
+Due 3-15-27 [GS]
+P 02/05/202506/11/2025 $15,001 -
+$50,000
+F S: New
+United States Treasury Notes;
+4.375%; Due 12-15-26 [GS]
+P 02/05/202506/11/2025 $15,001 -
+$50,000
+F S: New
+United States Treasury Notes;
+4.625%; Due 9-15-26 [GS]
+P 02/05/202506/11/2025 $15,001 -
+$50,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+Filing ID #20030492
+[[PAGE 2]]
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Chellie Pingree , 06/11/2025

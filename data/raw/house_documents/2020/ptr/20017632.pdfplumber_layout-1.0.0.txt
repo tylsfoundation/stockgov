@@ -1,0 +1,211 @@
+[[PAGE 1]]
+Filing Id #20017632
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Gilbert Cisneros
+Status: Member
+State/District: CA39
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Alliant Energy Corporation (LNT) P 11/03/2020 11/03/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Amazon.com, Inc. (AMZN) [ST] P 10/29/2020 11/03/2020 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Ameris bancorp (AbCb) [ST] P 10/29/2020 11/03/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Apple Inc. (AAPL) [ST] P 10/29/2020 11/03/2020 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+boot barn Holdings, Inc. (bOOT) P 10/19/2020 11/03/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Cboe Global Markets, Inc. (CbOE) P 11/03/2020 11/03/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Ceridian HCM Holding Inc. P 10/07/2020 11/03/2020 $1,001 - $15,000 gfedc
+(CdAY) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+CoStar Group, Inc. (CSGP) [ST] S (partial) 10/07/2020 11/03/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+E*TRAdE Financial Corporation E 10/02/2020 11/03/2020 $1,001 - $15,000 gfedc
+(ETFC) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+dESCRIPTION: Exchange of E*Trade Financial Corp. for Morgan Stanley following nontaxable merger
+Endava plc American depositary P 10/29/2020 11/03/2020 $1,001 - $15,000 gfedc
+Shares (dAVA) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Halozyme Therapeutics, Inc. P 10/22/2020 11/03/2020 $1,001 - $15,000 gfedc
+(HALO) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Helios Technologies, Inc. (HLIO) P 10/29/2020 11/03/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+IdEXX Laboratories, Inc. (IdXX) S (partial) 10/09/2020 11/03/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+IQVIA Holdings, Inc. (IQV) [ST] S (partial) 11/03/2020 11/03/2020 $15,001 - gfedcb
+$50,000
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+LHC Group - common stock S (partial) 10/29/2020 11/03/2020 $1,001 - $15,000 gfedcb
+(LHCG) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Mastercard Incorporated (MA) P 10/29/2020 11/03/2020 $15,001 - gfedc
+[ST] $50,000
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Match Group, Inc. (MTCH) [ST] P 10/09/2020 11/03/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Match Group, Inc. (MTCH) [ST] P 10/13/2020 11/03/2020 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Medpace Holdings, Inc. (MEdP) P 11/03/2020 11/03/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+MSCI Inc (MSCI) [ST] S (partial) 10/09/2020 11/03/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Netflix, Inc. (NFLX) [ST] P 10/29/2020 11/03/2020 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+New Oriental Education & S (partial) 10/09/2020 11/03/2020 $1,001 - $15,000 gfedcb
+Technology Group, Inc. Sponsored
+AdR representing 1 Ordinary Share
+(EdU) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+OceanFirst Financial Corp. (OCFC) P 11/03/2020 11/03/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Pacific Premier bancorp Inc (PPbI) P 10/29/2020 11/03/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Phreesia, Inc. (PHR) [ST] P 10/27/2020 11/03/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+PLACER CA UN HIGH SCHOOL P 10/07/2020 11/03/2020 $100,001 - gfedc
+dIST [GS] $250,000
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > Raymond James - Multi-Margin Related Account A
+PRA Group, Inc. (PRAA) [ST] S (partial) 10/19/2020 11/03/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+PRA Health Sciences, Inc. (PRAH) P 11/03/2020 11/03/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Rogers Communication, Inc. (RCI) S (partial) 11/03/2020 11/03/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Roku, Inc. - Class A (ROKU) [ST] S (partial) 10/09/2020 11/03/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Seacoast banking Corporation of P 11/03/2020 11/03/2020 $1,001 - $15,000 gfedc
+Florida (SbCF) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Silgan Holdings Inc. (SLGN) [ST] S (partial) 10/22/2020 11/03/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+SiteOne Landscape Supply, Inc. S (partial) 10/29/2020 11/03/2020 $1,001 - $15,000 gfedcb
+(SITE) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Syneos Health, Inc. - Class A S (partial) 11/03/2020 11/03/2020 $1,001 - $15,000 gfedcb
+(SYNH) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Td Ameritrade Holding E 10/06/2020 11/03/2020 $15,001 - gfedc
+Corporation (AMTd) [ST] $50,000
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+dESCRIPTION: Exchange of Td Ameritrade Holding Corp. for Charles Schwab Corp. due to nontaxable merger.
+TE Connectivity Ltd. New P 11/03/2020 11/03/2020 $1,001 - $15,000 gfedc
+Switzerland Registered Shares
+(TEL) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Trane Technologies plc (TT) [ST] S (partial) 10/09/2020 11/03/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Veracyte, Inc. (VCYT) [ST] S (partial) 10/29/2020 11/03/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Viavi Solutions Inc. (VIAV) [ST] P 10/29/2020 11/03/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Visa Inc. (V) [ST] P 10/29/2020 11/03/2020 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Webster Financial Corporation S 10/29/2020 11/03/2020 $1,001 - $15,000 gfedc
+(WbS) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+WillScot Mobile Mini Holdings S (partial) 10/22/2020 11/03/2020 $1,001 - $15,000 gfedcb
+Corp. - Class A (WSC) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Xilinx, Inc. (XLNX) [ST] S (partial) 11/03/2020 11/03/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+150 Main Street Trust
+150 Main Street Trust ⇒ Raymond James - Multi-Margin Related Account A
+LOCATION: US
+150 Main Street Trust ⇒ U.S. Trust Holdings
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Gilbert Cisneros , 11/05/2020

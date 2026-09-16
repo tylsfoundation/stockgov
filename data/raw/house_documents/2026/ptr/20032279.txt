@@ -1,0 +1,40 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Austin Scott
+Status: Member
+State/District:GA08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP GE Aerospace Common Stock (GE)
+[ST]
+S 02/17/202602/17/2026$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: sale of 33 shares of GE @ $328.035
+SP GE Vernova Inc. Common Stock
+(GEV) [ST]
+S 02/17/202602/17/2026$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: Sale of 14 share of GEV @ $823.80
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Vivien G Scott IRA (Owner: SP)
+D: Retirement Account
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Filing ID #20032279
+[[PAGE 2]]
+Digitally Signed: Hon. Austin Scott , 03/12/2026

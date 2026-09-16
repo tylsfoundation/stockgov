@@ -1,0 +1,86 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Accenture plc Class A Ordinary
+Shares (ACN) [ST]
+P 11/15/202311/16/2023 $1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT FEDL HOME LN MTG CRP
+11/6/2023 [GS]
+S 11/06/202311/07/2023 $100,001 -
+$250,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Redeemed by issuer.
+JT Marsh & McLennan Companies, Inc.
+(MMC) [ST]
+P 11/15/202311/16/2023 $1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT ONEOK, Inc. (OKE) [ST] P 11/14/202311/15/2023 $1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT ONEOK, Inc. (OKE) [ST] P 11/14/202311/15/2023 $1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+D: Dividend Reinvestment
+JT Texas Instruments IncorporatedP 11/14/202311/15/2023 $1,001 - $15,000
+Filing ID #20024104
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(TXN) [ST]
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Texas Instruments Incorporated
+(TXN) [ST]
+P 11/14/202311/15/2023 $1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+D: Dividend Reinvestment
+JT UNITED STATES TREAS BILLS
+ZERO CPN 0.00000% 11/30/2023
+[GS]
+S 11/30/202312/01/2023 $500,001 -
+$1,000,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Redeemed by issuer
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Hern Family Foundation (100% Interest) (Owner: JT)
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+D: Family Revocable Trust
+Hern Family Revocable Trust ⇒ Brokerage Investment Account (100% Interest) (Owner: JT)
+L: US
+D: Stock, Bonds, EFTs, & Mutual funds
+Kevin Hern Insurance Trust (Owner: JT)
+D: iLIT
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 12/07/2023

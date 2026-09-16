@@ -1,0 +1,117 @@
+[[PAGE 1]]
+Filing ID #20019850
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Kim Dr Schrier
+Status: Member
+State/District: WA08
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Abbott laboratories (AbT) [ST] S 10/28/2021 10/29/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT Alphabet Inc. - Class A (gOOgl) S 10/28/2021 10/29/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT Apple Inc. (AAPl) [ST] P 10/28/2021 10/29/2021 $250,001 - gfedc
+$500,000
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT becton, Dickinson and Company S 10/28/2021 10/29/2021 $1,001 - $15,000 gfedc
+(bDX) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT bristol-Myers Squibb Company S 10/28/2021 10/29/2021 $1,001 - $15,000 gfedc
+(bMY) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT brookfield Renewable Partners l.P. S 10/28/2021 10/29/2021 $1,001 - $15,000 gfedc
+(bEP) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Cisco Systems, Inc. (CSCO) [ST] S 10/28/2021 10/29/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT Cleveland-Cliffs Inc. (ClF) [ST] S 10/28/2021 10/29/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT Costco Wholesale Corporation S 10/28/2021 10/29/2021 $15,001 - gfedc
+(COST) [ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT CVS Health Corporation (CVS) S 10/28/2021 10/29/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT Donaldson Company, Inc. (DCI) S 10/28/2021 10/29/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT East West bancorp, Inc. (EWbC) S 10/28/2021 10/29/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT Eaton Corporation, PlC Ordinary S 10/28/2021 10/29/2021 $15,001 - gfedc
+Shares (ETN) [ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT Honeywell International Inc. S 10/28/2021 10/29/2021 $1,001 - $15,000 gfedc
+(HON) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT International business Machines S 10/28/2021 10/29/2021 $1,001 - $15,000 gfedc
+Corporation (IbM) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Jacobs Engineering group Inc. (J) S 10/28/2021 10/29/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT JP Morgan Chase & Co. (JPM) [ST] S 10/28/2021 10/29/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT lowe's Companies, Inc. (lOW) S 10/28/2021 10/29/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT lumen Technologies, Inc. (luMN) S 10/28/2021 10/29/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT Mesabi Trust (MSb) [ST] S 10/28/2021 10/29/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT PayPal Holdings, Inc. (PYPl) [ST] S 10/28/2021 10/29/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+JT Vmware, Inc. Common stock, Class S 10/28/2021 10/29/2021 $1,001 - $15,000 gfedc
+A (VMW) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Inherited IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Inherited IRA (Owner: JT)
+DESCRIPTION: Inherited in October, 2021.
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 4]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kim Dr Schrier , 11/18/2021

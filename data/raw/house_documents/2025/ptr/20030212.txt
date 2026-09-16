@@ -1,0 +1,162 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Rob Bresnahan
+Status: Member
+State/District:PA08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+ALLEGHENY CNTY PA HOSP DEV
+AUTH REF-UNIV PITTSBURGH
+MED CNTR [GS]
+S 03/27/202503/27/2025$100,001 -
+$250,000
+F S: New
+S O: JP Morgan Brokerage Account #4
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+S 04/03/202504/03/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+S (partial) 04/03/202504/03/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+S (partial) 03/31/202503/31/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Cloudflare, Inc. Class A Common
+Stock (NET) [ST]
+S 04/04/202504/04/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+EASTON PA AREA SCH DIST REF-
+SER A LTD TAX [GS]
+S 04/01/202504/01/2025$100,001 -
+$250,000
+F S: New
+S O: JP Morgan Brokerage Account #4
+Filing ID #20030212
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+International Business Machines
+Corporation Common Stock (IBM)
+[ST]
+P 03/26/202503/26/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Intuit Inc. - Common Stock (INTU)
+[ST]
+P 04/01/202504/01/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+S 04/02/202504/02/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 04/03/202504/03/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+monday.com Ltd. - Ordinary Shares
+(MNDY) [ST]
+P 04/01/202504/01/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Okta, Inc. - Class A Common Stock
+(OKTA) [ST]
+P 04/04/202504/04/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+PA ST HGR EDUCTNL FACS AUTH
+REV REF-UNIVERSITY OF PA [GS]
+P 04/02/202504/02/2025$50,001 -
+$100,000
+F S: New
+S O: JP Morgan Brokerage Account #4
+PA ST HGR EDUCTNL FACS AUTH
+REV UNIVOF PA HEA [GS]
+P 03/31/202503/31/2025$50,001 -
+$100,000
+F S: New
+S O: JP Morgan Brokerage Account #4
+PA ST TPK COMMN TPK REV REF-
+SER A [GS]
+P 04/02/202504/02/2025$50,001 -
+$100,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: JP Morgan Brokerage Account #4
+Reddit, Inc. Class A Common Stock
+(RDDT) [ST]
+S 04/04/202504/04/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Robinhood Markets, Inc. - Class A
+Common Stock (HOOD) [ST]
+S 04/03/202504/03/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Sandisk Corporation - Common Stock
+(SNDK) [ST]
+S 04/04/202504/04/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Shopify Inc. - Class A Subordinate
+Voting Shares (SHOP) [ST]
+S 04/03/202504/03/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Tesla, Inc. - Common Stock (TSLA)
+[ST]
+S 03/31/202503/31/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Texas Instruments Incorporated -
+Common Stock (TXN) [ST]
+P 03/31/202503/31/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Texas Instruments Incorporated -
+Common Stock (TXN) [ST]
+P 03/26/202503/26/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+JP Morgan Brokerage Account #2
+L: US
+JP Morgan Brokerage Account #4
+L: US
+[[PAGE 4]]
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Rob Bresnahan , 04/22/2025

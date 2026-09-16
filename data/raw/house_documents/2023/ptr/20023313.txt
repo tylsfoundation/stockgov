@@ -1,0 +1,34 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kathy Manning
+Status: Member
+State/District:NC06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Blackstone Inc. (BX) [ST] P 06/10/202207/13/2023$15,001 -
+$50,000
+F S: New
+S O: Charles Schwab - Edgewood Management LLC
+D: BX was purchased by Edgewood Management for $29,122 on June 10, 2022 and sold for a loss 5 days later on
+June 15, 2022 for $25,755. The sale was properly reported on the June 2022 PTR filed on July 7, 2022, but the purchase was
+inadvertently omitted due to an administrative error. The error was discovered during preparation of the 2022 Annual
+Report for timely filing on August 2, 2023.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Charles Schwab - Edgewood Management LLC (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kathy Manning , 08/02/2023
+Filing ID #20023313

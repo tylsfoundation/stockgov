@@ -1,0 +1,311 @@
+[[PAGE 1]]
+Filing Id #20017260
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Joe Courtney
+Status: Member
+State/District: CT02
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Ab global bond [OT] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP Ab High Income [OT] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP Abbott laboratories (AbT) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Alphabet Inc. - Class A (gOOgl) S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Amazon.com, Inc. (AMZN) [ST] S 08/07/2020 08/07/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP American Tower Corporation S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+(AMT) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Anthem, Inc. (ANTM) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Apple Inc. (AAPl) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP ball Corporation (bll) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP blackRock, Inc. (blK) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP brown Advantage Sustainable P 08/07/2020 08/07/2020 $15,001 - gfedc
+growth [OT] $50,000
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP brown Advantage Sustainable P 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+growth [OT]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP Calvert Equity Fund [OT] P 08/07/2020 08/07/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP Calvert uS large Cap Value P 08/07/2020 08/07/2020 $15,001 - gfedc
+Responsible Index [OT] $50,000
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP Capital One Financial Corporation S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+(COF) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Chevron Corporation (CVX) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Cisco Systems, Inc. (CSCO) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Citigroup, Inc. (C) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Constellation brands, Inc. (STZ) S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Costco Wholesale Corporation S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+(COST) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP CRA Qualified Investment Fund P 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+[OT]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP CRA Qualified Investment Fund P 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+[OT]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+dESCRIPTION: Mutual Fund
+SP danaher Corporation (dHR) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP delaware Corporate bond [OT] P 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP delaware Corporate bond [OT] P 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP delaware Small Cap Core [OT] P 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP delaware Small Cap Core Fund P 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+[OT]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP Fidelity Advisor Total bond [OT] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP Fiserv, Inc. (FISV) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP guggenheim Total Return [OT] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP Hilton Worldwide Holdings Inc. S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+(HlT) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Home depot, Inc. (Hd) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Honeywell International Inc. S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+(HON) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP ISH uSd High Yield Corporate P 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+bond [OT]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP IShares MSCI EM ESg Optimized P 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+[OT]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: ETF
+SP IShares Trust MSCI EAFE ESg P 08/07/2020 08/07/2020 $15,001 - gfedc
+Optimized [OT] $50,000
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: ETF
+SP IShares uS Treasury bond [OT] P 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP JP Morgan Chase & Co. (JPM) S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Keurig dr Pepper Inc. (KdP) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP lockheed Martin Corporation S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+(lMT) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Microchip Technology S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+Incorporated (MCHP) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Microsoft Corporation (MSFT) S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP NextEra Energy, Inc. (NEE) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Nuveen ESg large Cap Value [OT] P 08/07/2020 08/07/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP Pepsico, Inc. (PEP) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Pimco Income Fund [OT] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP Prologis, Inc. (Pld) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Ross Stores, Inc. (ROST) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Sherwin-Williams Company S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+(SHW) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP SPdR bloomberg barclays 1-3 P 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+month T-bill [OT]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: ETF
+SP Thermo Fisher Scientific Inc S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+(TMO) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP TIAA-CREF Core Impact bond P 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+[OT]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP TIAA-CREF Impact bond [OT] P 08/07/2020 08/07/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: Mutual Fund
+SP Truist Financial Corporation (TFC) S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+[ST]
+[[PAGE 8]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP union Pacific Corporation (uNP) S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Vanguard Total International P 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+bond [OT]
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+lOCATION: uS
+dESCRIPTION: ETF
+SP Visa Inc. (V) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Walmart Inc. (WMT) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Walt disney Company (dIS) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+SP Zoetis Inc. Class A (ZTS) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Rollover IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Rollover IRA (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+[[PAGE 9]]
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Joe Courtney , 08/27/2020

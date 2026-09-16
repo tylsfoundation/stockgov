@@ -1,0 +1,192 @@
+[[PAGE 1]]
+Filing ID #20018592
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Marie Newman
+Status: Member
+State/District: Il03
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP Carnival Corporation (CCl) [ST] S 02/26/2021 04/05/2021 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP Chewy, Inc. Class A (CHWY) [ST] P 03/01/2021 04/05/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+Duke Energy Corporation (DuK) S 03/29/2021 04/05/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+JT Eaton Corporation, PlC Ordinary S 02/26/2021 04/05/2021 $1,001 - $15,000 gfedcb
+Shares (ETN) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Charles Schwab JT TEN
+SP Electronic Arts Inc. (EA) [ST] P 03/22/2021 04/05/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Individual 401(K)
+SP Electronic Arts Inc. (EA) [ST] S 03/26/2021 04/05/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Individual 401(K)
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FedEx Corporation (FDX) [ST] S 03/15/2021 04/05/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP FedEx Corporation (FDX) [ST] P 03/29/2021 04/05/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Individual 401(K)
+SP FedEx Corporation (FDX) [ST] S 03/12/2021 04/05/2021 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP FedEx Corporation (FDX) [ST] P 03/15/2021 04/05/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP FedEx Corporation (FDX) [ST] S 03/19/2021 04/05/2021 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP FedEx Corporation (FDX) [ST] P 03/22/2021 04/05/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP FedEx Corporation (FDX) [ST] S 03/26/2021 04/05/2021 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP International business Machines S 03/05/2021 04/05/2021 $1,001 - $15,000 gfedc
+Corporation (IbM) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+International business Machines S 03/29/2021 04/05/2021 $1,001 - $15,000 gfedcb
+Corporation (IbM) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP Kroger Company (KR) [ST] S 03/05/2021 04/05/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+JT lemonade, Inc. (lMND) [ST] P 03/01/2021 04/05/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Charles Schwab JT TEN
+JT lemonade, Inc. (lMND) [ST] S 03/12/2021 04/05/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Charles Schwab JT TEN
+SP lemonade, Inc. (lMND) [ST] P 03/15/2021 04/05/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP lemonade, Inc. (lMND) [ST] S 03/15/2021 04/05/2021 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP Pfizer, Inc. (PFE) [ST] S 03/11/2021 04/05/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP Pfizer, Inc. (PFE) [ST] S 03/12/2021 04/05/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+JT Ryder System, Inc. (R) [ST] S 03/19/2021 04/05/2021 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOlDINg OF: Charles Schwab JT TEN
+SP Tesla, Inc. (TSlA) [OP] S 03/22/2021 04/05/2021 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+DESCRIPTION: call
+SP Tesla, Inc. (TSlA) [OP] S 03/29/2021 04/05/2021 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+[[PAGE 4]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+DESCRIPTION: call
+SP Tesla, Inc. (TSlA) [ST] P 03/29/2021 04/05/2021 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP Tesla, Inc. (TSlA) [OP] S 03/01/2021 04/05/2021 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+DESCRIPTION: call
+JT Trupanion, Inc. (TRuP) [ST] P 03/22/2021 04/05/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Charles Schwab JT TEN
+SP united Parcel Service, Inc. (uPS) P 03/15/2021 04/05/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Individual 401(K)
+SP united Parcel Service, Inc. (uPS) S 03/05/2021 04/05/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP united Parcel Service, Inc. (uPS) S 03/26/2021 04/05/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Individual 401(K)
+SP united Parcel Service, Inc. (uPS) S 03/26/2021 04/05/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP united Parcel Service, Inc. (uPS) P 03/11/2021 04/05/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP Vroom, Inc. (VRM) [ST] S 03/01/2021 04/05/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+[[PAGE 5]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Walmart Inc. (WMT) [ST] P 03/22/2021 04/05/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Charles Schwab JT TEN
+JT Walmart Inc. (WMT) [ST] S 03/23/2021 04/05/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Charles Schwab JT TEN
+JT Walt Disney Company (DIS) [ST] S 02/26/2021 04/05/2021 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Charles Schwab JT TEN
+SP Wayfair Inc. Class A (W) [ST] S 03/19/2021 04/05/2021 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP Zoom Video Communications, Inc. S 03/01/2021 04/05/2021 $1,001 - $15,000 gfedcb
+- Class A (ZM) [OP]
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+DESCRIPTION: call
+SP Zoom Video Communications, Inc. S 03/01/2021 04/05/2021 $1,001 - $15,000 gfedcb
+- Class A (ZM) [OP]
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+DESCRIPTION: call
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Charles Schwab JT TEN (Owner: JT)
+DESCRIPTION: JAMES D NEWMAN & MARIE K NEWMAN JT TEN
+Individual 401(K) (Owner: SP)
+DESCRIPTION: James D Newman Charles Schwab & Co Inc Cust James D Newman & Assoc 401(K)
+Rollover IRA
+DESCRIPTION: Marie K Newman Charles Schwab & Co Inc Cust IRA Rollover
+Rollover IRA (Owner: SP)
+DESCRIPTION: James D Newman Charles Schwab & Co Inc Cust IRA Rollover
+[[PAGE 6]]
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Marie Newman , 04/15/2021

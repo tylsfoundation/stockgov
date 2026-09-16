@@ -1,0 +1,121 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Mark Alford
+Status: Member
+State/District:MO04
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+S (partial) 03/16/202603/16/2026$1,001 - $15,000
+F S: New
+S O: Putnam Investments
+D: The full transaction included the following sales: T - 37.426 shares sold @ $27.645/share BRK/B - 3 shares
+sold @ $493.42/share SPY - 8.318 shares sold @ $670.024/share DIA - 8.426 shares sold @ $470.985/share SPYD -
+57.383 shares sold @ $46.04/share AMZN - 25 shares sold @ $209.40/share AAPL - 20.313 shares sold @ $253.45/share
+QQQ - 4.105 shares sold @ $601.68/share PYPL - 9.021 shares sold @ $47.735/share
+Apple Inc. - Common Stock (AAPL)
+[ST]
+S (partial) 03/16/202603/16/2026$1,001 - $15,000
+F S: New
+S O: Putnam Investments
+D: The full transaction included the following sales: T - 37.426 shares sold @ $27.645/share BRK/B - 3 shares
+sold @ $493.42/share SPY - 8.318 shares sold @ $670.024/share DIA - 8.426 shares sold @ $470.985/share SPYD -
+57.383 shares sold @ $46.04/share AMZN - 25 shares sold @ $209.40/share AAPL - 20.313 shares sold @ $253.45/share
+QQQ - 4.105 shares sold @ $601.68/share PYPL - 9.021 shares sold @ $47.735/share
+AT&T Inc. (T) [ST] S (partial) 03/16/202603/16/2026$1,001 - $15,000
+F S: New
+S O: Putnam Investments
+D: The full transaction included the following sales: T - 37.426 shares sold @ $27.645/share BRK/B - 3 shares
+sold @ $493.42/share SPY - 8.318 shares sold @ $670.024/share DIA - 8.426 shares sold @ $470.985/share SPYD -
+57.383 shares sold @ $46.04/share AMZN - 25 shares sold @ $209.40/share AAPL - 20.313 shares sold @ $253.45/share
+QQQ - 4.105 shares sold @ $601.68/share PYPL - 9.021 shares sold @ $47.735/share
+Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+S (partial) 03/16/202603/16/2026$1,001 - $15,000
+F S: New
+Filing ID #20034201
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Putnam Investments
+D: The full transaction included the following sales: T - 37.426 shares sold @ $27.645/share BRK/B - 3 shares
+sold @ $493.42/share SPY - 8.318 shares sold @ $670.024/share DIA - 8.426 shares sold @ $470.985/share SPYD -
+57.383 shares sold @ $46.04/share AMZN - 25 shares sold @ $209.40/share AAPL - 20.313 shares sold @ $253.45/share
+QQQ - 4.105 shares sold @ $601.68/share PYPL - 9.021 shares sold @ $47.735/share
+DIA - State Street SPDR Dow Jones
+Indust Avg ETF Trust NYSEARCA:
+DIA [OT]
+S (partial) 03/16/202603/16/2026$1,001 - $15,000
+F S: New
+S O: Putnam Investments
+L: US
+D: The full transaction included the following sales: T - 37.426 shares sold @ $27.645/share BRK/B - 3 shares
+sold @ $493.42/share SPY - 8.318 shares sold @ $670.024/share DIA - 8.426 shares sold @ $470.985/share SPYD -
+57.383 shares sold @ $46.04/share AMZN - 25 shares sold @ $209.40/share AAPL - 20.313 shares sold @ $253.45/share
+QQQ - 4.105 shares sold @ $601.68/share PYPL - 9.021 shares sold @ $47.735/share
+Invesco QQQ [OT] S (partial) 03/16/202603/16/2026$1,001 - $15,000
+F S: New
+S O: Putnam Investments
+L: US
+D: The full transaction included the following sales: T - 37.426 shares sold @ $27.645/share BRK/B - 3 shares
+sold @ $493.42/share SPY - 8.318 shares sold @ $670.024/share DIA - 8.426 shares sold @ $470.985/share SPYD -
+57.383 shares sold @ $46.04/share AMZN - 25 shares sold @ $209.40/share AAPL - 20.313 shares sold @ $253.45/share
+QQQ - 4.105 shares sold @ $601.68/share PYPL - 9.021 shares sold @ $47.735/share
+PayPal Holdings, Inc. - Common
+Stock (PYPL) [ST]
+S (partial) 03/16/202603/16/2026$1,001 - $15,000
+F S: New
+S O: Putnam Investments
+D: The full transaction included the following sales: T - 37.426 shares sold @ $27.645/share BRK/B - 3 shares
+sold @ $493.42/share SPY - 8.318 shares sold @ $670.024/share DIA - 8.426 shares sold @ $470.985/share SPYD -
+57.383 shares sold @ $46.04/share AMZN - 25 shares sold @ $209.40/share AAPL - 20.313 shares sold @ $253.45/share
+QQQ - 4.105 shares sold @ $601.68/share PYPL - 9.021 shares sold @ $47.735/share
+SPDR S&P 500 Buyback ETF (SPYB)
+[ST]
+S (partial) 03/16/202603/16/2026$1,001 - $15,000
+F S: New
+S O: Putnam Investments
+D: The full transaction included the following sales: T - 37.426 shares sold @ $27.645/share BRK/B - 3 shares
+sold @ $493.42/share SPY - 8.318 shares sold @ $670.024/share DIA - 8.426 shares sold @ $470.985/share SPYD -
+57.383 shares sold @ $46.04/share AMZN - 25 shares sold @ $209.40/share AAPL - 20.313 shares sold @ $253.45/share
+QQQ - 4.105 shares sold @ $601.68/share PYPL - 9.021 shares sold @ $47.735/share
+SPDR S&P 500 Buyback ETF (SPYB)
+[ST]
+S (partial) 03/16/202603/16/2026$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Putnam Investments
+D: The full transaction included the following sales: T - 37.426 shares sold @ $27.645/share BRK/B - 3 shares
+sold @ $493.42/share SPY - 8.318 shares sold @ $670.024/share DIA - 8.426 shares sold @ $470.985/share SPYD -
+57.383 shares sold @ $46.04/share AMZN - 25 shares sold @ $209.40/share AAPL - 20.313 shares sold @ $253.45/share
+QQQ - 4.105 shares sold @ $601.68/share PYPL - 9.021 shares sold @ $47.735/share
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Putnam Investments
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Mark Alford , 03/31/2026

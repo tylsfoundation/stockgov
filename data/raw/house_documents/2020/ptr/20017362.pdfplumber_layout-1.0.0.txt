@@ -1,0 +1,115 @@
+[[PAGE 1]]
+Filing ID #20017362
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Carol Devine Miller
+Status: Member
+State/District: WV03
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP Abbott laboratories (ABT) [ST] P 07/28/2020 07/30/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SP AFlAC Incorporated (AFl) [ST] S 07/28/2020 07/30/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SP Altria group, Inc. (MO) [ST] S 07/28/2020 07/30/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SP Amgen Inc. (AMgN) [ST] P 07/28/2020 07/30/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SP Anheuser-Busch Inbev SA S 07/28/2020 07/30/2020 $15,001 - gfedc
+Sponsored ADR (BuD) [ST] $50,000
+FIlINg STATuS: New
+SP Beacon Roofing Supply, Inc. S 07/28/2020 07/30/2020 $1,001 - $15,000 gfedc
+(BECN) [ST]
+FIlINg STATuS: New
+SP British American Tobacco S 07/28/2020 07/30/2020 $1,001 - $15,000 gfedc
+Industries, p.l.c. Common Stock
+ADR (BTI) [ST]
+FIlINg STATuS: New
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP Chevron Corporation (CVX) [ST] P 08/04/2020 08/06/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SP Cisco Systems, Inc. (CSCO) [ST] P 07/28/2020 07/30/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SP Clorox Company (ClX) [ST] P 07/28/2020 07/30/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SP Corning Incorporated (glW) [ST] P 07/28/2020 07/30/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SP CVS Health Corporation (CVS) S 07/28/2020 07/30/2020 $15,001 - gfedcb
+[ST] $50,000
+FIlINg STATuS: New
+SP Dominion Energy, Inc. (D) [ST] P 07/28/2020 07/30/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SP Dover Corporation (DOV) [ST] P 07/28/2020 07/30/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SP Emerson Electric Company (EMR) P 07/28/2020 07/30/2020 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SP Energizer Holdings, Inc. (ENR) S 07/28/2020 07/30/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+SP Halliburton Company (HAl) [ST] S 07/28/2020 07/30/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SP Hormel Foods Corporation (HRl) P 08/04/2020 08/06/2020 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SP Iron Mountain Incorporated P 07/28/2020 07/30/2020 $15,001 - gfedc
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+(IRM) [ST] $50,000
+FIlINg STATuS: New
+SP Johnson & Johnson (JNJ) [ST] P 07/28/2020 07/30/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SP McDonald's Corporation (MCD) P 07/28/2020 07/30/2020 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SP Mondelez International, Inc. - S 07/28/2020 07/30/2020 $1,001 - $15,000 gfedcb
+Class A (MDlZ) [ST]
+FIlINg STATuS: New
+SP Procter & gamble Company (Pg) P 07/28/2020 07/30/2020 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SP Spark Energy, Inc. - Class A S 07/28/2020 07/30/2020 $15,001 - gfedc
+(SPKE) [ST] $50,000
+FIlINg STATuS: New
+SP The Kraft Heinz Company (KHC) S 07/28/2020 07/30/2020 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SP u.S. Bancorp (uSB) [ST] P 07/28/2020 07/30/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SP union Pacific Corporation (uNP) P 08/04/2020 08/06/2020 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SP Waste Management, Inc. (WM) P 07/28/2020 07/30/2020 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SP Yum China Holdings, Inc. (YuMC) S 07/28/2020 07/30/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+[[PAGE 4]]
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Carol Devine Miller , 09/14/2020

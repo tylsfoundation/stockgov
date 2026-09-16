@@ -1,0 +1,43 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Suzan K. DelBene
+Status: Member
+State/District:WA01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Illinois ST Sales Tax Rev JR Oblig
+4.00 % Due Jun 15, 2030 [GS]
+P 08/22/202308/22/2023$15,001 - $50,000
+F S: New
+SP Microsoft Corporation (MSFT) [ST] S 08/30/202308/30/2023$250,001 -
+$500,000
+F S: New
+D: Vested shares sold to separate trust not for the benefit of filer or spouse pursuant to forward contract dated
+2/9/2022.
+SP Microsoft Corporation (MSFT) [ST] S 08/31/202308/31/2023$500,001 -
+$1,000,000
+F S: New
+D: Vested shares sold to separate trust not for the benefit of filer or spouse pursuant to forward contract dated
+2/9/2022.
+JT Prince Georges CNTY MD Go
+Consolidated 5.00 % Due Jul 15, 2031
+[GS]
+P 08/28/202308/28/2023$15,001 - $50,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+Filing ID #20023610
+[[PAGE 2]]
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 09/11/2023

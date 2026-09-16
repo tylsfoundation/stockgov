@@ -1,0 +1,114 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Carol Devine Miller
+Status: Member
+State/District:WV03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Baird Aggregate Bond Fund Class
+Institutional (BAGIX) [OT]
+P 11/02/202212/05/2022$1,001 - $15,000
+F S: New
+L: US
+D: Purchased 1,030.176 Shares of BAIRD AGGREGEGATE BOND fund on 11/02/2022 at $9.33.
+Federated Hermes ETF Trust
+Federated Hermes Short Duration
+High Yield ETF (FHYS) [ST]
+P 11/02/202212/05/2022$1,001 - $15,000
+F S: New
+Fidelity Emerging Markets
+Multifactor ETF (FDEV) [ST]
+P 11/02/202212/05/2022$1,001 - $15,000
+F S: New
+Fidelity Mid Cap Index Fund
+(FSMDX) [OT]
+P 11/02/202212/05/2022$15,001 -
+$50,000
+F S: New
+L: US
+D: Purchased 880.101 shares of Fidelity Mid Cap Index Fund (FSMDX) on 11/02/2022 at $25.54.
+Fidelity Mid Cap INDX-IN$ PR
+(FSMDX) [OT]
+P 11/14/202212/05/2022$50,001 -
+$100,000
+F S: New
+L: US
+D: Purchased 2,989.177 shares Fidelity Mid Cap INDX-IN$ PR (FSMDX) on 11/14/2022 at $27.00.
+First Eagle SOGEN Global Fund #901
+(SGENX) [OT]
+P 11/02/202212/05/2022$1,001 - $15,000
+F S: New
+Filing ID #20022133
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+L: US
+D: Purchased 46.241 shares of First Eagle SOGEN Global Fund #901 on 11/02/022 at $56.17.
+iShares Core S&P Small-Cap ETF
+(IJR) [ST]
+P 11/01/202212/05/2022$1,001 - $15,000
+F S: New
+iShares MSCI EAFE ETF (EFA) [ST] P 11/14/202212/05/2022$50,001 -
+$100,000
+F S: New
+iShares MSCI EAFE International
+Index Fund (MAIIX) [OT]
+P 11/02/202212/05/2022$1,001 - $15,000
+F S: New
+L: US
+D: Purchased 1,121.016 Shares of iShares MSCI EAFE International Index Fund (MAIIX) on 11/02/2022 at
+$12.13.
+Pimco Investment Grade Corporate
+Bond Index Exchange-Traded Fund
+(CORP) [ST]
+P 11/02/202212/05/2022$1,001 - $15,000
+F S: New
+Quest Diagnostics Incorporated
+(DGX) [ST]
+P 11/14/202212/05/2022$1,001 - $15,000
+F S: New
+Schwab U.S. TIPs ETF (SCHP) [ST] P 11/01/202212/05/2022$1,001 - $15,000
+F S: New
+Target Corporation (TGT) [ST] P 11/11/202212/05/2022$1,001 - $15,000
+F S: New
+Texas Instruments Incorporated
+(TXN) [ST]
+P 11/11/202212/05/2022$15,001 -
+$50,000
+F S: New
+Vanguard Growth ETF (VUG) [ST] P 11/02/202212/05/2022$15,001 -
+$50,000
+F S: New
+Vanguard High Dividend Yield ETF
+(VYM) [ST]
+P 11/02/202212/05/2022$15,001 -
+$50,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Carol Devine Miller , 12/13/2022

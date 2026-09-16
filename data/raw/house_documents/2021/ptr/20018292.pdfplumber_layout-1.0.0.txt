@@ -1,0 +1,124 @@
+[[PAGE 1]]
+Filing ID #20018292
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Donald Sternoff Honorable Beyer Jr
+Status: Member
+State/District: VA08
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT AIA group, Ltd. Ordinary Shares P 02/08/2021 02/27/2021 $1,001 - $15,000 gfedc
+(AAIgF) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 350 units AIA group Ltd
+JT BLF FedFund TDDXX [CS] S 02/08/2021 02/27/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fedfund
+JT BLF FedFund TDDXX [CS] P 02/19/2021 02/27/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase of Blackrock Liq FDS Fedfund
+JT BLF FedFund TDDXX [CS] S 02/03/2021 02/27/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fedfund
+JT BLF FedFund TDDXX [CS] P 02/26/2021 02/27/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase of Blackrock Liq FDS Fedfund
+JT BLF FedFund TDDXX [CS] S 02/02/2021 02/27/2021 $1,001 - $15,000 gfedc
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fedfund
+JT BLF FedFund TDDXX [CS] P 02/01/2021 02/27/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase of Blackrock Liq FDS Fedfund
+JT BLF FedFund TDDXX [CS] P 02/04/2021 02/27/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase of Blackrock Liq FDS Fedfund
+JT BLF FedFund TDDXX [CS] S 02/08/2021 02/27/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fedfund
+JT BLF FedFund TDDXX [CS] P 02/25/2021 02/27/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase of Blackrock Liq FDS Fedfund
+JT BLF FedFund TDDXX [CS] S 02/22/2021 02/27/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fedfund
+JT Columbia Tenn Wtrwks Rev 5.00% P 02/05/2021 02/27/2021 $15,001 - gfedc
+12/01/32 [gS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 25,000 units Columbia Tennessee Waterworks Rev. 5.00% 12/01/32
+JT Estee Lauder Companies, Inc. (EL) S 02/19/2021 02/27/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 5 units Estee Lauder Companies Class A
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Farmington NM Pollutn Var P 02/22/2021 02/27/2021 $15,001 - gfedc
+06/01/40 [gS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 25,000 units Farmington New Mexico Pollution Var 06/01/40
+JT Fiverr International Ltd. Ordinary S 02/26/2021 02/27/2021 $1,001 - $15,000 gfedcb
+Shares, no par value (FVRR) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 10 units Fiverr Intl Ordinary
+JT goldman Sachs group, Inc. (gS) P 02/08/2021 02/27/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 5 units goldman Sachs group Inc
+JT Kadant Inc (KAI) [ST] P 02/04/2021 02/27/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 15 units Kadant Inc common
+JT NVIDIA Corporation (NVDA) [ST] S 02/04/2021 02/27/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale od 5 units of Nvidia Corp
+JT Texas Mun gas Acquisition 5.00% S 02/25/2021 02/27/2021 $15,001 - gfedc
+12/15/22 [gS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: called security Texas Municipal gas Acquisition 5.00% 12/15/22
+JT TJX Companies, Inc. (TJX) [ST] S 02/05/2021 02/27/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 50 units TJX Companies Inc.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Stocks, Bonds, & Mutual Funds (Owner: JT)
+[[PAGE 4]]
+LOCATION: VA, US
+commentS
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Donald Sternoff Honorable Beyer Jr, 02/27/2021

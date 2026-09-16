@@ -1,0 +1,66 @@
+[[PAGE 1]]
+Filing Id #20020481
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Kathy Manning
+Status: Member
+State/District: NC06
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Adobe Inc. (AdBE) [ST] P 02/18/2022 03/03/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Charles Schwab - Edgewood Management LLC
+JT Intuitive Surgical, Inc. (ISRG) [ST] P 02/23/2022 03/03/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Charles Schwab - Edgewood Management LLC
+JT Meta Platforms, Inc. - Class A (FB) S 02/18/2022 03/03/2022 $50,001 - gfedcb
+[ST] $100,000
+FILING STATUS: New
+SUBHOLdING OF: Charles Schwab - Edgewood Management LLC
+dESCRIPTION: F/K/A Facebook, Inc.
+JT Netflix, Inc. (NFLX) [ST] P 02/02/2022 03/03/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Charles Schwab - Edgewood Management LLC
+SP Next Century Spirits, LLC [OL] P 02/15/2022 02/15/2022 $100,001 - gfedc
+$250,000
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Randall R. Kaplan Living Trust > 3i SPV II LLC
+LOCATION: Raleigh, NC, US
+dESCRIPTION: Full-service distilled spirits company
+JT NVIdIA Corporation (NVdA) [ST] P 02/18/2022 03/03/2022 $1,001 - $15,000 gfedc
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STATUS: New
+SUBHOLdING OF: Charles Schwab - Edgewood Management LLC
+JT ServiceNow, Inc. (NOW) [ST] P 02/18/2022 03/03/2022 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUBHOLdING OF: Charles Schwab - Edgewood Management LLC
+SP Seven Bridges Private Equity P 02/15/2022 02/15/2022 $15,001 - gfedc
+Opportunities Fund II, LP [HN] $50,000
+FILING STATUS: New
+SUBHOLdING OF: The 2021 Kathy Manning Irrevocable GST Trust FBO Randall Kaplan
+dESCRIPTION: Private Equity. Fund manager letter on file with the Committee on Ethics.
+JT Snap Inc. Class A (SNAP) [ST] P 02/17/2022 03/03/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Charles Schwab - Edgewood Management LLC
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Charles Schwab - Edgewood Management LLC (Owner: JT)
+LOCATION: US
+The 2011 Randall R. Kaplan Living Trust (Owner: SP)
+The 2011 Randall R. Kaplan Living Trust ⇒ 3i SPV II LLC (Owner: SP)
+LOCATION: US
+The 2021 Kathy Manning Irrevocable GST Trust FBO Randall Kaplan (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kathy Manning , 03/04/2022

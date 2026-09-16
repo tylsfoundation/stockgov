@@ -58,7 +58,7 @@ local.db
 
 # Data
 # Allow all data/raw files for version control
-data/raw/house_documents/
+# House PTR PDFs are intentionally versioned for the post-ocr snapshot.
 data/raw/houseofreptrans/
 data/processed/**/*
 !data/processed/.gitkeep

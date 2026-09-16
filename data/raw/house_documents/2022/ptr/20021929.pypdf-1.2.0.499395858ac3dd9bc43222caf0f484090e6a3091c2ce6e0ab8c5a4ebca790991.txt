@@ -1,0 +1,81 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. James R. Langevin
+Status: Member
+State/District:RI02
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Airbnb, Inc. - Class A (ABNB) [ST] S 10/03/202211/02/2022$1,001 - $15,000
+F S: New
+S O: Brokerage Account
+D: Call options; Strike price $110; Expires 10/07/22
+Airbnb, Inc. - Class A (ABNB) [ST] S 10/13/202211/02/2022$1,001 - $15,000
+F S: New
+S O: Brokerage Account
+D: Call options; Strike price $118; Expires 10/21/22
+Airbnb, Inc. - Class A (ABNB) [ST] S 10/21/202211/02/2022$100,001 -
+$250,000
+F S: New
+S O: Brokerage Account
+Airbnb, Inc. - Class A (ABNB) [ST] P 10/27/202211/02/2022$100,001 -
+$250,000
+F S: New
+S O: Brokerage Account
+Airbnb, Inc. - Class A (ABNB) [ST] P 10/28/202211/02/2022$1,001 - $15,000
+F S: New
+S O: Brokerage Account
+Block, Inc. Class A Common Stock,
+(SQ) [ST]
+S 10/28/202211/02/2022$50,001 -
+$100,000
+F S: New
+S O: Brokerage Account
+Filing ID #20021929
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Block, Inc. Class A Common Stock,
+(SQ) [ST]
+S 10/20/202211/02/2022$1,001 - $15,000
+F S: New
+S O: Brokerage Account
+D: Call options; Strike price $61; Expires 10/28/22
+DoorDash, Inc. Class A (DASH) [ST] S 10/20/202211/02/2022$1,001 - $15,000
+F S: New
+S O: Brokerage Account
+D: Call options; Strike price $50; Expires 10/28/22
+Generac Holdlings Inc. (GNRC) [ST] S (partial) 10/20/202211/02/2022$15,001 -
+$50,000
+F S: New
+S O: Brokerage Account
+Generac Holdlings Inc. (GNRC) [ST] S 10/03/202211/02/2022$1,001 - $15,000
+F S: New
+S O: Brokerage Account
+D: Call options; Strike price $210; Expires 10/21/22
+PayPal Holdings, Inc. (PYPL) [ST] S 10/17/202211/02/2022$1,001 - $15,000
+F S: New
+S O: Brokerage Account
+D: Call options; Strike price $94; Expires 11/04/22
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Brokerage Account
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. James R. Langevin , 11/08/2022

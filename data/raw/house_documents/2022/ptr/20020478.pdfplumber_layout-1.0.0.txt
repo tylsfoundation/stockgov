@@ -1,0 +1,32 @@
+[[PAGE 1]]
+Filing ID #20020478
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Suzan K. DelBene
+Status: Member
+State/District: WA01
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Illinois HSg Dev Auth Rev BDS P 02/08/2022 02/08/2022 $15,001 - gfedc
+Ser. 1.70% Due 4/1/2031 [gS] $50,000
+FIlINg STATuS: New
+JT New York ST Dorm Auth Sales Tax P 02/08/2022 02/08/2022 $15,001 - gfedc
+Rev 5.00% Due 3/15/2025 [gS] $50,000
+FIlINg STATuS: New
+JT New York ST Dorm Auth ST Pers P 02/15/2022 02/15/2022 $1,001 - $15,000 gfedc
+Income 5% Due 3/15/2027 [gS]
+FIlINg STATuS: New
+JT New York ST Dorm Auth ST Pers P 02/04/2022 02/04/2022 $15,001 - gfedc
+Income 5% Due 3/15/2027 [gS] $50,000
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 02/25/2022

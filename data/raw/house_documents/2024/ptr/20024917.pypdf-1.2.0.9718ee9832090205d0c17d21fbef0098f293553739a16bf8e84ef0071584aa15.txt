@@ -1,0 +1,201 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Dan Newhouse
+Status: Member
+State/District:WA04
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Analog Devices, Inc. - Common Stock
+(ADI) [ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Bank Amer Corp Dep Sh Repstg
+1/1000th Pfd Ser I (BAC$I) [ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Booking Holdings Inc. - Common
+Stock (BKNG) [ST]
+S 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Broadcom Inc. - Common Stock
+(AVGO) [ST]
+S 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP CSX Corporation - Common Stock
+(CSX) [ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+Filing ID #20024917
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Danaher Corporation Common Stock
+(DHR) [ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Deere & Company Common Stock
+(DE) [ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Dollar General Corporation Common
+Stock (DG) [ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Elevance Health, Inc. Common Stock
+(ELV) [ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Eli Lilly and Company Common Stock
+(LLY) [ST]
+S 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Estee Lauder Companies, Inc. (EL)
+[ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP FMC Corporation Common Stock
+(FMC) [ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Fortinet, Inc. - Common Stock
+(FTNT) [ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Honeywell International Inc. (HON)
+[ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Intuit Inc. - Common Stock (INTU)
+[ST]
+S 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Marathon Petroleum Corporation
+Common Stock (MPC) [ST]
+S 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Netflix, Inc. - Common Stock (NFLX)
+[ST]
+S 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Nike, Inc. Common Stock (NKE) [ST] P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP NiSource Inc Common Stock (NI)
+[ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP PepsiCo, Inc. - Common Stock (PEP)
+[ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Philip Morris International Inc Note
+[CS]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+D: due 5/16/2038 06.375 MN
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Procter & Gamble Company (PG) [ST]S 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP RTX Corporation Common Stock
+(RTX) [ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Salesforce, Inc. Common Stock (CRM)
+[ST]
+S 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP ServiceNow, Inc. Common Stock
+(NOW) [ST]
+S 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP The Hershey Company Common
+Stock (HSY) [ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP V.F. Corporation Common Stock
+(VFC) [ST]
+P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Walt Disney Co. Global Note 45 [CS] P 04/10/202404/10/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+D: due 12/01/2045, 07.750% JD
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Edward Jones IRA (Owner: SP)
+I P O
+Yes No
+[[PAGE 5]]
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dan Newhouse , 04/25/2024

@@ -1,0 +1,61 @@
+[[PAGE 1]]
+Filing ID #20016726
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Nancy Pelosi
+Status: Member
+State/District: Ca12
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP apple Inc. (aaPl) [ST] S (partial) 05/08/2020 05/08/2020 $500,001 - gfedcb
+$1,000,000
+FIlINg STaTuS: New
+DESCRIPTIoN: Sold 1,700 shares.
+SP apple Inc. (aaPl) [ST] S (partial) 05/08/2020 05/08/2020 $500,001 - gfedcb
+$1,000,000
+FIlINg STaTuS: New
+DESCRIPTIoN: Sold 3,000 shares.
+SP apple Inc. (aaPl) [ST] S (partial) 05/08/2020 05/08/2020 $1,000,001 - gfedcb
+$5,000,000
+FIlINg STaTuS: New
+DESCRIPTIoN: Sold 3,300 shares.
+SP Facebook, Inc. - Class a (FB) [ST] S (partial) 05/08/2020 05/08/2020 $1,000,001 - gfedcb
+$5,000,000
+FIlINg STaTuS: New
+DESCRIPTIoN: Sold 5,000 shares.
+SP Interactive Brokers group, Inc. - S (partial) 05/08/2020 05/08/2020 $100,001 - gfedcb
+Class a (IBKR) [ST] $250,000
+FIlINg STaTuS: New
+DESCRIPTIoN: Sold 3,000 shares.
+SP Morningstar, Inc. (MoRN) [ST] S (partial) 05/08/2020 05/08/2020 $100,001 - gfedcb
+$250,000
+FIlINg STaTuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTIoN: Sold 1,700 shares.
+SP REoF XX, llC [aB] P 04/28/2020 04/28/2020 $15,001 - gfedc
+$50,000
+FIlINg STaTuS: New
+DESCRIPTIoN: additional investment in llC which acquired five Courtyard by Marriott hotels located in Fairfax, Va (one),
+suburban Baltimore, MD (two) and San antonio, TX (two).
+SP Visa Inc. (V) [ST] S (partial) 05/08/2020 05/08/2020 $500,001 - gfedcb
+$1,000,000
+FIlINg STaTuS: New
+DESCRIPTIoN: Sold 3,000 shares.
+SP Visa Inc. (V) [ST] S (partial) 05/08/2020 05/08/2020 $500,001 - gfedcb
+$1,000,000
+FIlINg STaTuS: New
+DESCRIPTIoN: Sold 3,000 shares.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Nancy Pelosi , 06/09/2020

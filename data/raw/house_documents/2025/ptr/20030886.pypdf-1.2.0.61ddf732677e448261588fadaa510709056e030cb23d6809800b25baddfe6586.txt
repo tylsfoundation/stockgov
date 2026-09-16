@@ -1,0 +1,36 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. George Whitesides
+Status: Member
+State/District:CA27
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Planet Labs PBC Class A Common
+Stock (PL) [ST]
+S 03/27/202503/27/2025$50,001 -
+$100,000
+F S: New
+S O: Hummingbird Circle Trust
+C: This position was sold at a loss on 3/27/2025 as part of my divestments to avoid possible conflicts of interest.
+This PTR is being submitted to ensure full transparency and compliance with all disclosure requirements. As of 3/28/2025,
+neither I nor my wife hold any single company publicly-traded stocks.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Hummingbird Circle Trust
+L: US
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. George Whitesides , 08/13/2025
+Filing ID #20030886

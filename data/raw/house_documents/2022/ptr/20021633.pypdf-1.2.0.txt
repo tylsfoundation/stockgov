@@ -1,0 +1,111 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Carol Devine Miller
+Status: Member
+State/District:WV03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Abbott Laboratories (ABT) [ST] P 03/04/202104/01/2021$1,001 - $15,000
+F S: New
+SP Amgen Inc. (AMGN) [ST] P 03/04/202104/01/2021$15,001 -
+$50,000
+F S: New
+SP BlackRock, Inc. (BLK) [ST] P 07/28/202108/02/2021$15,001 -
+$50,000
+F S: New
+SP Bristol-Myers Squibb Company
+(BMY) [ST]
+S (partial) 11/10/202112/01/2021 $15,001 -
+$50,000
+F S: New
+SP Cisco Systems, Inc. (CSCO) [ST] P 03/04/202104/01/2021$1,001 - $15,000
+F S: New
+SP Clorox Company (CLX) [ST] P 03/04/202104/01/2021$15,001 -
+$50,000
+F S: New
+SP Dominion Energy, Inc. (D) [ST] P 03/04/202104/01/2021$1,001 - $15,000
+F S: New
+SP Dominion Energy, Inc. (D) [ST] S (partial) 07/28/202108/02/2021$15,001 -
+$50,000
+F S: New
+Filing ID #20021633
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP General Dynamics Corporation (GD)
+[ST]
+P 07/28/202108/02/2021$15,001 -
+$50,000
+F S: New
+SP Gilead Sciences, Inc. (GILD) [ST] S (partial) 11/10/202112/01/2021 $15,001 -
+$50,000
+F S: New
+SP Hormel Foods Corporation (HRL)
+[ST]
+S (partial) 07/28/202108/02/2021$15,001 -
+$50,000
+F S: New
+SP Iron Mountain Incorporated (IRM)
+[ST]
+P 03/04/202104/01/2021$1,001 - $15,000
+F S: New
+SP Johnson & Johnson (JNJ) [ST] P 03/04/202104/01/2021$15,001 -
+$50,000
+F S: New
+SP L3Harris Technologies, Inc. (LHX)
+[ST]
+S (partial) 11/10/202112/01/2021 $15,001 -
+$50,000
+F S: New
+SP Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S (partial) 07/28/202108/02/2021$15,001 -
+$50,000
+F S: New
+SP Procter & Gamble Company (PG) [ST]P 03/04/202104/01/2021$1,001 - $15,000
+F S: New
+SP Quest Diagnostics Incorporated
+(DGX) [ST]
+P 07/28/202108/02/2021$15,001 -
+$50,000
+F S: New
+SP Texas Instruments Incorporated
+(TXN) [ST]
+P 07/28/202108/02/2021$15,001 -
+$50,000
+F S: New
+SP ViacomCBS Inc. - Class B (VIAC) [ST]P 07/28/202108/02/2021$15,001 -
+$50,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Viatris Inc. (VTRS) [ST] S 03/04/202104/01/2021$1,001 - $15,000
+F S: New
+SP Waste Management, Inc. (WM) [ST] P 03/04/202104/01/2021$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Carol Devine Miller , 09/02/2022

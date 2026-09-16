@@ -1,0 +1,923 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kathy Manning
+Status: Member
+State/District:NC06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Abbott Laboratories (ABT) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Abbott Laboratories (ABT) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Abbott Laboratories (ABT) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Abbott Laboratories (ABT) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP AbbVie Inc. (ABBV) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP AbbVie Inc. (ABBV) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+AbbVie Inc. (ABBV) [ST] S (partial) 07/27/202208/02/2022$15,001 -
+$50,000
+Filing ID #20021470
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP AbbVie Inc. (ABBV) [ST] S (partial) 07/27/202208/03/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Adobe Inc. (ADBE) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Air Products and Chemicals, Inc.
+(APD) [ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+Air Products and Chemicals, Inc.
+(APD) [ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Air Products and Chemicals, Inc.
+(APD) [ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: MV Capital - GST Exempt Trust #2
+JT Ally Financial Inc. (ALLY) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Alphabet Inc. - Class A (GOOGL) [ST] S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Alphabet Inc. - Class A (GOOGL) [ST] S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Alphabet Inc. - Class A (GOOGL) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Alphabet Inc. - Class A (GOOGL) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+JT Altria Group, Inc. (MO) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Amazon.com, Inc. (AMZN) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Amazon.com, Inc. (AMZN) [ST] P 07/14/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #1
+JT Amcor plc Ordinary Shares (AMCR)
+[ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT American International Group, Inc.
+New (AIG) [ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Ameriprise Financial, Inc. (AMP) [ST]P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Amgen Inc. (AMGN) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+Amgen Inc. (AMGN) [ST] S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Amgen Inc. (AMGN) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Amgen Inc. (AMGN) [ST] S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP Aon plc Class A Ordinary Shares
+(AON) [ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Aon plc Class A Ordinary Shares
+(AON) [ST]
+S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+JT APA Corporation (APA) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Apple Inc. (AAPL) [ST] P 07/15/202208/02/2022$15,001 -
+$50,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+Apple Inc. (AAPL) [ST] S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Apple Inc. (AAPL) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Apple Inc. (AAPL) [ST] S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP AT&T Inc. (T) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT AT&T Inc. (T) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT AutoZone, Inc. (AZO) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Bank of America Corporation (BAC)
+[ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Bank of America Corporation (BAC)
+[ST]
+P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Berkshire Hathaway Inc. New
+(BRK.B) [ST]
+P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Best Buy Co., Inc. (BBY) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Biogen Inc. (BIIB) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Bristol-Myers Squibb Company
+(BMY) [ST]
+P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Broadcom Inc. (AVGO) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Builders FirstSource, Inc. (BLDR)
+[ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Capital One Financial Corporation
+(COF) [ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Cardinal Health, Inc. (CAH) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Caterpillar, Inc. (CAT) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+JT Celanese Corporation Celanese
+Corporation (CE) [ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Centene Corporation (CNC) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+Centene Corporation (CNC) [ST] S (partial) 07/27/202208/03/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Centene Corporation (CNC) [ST] S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+JT Charter Communications, Inc. - Class
+A (CHTR) [ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Chevron Corporation (CVX) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Chubb Limited (CB) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Cisco Systems, Inc. (CSCO) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Citigroup, Inc. (C) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Citizens Financial Group, Inc. (CFG)
+[ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+Citizens Financial Group, Inc. (CFG)
+[ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Citizens Financial Group, Inc. (CFG)
+[ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP CME Group Inc. - Class A (CME) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Coca-Cola Company (KO) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Comcast Corporation - Class A
+(CMCSA) [ST]
+P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Comerica Incorporated (CMA) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Costco Wholesale Corporation (COST)
+[ST]
+P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Crown Holdings, Inc. (CCK) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP CVS Health Corporation (CVS) [ST] P 07/15/202208/03/2022$1,001 - $15,000
+F S: New
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Danaher Corporation (DHR) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Devon Energy Corporation (DVN)
+[ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Discover Financial Services (DFS)
+[ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Domino's Pizza Inc (DPZ) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Eastman Chemical Company (EMN)
+[ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Eli Lilly and Company (LLY) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Estee Lauder Companies, Inc. (EL)
+[ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Estee Lauder Companies, Inc. (EL)
+[ST]
+S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Estee Lauder Companies, Inc. (EL)
+[ST]
+S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Expeditors International of
+Washington, Inc. (EXPD) [ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Exxon Mobil Corporation (XOM) [ST]P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Fair Isaac Corproation (FICO) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Gartner, Inc. (IT) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP General Mills, Inc. (GIS) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+General Mills, Inc. (GIS) [ST] S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP General Mills, Inc. (GIS) [ST] S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+JT HCA Healthcare, Inc. (HCA) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Home Depot, Inc. (HD) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+Home Depot, Inc. (HD) [ST] S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Home Depot, Inc. (HD) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+JT Host Hotels (HST) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT HP Inc. (HPQ) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Intel Corporation (INTC) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT International Paper Company (IP)
+[ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Intuit Inc. (INTU) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+Intuit Inc. (INTU) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Intuit Inc. (INTU) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP Johnson & Johnson (JNJ) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Johnson & Johnson (JNJ) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+[[PAGE 12]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP JP Morgan Chase & Co. (JPM) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP JP Morgan Chase & Co. (JPM) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP JP Morgan Chase & Co. (JPM) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+JP Morgan Chase & Co. (JPM) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+JT KeyCorp (KEY) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Kinder Morgan, Inc. (KMI) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT L3Harris Technologies, Inc. (LHX)
+[ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+Lam Research Corporation (LRCX)
+[ST]
+P 07/27/202208/03/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Lam Research Corporation (LRCX)
+[ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP Lam Research Corporation (LRCX)
+[ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+[[PAGE 13]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+JT Liberty Global plc - Class C Ordinary
+Shares (LBTYK) [ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Linde plc Ordinary Share (LIN) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Lockheed Martin Corporation (LMT)
+[ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+Lockheed Martin Corporation (LMT)
+[ST]
+S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+JT Loews Corporation (L) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Lowe's Companies, Inc. (LOW) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Lowe's Companies, Inc. (LOW) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Lumen Technologies, Inc. (LUMN)
+[ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Marathon Oil Corporation (MRO)
+[ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+[[PAGE 14]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Marathon Petroleum Corporation
+(MPC) [ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Masco Corporation (MAS) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Mastercard Incorporated (MA) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP McDonald's Corporation (MCD) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT McKesson Corporation (MCK) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+Medtronic plc. Ordinary Shares
+(MDT) [ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Medtronic plc. Ordinary Shares
+(MDT) [ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP Medtronic plc. Ordinary Shares
+(MDT) [ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Merck & Company, Inc. Common
+Stock (MRK) [ST]
+P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Meta Platforms, Inc. - Class A (FB)
+[ST]
+P 07/15/202208/02/2022$1,001 - $15,000
+[[PAGE 15]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT MetLife, Inc. (MET) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Micron Technology, Inc. (MU) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+Micron Technology, Inc. (MU) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+Microsoft Corporation (MSFT) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Microsoft Corporation (MSFT) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP Microsoft Corporation (MSFT) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Microsoft Corporation (MSFT) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Microsoft Corporation (MSFT) [ST] P 07/27/202208/02/2022$15,001 -
+$50,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #1
+SP NextEra Energy, Inc. (NEE) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Nike, Inc. (NKE) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+[[PAGE 16]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Nike, Inc. (NKE) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Nike, Inc. (NKE) [ST] S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Nike, Inc. (NKE) [ST] S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+JT Northrop Grumman Corporation
+(NOC) [ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+NVIDIA Corporation (NVDA) [ST] P 07/27/202208/02/2022$15,001 -
+$50,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP NVIDIA Corporation (NVDA) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP NVIDIA Corporation (NVDA) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP NVIDIA Corporation (NVDA) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT NVR, Inc. (NVR) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+[[PAGE 17]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Oracle Corporation (ORCL) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Packaging Corporation of America
+(PKG) [ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+Packaging Corporation of America
+(PKG) [ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+PayPal Holdings, Inc. (PYPL) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP PayPal Holdings, Inc. (PYPL) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP PayPal Holdings, Inc. (PYPL) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Pepsico, Inc. (PEP) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Pfizer, Inc. (PFE) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Pfizer, Inc. (PFE) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Philip Morris International Inc (PM)
+[ST]
+P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+[[PAGE 18]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Procter & Gamble Company (PG) [ST]P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Procter & Gamble Company (PG) [ST]P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+Procter & Gamble Company (PG) [ST]P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+JT Prudential Financial, Inc. (PRU) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT PulteGroup, Inc. (PHM) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP QUALCOMM Incorporated (QCOM)
+[ST]
+P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP QUALCOMM Incorporated (QCOM)
+[ST]
+P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Quest Diagnostics Incorporated
+(DGX) [ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Raytheon Company (RTN) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP S&P Global Inc. (SPGI) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+[[PAGE 19]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Salesforce, Inc. (CRM) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Starbucks Corporation (SBUX) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+Starbucks Corporation (SBUX) [ST] S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Starbucks Corporation (SBUX) [ST] S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+JT Synchrony Financial (SYF) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+Sysco Corporation (SYY) [ST] S (partial) 07/27/202208/03/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Sysco Corporation (SYY) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Tesla, Inc. (TSLA) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT The Bank of New York Mellon
+Corporation (BK) [ST]
+P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP Thermo Fisher Scientific Inc (TMO)P 07/15/202208/02/2022$1,001 - $15,000
+[[PAGE 20]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+[ST]
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP TJX Companies, Inc. (TJX) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+TJX Companies, Inc. (TJX) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP TJX Companies, Inc. (TJX) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+JT Union Pacific Corporation (UNP) [ST]P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+SP UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Verizon Communications Inc. (VZ)
+[ST]
+P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Visa Inc. (V) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Visa Inc. (V) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Walmart Inc. (WMT) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+[[PAGE 21]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Walmart Inc. (WMT) [ST] S (partial) 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Walmart Inc. (WMT) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Walt Disney Company (DIS) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Walt Disney Company (DIS) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP Walt Disney Company (DIS) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+Walt Disney Company (DIS) [ST] P 07/27/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Wells Fargo & Company (WFC) [ST] P 07/15/202208/02/2022$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Wells Fargo & Company (WFC) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+JT Whirlpool Corporation (WHR) [ST] P 07/20/202208/02/2022$1,001 - $15,000
+F S: New
+S O: Charles Schwab - O'Shaughnessy Asset Management
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+[[PAGE 22]]
+Charles Schwab - O'Shaughnessy Asset Management (Owner: JT)
+L: US
+D: F/K/A Charles Schwab - Edgewood Management LLC
+Kathy Manning GST FBO Randall Kaplan
+Kathy Manning GST FBO Randall Kaplan ⇒ ManKap Family LLC
+L: US
+Kathy Manning GST FBO Randall Kaplan ⇒ ManKap Family LLC ⇒ MV Capital - Brokerage #2
+L: US
+MV Capital - GST Exempt Trust #2 (Owner: SP)
+The 2011 Randall R. Kaplan Living Trust (Owner: SP)
+The 2011 Randall R. Kaplan Living Trust ⇒ MV Capital - Brokerage #1 (Owner: SP)
+L: US
+The 2011 Randall R. Kaplan Living Trust ⇒ MV Capital - Brokerage #2 (Owner: SP)
+L: US
+The 2011 Randall R. Kaplan Living Trust ⇒ MV Capital - Brokerage #3 (Owner: SP)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kathy Manning , 08/10/2022

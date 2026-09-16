@@ -1,0 +1,65 @@
+[[PAGE 1]]
+Filing ID #20017182
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Daniel Meuser
+Status: Member
+State/District: PA09
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DC AbbVie Inc. (ABBV) [ST] S 12/11/2019 12/13/2019 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Schwab JM Brokerage Account
+DC Automatic Data Processing, Inc. S 06/06/2019 06/10/2019 $1,001 - $15,000 gfedc
+(ADP) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Schwab JM Brokerage Account
+DC Berkshire Hathaway Inc. New S (partial) 06/06/2019 06/10/2019 $1,001 - $15,000 gfedc
+(BRK.B) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Schwab JM Brokerage Account
+DC ETFMg Prime Cyber Security ETF S (partial) 12/11/2019 12/13/2019 $1,001 - $15,000 gfedc
+(HACK) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Schwab JM Brokerage Account
+DC genuine Parts Company (gPC) S 06/06/2019 06/10/2019 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Schwab JM Brokerage Account
+DC JP Morgan Chase & Co. (JPM) [ST] S (partial) 12/11/2019 12/13/2019 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Schwab JM Brokerage Account
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DC Procter & gamble Company (Pg) S 06/06/2019 06/10/2019 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Schwab JM Brokerage Account
+DC QuAlCOMM Incorporated S (partial) 06/06/2019 06/10/2019 $1,001 - $15,000 gfedc
+(QCOM) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Schwab JM Brokerage Account
+DC Roche Holdings Ag Basel S (partial) 12/11/2019 12/13/2019 $1,001 - $15,000 gfedc
+American Depositary Shares
+(RHHBY) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Schwab JM Brokerage Account
+DC The Kraft Heinz Company (KHC) S 06/06/2019 06/10/2019 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Schwab JM Brokerage Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Schwab JM Brokerage Account (Owner: DC)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Daniel Meuser , 08/13/2020

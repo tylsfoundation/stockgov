@@ -1,0 +1,30 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Suzan K. DelBene
+Status: Member
+State/District:WA01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Fort Bend Tex Indpt SCH Dist
+Variable 04.00000% 08/01/2054
+Rate Unltd Tax BLDG Ref BDS Ser.
+2024B [GS]
+P 07/23/202607/23/2026$250,001 -
+$500,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 08/11/2026
+Filing ID #20035175

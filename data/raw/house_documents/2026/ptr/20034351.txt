@@ -1,0 +1,110 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Rick Larsen
+Status: Member
+State/District:WA02
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+American Express Company Common
+Stock (AXP) [ST]
+S 04/07/202604/09/2026$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: Advisor-driven quarterly rebalancing
+American Water Works Company,
+Inc. Common Stock (AWK) [ST]
+S 04/07/202604/09/2026$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: Advisor-driven quarterly rebalancing
+Broadridge Financial Solutions, Inc.
+Common Stock (BR) [ST]
+S 04/07/202604/09/2026$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: Advisor-driven quarterly rebalancing
+Carrier Global Corporation Common
+Stock (CARR) [ST]
+P 04/07/202604/09/2026$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: Advisor-driven quarterly rebalancing
+Caseys General Stores, Inc. - Common
+Stock (CASY) [ST]
+P 04/07/202604/09/2026$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: Advisor-driven quarterly rebalancing
+Filing ID #20034351
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT CNL Healthcare Properties Inc
+(widely held) [OT]
+E 03/31/202604/09/2026$1,001 - $15,000
+F S: New
+S O: Ameriprise One Account
+L: US
+D: CNL Properties (a widely held REIT) directors executed a sale of assets and Sonida Living, a common stock-
+based company, purchased those assets in March. This entry should be read on this PTR in conjunction with the Sonida
+entry listed as an Exchange.
+NextEra Energy, Inc. Common Stock
+(NEE) [ST]
+P 04/07/202604/09/2026$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: Advisor-driven quarterly rebalancing
+Paychex, Inc. - Common Stock
+(PAYX) [ST]
+S 04/07/202604/09/2026$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: Advisor-driven quarterly rebalancing
+JT Sonida Senior Living, Inc. Common
+Stock (SNDA) [ST]
+S 04/07/202604/09/2026$1,001 - $15,000
+F S: New
+S O: Ameriprise One Account
+D: CNL Properties directors executed a sale of assets and Sonida Living, a common stock-based company,
+purchased those assets in March. I directed advisor to sell the Sonida stock in March and the proceeds from the sale were
+placed in Fixed Income Mutual Funds-based account I already hold. Per requirements, I will report in CY27 on my FDFY26
+report which mutual funds proceeds went into.
+JT Sonida Senior Living, Inc. Common
+Stock (SNDA) [ST]
+E 03/31/202604/09/2026$1,001 - $15,000
+F S: New
+S O: Ameriprise One Account
+D: CNL Properties directors executed a sale of assets and Sonida Living, a common stock-based company,
+purchased those assets in March. I directed advisor to sell the Sonida stock in March. See "Sale' Transaction on this PTR
+Westinghouse Air Brake Technologies
+Corporation Common Stock (WAB)
+[ST]
+P 04/07/202604/09/2026$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: Advisor-driven quarterly rebalancing
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+[[PAGE 3]]
+I V D
+Ameriprise One Account (Owner: JT)
+L: US
+Richard R Larsen IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Rick Larsen , 04/15/2026

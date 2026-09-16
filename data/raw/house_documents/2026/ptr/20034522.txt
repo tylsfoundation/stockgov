@@ -1,0 +1,100 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Brian Babin
+Status: Member
+State/District:TX36
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D/B/A Compass Diversified Holdings
+Shares of Beneficial Interest (CODI)
+[ST]
+S 05/05/202605/08/2026$1,001 - $15,000
+F S: New
+S O: UBS SEP IRA
+Enbridge Inc Common Stock (ENB)
+[ST]
+S 05/05/202605/08/2026$1,001 - $15,000
+F S: New
+S O: UBS SEP IRA
+Energy Transfer LP Common Units
+(ET) [ST]
+S (partial) 05/05/202605/08/2026$1,001 - $15,000
+F S: New
+S O: UBS SEP IRA
+FTAI Aviation Ltd. - Common Stock
+(FTAI) [ST]
+S (partial) 05/05/202605/08/2026$50,001 -
+$100,000
+F S: New
+S O: UBS SEP IRA
+FTAI Infrastructure Inc. - Common
+Stock (FIP) [ST]
+S 05/05/202605/08/2026$1,001 - $15,000
+F S: New
+S O: UBS SEP IRA
+Huntington Ingalls Industries, Inc.
+Common Stock (HII) [ST]
+S (partial) 05/05/202605/08/2026$15,001 -
+$50,000
+F S: New
+S O: UBS SEP IRA
+Filing ID #20034522
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Iamgold Corporation Ordinary Shares
+(IAG) [ST]
+S 05/05/202605/08/2026$1,001 - $15,000
+F S: New
+S O: UBS SEP IRA
+Range Resources Corporation
+Common Stock (RRC) [ST]
+S 05/05/202605/08/2026$1,001 - $15,000
+F S: New
+S O: UBS SEP IRA
+SOUTH32 LTD SPNS/ADR (SOUHY)
+[ST]
+S 05/05/202605/08/2026$1,001 - $15,000
+F S: New
+S O: UBS SEP IRA
+WESTSHORE TERM INVST CP
+(WTSHF) [ST]
+S 05/05/202605/08/2026$1,001 - $15,000
+F S: New
+S O: UBS SEP IRA
+Wheaton Precious Metals Corp
+Common Shares (WPM) [ST]
+S (partial) 05/05/202605/08/2026$15,001 -
+$50,000
+F S: New
+S O: UBS SEP IRA
+Woodside Energy Group Limited
+American Depositary Shares, each
+representing one Ordinary Share
+(WDS) [ST]
+S 05/05/202605/08/2026$1,001 - $15,000
+F S: New
+S O: UBS SEP IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+UBS SEP IRA
+I P O
+Yes No
+C S
+[[PAGE 3]]
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Brian Babin , 05/18/2026

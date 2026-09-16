@@ -1,0 +1,531 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. C. Scott Franklin
+Status: Member
+State/District:FL18
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+P 08/02/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+P 08/07/202408/16/2024$50,001 -
+$100,000
+F S: New
+S O: Fidelity Traditional IRA
+Air Products and Chemicals, Inc.
+Common Stock (APD) [ST]
+P 08/07/202408/16/2024$50,001 -
+$100,000
+F S: New
+S O: Fidelity Traditional IRA
+Air Products and Chemicals, Inc.
+Common Stock (APD) [ST]
+P 08/02/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S (partial) 08/01/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Amgen Inc. - Common Stock (AMGN)
+[ST]
+P 08/07/202408/16/2024$50,001 -
+$100,000
+F S: New
+S O: Fidelity Traditional IRA
+Filing ID #20025711
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Amgen Inc. - Common Stock (AMGN)
+[ST]
+P 08/02/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Apple Inc. - Common Stock (AAPL)
+[ST]
+S (partial) 08/06/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+Apple Inc. - Common Stock (AAPL)
+[ST]
+S (partial) 08/01/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+BERKSHIRE HATHAWAY INC COM
+USD0.0033 CLASS B (BRKB) [OT]
+S (partial) 08/01/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+L: US
+D: 10 SHARES OF BRKB @ $431.84
+BERKSHIRE HATHAWAY INC COM
+USD0.0033 CLASS B (BRKB) [OT]
+S (partial) 08/06/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+L: US
+D: 75 SHARES OF BRKB @ $425.30
+Chubb Limited Common Stock (CB)
+[ST]
+P 08/07/202408/16/2024$50,001 -
+$100,000
+F S: New
+S O: Fidelity Traditional IRA
+Chubb Limited Common Stock (CB)
+[ST]
+P 08/02/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Cisco Systems, Inc. - Common Stock
+(CSCO) [ST]
+S 08/01/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Cisco Systems, Inc. - Common StockS 08/06/202408/16/2024$50,001 -
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(CSCO) [ST] $100,000
+F S: New
+S O: Fidelity Traditional IRA
+Costco Wholesale Corporation -
+Common Stock (COST) [ST]
+S (partial) 08/06/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+Costco Wholesale Corporation -
+Common Stock (COST) [ST]
+S (partial) 08/01/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Discover Financial Services Common
+Stock (DFS) [ST]
+S 08/01/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Discover Financial Services Common
+Stock (DFS) [ST]
+S 08/06/202408/16/2024$50,001 -
+$100,000
+F S: New
+S O: Fidelity Traditional IRA
+FIDELITY ADVISOR TOTAL BOND
+CL Z (FBKWX) [OT]
+P 08/07/202408/16/2024$100,001 -
+$250,000
+F S: New
+S O: Fidelity Traditional IRA
+L: US
+D: 23,545.786 SHARES OF FBKWX @ $9.61
+FIDELITY ADVISOR TOTAL BOND
+CL Z (FBKWX) [OT]
+P 08/02/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Roth IRA
+L: US
+D: 2,729.145 SHARES OF FBKWZ @ $9.71
+SP FIDELITY CONTRAFUND [OT] S 08/06/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Roth IRA
+L: US
+D: 1044.562 SHARES OF FCNTX @ $18.98
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP FIDELITY FLOATING HIGH RATE
+INCOME (FFRHX) [OT]
+S 08/06/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+L: US
+D: 438.596 SHARES OF FFRHX @ $9.21
+FIDELITY MID CAP STOCK [OT] S (partial) 08/01/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+L: US
+D: 50.872 SHARES OF FMCSX @ $41.28
+SP FIDELITY NASDAQ COMPOSITE
+INDEX ETF (ONEQ) [OT]
+S 08/06/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Roth IRA
+L: US
+D: 370 SHARES OF ONEQ @ $65.01
+SP FIDELITY QUALITY FACTOR ETF
+(FQAL) [OT]
+S 08/06/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Roth IRA
+L: US
+D: 302 SHARES OF FQAL @ $59.92
+FIRST TR EXCHANGE-TRADED FD
+VI SMID RISING ETF [OT]
+P 08/07/202408/16/2024$50,001 -
+$100,000
+F S: New
+S O: Fidelity Traditional IRA
+L: US
+D: 1955 SHARES OF SDVY @ $33.27
+FIRST TR EXCHANGE-TRADED FD
+VI SMID RISING ETF [OT]
+P 08/02/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+L: US
+D: 230 SHARES OF SDVY @ $34.17
+General Dynamics Corporation
+Common Stock (GD) [ST]
+P 08/02/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+General Dynamics Corporation
+Common Stock (GD) [ST]
+P 08/07/202408/16/2024$50,001 -
+$100,000
+F S: New
+S O: Fidelity Traditional IRA
+INVESCO EXCHANGE TRADED FD
+TR II NASDAQ 100 ETF (QQQM)
+[OT]
+P 08/07/202408/16/2024$50,001 -
+$100,000
+F S: New
+S O: Fidelity Traditional IRA
+L: US
+D: 360 SHARES OF QQQM @ $180.18
+INVESCO EXCHANGE TRADED FD
+TR II NASDAQ 100 ETF (QQQM)
+[OT]
+P 08/02/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+L: US
+D: 40 SHARES OF QQQM @ $184.65
+INVESCO QQQ TR UNIT SER 1 [OT] S 08/01/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Roth IRA
+L: US
+D: 40 SHARES OF QQQ @ $457.41
+INVESCO QQQ TR UNIT SER 1
+(QQQ) [OT]
+S 08/06/202408/16/2024$100,001 -
+$250,000
+F S: New
+S O: Fidelity Traditional IRA
+L: US
+D: 300 SHARES OF QQQ @ $443.78
+SP ISHARES CORE S&P 500 ETF [OT] S 08/06/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Roth IRA
+L: US
+D: 80 SHARES OF IVV @ $529.54
+IShares Core S&P Small Cap E [OT] S 08/01/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+L: US
+D: 100 SHARES OF IJR @ $114.35
+SP ISHARES CORE S&P SMALL CAP E
+(IJR) [OT]
+S 08/06/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+L: US
+D: 40 SHARES OF IJR @ $109.44
+ISHARES CORE S&P SMALL CAP E
+(IJR) [OT]
+S 08/06/202408/16/2024$50,001 -
+$100,000
+F S: New
+S O: Fidelity Traditional IRA
+L: US
+D: 750 SHARES OF IJR @ $109.44
+SP ISHARES TRUST CORE DIVID
+GWTH (DGRO) [OT]
+S 08/06/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Roth IRA
+L: US
+D: 275 SHARES OF DGRO @ $58.55
+Johnson & Johnson Common Stock
+(JNJ) [ST]
+P 08/07/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+Johnson & Johnson Common Stock
+(JNJ) [ST]
+P 08/02/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+S (partial) 08/01/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+S (partial) 08/06/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+Kenvue Inc. Common Stock (KVUE)
+[ST]
+S 08/06/202408/16/2024$1,001 - $15,000
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Fidelity Traditional IRA
+Kenvue Inc. Common Stock (KVUE)
+[ST]
+S 08/01/202408/16/2024$447.03
+F S: New
+S O: Fidelity Roth IRA
+Lockheed Martin Corporation
+Common Stock (LMT) [ST]
+S (partial) 08/01/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+LORD ABBETT SHORT DURATION
+HIGH YLD I (LSYIX) [OT]
+P 08/02/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+L: US
+D: 798.576 SHARES OF LSYIX @ $9.83
+LORD ABBETT SHORT DURATION
+HIGH YLD I (LSYIX) [OT]
+P 08/07/202408/16/2024$50,001 -
+$100,000
+F S: New
+S O: Fidelity Traditional IRA
+L: US
+D: 6383.792 SHARES OF LSYIX @ $9.81
+LORD ABBETT ULTRA SHORT
+BOND CL I [OT]
+S 08/06/202408/16/2024$100,001 -
+$250,000
+F S: New
+S O: Fidelity Traditional IRA
+L: US
+D: 12,703.252 SHARES OF LUBYX @ $10.01
+Lord Abbott Ultra Short Bond CL I
+[CS]
+S 08/01/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+D: 1,272.642 SHARES OF LUBYX @ $10.01
+SP Lord Abbott Ultra Short Bond CL I
+(LUBYX) [OT]
+S 08/06/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+L: US
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: 660.559 SHARES OF LUBYX @ $10.01
+McDonald's Corporation Common
+Stock (MCD) [ST]
+P 08/07/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Traditional IRA
+McDonald's Corporation Common
+Stock (MCD) [ST]
+P 08/02/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+P 08/02/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S (partial) 08/06/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+NextEra Energy, Inc. Common Stock
+(NEE) [ST]
+S 08/06/202408/16/2024$50,001 -
+$100,000
+F S: New
+S O: Fidelity Traditional IRA
+NextEra Energy, Inc. Common Stock
+(NEE) [ST]
+S 08/01/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Pepsico, Inc. (PEP) [ST] P 08/02/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Pfizer, Inc. Common Stock (PFE) [ST]S 08/01/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Pfizer, Inc. Common Stock (PFE) [ST]S 08/06/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Procter & Gamble Company (PG) [ST]P 08/02/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Starbucks Corporation - Common
+Stock (SBUX) [ST]
+P 08/02/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+JT Starbucks Corporation - Common
+Stock (SBUX) [ST]
+S 08/14/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Joint TBE
+Starbucks Corporation - Common
+Stock (SBUX) [ST]
+S 08/14/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Starbucks Corporation - Common
+Stock (SBUX) [ST]
+S 08/14/202408/16/2024$100,001 -
+$250,000
+F S: New
+S O: Fidelity Traditional IRA
+Starbucks Corporation - Common
+Stock (SBUX) [ST]
+P 08/07/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+SP Starbucks Corporation - Common
+Stock (SBUX) [ST]
+S 08/14/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+The Hershey Company Common
+Stock (HSY) [ST]
+P 08/07/202408/16/2024$50,001 -
+$100,000
+F S: New
+S O: Fidelity Traditional IRA
+The Hershey Company Common
+Stock (HSY) [ST]
+P 08/02/202408/23/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+United Parcel Service, Inc. Common
+Stock (UPS) [ST]
+P 08/02/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+United Parcel Service, Inc. Common
+Stock (UPS) [ST]
+P 08/07/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+Walmart Inc. Common Stock (WMT)
+[ST]
+S (partial) 08/06/202408/16/2024$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+Walmart Inc. Common Stock (WMT)
+[ST]
+S (partial) 08/01/202408/16/2024$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Fidelity Joint TBE (Owner: JT)
+L: US
+Fidelity Roth IRA
+Fidelity Roth IRA (Owner: SP)
+Fidelity Traditional IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. C. Scott Franklin , 08/20/2024

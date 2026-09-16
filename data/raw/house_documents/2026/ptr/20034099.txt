@@ -1,0 +1,89 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Christian D. Menefee
+Status: Member
+State/District:TX18
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+S 02/10/202602/10/2026$1,001 - $15,000
+F S: New
+SP Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+S 02/10/202602/10/2026$15,001 -
+$50,000
+F S: New
+JT Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+S 02/10/202603/10/2026$15,001 -
+$50,000
+F S: New
+SP Pinterest, Inc. Class A Common Stock
+(PINS) [ST]
+S 05/28/202605/28/2026$15,001 -
+$50,000
+F S: New
+D: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs
+vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly
+earnings calls to prevent insider trading.
+C: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest
+quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings
+calls to prevent insider trading.
+SP Pinterest, Inc. Class A Common Stock
+(PINS) [ST]
+S 06/11/202606/11/2026$15,001 -
+$50,000
+F S: New
+D: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs
+vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly
+earnings calls to prevent insider trading.
+C: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest
+quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings
+Filing ID #20034099
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+calls to prevent insider trading.
+SP Pinterest, Inc. Class A Common Stock
+(PINS) [ST]
+S 02/17/202603/17/2026$1,001 - $15,000
+F S: New
+D: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs
+vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly
+earnings calls to prevent insider trading.
+C: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest
+quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings
+calls to prevent insider trading.
+SP Pinterest, Inc. Class A Common Stock
+(PINS) [ST]
+S 02/23/202602/23/2026$15,001 -
+$50,000
+F S: New
+D: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs
+vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly
+earnings calls to prevent insider trading.
+C: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest
+quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings
+calls to prevent insider trading.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Christian D. Menefee , 06/01/2026

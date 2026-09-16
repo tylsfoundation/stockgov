@@ -1,0 +1,288 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Cleo Fields
+Status: Member
+State/District:LA06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Advanced Micro Devices, Inc. (AMD)
+[ST]
+P 08/01/202508/04/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Advanced Micro Devices, Inc. (AMD)
+[ST]
+P 08/15/202508/18/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 08/01/202508/04/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 08/01/202508/04/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 08/15/202508/18/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 08/15/202508/18/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Filing ID #20031017
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 08/14/202508/14/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 08/01/202508/04/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 08/13/202508/14/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 08/15/202508/18/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 08/15/202508/18/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Figma Inc. Class A (FIG) [OT] P 08/01/202508/04/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+L: US
+D: Stock
+Figma Inc. Class A (FIG) [OT] P 08/01/202508/04/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+L: US
+D: Stock
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+P 08/01/202508/04/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+P 08/01/202508/04/2025$100,001 -
+$250,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+P 08/13/202508/14/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 08/01/202508/04/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 08/01/202508/04/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 08/01/202508/04/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 08/06/202508/07/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 08/01/202508/04/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 08/01/202508/04/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 08/13/202508/14/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 08/13/202508/14/2025$100,001 -
+$250,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 08/13/202508/14/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 08/15/202508/18/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 08/15/202508/18/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 08/20/202508/21/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 08/22/202508/25/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 08/22/202508/25/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Palantir Technologies Inc. - Class A
+Common Stock (PLTR) [ST]
+P 08/13/202508/14/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+P 08/13/202508/14/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Taiwan Semiconductor P 08/13/202508/14/2025$50,001 -
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Manufacturing Company Ltd. (TSM)
+[ST]
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+P 08/01/202508/04/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+P 08/13/202508/14/2025$250,001 -
+$500,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+P 08/01/202508/04/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+P 08/15/202508/18/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+P 08/15/202508/18/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Morgan Stanley - E*TRADE #2
+I P O
+Yes No
+[[PAGE 6]]
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Cleo Fields , 09/03/2025

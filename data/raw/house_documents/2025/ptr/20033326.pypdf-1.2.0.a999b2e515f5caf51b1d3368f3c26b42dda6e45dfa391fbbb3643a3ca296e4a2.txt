@@ -1,0 +1,76 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Cleo Fields
+Status: Member
+State/District:LA06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+P 10/10/202510/10/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 10/10/202510/10/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+CoreWeave, Inc. - Class A Common
+Stock (CRWV) [ST]
+P 10/10/202510/10/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+CoreWeave, Inc. - Class A Common
+Stock (CRWV) [ST]
+P 10/09/202510/09/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Figma Inc Class A (FIG) [OT] P 10/10/202510/10/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+L: US
+D: Stock
+IREN Limited - Ordinary Shares
+(IREN) [ST]
+P 10/10/202510/10/2025$1,001 - $15,000
+F S: New
+Filing ID #20033326
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Morgan Stanley - E*TRADE #2
+IREN Limited - Ordinary Shares
+(IREN) [ST]
+P 10/10/202510/10/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Palantir Technologies Inc. - Class A
+Common Stock (PLTR) [ST]
+P 10/10/202510/10/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Morgan Stanley - E*TRADE #2
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Cleo Fields , 10/30/2025

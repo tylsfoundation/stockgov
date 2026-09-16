@@ -1,0 +1,59 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Scott H. Peters
+Status: Member
+State/District:CA52
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP CA ST DEPT WTR UTIL [GS] P 05/18/202205/31/2022$250,001 -
+$500,000
+F S: New
+SP Cerritos CA CCD COLL EDUC [GS] P 05/20/202205/31/2022$100,001 -
+$250,000
+F S: New
+D: CUSIP: 156792GD9
+SP East Bay MUD SYS CA [GS] P 05/16/202205/31/2022$500,001 -
+$1,000,000
+F S: New
+SP Mammoth CA USD IMPT SCH [GS] P 05/24/202205/31/2022$100,001 -
+$250,000
+F S: New
+SP Orange CTY CA REV UTX [GS] P 05/18/202205/31/2022$100,001 -
+$250,000
+F S: New
+SP San Francisco CA BART [GS] P 05/26/202205/31/2022$250,001 -
+$500,000
+F S: New
+SP San Francisco CA IMP SCH [GS] P 05/26/202205/31/2022$100,001 -
+$250,000
+F S: New
+Filing ID #20021202
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP San Francisco CA IMPT SCH [GS] P 05/26/202205/31/2022$250,001 -
+$500,000
+F S: New
+SP San Mateo CA UHSD IMPT SCH [GS]P 05/19/202205/31/2022$100,001 -
+$250,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Scott H. Peters , 06/19/2022

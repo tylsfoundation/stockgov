@@ -1,0 +1,57 @@
+[[PAGE 1]]
+Filing ID #20020359
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Kevin Hern
+Status: Member
+State/District: OK01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT BARCLAYS BANK PLC SER A P 01/19/2022 01/20/2022 $250,001 - gfedc
+MTN 01/22/2027 [CS] $500,000
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Foundation
+DESCRIPTION: Buy open Qty 400
+JT FS ENERgY & POWER FUND P 01/19/2022 01/20/2022 $1,001 - $15,000 gfedc
+COMMON [PS]
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+LOCATION: US
+DESCRIPTION: Dividend Reinvestment
+JT Inland Real Estate Income Tr P 01/07/2022 01/08/2022 $1,001 - $15,000 gfedc
+Common [PS]
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+LOCATION: US
+DESCRIPTION: Dividend Reinvestment
+JT JP Morgan Chase & Co. (JPM) [ST] P 01/31/2022 02/01/2022 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Dividend Reinvestment
+JT Pioneer Natural Resources P 01/14/2022 01/15/2022 $1,001 - $15,000 gfedc
+Company (PXD) [ST]
+FILINg STATUS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Dividend Reinvestment
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Hern Family Foundation (100% Interest) (Owner: JT)
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+DESCRIPTION: Family Revocable Trust
+Hern Family Revocable Trust ⇒ Brokerage Investment Account (100% Interest) (Owner: JT)
+LOCATION: US
+DESCRIPTION: Stock, Bonds, EFTs, & Mutual funds
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 02/02/2022

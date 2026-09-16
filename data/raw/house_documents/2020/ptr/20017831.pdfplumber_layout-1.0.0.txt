@@ -1,0 +1,48 @@
+[[PAGE 1]]
+Filing ID #20017831
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. K. Michael Conaway
+Status: Member
+State/District: TX11
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+American Airlines group, Inc. P 11/30/2020 12/03/2020 $15,001 - gfedc
+(AAL) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: JT E57 (Edward Jones)
+Darden Restaurants, Inc. (DRI) P 11/30/2020 12/03/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: JT E57 (Edward Jones)
+iShares Core Dividend growth ETF P 11/30/2020 12/03/2020 $15,001 - gfedc
+(DgRO) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: JT E57 (Edward Jones)
+Southwest Airlines Company P 11/30/2020 12/03/2020 $15,001 - gfedc
+(LUV) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: JT E57 (Edward Jones)
+SP UIT First Trust Diversified W115 S 11/10/2020 11/13/2020 $1,001 - $15,000 gfedcb
+[OT]
+FILINg STATUS: New
+SUbHOLDINg OF: SP E62 (Edward Jones)
+LOCATION: US
+DESCRIPTION: UIT First Trust Diversified W115 Redemption
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+[[PAGE 2]]
+aSSet claSS DetailS
+JT E57 (Edward Jones)
+LOCATION: US
+SP E62 (Edward Jones) (Owner: SP)
+LOCATION: US
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. K. Michael Conaway , 12/15/2020

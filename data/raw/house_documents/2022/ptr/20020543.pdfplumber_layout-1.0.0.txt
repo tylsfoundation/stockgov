@@ -1,0 +1,109 @@
+[[PAGE 1]]
+Filing ID #20020543
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Virginia Foxx
+Status: Member
+State/District: NC05
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT AEgON N.V. (AEg) [ST] P 02/15/2022 02/15/2022 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+JT Antero Midstream Corporation S 02/17/2022 01/17/2022 $50,001 - gfedcb
+(AM) [ST] $100,000
+FIlINg STATuS: New
+JT Antero Midstream Corporation P 02/10/2022 02/10/2022 $1,001 - $15,000 gfedc
+(AM) [ST]
+FIlINg STATuS: New
+JT Archer-Daniels-Midland Company P 02/24/2022 02/24/2022 $15,001 - gfedc
+(ADM) [ST] $50,000
+FIlINg STATuS: New
+JT AT&T Inc. (T) [ST] P 02/02/2022 02/02/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+JT Discovery, Inc. - Series A (DISCA) P 02/24/2022 02/24/2022 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+JT Duke Energy Corporation P 02/11/2022 02/11/2022 $15,001 - gfedc
+Depositary Shares, each $50,000
+representing a 1/1,000th interest in
+a share of 5.75% Series A
+Cumulative Redeemable Perpetual
+Preferred Stock (DuK$A) [ST]
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+JT Duke Energy Corporation P 02/14/2022 02/14/2022 $15,001 - gfedc
+Depositary Shares, each $50,000
+representing a 1/1,000th interest in
+a share of 5.75% Series A
+Cumulative Redeemable Perpetual
+Preferred Stock (DuK$A) [ST]
+FIlINg STATuS: New
+JT Enterprise Products Partners l.P. P 02/14/2022 02/14/2022 $1,001 - $15,000 gfedc
+(EPD) [ST]
+FIlINg STATuS: New
+JT Flowers Foods, Inc. (FlO) [ST] P 02/04/2022 02/04/2022 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+JT Flowers Foods, Inc. (FlO) [ST] P 02/24/2022 02/24/2022 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+JT general Mills, Inc. (gIS) [ST] P 02/10/2022 02/10/2022 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+JT glaxoSmithKline PlC (gSK) [ST] P 02/22/2022 02/22/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+JT Kinder Morgan, Inc. (KMI) [ST] P 02/17/2022 02/17/2022 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+JT Manulife Financial Corporation P 02/24/2022 02/24/2022 $15,001 - gfedc
+(MFC) [ST] $50,000
+FIlINg STATuS: New
+JT Microsoft Corporation (MSFT) S 02/24/2022 02/24/2022 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+JT Oxbridge Re Holdings limited - P 02/16/2022 02/16/2022 $1,001 - $15,000 gfedc
+Ordinary Shares (OXBR) [ST]
+FIlINg STATuS: New
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Phillips 66 Partners lP Common P 02/02/2022 02/02/2022 $15,001 - gfedc
+units representing limited partner $50,000
+interest in the Partnership (PSXP)
+[ST]
+FIlINg STATuS: New
+JT Phillips 66 Partners lP Common P 02/15/2022 02/15/2022 $15,001 - gfedc
+units representing limited partner $50,000
+interest in the Partnership (PSXP)
+[ST]
+FIlINg STATuS: New
+JT Plains All American Pipeline, l.P. - P 02/15/2022 02/15/2022 $1,001 - $15,000 gfedc
+Common units representing
+limited Partner Interests (PAA)
+[ST]
+FIlINg STATuS: New
+JT PPl Corporation (PPl) [ST] P 02/14/2022 02/14/2022 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+JT Schwab uS Aggregate Bond ETF S 02/15/2022 02/15/2022 $50,001 - gfedcb
+(SCHZ) [ST] $100,000
+FIlINg STATuS: New
+JT Tyson Foods, Inc. (TSN) [ST] P 02/04/2022 02/04/2022 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Virginia Foxx , 03/07/2022

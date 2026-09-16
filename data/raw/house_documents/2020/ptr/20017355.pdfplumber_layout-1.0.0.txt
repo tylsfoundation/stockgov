@@ -1,0 +1,118 @@
+[[PAGE 1]]
+Filing Id #20017355
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+filer information
+name: Hon. Gilbert Cisneros
+Status: Member
+State/District: CA39
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+AbIOMEd, Inc. (AbMd) [ST] P 08/11/2020 09/11/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Amazon.com, Inc. (AMZN) [ST] S (partial) 08/11/2020 09/11/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Cabot Microelectronics P 08/12/2020 09/11/2020 $1,001 - $15,000 gfedc
+Corporation (CCMP) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Catalent, Inc. (CTLT) [ST] S (partial) 08/17/2020 09/11/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Catalent, Inc. (CTLT) [ST] S (partial) 09/02/2020 09/11/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Covetrus, Inc. (CVET) [ST] P 09/02/2020 09/11/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Covetrus, Inc. (CVET) [ST] P 08/17/2020 09/11/2020 $1,001 - $15,000 gfedc
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+CryoLife, Inc. (CRY) [ST] P 08/12/2020 09/11/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Entegris, Inc. (ENTG) [ST] S 08/12/2020 09/11/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Estee Lauder Companies, Inc. (EL) P 09/02/2020 09/11/2020 $15,001 - gfedc
+[ST] $50,000
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Horace Mann Educators P 09/02/2020 09/11/2020 $1,001 - $15,000 gfedc
+Corporation (HMN) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+HubSpot, Inc. (HUbS) [ST] S (partial) 08/12/2020 09/11/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+HubSpot, Inc. (HUbS) [ST] S (partial) 08/17/2020 09/11/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+IdEXX Laboratories, Inc. (IdXX) S (partial) 08/11/2020 09/11/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Lithia Motors, Inc. (LAd) [ST] S (partial) 08/13/2020 09/11/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+MACOM Technology Solutions P 09/02/2020 09/11/2020 $1,001 - $15,000 gfedc
+Holdings, Inc. (MTSI) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+NVIdIA Corporation (NVdA) [ST] S (partial) 08/24/2020 09/11/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Power Integrations, Inc. (POWI) S 09/02/2020 09/11/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Ritchie bros. Auctioneers S (partial) 09/02/2020 09/11/2020 $1,001 - $15,000 gfedcb
+Incorporated (RbA) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Sherwin-Williams Company P 08/10/2020 09/11/2020 $1,001 - $15,000 gfedc
+(SHW) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Silicon Laboratories, Inc. (SLAb) P 09/02/2020 09/11/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Square, Inc. Class A (SQ) [ST] S (partial) 08/10/2020 09/11/2020 $15,001 - gfedcb
+$50,000
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Trane Technologies plc (TT) [ST] P 08/11/2020 09/11/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Verisk Analytics, Inc. (VRSK) [ST] S (partial) 08/05/2020 09/11/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Viavi Solutions Inc. (VIAV) [ST] P 08/12/2020 09/11/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+[[PAGE 4]]
+aSSet claSS DetailS
+150 Main Street Trust
+150 Main Street Trust ⇒ U.S. Trust Holdings
+LOCATION: US
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Gilbert Cisneros , 09/14/2020

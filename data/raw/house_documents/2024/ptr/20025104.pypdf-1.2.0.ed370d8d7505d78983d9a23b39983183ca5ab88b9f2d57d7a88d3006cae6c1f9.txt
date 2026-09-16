@@ -1,0 +1,44 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Neal Patrick Dunn, MD, FACS
+Status: Member
+State/District:FL02
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+J P Morgan Chase & Co Depositary
+Shares, each representing a 1/400th
+interest in a share of JPMorgan Chase
+& Co. 4.75% Non-Cumulative
+Preferred Stock, Series GG (JPM$J)
+[ST]
+S 04/24/202405/06/2024$1,001 - $15,000
+F S: New
+S O: IRA #2
+Wells Fargo & Company Depositary
+Shares, each representing a 1/1,000th
+interest in a share of Non-Cumulative
+Perpetual Class A Preferred Stock,
+Series DD (WFC$D) [ST]
+S 04/24/202405/06/2024$1,001 - $15,000
+F S: New
+S O: IRA #2
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+IRA #2
+D: Held at Merrill Lynch
+I P O
+Yes No
+C S
+Filing ID #20025104
+[[PAGE 2]]
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Neal Patrick Dunn, MD, FACS , 05/22/2024

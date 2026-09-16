@@ -1,0 +1,70 @@
+[[PAGE 1]]
+Filing ID #20016100
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Lois Frankel
+Status: Member
+State/District: FL21
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+baxter International Inc. (bAX) s (partial) 01/29/2020 01/29/2020 $1,001 - $15,000 gfedc
+[sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+Huntington bancshares s (partial) 02/05/2020 02/05/2020 $1,001 - $15,000 gfedc
+Incorporated (HbAN) [sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+Insperity, Inc. (NsP) [sT] P 01/17/2020 01/17/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+NXP semiconductors N.V. (NXPI) P 01/22/2020 01/22/2020 $1,001 - $15,000 gfedc
+[sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+NXP semiconductors N.V. (NXPI) P 02/12/2020 02/12/2020 $1,001 - $15,000 gfedc
+[sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+NXP semiconductors N.V. (NXPI) P 01/29/2020 01/29/2020 $1,001 - $15,000 gfedc
+[sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Pfizer, Inc. (PFE) [sT] s (partial) 02/12/2020 02/12/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+Philip Morris International Inc s (partial) 01/29/2020 01/29/2020 $1,001 - $15,000 gfedc
+(PM) [sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+PPL Corporation (PPL) [sT] P 02/10/2020 02/10/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+solarEdge Technologies, Inc. P 01/27/2020 01/27/2020 $1,001 - $15,000 gfedc
+(sEDG) [sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+Texas Instruments Incorporated s (partial) 01/22/2020 01/22/2020 $1,001 - $15,000 gfedc
+(TXN) [sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan stanley IRA - X141
+DEsCRIPTIoN: Managed by MFs Investment MGMT
+Morgan stanley IRA - X142
+DEsCRIPTIoN: Managed by Anchor Capital Advisors LLC
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Lois Frankel , 02/24/2020

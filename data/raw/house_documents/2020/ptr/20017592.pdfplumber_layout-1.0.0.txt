@@ -1,0 +1,49 @@
+[[PAGE 1]]
+Filing ID #20017592
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Alan S. Lowenthal
+Status: Member
+State/District: CA47
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP JP Morgan Chase & Co. (JPM) S (partial) 10/15/2020 10/22/2020 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP TJX Companies, Inc. (TJX) [ST] S (partial) 10/15/2020 10/22/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP universal Display Corporation S (partial) 10/15/2020 10/22/2020 $1,001 - $15,000 gfedcb
+(OLED) [ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP universal Display Corporation S (partial) 10/16/2020 10/23/2020 $1,001 - $15,000 gfedcb
+(OLED) [ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP universal Display Corporation S (partial) 10/19/2020 10/26/2020 $1,001 - $15,000 gfedcb
+(OLED) [ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP universal Display Corporation S 10/20/2020 10/27/2020 $1,001 - $15,000 gfedcb
+(OLED) [ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Neuberger Berman - Traditional IRA (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Alan S. Lowenthal , 10/28/2020

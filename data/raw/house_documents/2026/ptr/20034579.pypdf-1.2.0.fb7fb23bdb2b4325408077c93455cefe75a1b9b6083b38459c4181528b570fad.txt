@@ -1,0 +1,175 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Scott H. Peters
+Status: Member
+State/District:CA50
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Anaheim CA Hsg Elec Util [GS] S 04/02/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP Audax Senior Loan Fund ST LP [OT] P 04/28/202604/30/2026Spouse/DC Over
+$1,000,000
+F S: New
+L: US
+D: Pooled Investment Fund
+SP Austin TX WTR UTIL [GS] P 04/21/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP Berks Cnty PA GO UTX [GS] P 04/28/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP CA ST PUB W BLDG [GS] P 04/09/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP CA ST PUB W BLDG [GS] P 04/09/202604/30/2026$250,001 -
+$500,000
+F S: New
+SP California Health SYS [GS] P 04/09/202604/30/2026$50,001 -
+$100,000
+F S: New
+Filing ID #20034579
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Chester Cnty PA SCH [GS] P 04/14/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP Grapevine-Colleyville TX GO UTX
+[GS]
+P 04/09/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP Illinois State GO UTX [GS] P 04/24/202604/30/2026$500,001 -
+$1,000,000
+F S: New
+SP Los Angeles CA GO UTX [GS] S 04/24/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP Los Angeles CA Pwr Util [GS] S 04/09/202604/30/2026$500,001 -
+$1,000,000
+F S: New
+SP Los Angeles CA Wtr Swr Util [GS] S 04/06/202604/30/2026$500,001 -
+$1,000,000
+F S: New
+SP Los Angeles CA Wtr Swr Util [GS] S 04/02/202604/30/2026$100,001 -
+$250,000
+F S: New
+SP Los Angeles Cnty CA EXCISE [GS] P 04/21/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP Los Angeles CNTY EXCISE [GS] S 04/24/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP Los Angeles CNTY EXCISE [GS] P 04/21/202604/30/2026$500,001 -
+$1,000,000
+F S: New
+SP Los Angeles County Excise Tax [GS] S 04/22/202604/30/2026$250,001 -
+$500,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Met Govt Nashville, TN HLTH SYS
+[GS]
+P 04/21/202604/30/2026$250,001 -
+$500,000
+F S: New
+SP Novato CA UNI SCH [GS] S 04/22/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP Pasadena CA COLL EDUC [GS] S 04/13/202604/30/2026$250,001 -
+$500,000
+F S: New
+SP Pittsburgh CA WTR UTIL [GS] S 04/07/202604/30/2026$250,001 -
+$500,000
+F S: New
+SP Sacramento Muni Util Dist [GS] S 04/02/202604/30/2026$100,001 -
+$250,000
+F S: New
+SP Sacramento Muni Util Dist [GS] S 04/02/202604/30/2026$250,001 -
+$500,000
+F S: New
+SP San Diego CNTY CA WTR UTIL [GS] S 04/24/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP San Francisco CA Bay Mass Tran
+[GS]
+S 04/22/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP Trinity River Auth SWR UTIL [GS] P 04/16/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP U.S Treasury Bills [GS] S (partial) 04/17/202604/30/2026$100,001 -
+$250,000
+F S: New
+SP U.S Treasury Bills [GS] S (partial) 04/30/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP U.S Treasury Bills [GS] S (partial) 04/13/202604/30/2026$250,001 -
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+$500,000
+F S: New
+SP U.S Treasury Bills [GS] S (partial) 04/22/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP U.S Treasury Bills [GS] S (partial) 04/23/202604/30/2026$15,001 - $50,000
+F S: New
+SP U.S Treasury Bills [GS] S (partial) 04/24/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP U.S Treasury Bills [GS] S (partial) 04/16/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP U.S Treasury Bills [GS] S (partial) 04/02/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP U.S Treasury Bills [GS] S (partial) 04/06/202604/30/2026$100,001 -
+$250,000
+F S: New
+SP U.S Treasury Bills [GS] S (partial) 04/09/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP U.S Treasury Bills [GS] S (partial) 04/10/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP U.S Treasury Bills [GS] S (partial) 04/13/202604/30/2026$50,001 -
+$100,000
+F S: New
+SP UNIV CA PUB EDUC [GS] S 04/24/202604/30/2026$50,001 -
+$100,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+[[PAGE 5]]
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Scott H. Peters , 05/18/2026

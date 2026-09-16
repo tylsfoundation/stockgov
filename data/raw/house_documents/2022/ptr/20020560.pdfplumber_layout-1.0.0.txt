@@ -1,0 +1,37 @@
+[[PAGE 1]]
+Filing ID #20020560
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Marie Newman
+Status: Member
+State/District: Il03
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP Activision blizzard, Inc (ATVI) S 02/08/2022 03/03/2022 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP Activision blizzard, Inc (ATVI) S 02/08/2022 03/03/2022 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+SP Coinbase global, Inc. - Class A S 02/08/2022 03/03/2022 $1,001 - $15,000 gfedcb
+(COIN) [OP]
+FIlINg STATuS: New
+SubHOlDINg OF: Rollover IRA
+DESCRIPTION: call
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Rollover IRA (Owner: SP)
+DESCRIPTION: James D Newman Charles Schwab & Co Inc Cust IRA Rollover
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 2]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Marie Newman , 03/05/2022

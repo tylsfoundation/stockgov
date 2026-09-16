@@ -1,0 +1,53 @@
+[[PAGE 1]]
+Filing ID #20017240
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Neal Patrick Dunn MD, FACS
+Status: Member
+State/District: Fl02
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+BancorpSouth Bank 5.50% Series P 08/20/2020 08/24/2020 $1,001 - $15,000 gfedc
+A Non-Cumulative Perpetual
+Preferred Stock (BXS$A) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA #1
+BancorpSouth Bank 5.50% Series P 08/20/2020 08/24/2020 $1,001 - $15,000 gfedc
+A Non-Cumulative Perpetual
+Preferred Stock (BXS$A) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012
+Bank of America Corporation S 08/07/2020 08/10/2020 $15,001 - gfedc
+Depositary Shares, each $50,000
+representing a 1/1,000th interest
+in a share of 5.875% Non-
+Cumulative Preferred Stock, Series
+HH (BAC$K) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA #1
+Bank of America Corporation S 08/07/2020 08/10/2020 $1,001 - $15,000 gfedc
+Depositary Shares, each
+representing a 1/1,000th interest
+in a share of 5.875% Non-
+Cumulative Preferred Stock, Series
+HH (BAC$K) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: IRA #4
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+[[PAGE 2]]
+aSSet claSS DetailS
+IRA #1
+DESCRIPTION: Held until 2019 at Summit Bank; moved late 2019 to BancorpSouth
+IRA #4
+DESCRIPTION: Held until 2019 at Summit Bank; moved late 2019 to BancorpSouth
+The Neal Patrick Dunn Irrevocable Trust uad 1/19/2012 (100% Interest)
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Neal Patrick Dunn MD, FACS , 09/09/2020

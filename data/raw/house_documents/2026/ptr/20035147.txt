@@ -1,0 +1,206 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Michael Rulli
+Status: Member
+State/District:OH06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+P 06/29/202606/29/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+P 06/25/202606/25/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S 07/03/202507/03/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+S 07/03/202507/03/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+S 06/25/202606/25/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Apple Inc. - Common Stock (AAPL)
+[ST]
+S 06/25/202606/25/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Filing ID #20035147
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Apple Inc. - Common Stock (AAPL)
+[ST]
+S 10/27/202510/27/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 08/01/202508/01/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Coca-Cola Company (KO) [ST] P 12/03/202512/03/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Crown Castle Inc. Common Stock
+(CCI) [ST]
+S 08/06/202608/06/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Eli Lilly and Company Common Stock
+(LLY) [ST]
+S 12/02/202512/02/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Eli Lilly and Company Common Stock
+(LLY) [ST]
+S 07/01/202607/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Eli Lilly and Company Common Stock
+(LLY) [ST]
+P 01/02/202601/02/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+GE Vernova Inc. Common Stock
+(GEV) [ST]
+S 10/06/202510/06/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+KLA Corporation - Common Stock
+(KLAC) [ST]
+P 07/01/202607/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+S 01/09/202601/09/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+P 05/06/202605/06/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+P 09/18/202509/18/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Micron Technology, Inc. - Common
+Stock (MU) [ST]
+P 06/25/202606/25/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 06/25/202606/25/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 02/20/202602/20/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 02/05/202602/05/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 06/25/202606/25/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 08/01/202508/01/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 07/31/202507/31/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Oracle Corporation Common Stock
+(ORCL) [ST]
+P 01/14/202501/14/2025 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Palantir Technologies Inc. - Class A
+Common Stock (PLTR) [ST]
+S 05/06/202605/06/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Palantir Technologies Inc. - Class A
+Common Stock (PLTR) [ST]
+P 01/09/202601/09/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Pfizer, Inc. Common Stock (PFE) [ST]S 11/26/202411/26/2024 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Prudential Financial, Inc. Common
+Stock (PRU) [ST]
+S 05/07/202505/07/2025$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+ServiceNow, Inc. Common Stock
+(NOW) [ST]
+S 12/16/202412/16/2024 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+Thermo Fisher Scientific Inc Common
+Stock (TMO) [ST]
+S 12/12/202412/12/2024 $1,001 - $15,000
+F S: New
+S O: Merrill Lynch Managed Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Merrill Lynch Managed Account
+[[PAGE 5]]
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Michael Rulli , 08/07/2026

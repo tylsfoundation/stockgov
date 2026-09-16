@@ -1,0 +1,31 @@
+[[PAGE 1]]
+Filing ID #20020278
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. John Garamendi
+Status: Member
+State/District: CA03
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP Block, Inc. Class A Common Stock, S 01/14/2022 01/14/2022 $1,001 - $15,000 gfedcb
+(SQ) [ST]
+FIlING STATuS: New
+SP Granite Construction Incorporated S 01/14/2022 01/14/2022 $1,001 - $15,000 gfedc
+(GVA) [ST]
+FIlING STATuS: New
+SP Meta Platforms, Inc. - Class A (FB) S 01/14/2022 01/14/2022 $15,001 - gfedcb
+[ST] $50,000
+FIlING STATuS: New
+SP Twitter, Inc. (TWTR) [ST] S 01/14/2022 01/14/2022 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. John Garamendi , 01/21/2022

@@ -1,0 +1,40 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Greg Landsman
+Status: Member
+State/District:OH01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Exxon Mobil Corporation Common
+Stock (XOM) [ST]
+E 05/06/202404/21/2025$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+D: Shares received in exchange for Pioneer Natural Resources Company (PXD) shares as a result of merger.
+C: All-stock exchange applied to all PXD shareholders when PXD was acquired by XOM. This transaction was
+automatic; it was not directed or requested by the filer, his spouse, or their financial manager
+SP Kroger Company (KR) [ST] S 05/09/202505/12/2025$250,001 -
+$500,000
+F S: New
+S O: Fidelity Brokerage
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Fidelity Brokerage (Owner: SP)
+Sarah Landsman Traditional IRA (Owner: SP)
+C
+I P O
+Yes No
+C S
+Filing ID #20030207
+[[PAGE 2]]
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Greg Landsman , 05/13/2025

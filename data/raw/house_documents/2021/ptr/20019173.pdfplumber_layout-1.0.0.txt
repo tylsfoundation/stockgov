@@ -1,0 +1,60 @@
+[[PAGE 1]]
+Filing ID #20019173
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Lois Frankel
+Status: Member
+State/District: FL21
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+CDK Global, Inc. (CDK) [ST] S 06/30/2021 06/30/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Clorox Company (CLX) [ST] P 06/26/2021 06/26/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Duke Energy Corporation (DuK) P 06/30/2021 06/30/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+DuPont de Nemours, Inc. (DD) P 07/14/2021 07/14/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Fiserv, Inc. (FISV) [ST] S (partial) 07/14/2021 07/14/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Roche Holdings AG basel S (partial) 06/30/2021 06/30/2021 $1,001 - $15,000 gfedc
+American Depositary Shares
+(RHHbY) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Royal Gold, Inc. (RGLD) [ST] P 07/02/2021 07/02/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Royal Gold, Inc. (RGLD) [ST] P 07/01/2021 07/01/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Royal Gold, Inc. (RGLD) [ST] P 06/30/2021 06/30/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan Stanley IRA - X141
+DESCRIPTION: Managed by MFS Investment MGMT
+Morgan Stanley IRA - X142
+DESCRIPTION: Managed by Anchor Capital Advisors LLC
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 08/03/2021

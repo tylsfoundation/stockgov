@@ -1,0 +1,340 @@
+[[PAGE 1]]
+Filing Id #20016346
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+filer information
+name: Hon. K. Michael Conaway
+Status: Member
+State/District: TX11
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+3M Company (MMM) [ST] S 03/11/2020 03/13/2020 $1,001 - $15,000 gfedc
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 69 (Wells Fargo Financial)
+american Electric Power S 03/18/2020 03/20/2020 $15,001 - gfedc
+Company, Inc. (aEP) [ST] $50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 69 (Wells Fargo Financial)
+baNK NoVa SCoTIa 0% bLS bC E 02/24/2020 02/28/2020 $50,001 - gfedc
+CaPPEd LEVERagEd INdX $100,000
+RETURN MTY 03/27/20 CPN
+0.000% dUE 03/27/20 [oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+LoCaTIoN: US
+dESCRIPTIoN: baNK NoVa SCoTIa 0% bLS bC CaPPEd LEVERagEd INdX RETURN MTY 03/27/20 CPN 0.000% dUE
+03/27/20 Transfer from WF 95
+baNK NoVa SCoTIa 0% bLS bC E 02/24/2020 02/28/2020 $50,001 - gfedc
+CaPPEd LEVERagEd INdX $100,000
+RETURN MTY 03/27/20 CPN
+0.000% dUE 03/27/20 [oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 95 (Wells Fargo Financial)
+LoCaTIoN: US
+dESCRIPTIoN: baNK NoVa SCoTIa 0% bLS bC CaPPEd LEVERagEd INdX RETURN MTY 03/27/20 CPN 0.000% dUE
+03/27/20 Transfer to WF 10
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+baNK NoVa SCoTIa 0% EdP bC S 03/27/2020 03/31/2020 $50,001 - gfedc
+CaPPEd LEVERagEd INdX $100,000
+RETURN MTY 03/27/20 CPN
+0.000% dUE 03/27/20 [oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+LoCaTIoN: US
+dESCRIPTIoN: baNK NoVa SCoTIa 0% EdP bC CaPPEd LEVERagEd INdX RETURN MTY 03/27/20 CPN 0.000% dUE
+03/27/20 Redemption
+baRCLaYS bK PLC 0% bLS E 02/24/2020 02/28/2020 $50,001 - gfedc
+CaPPEd LEVERagE INdEX $100,000
+RETURN NT MTY 02/28/2020
+[oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 95 (Wells Fargo Financial)
+LoCaTIoN: US
+dESCRIPTIoN: baRCLaYS bK PLC 0% bLS CaPPEd LEVERagE INdEX RETURN NT MTY 02/28/2020 Transfer to WF 10
+baRCLaYS bK PLC 0% bLS E 02/24/2020 02/28/2020 $50,001 - gfedc
+CaPPEd LEVERagE INdEX $100,000
+RETURN NT MTY 02/28/2020
+CPN 0.000% dUE 02/28/20 [oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+LoCaTIoN: US
+dESCRIPTIoN: baRCLaYS bK PLC 0% bLS CaPPEd LEVERagE INdEX RETURN NT MTY 02/28/2020 CPN 0.000% dUE
+02/28/20 Transfer from WF 95
+boFa FIN LLC 0% bLS LKd To E 02/24/2020 02/28/2020 $50,001 - gfedc
+S&P 500 INdEX dUE $100,000
+04/24/2020 CPN 0.000% dUE
+04/24/20 [oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+LoCaTIoN: US
+dESCRIPTIoN: boFa FIN LLC 0% bLS LKd To S&P 500 INdEX dUE 04/24/2020 CPN 0.000% dUE 04/24/20 Transfer
+from WF 95
+boFa FIN LLC 0% bLS LKd To E 02/24/2020 02/28/2020 $50,001 - gfedc
+S&P 500 INdEX dUE $100,000
+04/24/2020 CPN 0.000% dUE
+04/24/20 [oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 95 (Wells Fargo Financial)
+LoCaTIoN: US
+dESCRIPTIoN: boFa FIN LLC 0% bLS LKd To S&P 500 INdEX dUE 04/24/2020 CPN 0.000% dUE 04/24/20 Transfer to
+WF 10
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+diageo plc (dEo) [ST] S (partial) 03/18/2020 03/20/2020 $1,001 - $15,000 gfedc
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 69 (Wells Fargo Financial)
+diageo plc (dEo) [ST] S 03/18/2020 03/20/2020 $1,001 - $15,000 gfedc
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 69 (Wells Fargo Financial)
+First Trust dJ Internet Index Fund E 02/24/2020 02/28/2020 $50,001 - gfedc
+(FdN) [ST] $100,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 95 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer to WF 10
+First Trust dJ Internet Index Fund E 02/24/2020 02/28/2020 $50,001 - gfedc
+(FdN) [ST] $100,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer from WF 95
+First Trust dJ Internet Index Fund S 03/10/2020 03/12/2020 $50,001 - gfedc
+(FdN) [ST] $100,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+First Trust Morningstar ETF (FdL) E 02/24/2020 02/28/2020 $50,001 - gfedc
+[ST] $100,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 95 (Wells Fargo Financial)
+dESCRIPTIoN: boFa FIN LLC 0% bLS LKd To S&P 500 INdEX dUE 04/24/2020 CPN 0.000% dUE 04/24/20 Transfer to
+WF 10
+First Trust Morningstar ETF (FdL) E 02/24/2020 02/28/2020 $50,001 - gfedc
+[ST] $100,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer from WF 95
+goldman Sachs activebeta U.S. S 03/11/2020 03/13/2020 $50,001 - gfedc
+Large Cap Equity ETF (gSLC) [ST] $100,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+[[PAGE 4]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+goldman Sachs activebeta U.S. E 02/24/2020 02/28/2020 $100,001 - gfedc
+Large Cap Equity ETF (gSLC) [ST] $250,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 95 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer to WF 10
+goldman Sachs activebeta U.S. E 02/24/2020 02/28/2020 $100,001 - gfedc
+Large Cap Equity ETF (gSLC) [ST] $250,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer from WF 95
+HSbC USa INC 0% bLS E 02/24/2020 02/28/2020 $50,001 - gfedc
+aUToCaLL LKd EURo SToXX $100,000
+50 IdX dUE 08/25/2022 CPN
+0.000% dUE 08/25/22 dTd
+08/31/17 [oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+LoCaTIoN: US
+dESCRIPTIoN: HSbC USa INC 0% bLS aUToCaLL LKd EURo SToXX 50 IdX dUE 08/25/2022 CPN 0.000% dUE
+08/25/22 dTd 08/31/17 Transfer from WF 95
+HSbC USa INC 0% bLS E 02/24/2020 02/28/2020 $50,001 - gfedc
+aUToCaLL LKd EURo SToXX $100,000
+50 IdX dUE 08/25/2022 CPN
+0.000% dUE 08/25/22 dTd
+08/31/17 [oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 95 (Wells Fargo Financial)
+LoCaTIoN: US
+dESCRIPTIoN: HSbC USa INC 0% bLS aUToCaLL LKd EURo SToXX 50 IdX dUE 08/25/2022 CPN 0.000% dUE
+08/25/22 dTd 08/31/17 Transfer to WF 10
+HSbC USa INC 0% EdP NTS LKd S 03/27/2020 03/31/2020 $15,001 - gfedc
+To EURo SToXX 50 INdEX MTY $50,000
+03/27/20 CPN 0.000% dUE
+03/27/20 [oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 53 (Wells Fargo Financial)
+LoCaTIoN: US
+dESCRIPTIoN: HSbC USa INC 0% EdP NTS LKd To EURo SToXX 50 INdEX MTY 03/27/20 CPN 0.000% dUE 03/27/20
+Redemption
+Northrop grumman Corporation S 03/18/2020 03/20/2020 $15,001 - gfedc
+(NoC) [ST] $50,000
+FILINg STaTUS: New
+[[PAGE 5]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUbHoLdINg oF: WF 69 (Wells Fargo Financial)
+Principal U.S. Mega-Cap Multi- E 02/24/2020 02/28/2020 $100,001 - gfedc
+Factor Index ETF (USMC) [ST] $250,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 95 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer to WF 10
+Principal U.S. Mega-Cap Multi- E 02/24/2020 02/28/2020 $100,001 - gfedc
+Factor Index ETF (USMC) [ST] $250,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer from WF 95
+SP Southwest airlines Company S 03/18/2020 03/20/2020 $15,001 - gfedcb
+(LUV) [ST] $50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 31 (Wells Fargo Financial)
+Southwest airlines Company S 03/18/2020 03/20/2020 $15,001 - gfedcb
+(LUV) [ST] $50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 25 (Wells Fargo Financial)
+SPdR dow Jones Industrial S (partial) 03/18/2020 03/20/2020 $1,001 - $15,000 gfedc
+average ETF (dIa) [ST]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 53 (Wells Fargo Financial)
+SPdR dow Jones Industrial S 03/18/2020 03/20/2020 $1,001 - $15,000 gfedc
+average ETF (dIa) [ST]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 53 (Wells Fargo Financial)
+SPdR S&P 500 (SPY) [ST] E 02/24/2020 02/28/2020 $100,001 - gfedc
+$250,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer from WF 95
+SPdR S&P 500 (SPY) [ST] E 02/24/2020 02/28/2020 $100,001 - gfedc
+$250,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 95 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer to WF 10
+[[PAGE 6]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SPdR S&P dividend ETF (SdY) E 02/24/2020 02/28/2020 $50,001 - gfedc
+[ST] $100,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer from WF 95
+SPdR S&P dividend ETF (SdY) E 02/24/2020 02/28/2020 $50,001 - gfedc
+[ST] $100,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 95 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer to WF 10
+SPdR S&P dividend ETF (SdY) S 03/11/2020 03/13/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 69 (Wells Fargo Financial)
+SPdR S&P dividend ETF (SdY) S 03/11/2020 03/13/2020 $100,001 - gfedc
+[ST] $250,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+SPdR S&P dividend ETF (SdY) S 03/11/2020 03/13/2020 $50,001 - gfedc
+[ST] $100,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 25 (Wells Fargo Financial)
+The Travelers Companies, Inc. S 03/11/2020 03/13/2020 $1,001 - $15,000 gfedc
+(TRV) [ST]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 69 (Wells Fargo Financial)
+Vanguard Consumer Staples ETF S 03/11/2020 03/13/2020 $15,001 - gfedc
+(VdC) [ST] $50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 69 (Wells Fargo Financial)
+Vanguard Consumer Staples ETF E 02/24/2020 02/28/2020 $100,001 - gfedc
+(VdC) [ST] $250,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer from WF 95
+Vanguard Consumer Staples ETF E 02/24/2020 02/28/2020 $100,001 - gfedc
+(VdC) [ST] $250,000
+[[PAGE 7]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 95 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer to WF 10
+Vanguard Consumer Staples ETF S (partial) 03/10/2020 03/12/2020 $15,001 - gfedc
+(VdC) [ST] $50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+Vanguard div appreciation ETF S 03/11/2020 03/13/2020 $15,001 - gfedc
+(VIg) [ST] $50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 25 (Wells Fargo Financial)
+Vanguard div appreciation ETF S 03/11/2020 03/13/2020 $50,001 - gfedc
+(VIg) [ST] $100,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+Vanguard div appreciation ETF E 02/24/2020 02/28/2020 $50,001 - gfedc
+(VIg) [ST] $100,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer from WF 95
+Vanguard div appreciation ETF E 02/24/2020 02/28/2020 $50,001 - gfedc
+(VIg) [ST] $100,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 95 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer to WF 10
+Vanguard FTSE developed S 03/18/2020 03/20/2020 $1,001 - $15,000 gfedc
+Markets ETF (VEa) [ST]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 53 (Wells Fargo Financial)
+Vanguard Utilities ETF (VPU) [ST] S 03/18/2020 03/20/2020 $15,001 - gfedc
+$50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 53 (Wells Fargo Financial)
+Vanguard Utilities ETF (VPU) [ST] S 03/18/2020 03/20/2020 $15,001 - gfedc
+$50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+[[PAGE 8]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Vanguard Utilities ETF (VPU) [ST] E 02/24/2020 02/28/2020 $15,001 - gfedc
+$50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer from WF 95
+Vanguard Utilities ETF (VPU) [ST] E 02/24/2020 02/28/2020 $15,001 - gfedc
+$50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 95 (Wells Fargo Financial)
+dESCRIPTIoN: Transfer to WF 10
+Vanguard Utilities ETF (VPU) [ST] S 03/18/2020 03/20/2020 $15,001 - gfedc
+$50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 25 (Wells Fargo Financial)
+Vanguard Utilities ETF (VPU) [ST] S 03/10/2020 03/12/2020 $15,001 - gfedc
+$50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+Walt disney Company (dIS) [ST] S 03/18/2020 03/20/2020 $1,001 - $15,000 gfedc
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 69 (Wells Fargo Financial)
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+WF 10 (Wells Fargo Financial)
+LoCaTIoN: US
+WF 25 (Wells Fargo Financial)
+LoCaTIoN: US
+WF 31 (Wells Fargo Financial) (owner: SP)
+LoCaTIoN: US
+WF 53 (Wells Fargo Financial)
+LoCaTIoN: US
+WF 69 (Wells Fargo Financial)
+LoCaTIoN: US
+WF 95 (Wells Fargo Financial)
+LoCaTIoN: US
+[[PAGE 9]]
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. K. Michael Conaway , 04/06/2020

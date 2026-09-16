@@ -1,0 +1,46 @@
+[[PAGE 1]]
+Filing ID #20018123
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. John Rutherford
+Status: Member
+State/District: Fl04
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+American Electric Power Company, S 10/21/2020 10/21/2020 $1,001 - $15,000 gfedc
+Inc. (AEP) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Compagnie de Saint gobain P 12/22/2020 12/22/2020 $1,001 - $15,000 gfedc
+unsponsored ADR (CODYY) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Deutsche Post Ag Sponsored ADR P 11/13/2020 11/13/2020 $1,001 - $15,000 gfedc
+(DPSgY) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Svenska Handelsbanken P 12/07/2020 12/07/2020 $1,001 - $15,000 gfedc
+unsponsored ADR representing A
+Shares (SVNlY) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Tyson Foods, Inc. (TSN) [ST] P 10/21/2020 10/21/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+[[PAGE 2]]
+National Financial Services/Fidelity - Premiere Select IRA Domestic
+DESCRIPTION: Separately Managed Account - IRA
+National Financial Services/Fidelity - Premiere Select IRA Int'l
+DESCRIPTION: Separately Managed Account - IRA
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. John Rutherford , 02/02/2021

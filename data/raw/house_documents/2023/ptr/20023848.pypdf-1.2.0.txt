@@ -1,0 +1,136 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Devon Energy Corporation (DVN)
+[ST]
+P 09/29/202310/02/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+D: Dividend Reinvestment
+JT Devon Energy Corporation (DVN)
+[ST]
+P 09/29/202310/02/2023$15,001 - $50,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Emerson Electric Company (EMR)
+[ST]
+P 09/11/202309/12/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Exxon Mobil Corporation (XOM) [ST]P 09/11/202309/12/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Home Depot, Inc. (HD) [ST] P 09/14/202309/15/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+D: Dividend Reinvestment
+JT Home Depot, Inc. (HD) [ST] P 09/14/202309/15/2023$1,001 - $15,000
+Filing ID #20023848
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Johnson & Johnson (JNJ) [ST] P 09/07/202309/08/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Linde plc Ordinary Shares (LIN) [ST] P 09/19/202309/20/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Magellan Midstream Partners L.P.
+Limited Partnership (MMP) [ST]
+E 09/26/202309/27/2023$500,001 -
+$1,000,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Merger - Exchanged for .667 shrs of OKE and $25 cash
+JT Magellan Midstream Partners L.P.
+Limited Partnership (MMP) [ST]
+P 09/25/202309/26/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Magellan Midstream Partners L.P.
+Limited Partnership (MMP) [ST]
+E 09/26/202309/27/2023$50,001 -
+$100,000
+F S: New
+S O: Hern Family Foundation
+D: Merger Exchanged for .667 shrs or OKE and $25 cash
+JT NextEra Energy, Inc. (NEE) [ST] P 09/15/202309/18/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Pioneer Natural Resources Company
+(PXD) [ST]
+P 09/21/202309/22/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+D: Dividend Reinvestment
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Rockwell Automation, Inc. (ROK)
+[ST]
+P 09/11/202309/12/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT RTX Corporation (RTX) [ST] P 09/07/202309/08/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 09/19/202309/20/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Williams Companies, Inc. (WMB)
+[ST]
+P 09/25/202309/26/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Hern Family Foundation (100% Interest) (Owner: JT)
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+D: Family Revocable Trust
+Hern Family Revocable Trust ⇒ Brokerage Investment Account (100% Interest) (Owner: JT)
+L: US
+D: Stock, Bonds, EFTs, & Mutual funds
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 10/13/2023

@@ -1,0 +1,28 @@
+[[PAGE 1]]
+Filing ID #20018512
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Virginia Foxx
+Status: Member
+State/District: NC05
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT BP p.l.c. (BP) [ST] P 03/29/2021 03/29/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+JT Clearway Energy, Inc. Class A P 03/16/2021 03/16/2021 $1,001 - $15,000 gfedc
+(CWEN.A) [ST]
+FIlINg STATuS: New
+JT Walmart Inc. (WMT) [ST] S 03/26/2021 03/26/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Virginia Foxx , 04/07/2021

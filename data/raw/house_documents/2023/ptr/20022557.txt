@@ -1,0 +1,91 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Lois Frankel
+Status: Member
+State/District:FL22
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alliant Energy Corporation (LNT)
+[ST]
+P 01/31/202303/13/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Autodesk, Inc. (ADSK) [ST] P 01/31/202303/13/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+BlackRock, Inc. (BLK) [ST] S 02/02/202303/13/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+BlackRock, Inc. (BLK) [ST] S (partial) 02/01/202303/13/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Fluor Corporation (FLR) [ST] S (partial) 02/17/202303/13/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Hasbro, Inc. (HAS) [ST] S 01/31/202303/13/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+International Flavors & Fragrances,
+Inc. (IFF) [ST]
+P 02/17/202303/13/2023$1,001 - $15,000
+Filing ID #20022557
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley IRA - X142
+Johnson & Johnson (JNJ) [ST] P 02/08/202303/13/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Lamar Advertising Company - Class A
+(LAMR) [ST]
+P 02/17/202303/13/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Liberty Media Corporation - Series C
+Liberty SiriusXM (LSXMK) [ST]
+S 01/31/202303/13/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Pfizer, Inc. (PFE) [ST] P 02/01/202303/13/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+PPG Industries, Inc. (PPG) [ST] S (partial) 02/20/202303/13/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Sherwin-Williams Company (SHW)
+[ST]
+P 02/20/202303/13/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+TE Connectivity Ltd. New Switzerland
+Registered Shares (TEL) [ST]
+P 02/23/202303/13/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley IRA - X141
+D: Managed by MFS Investment MGMT
+Morgan Stanley IRA - X142
+D: Managed by Anchor Capital Advisors LLC
+[[PAGE 3]]
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 03/13/2023

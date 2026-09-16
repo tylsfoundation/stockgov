@@ -1,0 +1,223 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Tim Moore
+Status: Member
+State/District:NC14
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+American Airlines Group, Inc. -
+Common Stock (AAL) [ST]
+P 03/12/202504/07/2025$50,001 -
+$100,000
+F S: New
+American Airlines Group, Inc. -
+Common Stock (AAL) [ST]
+P 03/13/202504/07/2025$50,001 -
+$100,000
+F S: New
+American Airlines Group, Inc. -
+Common Stock (AAL) [ST]
+P 03/14/202504/07/2025$15,001 -
+$50,000
+F S: New
+American Airlines Group, Inc. -
+Common Stock (AAL) [ST]
+S 03/20/202504/07/2025$100,001 -
+$250,000
+F S: New
+American Airlines Group, Inc. -
+Common Stock (AAL) [ST]
+P 03/31/202504/07/2025$15,001 -
+$50,000
+F S: New
+Baker Hughes Company - Common
+Stock (BKR) [ST]
+P 03/04/202504/07/2025$15,001 -
+$50,000
+F S: New
+S O: TradeWinds
+BlackRock, Inc. Common Stock (BLK)
+[ST]
+P 03/04/202504/07/2025$15,001 -
+$50,000
+F S: New
+S O: TradeWinds
+Filing ID #20029134
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Direxion Daily Small Cap Bull 3X ETF
+- (TNA) [OT]
+P 03/03/202504/07/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: ETF
+Direxion Daily Small Cap Bull 3X ETF
+- (TNA) [OT]
+P 03/04/202504/07/2025$100,001 -
+$250,000
+F S: New
+L: US
+D: ETF
+Direxion Daily Small Cap Bull 3X ETF
+(TNA) [OT]
+P 03/06/202504/07/2025$50,001 -
+$100,000
+F S: New
+L: US
+D: ETF
+Direxion Daily Small Cap Bull 3X ETF
+(TNA) [OT]
+P 03/12/202504/07/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: ETF
+Direxion Daily Small Cap Bull 3X ETF
+(TNA) [OT]
+P 03/10/202504/07/2025$50,001 -
+$100,000
+F S: New
+L: US
+D: ETF
+Direxion Daily Small Cap Bull 3X ETF
+(TNA) [OT]
+P 03/11/202504/07/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: ETF
+Direxion Daily Small Cap Bull 3X ETF
+(TNA) [OT]
+P 03/07/202504/07/2025$50,001 -
+$100,000
+F S: New
+L: US
+D: ETF
+Direxion Daily Small Cap Bull 3X ETF
+(TNA) [OT]
+P 03/31/202504/07/2025$15,001 -
+$50,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+L: US
+D: ETF
+DoorDash, Inc. - Common Stock
+(DASH) [ST]
+P 03/04/202504/07/2025$15,001 -
+$50,000
+F S: New
+S O: TradeWinds
+Ford Motor Company Common Stock
+(F) [ST]
+P 03/05/202504/07/2025$50,001 -
+$100,000
+F S: New
+Ford Motor Company Common Stock
+(F) [ST]
+S 03/10/202504/07/2025$50,001 -
+$100,000
+F S: New
+Ford Motor Company Common Stock
+(F) [ST]
+P 03/31/202504/07/2025$15,001 -
+$50,000
+F S: New
+Ford Motor Company Common Stock
+(F) [ST]
+S 03/03/202504/07/2025$100,001 -
+$250,000
+F S: New
+Harley-Davidson, Inc. Common Stock
+(HOG) [ST]
+S 03/25/202504/07/2025$15,001 -
+$50,000
+F S: New
+Harley-Davidson, Inc. Common Stock
+(HOG) [ST]
+P 03/14/202504/07/2025$15,001 -
+$50,000
+F S: New
+Harley-Davidson, Inc. Common Stock
+(HOG) [ST]
+S 03/10/202504/07/2025$100,001 -
+$250,000
+F S: New
+Harley-Davidson, Inc. Common Stock
+(HOG) [ST]
+P 03/07/202504/07/2025$15,001 -
+$50,000
+F S: New
+Harley-Davidson, Inc. Common Stock
+(HOG) [ST]
+P 03/06/202504/07/2025$15,001 -
+$50,000
+F S: New
+Harley-Davidson, Inc. Common StockP 03/04/202504/07/2025$50,001 -
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(HOG) [ST] $100,000
+F S: New
+US Foods Holding Corp. Common
+Stock (USFD) [ST]
+P 03/04/202504/07/2025$15,001 -
+$50,000
+F S: New
+S O: TradeWinds
+Yieldmax MSCI Optn Inc Strg ETF
+(SMCY) [OT]
+P 03/28/202504/07/2025$50,001 -
+$100,000
+F S: New
+L: US
+D: ETF
+Yieldmax SMCI Optn Inc Strg ETF
+(SCMY) [OT]
+P 03/31/202504/07/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: ETF
+Yieldmax SMCI Optn Inc Strg ETRF
+(SMCY) [OT]
+P 03/27/202504/07/2025$50,001 -
+$100,000
+F S: New
+L: US
+D: ETF
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+TradeWinds
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Tim Moore , 04/14/2025

@@ -1,0 +1,136 @@
+[[PAGE 1]]
+Filing Id #20016915
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Gilbert Cisneros
+Status: Member
+State/District: CA39
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+AbIOMEd, Inc. (AbMd) [ST] S (partial) 06/10/2020 07/09/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Align Technology, Inc. (ALGN) S (partial) 06/10/2020 07/09/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Aon plc Class A Ordinary Shares P 06/16/2020 07/09/2020 $1,001 - $15,000 gfedc
+(AON) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+belden Inc (bdC) [ST] S (partial) 06/15/2020 07/09/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+belden Inc (bdC) [ST] S 06/16/2020 07/09/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Catalent, Inc. (CTLT) [ST] S (partial) 06/19/2020 07/09/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Costco Wholesale Corporation P 06/11/2020 07/09/2020 $15,001 - gfedc
+(COST) [ST] $50,000
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Costco Wholesale Corporation P 06/12/2020 07/09/2020 $15,001 - gfedc
+(COST) [ST] $50,000
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Crown Castle International Corp. S (partial) 06/16/2020 07/09/2020 $1,001 - $15,000 gfedcb
+(CCI) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+CryoLife, Inc. (CRY) [ST] P 06/25/2020 07/09/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Elanco Animal Health P 06/16/2020 07/09/2020 $1,001 - $15,000 gfedc
+Incorporated (ELAN) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Emergent biosolutions, Inc. (EbS) P 06/19/2020 07/09/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Emergent biosolutions, Inc. (EbS) P 06/30/2020 07/09/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Entegris, Inc. (ENTG) [ST] S (partial) 06/30/2020 07/09/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Facebook, Inc. - Class A (Fb) [ST] S (partial) 06/11/2020 07/09/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Five below, Inc. (FIVE) [ST] S (partial) 06/30/2020 07/09/2020 $1,001 - $15,000 gfedcb
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Helios Technologies, Inc. (HLIO) P 06/30/2020 07/09/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+HubSpot, Inc. (HUbS) [ST] S (partial) 06/30/2020 07/09/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+IdEXX Laboratories, Inc. (IdXX) S (partial) 06/10/2020 07/09/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+NVIdIA Corporation (NVdA) [ST] S (partial) 06/11/2020 07/09/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+PORTOLA VALLEY CA SCH dIST P 06/17/2020 07/09/2020 $500,001 - gfedc
+GO bONdS [GS] $1,000,000
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > Raymond James - Multi-Margin Related Account A
+Progyny, Inc. (PGNY) [ST] P 06/30/2020 07/09/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Sarepta Therapeutics, Inc. (SRPT) S (partial) 06/10/2020 07/09/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+ServiceNow, Inc. (NOW) [ST] S (partial) 06/11/2020 07/09/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Silgan Holdings Inc. (SLGN) [ST] S (partial) 06/19/2020 07/09/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SiteOne Landscape Supply, Inc. S (partial) 06/30/2020 07/09/2020 $1,001 - $15,000 gfedcb
+(SITE) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Splunk Inc. (SPLK) [ST] S (partial) 06/11/2020 07/09/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+Td Ameritrade Holding S (partial) 06/16/2020 07/09/2020 $1,001 - $15,000 gfedcb
+Corporation (AMTd) [ST]
+FILING STATUS: New
+SUbHOLdING OF: 150 Main Street Trust > U.S. Trust Holdings
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+150 Main Street Trust
+150 Main Street Trust ⇒ Raymond James - Multi-Margin Related Account A
+LOCATION: US
+150 Main Street Trust ⇒ U.S. Trust Holdings
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Gilbert Cisneros , 07/17/2020

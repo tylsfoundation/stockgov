@@ -1,0 +1,89 @@
+[[PAGE 1]]
+Filing ID #20016514
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. John Rutherford
+Status: Member
+State/District: Fl04
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+BAE SYSTEMS plc Sponsored ADR S 04/29/2020 04/29/2020 $1,001 - gfedc
+(BAESY) [ST] $15,000
+FIlINg STATUS: New
+SUBHolDINg oF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+China Petroleum & Chemical S 03/17/2020 03/17/2020 $1,001 - gfedc
+Corporation (SNP) [ST] $15,000
+FIlINg STATUS: New
+SUBHolDINg oF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+ENgIY - Engie Spon Adr [PS] S 04/14/2020 04/14/2020 $1,001 - gfedc
+$15,000
+FIlINg STATUS: New
+SUBHolDINg oF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+loCATIoN: US
+DESCRIPTIoN: ENgIY - Engie Spon Adr
+Imperial Brands PlC (IMBBY) [ST] S 04/15/2020 04/15/2020 $1,001 - gfedc
+$15,000
+FIlINg STATUS: New
+SUBHolDINg oF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+las Vegas Sands Corp. (lVS) [ST] P 03/17/2020 03/17/2020 $1,001 - gfedc
+$15,000
+FIlINg STATUS: New
+SUBHolDINg oF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+lloyds Banking group Plc S 04/09/2020 04/09/2020 $1,001 - gfedc
+American Depositary Shares (lYg) $15,000
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+[ST]
+FIlINg STATUS: New
+SUBHolDINg oF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Microsoft Corporation (MSFT) [ST] S 02/24/2020 02/24/2020 $1,001 - gfedc
+$15,000
+FIlINg STATUS: New
+SUBHolDINg oF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Nestle SA Sponsored ADR S 02/11/2020 02/11/2020 $1,001 - gfedc
+representing Registered Shares $15,000
+Series B (NSRgY) [ST]
+FIlINg STATUS: New
+SUBHolDINg oF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Roche Holdings Ag Basel American P 04/29/2020 04/29/2020 $1,001 - gfedc
+Depositary Shares (RHHBY) [ST] $15,000
+FIlINg STATUS: New
+SUBHolDINg oF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Roche Holdings Ag Basel American S 04/14/2020 04/14/2020 $1,001 - gfedc
+Depositary Shares (RHHBY) [ST] $15,000
+FIlINg STATUS: New
+SUBHolDINg oF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Singapore Telecommunications P 04/17/2020 04/17/2020 $1,001 - gfedc
+limited Sponsored ADR New 2006 $15,000
+(SgAPY) [ST]
+FIlINg STATUS: New
+SUBHolDINg oF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Softbank Corp Unsponsored ADR P 04/29/2020 04/29/2020 $1,001 - gfedc
+(SFTBY) [ST] $15,000
+FIlINg STATUS: New
+SUBHolDINg oF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+DESCRIPTIoN: SoBKY - Softbank Corps Unsponsred Ad
+Softbank Corp Unsponsored ADR P 03/18/2020 03/18/2020 $1,001 - gfedc
+(SFTBY) [ST] $15,000
+FIlINg STATUS: New
+SUBHolDINg oF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+DESCRIPTIoN: SoBKY - Softbank Corps Unsponsred Ads
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+[[PAGE 3]]
+aSSet claSS DetailS
+National Financial Services/Fidelity - Premiere Select IRA Domestic
+DESCRIPTIoN: Separately Managed Account - IRA
+National Financial Services/Fidelity - Premiere Select IRA Int'l
+DESCRIPTIoN: Separately Managed Account - IRA
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. John Rutherford , 05/01/2020

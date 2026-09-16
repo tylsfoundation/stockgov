@@ -1,0 +1,86 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Robert J. Wittman
+Status: Member
+State/District:VA01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+AB Global Bond Adv [OT] P 01/17/202301/18/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley
+L: US
+D: Mutual fund
+Baxter International Inc. (BAX) [ST] S 01/20/202301/24/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley
+Elevance Health, Inc. (ELV) [ST] S (partial) 01/03/202301/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley
+Harding Loevner Intl Eqty Inst [OT] P 01/20/202301/23/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley
+L: US
+D: Mutual fund
+Harding Loevner Intl Eqty Inst [OT] P 01/04/202301/05/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley
+L: US
+D: Mutual fund
+Filing ID #20022437
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Ishares Edge MSCI Min Vol USA [OT]S (partial) 01/04/202301/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley
+L: US
+D: Mutual fund
+Metropolitan West Tot Ret Bd I [OT] P 01/17/202301/18/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley
+L: US
+D: Mutual fund
+Vanguard Total Bond Market [OT] S 01/17/202301/19/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley
+L: US
+D: Mutual fund
+Vanguard Total Intl Bond ETF [OT] S 01/17/202301/19/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley
+L: US
+D: Mutual fund
+Virtus Vontobel Foreign Opp [OT] S 01/04/202301/05/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley
+L: US
+D: Mutual fund
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley
+I P O
+Yes No
+[[PAGE 3]]
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Robert J. Wittman , 02/15/2023

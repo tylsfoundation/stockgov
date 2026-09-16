@@ -1,0 +1,114 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. April McClain Delaney
+Status: Member
+State/District:MD06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC A.O. Smith Corporation Common
+Stock (AOS) [ST]
+S (partial) 04/10/202505/01/2025$1,001 - $15,000
+F S: New
+DC A.O. Smith Corporation Common
+Stock (AOS) [ST]
+S 04/16/202505/01/2025$1,001 - $15,000
+F S: New
+DC Bio-Techne Corp - Common Stock
+(TECH) [ST]
+P 04/09/202505/01/2025$1,001 - $15,000
+F S: New
+DC Bio-Techne Corp - Common Stock
+(TECH) [ST]
+P 04/29/202505/01/2025$1,001 - $15,000
+F S: New
+DC BJ's Wholesale Club Holdings, Inc.
+Common Stock (BJ) [ST]
+P 04/09/202505/01/2025$1,001 - $15,000
+F S: New
+DC BJ's Wholesale Club Holdings, Inc.
+Common Stock (BJ) [ST]
+P 04/01/202505/01/2025$1,001 - $15,000
+F S: New
+DC BJ's Wholesale Club Holdings, Inc.
+Common Stock (BJ) [ST]
+P 04/04/202505/01/2025$1,001 - $15,000
+F S: New
+DC CACI International, Inc. Class AS 04/02/202505/01/2025$1,001 - $15,000
+Filing ID #20030265
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Common Stock (CACI) [ST]
+F S: New
+DC Core & Main, Inc. Class A Common
+Stock (CNM) [ST]
+P 04/07/202505/01/2025$1,001 - $15,000
+F S: New
+DC Dayforce, Inc. Common Stock (DAY)
+[ST]
+S (partial) 04/28/202505/01/2025$1,001 - $15,000
+F S: New
+DC IDEXX Laboratories, Inc. - Common
+Stock (IDXX) [ST]
+P 04/07/202505/01/2025$1,001 - $15,000
+F S: New
+DC IDEXX Laboratories, Inc. - Common
+Stock (IDXX) [ST]
+P 04/04/202505/01/2025$1,001 - $15,000
+F S: New
+DC IDEXX Laboratories, Inc. - Common
+Stock (IDXX) [ST]
+P 04/01/202505/01/2025$1,001 - $15,000
+F S: New
+DC IDEXX Laboratories, Inc. - Common
+Stock (IDXX) [ST]
+P 04/09/202505/01/2025$1,001 - $15,000
+F S: New
+DC Markel Group Inc. Common Stock
+(MKL) [ST]
+P 04/09/202505/01/2025$1,001 - $15,000
+F S: New
+DC Markel Group Inc. Common Stock
+(MKL) [ST]
+P 04/24/202505/01/2025$1,001 - $15,000
+F S: New
+DC Paychex, Inc. - Common Stock
+(PAYX) [ST]
+P 04/09/202505/01/2025$1,001 - $15,000
+F S: New
+DC PTC Inc. - Common Stock (PTC) [ST] S (partial) 04/01/202505/02/2025$1,001 - $15,000
+F S: New
+DC Toro Company (TTC) [ST] S (partial) 04/29/202505/01/2025$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+DC Toro Company (TTC) [ST] S (partial) 04/10/202505/01/2025$1,001 - $15,000
+F S: New
+DC Toro Company (TTC) [ST] S (partial) 04/02/202505/01/2025$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. April McClain Delaney , 05/02/2025

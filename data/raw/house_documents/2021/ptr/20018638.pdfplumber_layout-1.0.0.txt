@@ -1,0 +1,54 @@
+[[PAGE 1]]
+Filing ID #20018638
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. James R. Langevin
+Status: Member
+State/District: RI02
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Facebook, Inc. - Class A (FB) [ST] S (partial) 04/26/2021 05/07/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+Facebook, Inc. - Class A (FB) [OP] S 04/29/2021 05/07/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call Options, Strike Price $345, Expires 5/21/21
+generac Holdlings Inc. (gNRC) S 04/23/2021 05/07/2021 $1,001 - $15,000 gfedc
+[OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call Options, Strike Price $360, Expires 5/21/21
+generac Holdlings Inc. (gNRC) S 04/29/2021 05/07/2021 $1,001 - $15,000 gfedc
+[OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call Options, Strike Price $360, Expires 5/21/21
+Roku, Inc. - Class A (ROKU) [OP] S 04/06/2021 05/07/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call Options, Strike Price $330, Expires 4/16/21
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Roku, Inc. - Class A (ROKU) [OP] S 04/06/2021 05/07/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call Options, Strike Price $300, Expires 4/30/21
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Brokerage Account
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. James R. Langevin , 05/13/2021

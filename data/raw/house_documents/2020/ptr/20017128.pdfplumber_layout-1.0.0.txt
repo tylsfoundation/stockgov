@@ -1,0 +1,93 @@
+[[PAGE 1]]
+Filing Id #20017128
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District: NJ05
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Agree Realty Corporation (AdC) P 07/22/2020 08/07/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Ambev S.A. American depositary P 07/16/2020 08/07/2020 $1,001 - $15,000 gfedc
+Shares (AbEV) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Apple Inc. (AAPL) [ST] S (partial) 07/23/2020 08/07/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT berkshire Hathaway Inc. New P 07/23/2020 08/07/2020 $1,001 - $15,000 gfedc
+(bRK.b) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT biogen Inc. (bIIb) [ST] P 07/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT booking Holdings Inc. (bKNG) P 07/16/2020 08/07/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT China Mobile Limited (CHL) [ST] P 07/16/2020 08/07/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Entegris, Inc. (ENTG) [ST] S (partial) 07/15/2020 08/07/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Franklin Resources, Inc. (bEN) P 07/16/2020 08/07/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT HealthEquity, Inc. (HQY) [ST] P 07/09/2020 08/07/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Johnson & Johnson (JNJ) [ST] P 07/23/2020 08/07/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Quidel Corporation (QdEL) [ST] S (partial) 07/08/2020 08/07/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Royal dutch Shell PLC Royal dutch P 07/16/2020 08/07/2020 $1,001 - $15,000 gfedc
+Shell PLC American depositary
+Shares (RdS.b) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Taiwan Semiconductor S (partial) 07/27/2020 08/07/2020 $1,001 - $15,000 gfedcb
+Manufacturing Company Ltd.
+(TSM) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Tesla, Inc. (TSLA) [ST] S (partial) 07/14/2020 08/07/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Verizon Communications Inc. (VZ) P 07/23/2020 08/07/2020 $1,001 - $15,000 gfedc
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Wd-40 Company (WdFC) [ST] S 07/22/2020 08/07/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 08/10/2020

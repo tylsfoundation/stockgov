@@ -1,0 +1,70 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Max Miller
+Status: Member
+State/District:OH07
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alpine Investors IX, LP (GLAS Funds,
+LP) [HN]
+P 03/13/202603/30/2026$1,001 - $15,000
+F S: New
+S O: 2012 Trust
+D: Capital call of $4,339.39
+New Water Capital Partners II, LP
+(GLAS Funds LP) [HN]
+P 02/27/202603/30/2026$318.74
+F S: New
+S O: 2012 Trust
+D: Capital Call of $318.74
+New Water Capital Partners II, LP
+(GLAS Funds, LP) [HN]
+S (partial) 02/27/202603/30/2026$1,001 - $15,000
+F S: New
+S O: 2012 Trust
+D: Recallable Distribution of $6,366.21
+Riverside Acceleration Capital
+Opportunity Fund II (GLAS Funds,
+LP) [HN]
+P 03/13/202603/30/2026$1,001 - $15,000
+F S: New
+S O: 2012 Trust
+D: Capital call of $6,381.59
+Trimer Capital Partners I LP (GLAS
+Funds LP) [HN]
+P 03/03/202603/30/2026$707.21
+F S: New
+S O: 2012 Trust
+D: Capital call of $707.21
+Filing ID #20034247
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Trimer Capital Select I LP (GLAS
+Funds LP) [HN]
+P 03/03/202603/30/2026$584.22
+F S: New
+S O: 2012 Trust
+D: Capital call of $584.22
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+2012 Trust
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Max Miller , 03/30/2026

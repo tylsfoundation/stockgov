@@ -1,0 +1,56 @@
+[[PAGE 1]]
+Filing ID #20016566
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Donna Shalala
+Status: Member
+State/District: FL27
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Lennar Corporation Class a (LEN) S (partial) 05/07/2020 05/07/2020 $250,001 - gfedcb
+[ST] $500,000
+FILING STaTUS: New
+SUBHoLDING oF: Morgan Stanley Basic Securities account (1)
+Lennar Corporation Class a (LEN) S (partial) 05/13/2020 05/13/2020 $100,001 - gfedcb
+[ST] $250,000
+FILING STaTUS: New
+SUBHoLDING oF: Morgan Stanley Basic Securities account (1)
+Lennar Corporation Class B S (partial) 05/07/2020 05/07/2020 $1,001 - $15,000 gfedcb
+(LEN.B) [ST]
+FILING STaTUS: New
+SUBHoLDING oF: Morgan Stanley Basic Securities account (1)
+TEGNa Inc (TGNa) [ST] S 05/07/2020 05/07/2020 $15,001 - gfedcb
+$50,000
+FILING STaTUS: New
+SUBHoLDING oF: Morgan Stanley Basic Securities account (1)
+Teva Pharmaceutical Industries S 05/07/2020 05/07/2020 $1,001 - $15,000 gfedc
+Limited american Depositary
+Shares (TEVa) [ST]
+FILING STaTUS: New
+SUBHoLDING oF: Morgan Stanley Basic Securities account (1)
+Watsco, Inc. (WSo) [ST] S 05/07/2020 05/07/2020 $15,001 - gfedcb
+$50,000
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STaTUS: New
+SUBHoLDING oF: Morgan Stanley Basic Securities account (1)
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan Stanley Basic Securities account (1)
+LoCaTIoN: US
+COmmeNTS
+Rep. Shalala also sold her remaining shares of Gannett Co Inc. (GCI) and Mannkind Corp (MNKD) on May 7, 2020, but the sales
+were under the reporting threshold. Rep. Shalala has also gifted her remaining shares of UnitedHealth Group Inc (UNH) to members
+of her family and the Miami Foundation.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Donna Shalala , 05/15/2020

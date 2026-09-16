@@ -1,0 +1,72 @@
+[[PAGE 1]]
+Filing ID #20018597
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Donald Sternoff Honorable Beyer Jr
+Status: Member
+State/District: VA08
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT BLF FedFund TDDXX [CS] P 04/14/2021 04/17/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] S 04/13/2021 04/17/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] S 04/05/2021 04/17/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] P 04/01/2021 04/17/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: purchase of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] P 04/29/2021 05/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase Backrock Liw FDE Fedfund
+JT California St gO BDS 4.25% P 04/13/2021 04/17/2021 $15,001 - gfedc
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+04/01/35 [gS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 25,000 units California State go BDS 4.25% 04/01/35
+JT Editas Medicine, Inc. (EDIT) [ST] S 04/14/2021 04/17/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 195 units Editas Medicine Inc common; cap gains $2,593.
+JT Nasdaq, Inc. (NDAQ) [ST] P 04/29/2021 05/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 15 units NASDAQ Inc.
+JT Roche Holdings Ag Basel Ordinary S 04/14/2021 04/17/2021 $1,001 - $15,000 gfedc
+Shares (RHHBF) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 150 units Roche Holdings Ltd
+JT Splunk Inc. (SPLK) [ST] S 04/29/2021 05/01/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 30 units Splunk Inc.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Stocks, Bonds, & Mutual Funds (Owner: JT)
+LOCATION: VA, US
+COmmeNTS
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Donald Sternoff Honorable Beyer Jr, 05/01/2021

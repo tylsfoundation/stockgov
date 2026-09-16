@@ -1,0 +1,317 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Adobe Inc. (ADBE) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Amazon.com, Inc. (AMZN) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT American Tower Corporation (AMT)
+[ST]
+S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT BlackRock, Inc. (BLK) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Boeing Company (BA) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+Filing ID #20022430
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Chubb Limited (CB) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Coca-Cola Company (KO) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Comcast Corporation - Class A
+(CMCSA) [ST]
+S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Costco Wholesale Corporation (COST)
+[ST]
+S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Danaher Corporation (DHR) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Dollar General Corporation (DG) [ST]S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Ecolab Inc. (ECL) [ST] S 01/31/202301/31/2023 $1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Exact Sciences Corporation (EXAS)
+[ST]
+S 01/31/202302/01/2023$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT FEDERAL FARM CREDIT
+11/18/2024 [GS]
+P 01/30/202301/31/2023 $100,001 -
+$250,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Buy open
+JT FEDL HOME LN MTG CRP
+11/6/2023 [GS]
+P 01/30/202301/31/2023 $100,001 -
+$250,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Buy Open
+JT FS Energy & Power Fund Common
+[PS]
+P 01/17/202301/18/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+L: US
+D: Dividend Reinvestment
+JT Home Depot, Inc. (HD) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Honeywell International Inc. (HON)
+[ST]
+S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT ICON plc - Ordinary Shares (ICLR)
+[ST]
+S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Inland Real Estate Income Trust [PS] P 01/09/202301/10/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+L: US
+D: Dividend Reinvestment
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Intel Corporation (INTC) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Intercontinental Exchange Inc. (ICE)
+[ST]
+S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Johnson & Johnson (JNJ) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT JP Morgan Chase & Co. (JPM) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT JP Morgan Chase & Co. (JPM) [ST] P 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Linde plc Ordinary Share (LIN) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Lockheed Martin Corporation (LMT)
+[ST]
+S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Lowe's Companies, Inc. (LOW) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Medtronic plc. Ordinary Shares
+(MDT) [ST]
+S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Microsoft Corporation (MSFT) [ST] S 01/31/202302/01/2023$15,001 - $50,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Microsoft Corporation (MSFT) [ST] S 01/04/202301/05/2023$1,000,001 -
+$5,000,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Sell Close
+JT Mondelez International, Inc. - Class A
+(MDLZ) [ST]
+S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT NextEra Energy, Inc. (NEE) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Novartis AG (NVS) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT O'Reilly Automotive, Inc. (ORLY) [ST]S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Parker-Hannifin Corporation (PH)
+[ST]
+S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Phillips 66 (PSX) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Procter & Gamble Company (PG) [ST]S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Raytheon Technologies Corporation
+(RTX) [ST]
+S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Republic Services, Inc. (RSG) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Rockwell Automation, Inc. (ROK)
+[ST]
+S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Salesforce, Inc. (CRM) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Texas Instruments Incorporated
+(TXN) [ST]
+S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT Thermo Fisher Scientific Inc (TMO)
+[ST]
+S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT TJX Companies, Inc. (TJX) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+JT UNITED STATES TREAS BILLS
+7/20/2023 [GS]
+P 01/30/202301/31/2023 $50,001 -
+$100,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Buy Open
+JT Visa Inc. (V) [ST] S 01/31/202302/01/2023$1,001 - $15,000
+F S: New
+S O: Kevin Hern Insurance Trust
+D: Sell to close.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+D: Family Revocable Trust
+Hern Family Revocable Trust ⇒ Brokerage Investment Account (100% Interest) (Owner: JT)
+L: US
+D: Stock, Bonds, EFTs, & Mutual funds
+Kevin Hern Insurance Trust (Owner: JT)
+D: iLIT
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 02/14/2023

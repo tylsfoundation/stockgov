@@ -1,0 +1,289 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kathy Manning
+Status: Member
+State/District:NC06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Abbott Laboratories (ABT) [ST] P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+AbbVie Inc. (ABBV) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP AbbVie Inc. (ABBV) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP AbbVie Inc. (ABBV) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Accenture plc Class A Ordinary
+Shares (ACN) [ST]
+P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Accenture plc Class A Ordinary
+Shares (ACN) [ST]
+P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Alphabet Inc. - Class A (GOOGL) [ST]S (partial) 04/28/202305/02/2023$1,001 - $15,000
+Filing ID #20022978
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Alphabet Inc. - Class A (GOOGL) [ST]S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Alphabet Inc. - Class A (GOOGL) [ST]S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+Amgen Inc. (AMGN) [ST] P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+Aon plc Class A Ordinary Shares
+(AON) [ST]
+P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Apple Inc. (AAPL) [ST] P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+Apple Inc. (AAPL) [ST] P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Apple Inc. (AAPL) [ST] P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Caterpillar, Inc. (CAT) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+Centene Corporation (CNC) [ST] P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Centene Corporation (CNC) [ST] P 04/28/202305/02/2023$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Chubb Limited (CB) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Citizens Financial Group, Inc. (CFG)
+[ST]
+P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Citizens Financial Group, Inc. (CFG)
+[ST]
+P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Estee Lauder Companies, Inc. (EL)
+[ST]
+S (partial) 04/28/202305/03/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Estee Lauder Companies, Inc. (EL)
+[ST]
+S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+Intuit Inc. (INTU) [ST] P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Intuit Inc. (INTU) [ST] P 04/28/202305/03/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP JP Morgan Chase & Co. (JPM) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+JP Morgan Chase & Co. (JPM) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Lam Research Corporation (LRCX)
+[ST]
+P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+Lockheed Martin Corporation (LMT)
+[ST]
+S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Lockheed Martin Corporation (LMT)
+[ST]
+S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Lockheed Martin Corporation (LMT)
+[ST]
+S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Medtronic plc. Ordinary Shares
+(MDT) [ST]
+P 04/28/202305/03/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Medtronic plc. Ordinary Shares
+(MDT) [ST]
+P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Micron Technology, Inc. (MU) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Microsoft Corporation (MSFT) [ST] P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP Microsoft Corporation (MSFT) [ST] P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+Microsoft Corporation (MSFT) [ST] P 04/28/202305/02/2023$15,001 -
+$50,000
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP Nike, Inc. (NKE) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Nike, Inc. (NKE) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+NVIDIA Corporation (NVDA) [ST] P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP NVIDIA Corporation (NVDA) [ST] P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP Packaging Corporation of America
+(PKG) [ST]
+P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Packaging Corporation of America
+(PKG) [ST]
+P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+PayPal Holdings, Inc. (PYPL) [ST] P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP PayPal Holdings, Inc. (PYPL) [ST] P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Pfizer, Inc. (PFE) [ST] P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Procter & Gamble Company (PG) [ST]S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+QUALCOMM Incorporated (QCOM)
+[ST]
+P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP QUALCOMM Incorporated (QCOM)
+[ST]
+P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP QUALCOMM Incorporated (QCOM)
+[ST]
+P 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Starbucks Corporation (SBUX) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Starbucks Corporation (SBUX) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+Starbucks Corporation (SBUX) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+TJX Companies, Inc. (TJX) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP TJX Companies, Inc. (TJX) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: MV Capital - GST Exempt Trust #2
+SP TJX Companies, Inc. (TJX) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Walmart Inc. (WMT) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+Walt Disney Company (DIS) [ST] S (partial) 04/28/202305/02/2023$1,001 - $15,000
+F S: New
+S O: Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Kathy Manning GST FBO Randall Kaplan
+Kathy Manning GST FBO Randall Kaplan ⇒ ManKap Family LLC
+L: US
+Kathy Manning GST FBO Randall Kaplan ⇒ ManKap Family LLC ⇒ MV Capital - Brokerage #2
+L: US
+MV Capital - GST Exempt Trust #2 (Owner: SP)
+The 2011 Randall R. Kaplan Living Trust (Owner: SP)
+The 2011 Randall R. Kaplan Living Trust ⇒ MV Capital - Brokerage #2 (Owner: SP)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kathy Manning , 05/19/2023

@@ -1,0 +1,70 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Dwight Evans
+Status: Member
+State/District:PA03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+ARK Genomic Revolution ETF
+(ARKG) [ST]
+S 03/25/202204/20/2022$1,001 - $15,000
+F S: New
+S O: PROEQUITIES
+ARK Genomic Revolution ETF
+(ARKG) [ST]
+S 03/25/202204/20/2022$1,001 - $15,000
+F S: New
+S O: PROEQUITIES
+ARK Innovation ETF (ARKK) [ST] S 03/30/202204/20/2022$1,001 - $15,000
+F S: New
+S O: PROEQUITIES
+Celanese Corporation Celanese
+Corporation (CE) [ST]
+S 03/30/202204/20/2022$1,001 - $15,000
+F S: New
+S O: PROEQUITIES
+General Dynamics Corporation (GD)
+[ST]
+P 03/30/202204/20/2022$1,001 - $15,000
+F S: New
+S O: PROEQUITIES
+Intel Corporation (INTC) [ST] P 03/30/202204/20/2022$1,001 - $15,000
+F S: New
+S O: PROEQUITIES
+Filing ID #20020865
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Kinder Morgan, Inc. (KMI) [ST] P 03/30/202204/20/2022$1,001 - $15,000
+F S: New
+S O: PROEQUITIES
+NeoGenomics, Inc. (NEO) [ST] S 03/30/202204/20/2022$1,001 - $15,000
+F S: New
+S O: PROEQUITIES
+Twist Bioscience Corporation (TWST)
+[ST]
+S 03/30/202204/20/2022$1,001 - $15,000
+F S: New
+S O: PROEQUITIES
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+PROEQUITIES
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dwight Evans , 04/25/2022

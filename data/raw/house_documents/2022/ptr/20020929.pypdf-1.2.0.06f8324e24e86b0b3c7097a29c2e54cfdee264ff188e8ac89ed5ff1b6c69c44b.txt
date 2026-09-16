@@ -1,0 +1,96 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Lois Frankel
+Status: Member
+State/District:FL21
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alleghany Corporation (Y) [ST] S 05/02/202206/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Alleghany Corporation (Y) [ST] S (partial) 04/29/202206/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Americold Realty Trust Common
+Shares (COLD) [ST]
+P 04/29/202206/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Americold Realty Trust Common
+Shares (COLD) [ST]
+P 05/02/202206/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Avery Dennison Corporation (AVY)
+[ST]
+P 04/25/202206/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Citigroup, Inc. (C) [ST] S 05/11/202206/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Citigroup, Inc. (C) [ST] S (partial) 04/27/202206/06/2022$1,001 - $15,000
+Filing ID #20020929
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley IRA - X141
+General Dynamics Corporation (GD)
+[ST]
+P 05/04/202206/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+GXO Logistics, Inc. (GXO) [ST] P 04/27/202206/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Johnson & Johnson (JNJ) [ST] S (partial) 05/04/202206/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Johnson & Johnson (JNJ) [ST] S (partial) 04/25/202206/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Johnson Controls International plc
+Ordinary Share (JCI) [ST]
+P 05/11/202206/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Pioneer Natural Resources Company
+(PXD) [ST]
+P 04/27/202206/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Sherwin-Williams Company (SHW)
+[ST]
+P 04/25/202206/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Vontier Corporation (VNT) [ST] P 04/25/202206/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+[[PAGE 3]]
+Morgan Stanley IRA - X141
+D: Managed by MFS Investment MGMT
+Morgan Stanley IRA - X142
+D: Managed by Anchor Capital Advisors LLC
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 06/09/2022

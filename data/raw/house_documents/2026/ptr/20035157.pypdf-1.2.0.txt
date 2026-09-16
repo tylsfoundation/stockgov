@@ -1,0 +1,39 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Christian D. Menefee
+Status: Member
+State/District:TX18
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Pinterest, Inc. Class A Common Stock
+(PINS) [ST]
+S 08/07/202608/07/2026$15,001 -
+$50,000
+F S: New
+D: Spouse received these restricted stock units (RSUs) as part of her compensation as a former employee of
+Pinterest (she did not purchase the shares). RSUs vest periodically and can be sold only during predetermined "trading
+windows" -- time periods the company opens after publicly releasing its quarterly financial results -- to prevent insider
+trading. Spouse completed this transaction after the company's most recent earnings call, consistent with those
+requirements.
+C: Spouse received these restricted stock units (RSUs) as part of her compensation as a former employee of
+Pinterest (she did not purchase the shares). RSUs vest periodically and can be sold only during predetermined "trading
+windows" -- time periods the company opens after publicly releasing its quarterly financial results -- to prevent insider
+trading. Spouse completed this transaction after the company's most recent earnings call, consistent with those
+requirements.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Christian D. Menefee , 08/07/2026
+Filing ID #20035157

@@ -1,0 +1,86 @@
+[[PAGE 1]]
+Filing ID #20017261
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. John A. Yarmuth
+Status: Member
+State/District: KY03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Air Products and Chemicals, Inc. S (partial) 07/01/2020 08/11/2020 $1,001 - $15,000 gfedc
+(APD) [ST]
+FIlINg STATuS: New
+Alphabet Inc. - Class A (gOOgl) P 06/24/2020 07/09/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Apple Inc. (AAPl) [ST] P 06/24/2020 07/09/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Apple Inc. (AAPl) [ST] S (partial) 06/01/2020 07/09/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+Chubb limited (CB) [ST] P 07/01/2020 08/11/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+CME group Inc. - Class A (CME) S 07/01/2020 08/11/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+CME group Inc. - Class A (CME) S (partial) 06/08/2020 07/09/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+Comcast Corporation - Class A S (partial) 06/24/2020 07/09/2020 $1,001 - $15,000 gfedcb
+(CMCSA) [ST]
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+Crown Castle International Corp. P 07/01/2020 08/11/2020 $1,001 - $15,000 gfedc
+(CCI) [ST]
+FIlINg STATuS: New
+eBay Inc. (EBAY) [ST] P 07/01/2020 08/11/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Ecolab Inc. (ECl) [ST] S (partial) 07/01/2020 08/11/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+goldman Sachs group, Inc. (gS) P 07/01/2020 08/11/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+lHC group - common stock S (partial) 07/02/2020 08/11/2020 $100,001 - gfedcb
+(lHCg) [ST] $250,000
+FIlINg STATuS: New
+lHC group - common stock S (partial) 07/06/2020 08/11/2020 $100,001 - gfedcb
+(lHCg) [ST] $250,000
+FIlINg STATuS: New
+lHC group - common stock S (partial) 07/08/2020 08/11/2020 $250,001 - gfedcb
+(lHCg) [ST] $500,000
+FIlINg STATuS: New
+linde plc Ordinary Share (lIN) P 07/01/2020 08/11/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+McDonald's Corporation (MCD) S (partial) 07/01/2020 08/11/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+Netflix, Inc. (NFlX) [ST] P 07/01/2020 08/11/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Northrop grumman Corporation S 06/18/2020 07/09/2020 $1,001 - $15,000 gfedc
+(NOC) [ST]
+FIlINg STATuS: New
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+S&P global Inc. (SPgI) [ST] P 07/01/2020 08/11/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Target Corporation (TgT) [ST] P 06/18/2020 07/09/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Wells Fargo & Company (WFC) S 07/01/2020 08/11/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. John A. Yarmuth , 10/12/2020

@@ -1,0 +1,26 @@
+[[PAGE 1]]
+Filing ID #20017957
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. David E. Price
+Status: Member
+State/District: NC04
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Briggs & Stratton Corporation S 12/07/2020 12/14/2020 $21.00 gfedc
+(Bgg) [ST]
+FIlINg STATuS: New
+NC Community Health Care P 12/14/2020 12/31/2020 $1,001 - $15,000 gfedc
+Facilities - Vidant bonds [gS]
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. David E. Price , 01/03/2021

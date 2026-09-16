@@ -1,0 +1,31 @@
+[[PAGE 1]]
+Filing ID #20020507
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Pete Sessions
+Status: Member
+State/District: TX32
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+TOBACCO SETTLEMENT FINg S (partial) 12/01/2021 02/22/2022 $100,001 - gfedc
+CORP VA SER A1 TAXABLE $250,000
+SENIOR B/E CPN [CS]
+FILINg STATUS: New
+DESCRIPTION: TOBACCO SETTLEMENT FINg CORP VA SER A1 TAXABLE SENIOR B/E CPN 6.706% DUE 06/01/46 DTD
+05/03/07 FC 12/01/07 120121 360,000, CUSIP-88880NAT6
+US STEEL CORP BONDS CPN S 12/01/2021 02/22/2022 $1,001 - $15,000 gfedc
+[CS]
+FILINg STATUS: New
+DESCRIPTION: -2,000 US STEEL CORP BONDS CPN 6.650% DUE 06/01/37 DTD 05/21/07 FC 12/01/07, CUSIP-
+912909AD0 @ $110.7500
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Pete Sessions , 02/22/2022

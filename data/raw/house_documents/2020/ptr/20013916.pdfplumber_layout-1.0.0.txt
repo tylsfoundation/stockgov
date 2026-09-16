@@ -1,0 +1,47 @@
+[[PAGE 1]]
+Filing ID #20013916
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Kevin Hern
+Status: Member
+State/District: oK01
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Colony Credit Real Estate, Inc. s 12/04/2019 12/05/2019 $100,001 - gfedc
+Class a (ClNC) [sT] $250,000
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Revocable Trust
+JT Fs Energy and Power Fund Com P 12/03/2019 12/04/2019 $1,001 - $15,000 gfedc
+[Ps]
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Revocable Trust
+loCaTIoN: us
+DEsCRIPTIoN: Dividend Reinvestment
+JT Fs Investment Corp II Com [Ps] P 12/03/2019 12/04/2019 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Revocable Trust
+loCaTIoN: us
+DEsCRIPTIoN: Dividend Reinvestment
+JT Fs KKR Capital Corp. (FsK) [sT] s 12/04/2019 12/05/2019 $100,001 - gfedc
+$250,000
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Revocable Trust
+JT schlumberger N.V. (slb) [sT] s 12/04/2019 12/05/2019 $15,001 - gfedc
+$50,000
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Revocable Trust
+[[PAGE 2]]
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Hern Family Revocable Trust (100% Interest) (owner: JT)
+DEsCRIPTIoN: Family Revocable Trust
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Kevin Hern , 01/14/2020

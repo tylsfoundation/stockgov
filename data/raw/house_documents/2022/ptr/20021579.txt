@@ -1,0 +1,74 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Suzan K. DelBene
+Status: Member
+State/District:WA01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT New York N Y City Transitional Fin
+5.00% Due Feb 1, 2032 [GS]
+P 08/02/202208/02/2022$500,001 -
+$1,000,000
+F S: New
+JT New York N Y Go BDS Ser.C 5.00 %
+Due Aug 1, 2030 [GS]
+P 08/02/202208/02/2022$250,001 -
+$500,000
+F S: New
+JT New York N Y Go BDS Ser.C 5.00 %
+Due Aug 1, 2031 [GS]
+S 08/02/202208/02/2022$250,001 -
+$500,000
+F S: New
+JT New York NY GO BDS Ser 5.00% Due
+08/01/2030 [GS]
+P 08/09/202208/09/2022$1,001 - $15,000
+F S: New
+JT New York ST Dorm Auth ST Pers
+Income 5.00% Due 03/15/2027 [GS]
+S 08/02/202208/02/2022$500,001 -
+$1,000,000
+F S: New
+JT Piladelphia PA SCH Dist Go BDS Ser.
+5.00% Due 09/01/2027 [GS]
+P 08/18/202208/18/2022$15,001 - $50,000
+F S: New
+JT Prince Georges CNTY MD Go
+Consolidated 5.00% Due 07/15/31
+[GS]
+P 08/04/202208/04/2022$15,001 - $50,000
+F S: New
+Filing ID #20021579
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Round Rock Tex Indpt Sch Dist
+5.00% Due 8/1/2025 [GS]
+P 08/18/202208/18/2022$100,001 -
+$250,000
+F S: New
+JT University Minn GO Ref BDS Regents
+Ser. 5.00% Due 10/01/25 [GS]
+S 08/18/202208/18/2022$250,001 -
+$500,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 08/26/2022

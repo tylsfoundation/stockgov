@@ -1,0 +1,160 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Tim Moore
+Status: Member
+State/District:NC14
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Direxion Daily Small Cap Bull 3X ETF
+- TNA [OT]
+P 02/24/202503/10/2025$50,001 -
+$100,000
+F S: New
+L: US
+D: EFT
+Direxion Daily Small Cap Bull 3X ETF
+- TNA [OT]
+P 02/25/202503/10/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: EFT
+Direxion Daily Small Cap Bull 3X ETF
+- TNA [OT]
+P 02/26/202503/10/2025$50,001 -
+$100,000
+F S: New
+L: US
+D: ETF
+Direxion Daily Small Cap Bull 3X ETF
+- TNA [OT]
+P 02/28/202503/10/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: ETF
+Ford Motor Company Common Stock
+(F) [ST]
+P 02/07/202503/10/2025$50,001 -
+$100,000
+F S: New
+Ford Motor Company Common Stock
+(F) [ST]
+P 02/10/202503/10/2025$15,001 -
+$50,000
+Filing ID #20027944
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+Ford Motor Company Common Stock
+(F) [ST]
+P 02/04/202503/10/2025$50,001 -
+$100,000
+F S: New
+Ford Motor Company Common Stock
+(F) [ST]
+S 02/05/202503/10/2025$50,001 -
+$100,000
+F S: New
+Ford Motor Company Common Stock
+(F) [ST]
+P 02/06/202503/10/2025$15,001 -
+$50,000
+F S: New
+Ford Motor Company Common Stock
+(F) [ST]
+P 02/13/202503/10/2025$15,001 -
+$50,000
+F S: New
+General Dynamics Corporation
+Common Stock (GD) [ST]
+S 02/20/202503/10/2025$1,001 - $15,000
+F S: New
+Harley-Davidson, Inc. Common Stock
+(HOG) [ST]
+P 02/04/202503/10/2025$50,001 -
+$100,000
+F S: New
+Harley-Davidson, Inc. Common Stock
+(HOG) [ST]
+P 02/06/202503/10/2025$100,001 -
+$250,000
+F S: New
+Harley-Davidson, Inc. Common Stock
+(HOG) [ST]
+S 02/05/202503/10/2025$100,001 -
+$250,000
+F S: New
+Harley-Davidson, Inc. Common Stock
+(HOG) [ST]
+S 02/12/202503/10/2025$50,001 -
+$100,000
+F S: New
+Harley-Davidson, Inc. Common Stock
+(HOG) [ST]
+P 02/12/202503/10/2025$50,001 -
+$100,000
+F S: New
+Harley-Davidson, Inc. Common Stock
+(HOG) [ST]
+S 02/10/202503/10/2025$100,001 -
+$250,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+Rockwell Automation, Inc. Common
+Stock (ROK) [ST]
+S 02/21/202503/10/2025$15,001 -
+$50,000
+F S: New
+SIMCORP A/S UN/ADR (SMCYY)
+[ST]
+P 02/04/202503/10/2025$15,001 -
+$50,000
+F S: New
+SIMCORP A/S UN/ADR (SMCYY)
+[ST]
+S 02/06/202503/10/2025$100,001 -
+$250,000
+F S: New
+Yieldmax Smci Optn Inc Strg ETF -
+SMCY [OT]
+P 02/04/202503/10/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: EFT
+Yieldmax Smci Optn Inc Strg ETF -
+SMCY [OT]
+S 02/06/202503/10/2025$100,001 -
+$250,000
+F S: New
+L: US
+D: ETF
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Tim Moore , 03/11/2025

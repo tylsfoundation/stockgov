@@ -1,0 +1,47 @@
+[[PAGE 1]]
+Filing ID #20019418
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Patrick Fallon
+Status: Member
+State/District: TX04
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+American Airlines group, Inc. S 08/10/2021 08/10/2021 $1,001 - $15,000 gfedcb
+(AAl) [ST]
+FIlINg STATuS: New
+American Airlines group, Inc. S 08/10/2021 08/10/2021 $1,001 - $15,000 gfedcb
+(AAl) [ST]
+FIlINg STATuS: New
+Chevron Corporation (CVX) [ST] S 08/10/2021 08/10/2021 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+Deere & Company (DE) [ST] S 08/10/2021 08/10/2021 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+Deere & Company (DE) [ST] S 08/10/2021 08/10/2021 $100,001 - gfedcb
+$250,000
+FIlINg STATuS: New
+Deere & Company (DE) [ST] P 08/10/2021 08/10/2021 $100,001 - gfedc
+$250,000
+FIlINg STATuS: New
+Deere & Company (DE) [ST] S 08/25/2021 08/25/2021 $100,001 - gfedcb
+$250,000
+FIlINg STATuS: New
+Southwest Airlines Company S 08/10/2021 08/10/2021 $1,001 - $15,000 gfedcb
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedcb
+(luV) [ST]
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Patrick Fallon , 09/03/2021

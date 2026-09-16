@@ -1,0 +1,51 @@
+[[PAGE 1]]
+Filing ID #20019291
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. John A. Yarmuth
+Status: Member
+State/District: KY03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+2000065037 Altria group, Inc. (MO) [ST] P 03/24/2020 04/09/2020 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+2000067398 Amgen Inc. (AMgN) [ST] P 05/29/2020 06/05/2020 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+2000065034 Berkshire Hathaway Inc. New S (partial) 03/10/2020 04/09/2020 $1,001 - gfedc
+(BRK.B) [ST] $15,000
+FIlINg STATuS: Amended
+2000065035 Cisco Systems, Inc. (CSCO) S (partial) 03/11/2020 04/09/2020 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: Amended
+2000067390 Citigroup, Inc. (C) [ST] S (partial) 05/29/2020 06/05/2020 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+2000065029 Citigroup, Inc. (C) [ST] P 03/31/2020 04/09/2020 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+2000070976 Crown Castle International S (partial) 07/01/2020 08/11/2020 $1,001 - gfedc
+Corp. (CCI) [ST] $15,000
+FIlINg STATuS: Amended
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+2000065036 Crown Castle International P 03/23/2020 04/09/2020 $1,001 - gfedc
+Corp. (CCI) [ST] $15,000
+FIlINg STATuS: Amended
+2000067391 Walt Disney Company (DIS) S 05/05/2020 06/05/2020 $1,001 - gfedcb
+[ST] $15,000
+FIlINg STATuS: Amended
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. John A. Yarmuth , 08/11/2021

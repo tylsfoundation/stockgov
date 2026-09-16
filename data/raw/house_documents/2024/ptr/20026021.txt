@@ -1,0 +1,148 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Thomas H. Kean Jr.
+Status: Member
+State/District:NJ07
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Amentum Holdings, Inc. Common
+Stock (AMTM) [ST]
+E 09/30/202410/02/2024$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co.
+D: Holdings in J exchanged out for receipt of new holdings in J and AMTM through a corporate action.
+Amentum Holdings, Inc. Common
+Stock (AMTM) [ST]
+E 09/30/202410/02/2024$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co. SP
+D: Holdings in J exchanged out for receipt of new holdings in J and AMTM through a corporate action.
+Amentum Holdings, Inc. Common
+Stock (AMTM) [ST]
+E 09/30/202410/02/2024$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co. DC1
+D: Holdings in J exchanged out for receipt of new holdings in J and AMTM through a corporate action.
+Amentum Holdings, Inc. Common
+Stock (AMTM) [ST]
+E 09/30/202410/02/2024$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co. DC2
+D: Holdings in J exchanged out for receipt of new holdings in J and AMTM through a corporate action.
+Jacobs Solutions Inc. Common Stock
+(J) [ST]
+E 09/30/202410/02/2024$15,001 -
+$50,000
+F S: New
+S O: State Street Bank & Trust Co. DC2
+D: Holdings in J exchanged out for receipt of new holdings in J and AMTM through a corporate action.
+Filing ID #20026021
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Jacobs Solutions Inc. Common Stock
+(J) [ST]
+E 09/30/202410/02/2024$15,001 -
+$50,000
+F S: New
+S O: State Street Bank & Trust Co. DC2
+D: Holdings in J exchanged out for receipt of new holdings in J and AMTM through a corporate action.
+Jacobs Solutions Inc. Common Stock
+(J) [ST]
+E 09/30/202410/02/2024$15,001 -
+$50,000
+F S: New
+S O: State Street Bank & Trust Co. DC1
+D: Holdings in J exchanged out for receipt of new holdings in J and AMTM through a corporate action.
+Jacobs Solutions Inc. Common Stock
+(J) [ST]
+E 09/30/202410/02/2024$15,001 -
+$50,000
+F S: New
+S O: State Street Bank & Trust Co. DC1
+D: Holdings in J exchanged out for receipt of new holdings in J and AMTM through a corporate action.
+Jacobs Solutions Inc. Common Stock
+(J) [ST]
+E 09/30/202410/02/2024$15,001 -
+$50,000
+F S: New
+S O: State Street Bank & Trust Co. SP
+D: Holdings in J exchanged out for receipt of new holdings in J and AMTM through a corporate action.
+Jacobs Solutions Inc. Common Stock
+(J) [ST]
+E 09/30/202410/02/2024$15,001 -
+$50,000
+F S: New
+S O: State Street Bank & Trust Co. SP
+D: Holdings in J exchanged out for receipt of new holdings in J and AMTM through a corporate action.
+Jacobs Solutions Inc. Common Stock
+(J) [ST]
+E 09/30/202410/02/2024$15,001 -
+$50,000
+F S: New
+S O: State Street Bank & Trust Co.
+D: Holdings in J exchanged out for receipt of new holdings in J and AMTM through a corporate action.
+Jacobs Solutions Inc. Common Stock
+(J) [ST]
+E 09/30/202410/02/2024$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co.
+D: Holdings in J exchanged out for receipt of new holdings in J and AMTM through a corporate action.
+Liberty Media Corporation - Series A
+Liberty SiriusXM Common Stock
+(LSXMA) [ST]
+E 09/10/202409/17/2024$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: State Street Bank & Trust Co.
+D: Holdings in LSXMA and LSXMK exchanged out for receipt of holdings in SIRI through a corporate action.
+Liberty Media Corporation - Series C
+Liberty SiriusXM Common Stock
+(LSXMK) [ST]
+E 09/10/202409/17/2024$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co.
+D: Holdings in LSXMA and LSXMK exchanged out for receipt of holdings in SIRI through a corporate action.
+Nike, Inc. Common Stock (NKE) [ST]S (partial) 09/11/202410/08/2024$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+SiriusXM Holdings Inc. - Common
+Stock (SIRI) [ST]
+E 09/10/202409/17/2024$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co.
+D: Holdings in LSXMA and LSXMK exchanged out for receipt of holdings in SIRI through a corporate action.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Kean Family Partnership (33% Interest)
+L: US
+State Street Bank & Trust Co.
+State Street Bank & Trust Co. DC1
+State Street Bank & Trust Co. DC2
+State Street Bank & Trust Co. SP
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Thomas H. Kean Jr., 10/15/2024

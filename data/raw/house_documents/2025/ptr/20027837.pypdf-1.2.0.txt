@@ -1,0 +1,97 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. William R. Keating
+Status: Member
+State/District:MA09
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Accenture plc Class A Ordinary
+Shares (ACN) [ST]
+P 02/05/202502/24/2025$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+Aramark Common Stock (ARMK)
+[ST]
+P 02/05/202502/24/2025$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+COCA COLA CO NOTE CALL MAKE
+WHOLE 5.00000% 05/13/2034 [CS]
+P 02/06/202502/24/2025$15,001 -
+$50,000
+F S: New
+S O: Bill's IRA
+D: 191216DR8
+CoStar Group, Inc. - Common Stock
+(CSGP) [ST]
+P 01/21/202502/24/2025$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+GENERAL MTRS CO NOTE CALL
+MAKE WHOLE 5.60000%
+10/15/2032 [CS]
+P 02/06/202502/24/2025$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+D: 37045VAZ3
+KLA Corporation - Common Stock
+(KLAC) [ST]
+P 01/24/202502/24/2025$1,001 - $15,000
+Filing ID #20027837
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Bill's IRA
+Lam Research Corporation - Common
+Stock (LRCX) [ST]
+S 01/24/202502/24/2025$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 02/05/202502/24/2025$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+Pepsico, Inc. (PEP) [ST] P 02/05/202502/24/2025$1,001 - $15,000
+F S: New
+S O: Bill's IRA
+THE CAMPBELLS COMPANY NOTE
+5.40000% 03/21/2034 CALL MAKE
+WHOLE [CS]
+P 02/06/202502/24/2025$15,001 -
+$50,000
+F S: New
+S O: Bill's IRA
+D: 134429BP3
+WELLS FARGO &CO SER W MTN
+5.24400% 01/24/2031 CALL MAKE
+WHOLE [CS]
+P 02/06/202502/24/2025$15,001 -
+$50,000
+F S: New
+S O: Bill's IRA
+D: 95000U3P6
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Bill's IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+[[PAGE 3]]
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. William R. Keating , 02/25/2025

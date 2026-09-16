@@ -1,0 +1,38 @@
+[[PAGE 1]]
+Filing ID #20017962
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Suzan K. DelBene
+Status: Member
+State/District: WA01
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Colorado Health Fac 5.00% Hosp P 12/03/2020 12/03/2020 $500,001 - gfedc
+HlTH Due 08/01/49 [gS] $1,000,000
+FIlINg STATuS: New
+SP Microsoft Corporation (MSFT) S (partial) 12/01/2020 12/01/2020 $250,001 - gfedcb
+[ST] $500,000
+FIlINg STATuS: New
+JT MNTgRY Cn MD 5.00% gP Itx P 12/15/2020 12/25/2020 $15,001 - gfedc
+Due 10/01/2025 [gS] $50,000
+FIlINg STATuS: New
+JT New York ST Dorm Auth ST pers P 12/30/2020 12/30/2020 $50,001 - gfedc
+income 5.00% due 03/15/2027 $100,000
+[gS]
+FIlINg STATuS: New
+JT Round Rock Tex Indpt Sch Dist P 12/11/2020 12/11/2020 $15,001 - gfedc
+unltd Tax 5.00% Due 08/01/2025 $50,000
+[gS]
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 2]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 01/13/2021

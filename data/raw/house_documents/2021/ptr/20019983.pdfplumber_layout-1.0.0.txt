@@ -1,0 +1,117 @@
+[[PAGE 1]]
+Filing ID #20019983
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Kevin Hern
+Status: Member
+State/District: OK01
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT ABB Ltd (ABB) [ST] P 11/26/2021 11/27/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+JT Accenture plc Class A Ordinary P 11/26/2021 11/27/2021 $1,001 - $15,000 gfedc
+Shares (ACN) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+JT AgCO Corporation (AgCO) [ST] P 11/26/2021 11/27/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+JT ArcBest Corporation (ARCB) [ST] P 11/26/2021 11/27/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+JT Ball Corporation (BLL) [ST] P 11/26/2021 11/27/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+JT Crane Co. (CR) [ST] P 11/26/2021 11/27/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHOLDINg OF: Hern Family Foundation
+JT Duke Realty Corporation (DRE) P 11/26/2021 11/27/2021 $50,001 - gfedc
+[ST] $100,000
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+JT Fidelity MSCI Consumer P 11/26/2021 11/27/2021 $50,001 - gfedc
+Discretionary Index ETF (FDIS) $100,000
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Foundation
+JT Fidelity MSCI Information P 11/26/2021 11/27/2021 $100,001 - gfedc
+Technology Index ETF (FTEC) [ST] $250,000
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Foundation
+JT Fidelity Total Bond ETF (FBND) S (partial) 11/16/2021 11/17/2021 $50,001 - gfedc
+[ST] $100,000
+FILINg STATUS: New
+SUBHOLDINg OF: Kevin Hern Insurance Trust
+JT FS KKR Capital Corp. (FSK) [ST] S 11/26/2021 11/27/2021 $100,001 - gfedc
+$250,000
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+JT Hilton Worldwide Holdings Inc. P 11/26/2021 11/27/2021 $50,001 - gfedc
+(HLT) [ST] $100,000
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+JT Intel Corporation (INTC) [ST] P 11/26/2021 11/27/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+JT iShares TIPS Bond ETF (TIP) [ST] P 11/05/2021 11/06/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+JT Magellan Midstream Partners L.P. P 11/12/2021 11/13/2021 $1,001 - $15,000 gfedc
+Limited Partnership (MMP) [ST]
+FILINg STATUS: New
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+JT ONEOK, Inc. (OKE) [ST] P 11/15/2021 11/16/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+JT Parker-Hannifin Corporation (PH) P 11/26/2021 11/27/2021 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Foundation
+JT Quanta Services, Inc. (PWR) [ST] P 11/26/2021 11/27/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+JT Texas Instruments Incorporated P 11/15/2021 11/16/2021 $1,001 - $15,000 gfedc
+(TXN) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+JT TJX Companies, Inc. (TJX) [ST] P 11/26/2021 11/27/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Foundation
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Hern Family Foundation (100% Interest) (Owner: JT)
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+DESCRIPTION: Family Revocable Trust
+Hern Family Revocable Trust ⇒ Brokerage Investment Account (100% Interest) (Owner: JT)
+LOCATION: US
+DESCRIPTION: Stock, Bonds, EFTs, & Mutual funds
+Kevin Hern Insurance Trust (Owner: JT)
+DESCRIPTION: iLIT
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 4]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 12/09/2021

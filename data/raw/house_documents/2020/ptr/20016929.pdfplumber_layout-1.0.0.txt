@@ -1,0 +1,101 @@
+[[PAGE 1]]
+Filing ID #20016929
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. K. Michael Conaway
+Status: Member
+State/District: TX11
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP iShares MSCI EAFE growth ETF S (partial) 06/09/2020 06/12/2020 $1,001 - $15,000 gfedcb
+(EFg) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: SP E48 (Edward Jones)
+SP iShares MSCI EAFE Value ETF P 06/09/2020 06/12/2020 $15,001 - gfedc
+(EFV) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: SP E48 (Edward Jones)
+SP iShares Russell 2000 ETF (IWM) S (partial) 06/09/2020 06/12/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: SP E48 (Edward Jones)
+SP JPMORgAN FEDERAL MONEY S (partial) 06/09/2020 06/12/2020 $15,001 - gfedc
+MARKET FUND [OT] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: SP E48 (Edward Jones)
+LOCATION: US
+DESCRIPTION: JPMORgAN FEDERAL MONEY MARKET FUND
+SP JPMORgAN FEDERAL MONEY P 06/23/2020 06/26/2020 $1,001 - $15,000 gfedc
+MARKET FUND [OT]
+FILINg STATUS: New
+SUbHOLDINg OF: SP E48 (Edward Jones)
+LOCATION: US
+DESCRIPTION: JPMORgAN FEDERAL MONEY MARKET FUND
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP JPMORgAN FEDERAL MONEY P 06/10/2020 06/12/2020 $15,001 - gfedc
+MARKET FUND [OT] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: SP E48 (Edward Jones)
+LOCATION: US
+DESCRIPTION: JPMORgAN FEDERAL MONEY MARKET FUND
+SP Legg Mason global Infrastructure S 06/10/2020 06/12/2020 $15,001 - gfedc
+ETF (INFR) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: SP E48 (Edward Jones)
+SP PgIM High Yield bond Fund, Inc. P 06/09/2020 06/12/2020 $15,001 - gfedc
+(ISD) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: SP E48 (Edward Jones)
+PNC Financial Services group, Inc. P 06/02/2020 06/04/2020 $15,001 - gfedc
+(PNC) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: WF 10 (Wells Fargo Financial)
+PNC Financial Services group, Inc. P 06/01/2020 06/04/2020 $15,001 - gfedc
+(PNC) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: WF 10 (Wells Fargo Financial)
+PNC Financial Services group, Inc. P 06/01/2020 06/04/2020 $15,001 - gfedc
+(PNC) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: WF 69 (Wells Fargo Financial)
+TJX Companies, Inc. (TJX) [ST] S 06/01/2020 06/04/2020 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: WF 69 (Wells Fargo Financial)
+U.S. bancorp (USb) [ST] P 06/01/2020 06/04/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: WF 10 (Wells Fargo Financial)
+Vanguard Consumer Staples ETF S (partial) 06/01/2020 06/04/2020 $15,001 - gfedc
+(VDC) [ST] $50,000
+FILINg STATUS: New
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: WF 10 (Wells Fargo Financial)
+SP Vanguard Large-Cap ETF (VV) P 06/09/2020 06/12/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: SP E48 (Edward Jones)
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+SP E48 (Edward Jones) (Owner: SP)
+LOCATION: US
+DESCRIPTION: Managed Account - Not self-directed
+WF 10 (Wells Fargo Financial)
+LOCATION: US
+WF 69 (Wells Fargo Financial)
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. K. Michael Conaway , 07/10/2020

@@ -1,0 +1,39 @@
+[[PAGE 1]]
+Filing ID #20019633
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Austin Scott
+Status: Member
+State/District: GA08
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP AT&T Inc. (T) [ST] S 09/08/2021 09/08/2021 $15,001 - gfedc
+$50,000
+FIlING STATuS: New
+SubHOlDING OF: Vivien G Scott IRA
+SP berkshire Hathaway Inc. New S 09/08/2021 09/08/2021 $15,001 - gfedcb
+(bRK.b) [ST] $50,000
+FIlING STATuS: New
+SubHOlDING OF: Vivien G Scott IRA
+SP Ford Motor Company (F) [ST] S 09/08/2021 09/08/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SubHOlDING OF: Vivien G Scott IRA
+SP Johnson & Johnson (JNJ) [ST] S 09/10/2021 09/10/2021 $15,001 - gfedc
+$50,000
+FIlING STATuS: New
+SubHOlDING OF: Vivien G Scott IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Vivien G Scott IRA (Owner: SP)
+DESCRIPTION: Retirement Account
+initial Public offeringS
+[[PAGE 2]]
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Austin Scott , 10/15/2021

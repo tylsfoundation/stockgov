@@ -1,0 +1,368 @@
+[[PAGE 1]]
+Filing Id #20019092
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Blake Moore
+Status: Member
+State/District: UT01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Alibaba Group Holding Limited S 02/22/2021 02/28/2021 $1,001 - $15,000 gfedcb
+American depositary Shares each
+representing eight Ordinary share
+(BABA) [OP]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+dESCRIPTION: BABA Apr 16 21 215.0 Put Not part of a compensation package or held as an ESOP
+Alibaba Group Holding Limited P 02/22/2021 02/28/2021 $1,001 - $15,000 gfedc
+American depositary Shares each
+representing eight Ordinary share
+(BABA) [OP]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+dESCRIPTION: BABA Apr 16 21 210.0 Put Not part of a compensation package or held as an ESOP
+Alibaba Group Holding Limited P 02/24/2021 02/28/2021 $1,001 - $15,000 gfedc
+American depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Alibaba Group Holding Limited P 02/25/2021 02/28/2021 $1,001 - $15,000 gfedc
+American depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Alibaba Group Holding Limited P 03/04/2021 03/31/2021 $1,001 - $15,000 gfedc
+American depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Alibaba Group Holding Limited P 03/26/2021 03/31/2021 $1,001 - $15,000 gfedc
+American depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Alibaba Group Holding Limited P 05/11/2021 05/31/2021 $1,001 - $15,000 gfedc
+American depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Alphabet Inc. - Class C Capital P 03/04/2021 03/31/2021 $1,001 - $15,000 gfedc
+Stock (GOOG) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Alphabet Inc. - Class C Capital P 03/04/2021 03/31/2021 $1,001 - $15,000 gfedc
+Stock (GOOG) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Alphabet Inc. - Class C Capital P 02/25/2021 02/28/2021 $1,001 - $15,000 gfedc
+Stock (GOOG) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Amazon.com, Inc. (AMZN) [ST] P 02/25/2021 02/28/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Amazon.com, Inc. (AMZN) [ST] P 03/04/2021 03/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Amazon.com, Inc. (AMZN) [ST] P 02/24/2021 02/28/2021 $1,001 - $15,000 gfedc
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Amazon.com, Inc. (AMZN) [ST] P 03/04/2021 03/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Amazon.com, Inc. (AMZN) [ST] P 03/26/2021 03/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Amazon.com, Inc. (AMZN) [OP] S 05/03/2021 05/31/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+dESCRIPTION: AMZN Jun 18 21 3060.0 Put Not part of a compensation package or held as an ESOP
+Amazon.com, Inc. (AMZN) [ST] P 05/03/2021 05/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+American Express Company (AXP) P 04/30/2021 04/30/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+American Express Company (AXP) P 03/26/2021 03/31/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+American Express Company (AXP) P 03/04/2021 03/31/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+American Express Company (AXP) P 02/24/2021 02/28/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+American Express Company (AXP) P 02/25/2021 02/28/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Apple Inc. (AAPL) [ST] P 02/25/2021 02/28/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Apple Inc. (AAPL) [OP] P 03/04/2021 03/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+dESCRIPTION: AAPL Mar 17 23 105.0 Call Not part of a compensation package or held as an ESOP
+Apple Inc. (AAPL) [ST] P 02/24/2021 02/28/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Apple Inc. (AAPL) [ST] P 03/04/2021 03/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Apple Inc. (AAPL) [ST] P 03/04/2021 03/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Apple Inc. (AAPL) [ST] P 03/26/2021 03/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Apple Inc. (AAPL) [ST] P 04/30/2021 04/30/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Apple Inc. (AAPL) [ST] P 05/11/2021 05/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Bank of America Corporation P 05/11/2021 05/31/2021 $1,001 - $15,000 gfedc
+(BAC) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Bank of America Corporation P 04/30/2021 04/30/2021 $1,001 - $15,000 gfedc
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+(BAC) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Bank of America Corporation P 03/26/2021 03/31/2021 $1,001 - $15,000 gfedc
+(BAC) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Bank of America Corporation P 03/04/2021 03/31/2021 $1,001 - $15,000 gfedc
+(BAC) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Bank of America Corporation P 02/24/2021 02/28/2021 $1,001 - $15,000 gfedc
+(BAC) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Bank of America Corporation P 02/25/2021 02/28/2021 $1,001 - $15,000 gfedc
+(BAC) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Berkshire Hathaway Inc. New P 03/04/2021 03/31/2021 $1,001 - $15,000 gfedc
+(BRK.B) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Berkshire Hathaway Inc. New P 02/24/2021 02/28/2021 $1,001 - $15,000 gfedc
+(BRK.B) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Berkshire Hathaway Inc. New P 02/25/2021 02/28/2021 $1,001 - $15,000 gfedc
+(BRK.B) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Berkshire Hathaway Inc. New P 04/30/2021 04/30/2021 $1,001 - $15,000 gfedc
+(BRK.B) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Berkshire Hathaway Inc. New P 03/26/2021 03/31/2021 $1,001 - $15,000 gfedc
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+(BRK.B) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Berkshire Hathaway Inc. New P 05/11/2021 05/31/2021 $1,001 - $15,000 gfedc
+(BRK.B) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+BlackRock Ultra Short-Term Bond S 05/12/2021 05/31/2021 $1,001 - $15,000 gfedcb
+ETF (ICSH) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+dollar General Corporation (dG) P 03/18/2021 03/31/2021 $1,001 - $15,000 gfedc
+[OP]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+dESCRIPTION: dG Mar 19 21 180.0 Put Not part of a compensation package or held as an ESOP
+dollar General Corporation (dG) S 01/27/2021 01/31/2021 $1,001 - $15,000 gfedcb
+[OP]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+dESCRIPTION: dG Mar 19 21 180.0 Put Not part of a compensation package or held as an ESOP
+dollar General Corporation (dG) P 01/27/2021 01/31/2021 $1,001 - $15,000 gfedc
+[OP]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+dESCRIPTION: dG Mar 19 21 175.0 Put Not part of a compensation package or held as an ESOP
+Facebook, Inc. - Class A (FB) [OP] S 01/20/2021 01/31/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+dESCRIPTION: Mar 19 21 220.0 Put Not part of a compensation package or held as an ESOP
+Facebook, Inc. - Class A (FB) [OP] P 01/20/2021 01/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+dESCRIPTION: FB Mar 19 21 215.0 Put Not part of a compensation package or held as an ESOP
+Facebook, Inc. - Class A (FB) [ST] P 02/24/2021 02/28/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Facebook, Inc. - Class A (FB) [ST] P 03/04/2021 03/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Facebook, Inc. - Class A (FB) [ST] P 03/04/2021 03/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Facebook, Inc. - Class A (FB) [ST] P 02/25/2021 02/28/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+HealthEquity, Inc. (HQY) [ST] P 03/26/2021 03/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+HealthEquity, Inc. (HQY) [ST] P 04/30/2021 04/30/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+HealthEquity, Inc. (HQY) [ST] P 05/11/2021 05/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+HealthEquity, Inc. (HQY) [ST] P 05/12/2021 05/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Johnson & Johnson (JNJ) [ST] P 04/30/2021 04/30/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Johnson & Johnson (JNJ) [ST] P 03/26/2021 03/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Johnson & Johnson (JNJ) [ST] P 03/04/2021 03/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+[[PAGE 8]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Johnson & Johnson (JNJ) [ST] P 02/25/2021 02/28/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Johnson & Johnson (JNJ) [ST] P 02/24/2021 02/28/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Mastercard Incorporated (MA) S 06/03/2021 06/30/2021 $1,001 - $15,000 gfedcb
+[OP]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+dESCRIPTION: MA Jul 16 21 325.0 Put Not part of a compensation package or held as an ESOP
+Mastercard Incorporated (MA) P 06/03/2021 06/30/2021 $1,001 - $15,000 gfedc
+[OP]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+dESCRIPTION: MA Jul 16 21 320.0 Put Not part of a compensation package or held as an ESOP
+Microsoft Corporation (MSFT) P 05/12/2021 05/31/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Microsoft Corporation (MSFT) P 02/25/2021 02/28/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Microsoft Corporation (MSFT) P 02/25/2021 02/28/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Microsoft Corporation (MSFT) P 03/04/2021 03/31/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Microsoft Corporation (MSFT) P 03/26/2021 03/31/2021 $1,001 - $15,000 gfedc
+[ST]
+[[PAGE 9]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Microsoft Corporation (MSFT) P 04/30/2021 04/30/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+NVIdIA Corporation (NVdA) [OP] S 02/25/2021 02/28/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+dESCRIPTION: NVdA Apr 16 21 405.0 Put Not part of a compensation package or held as an ESOP
+NVIdIA Corporation (NVdA) [OP] P 02/25/2021 02/28/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+dESCRIPTION: NVdA Apr 16 21 400.0 Put Not part of a compensation package or held as an ESOP
+NVIdIA Corporation (NVdA) [OP] S 01/20/2021 01/31/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+dESCRIPTION: Mar 19 21 425.0 Put Not part of a compensation package or held as an ESOP
+NVIdIA Corporation (NVdA) [OP] P 01/20/2021 01/31/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+dESCRIPTION: Mar 19 21 420.0 Put Not part of a compensation package or held as an ESOP
+Raytheon Technologies P 02/24/2021 02/28/2021 $1,001 - $15,000 gfedc
+Corporation (RTX) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Raytheon Technologies P 04/30/2021 04/30/2021 $1,001 - $15,000 gfedc
+Corporation (RTX) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Raytheon Technologies P 05/11/2021 05/31/2021 $1,001 - $15,000 gfedc
+Corporation (RTX) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+[[PAGE 10]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Raytheon Technologies P 03/26/2021 03/31/2021 $1,001 - $15,000 gfedc
+Corporation (RTX) [ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+Vanguard S&P 500 ETF (VOO) S 05/12/2021 05/31/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUBHOLdING OF: Iron Gate GA Brokerage Portfolio
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Iron Gate GA Brokerage Portfolio
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Blake Moore , 07/17/2021

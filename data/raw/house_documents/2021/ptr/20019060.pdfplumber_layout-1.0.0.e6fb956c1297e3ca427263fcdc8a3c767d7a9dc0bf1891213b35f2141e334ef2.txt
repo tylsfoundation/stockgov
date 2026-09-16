@@ -1,0 +1,93 @@
+[[PAGE 1]]
+Filing ID #20019060
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Pete Sessions
+Status: Member
+State/District: TX32
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Alibaba group Holding Limited P 05/24/2021 07/07/2021 $1,001 - $15,000 gfedc
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Trust One
+DESCRIPTION: BABA 25 shares
+SP Allied Esports Entertainment, Inc. P 07/07/2021 07/07/2021 $1,001 - $15,000 gfedc
+(AESE) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Trust One
+DESCRIPTION: AESE 1000 shares
+SP Altria group, Inc. (MO) [ST] P 05/19/2021 07/07/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Trust One
+DESCRIPTION: MO 120 Shares
+Amazon.com, Inc. (AMZN) [ST] P 05/05/2021 07/07/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+DESCRIPTION: Amazon 5 shares
+SP AT&T Inc. (T) [ST] P 05/19/2021 07/07/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Trust One
+DESCRIPTION: AT&T 150 Shares
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Bank Nova Scotia Halifax Pfd 3 P 06/30/2021 07/09/2021 $1,001 - $15,000 gfedc
+Ordinary Shares (BNS) [ST]
+FILINg STATUS: New
+DESCRIPTION: BNS 125 Shares
+Crown Castle International Corp. P 05/04/2021 07/07/2021 $1,001 - $15,000 gfedc
+(CCI) [ST]
+FILINg STATUS: New
+DESCRIPTION: Crown Castle 50 shares
+SP Crown Castle International Corp. P 05/05/2021 07/07/2021 $1,001 - $15,000 gfedc
+(CCI) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Trust One
+DESCRIPTION: Crown Castle 20 Shares
+SP Crown Castle International Corp. P 05/04/2021 07/07/2021 $1,001 - $15,000 gfedc
+(CCI) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Trust One
+DESCRIPTION: Crown Castle 25 Shares
+SP NVIDIA Corporation (NVDA) [ST] P 05/04/2021 07/07/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Trust One
+DESCRIPTION: Nvidia 10 Shares
+Strategy Shares Nasdaq 7HANDL P 06/30/2021 07/07/2021 $15,001 - gfedc
+Index ETF (HNDL) [ST] $50,000
+FILINg STATUS: New
+DESCRIPTION: HNDL 700 shares
+Strategy Shares Nasdaq 7HANDL P 07/01/2021 07/09/2021 $1,001 - $15,000 gfedc
+Index ETF (HNDL) [ST]
+FILINg STATUS: New
+DESCRIPTION: HNDL 250 shares
+Strategy Shares Nasdaq 7HANDL P 07/01/2021 07/09/2021 $1,001 - $15,000 gfedc
+Index ETF (HNDL) [ST]
+FILINg STATUS: New
+DESCRIPTION: HNDL 300 Shares
+US STEEL CORP BONDS [CS] P 06/02/2021 07/09/2021 $15,001 - gfedc
+$50,000
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+DESCRIPTION: 19,000 US STEEL CORP BONDS CPN 6.650% DUE 06/01/37 DTD 05/21/07 FC 12/01/07, CUSIP-
+912909AD0 @ $106.3000
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Trust One (100% Interest) (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Pete Sessions , 07/09/2021

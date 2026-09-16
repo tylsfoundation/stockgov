@@ -1,0 +1,265 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Virginia Foxx
+Status: Member
+State/District:NC05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Alcoa Corporation (AA) [ST] P 08/02/202208/02/2022$1,001 - $15,000
+F S: New
+JT Alcoa Corporation (AA) [ST] P 08/04/202208/04/2022$1,001 - $15,000
+F S: New
+JT Alcoa Corporation (AA) [ST] P 08/19/202208/19/2022$1,001 - $15,000
+F S: New
+JT Alcoa Corporation (AA) [ST] P 08/22/202208/22/2022$1,001 - $15,000
+F S: New
+JT Alcoa Corporation (AA) [ST] P 08/30/202208/30/2022$1,001 - $15,000
+F S: New
+JT Alcoa Corporation (AA) [ST] P 08/31/202208/31/2022$1,001 - $15,000
+F S: New
+JT AT&T Inc. Depositary Shares, each
+representing a 1/1,000th interest in a
+share of 5.000% Perpetual Preferred
+Stock, Series A (T$A) [ST]
+P 08/19/202208/19/2022$1,001 - $15,000
+F S: New
+JT British American Tobacco Industries,
+p.l.c. Common Stock ADR (BTI) [ST]
+P 08/23/202208/23/2022$1,001 - $15,000
+Filing ID #20021630
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+JT FLEX LNG Ltd. Ordinary Shares
+(FLNG) [ST]
+P 08/01/202208/01/2022$15,001 -
+$50,000
+F S: New
+JT FLEX LNG Ltd. Ordinary Shares
+(FLNG) [ST]
+P 08/04/202208/04/2022$15,001 -
+$50,000
+F S: New
+JT FLEX LNG Ltd. Ordinary Shares
+(FLNG) [ST]
+P 08/23/202208/23/2022$1,001 - $15,000
+F S: New
+JT FLEX LNG Ltd. Ordinary Shares
+(FLNG) [ST]
+P 08/26/202208/26/2022$1,001 - $15,000
+F S: New
+JT Golden Ocean Group Limited (GOGL)
+[ST]
+P 08/17/202208/17/2022$1,001 - $15,000
+F S: New
+JT Golden Ocean Group Limited (GOGL)
+[ST]
+P 08/18/202208/18/2022$1,001 - $15,000
+F S: New
+JT Golden Ocean Group Limited (GOGL)
+[ST]
+P 08/19/202208/19/2022$1,001 - $15,000
+F S: New
+JT Golden Ocean Group Limited (GOGL)
+[ST]
+P 08/22/202208/22/2022$1,001 - $15,000
+F S: New
+JT Golden Ocean Group Limited (GOGL)
+[ST]
+P 08/24/202208/24/2022$1,001 - $15,000
+F S: New
+JT Golden Ocean Group Limited (GOGL)
+[ST]
+P 08/26/202208/26/2022$1,001 - $15,000
+F S: New
+JT Golden Ocean Group Limited (GOGL)
+[ST]
+P 08/29/202208/29/2022$1,001 - $15,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Golden Ocean Group Limited (GOGL)
+[ST]
+P 08/30/202208/30/2022$15,001 -
+$50,000
+F S: New
+JT Green Plains Partners LP - Common
+Units (GPP) [ST]
+P 08/09/202208/09/2022$1,001 - $15,000
+F S: New
+JT Green Plains Partners LP - Common
+Units (GPP) [ST]
+P 08/26/202208/26/2022$1,001 - $15,000
+F S: New
+JT GSK plc American Depositary Shares
+(GSK) [ST]
+P 08/10/202208/10/2022$15,001 -
+$50,000
+F S: New
+JT GSK plc American Depositary Shares
+(GSK) [ST]
+P 08/16/202208/16/2022$1,001 - $15,000
+F S: New
+JT GSK plc American Depositary Shares
+(GSK) [ST]
+P 08/05/202208/05/2022$15,001 -
+$50,000
+F S: New
+JT GSK plc American Depositary Shares
+(GSK) [ST]
+P 08/09/202208/09/2022$1,001 - $15,000
+F S: New
+JT Hess Corporation (HES) [ST] P 08/03/202208/03/2022$15,001 -
+$50,000
+F S: New
+JT Hess Corporation (HES) [ST] P 08/04/202208/04/2022$1,001 - $15,000
+F S: New
+JT Ingles Markets, Incorporated - Class
+A (IMKTA) [ST]
+P 08/30/202208/30/2022$50,001 -
+$100,000
+F S: New
+JT Kellogg Company (K) [ST] P 08/22/202208/22/2022$1,001 - $15,000
+F S: New
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Kinder Morgan, Inc. (KMI) [ST] S 08/01/202208/01/2022$50,001 -
+$100,000
+F S: New
+JT KNOT Offshore Partners LP Common
+Units representing Limited Partner
+Interests (KNOP) [ST]
+S 08/02/202208/02/2022$50,001 -
+$100,000
+F S: New
+JT Mosaic Company (MOS) [ST] P 08/01/202208/01/2022$1,001 - $15,000
+F S: New
+JT Mosaic Company (MOS) [ST] P 08/04/202208/04/2022$1,001 - $15,000
+F S: New
+JT Mosaic Company (MOS) [ST] P 08/05/202208/05/2022$15,001 -
+$50,000
+F S: New
+JT National Fuel Gas Company (NFG)
+[ST]
+P 08/02/202208/02/2022$15,001 -
+$50,000
+F S: New
+JT National Fuel Gas Company (NFG)
+[ST]
+P 08/03/202208/03/2022$1,001 - $15,000
+F S: New
+JT National Fuel Gas Company (NFG)
+[ST]
+P 08/08/202208/08/2022$1,001 - $15,000
+F S: New
+JT Newtek Business Services Corp.
+(NEWT) [ST]
+P 08/30/202108/30/2021$1,001 - $15,000
+F S: New
+JT San Juan Basin Royalty Trust (SJT)
+[ST]
+P 08/25/202208/25/2022$1,001 - $15,000
+F S: New
+JT San Juan Basin Royalty Trust (SJT)
+[ST]
+P 08/11/202208/11/2022$1,001 - $15,000
+F S: New
+JT San Juan Basin Royalty Trust (SJT)P 08/19/202208/19/2022$1,001 - $15,000
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+[ST]
+F S: New
+JT San Juan Basin Royalty Trust (SJT)
+[ST]
+P 08/23/202208/23/2022$1,001 - $15,000
+F S: New
+JT San Juan Basin Royalty Trust (SJT)
+[ST]
+P 08/24/202208/24/2022$1,001 - $15,000
+F S: New
+JT San Juan Basin Royalty Trust (SJT)
+[ST]
+P 08/26/202208/26/2022$1,001 - $15,000
+F S: New
+JT San Juan Basin Royalty Trust (SJT)
+[ST]
+P 08/29/202208/29/2022$1,001 - $15,000
+F S: New
+JT San Juan Basin Royalty Trust (SJT)
+[ST]
+P 08/31/202208/31/2022$1,001 - $15,000
+F S: New
+JT Sisecam Resources LP Common Units
+representing limited partner interests
+(SIRE) [ST]
+P 08/24/202208/24/2022$1,001 - $15,000
+F S: New
+JT USD Partners LP Common Units
+representing limited partner interest
+(USDP) [ST]
+P 08/30/202208/30/2022$1,001 - $15,000
+F S: New
+JT Vector Group Ltd. (VGR) [ST] P 08/04/202208/04/2022$1,001 - $15,000
+F S: New
+JT Vector Group Ltd. (VGR) [ST] P 08/05/202208/05/2022$15,001 -
+$50,000
+F S: New
+JT Vector Group Ltd. (VGR) [ST] P 08/17/202208/17/2022$1,001 - $15,000
+F S: New
+JT Vector Group Ltd. (VGR) [ST] P 08/22/202208/22/2022$1,001 - $15,000
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+JT Vector Group Ltd. (VGR) [ST] P 08/24/202208/24/2022$1,001 - $15,000
+F S: New
+JT Vector Group Ltd. (VGR) [ST] P 08/26/202208/26/2022$1,001 - $15,000
+F S: New
+JT Vector Group Ltd. (VGR) [ST] P 08/30/202208/30/2022$1,001 - $15,000
+F S: New
+JT Vector Group Ltd. (VGR) [ST] P 08/31/202208/31/2022$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Virginia Foxx , 09/08/2022

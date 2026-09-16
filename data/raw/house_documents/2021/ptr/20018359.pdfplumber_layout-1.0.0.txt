@@ -1,0 +1,80 @@
+[[PAGE 1]]
+Filing ID #20018359
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Mark Dr Green
+Status: Member
+State/District: TN07
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+blueknight Energy Partners l.P., S 03/10/2021 03/12/2021 $50,001 - gfedcb
+l.l.C. - Common units $100,000
+representing limited Partner
+Interests (bKEP) [ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+blueknight Energy Partners l.P., S 03/12/2021 03/15/2021 $50,001 - gfedcb
+l.l.C. - Common units $100,000
+representing limited Partner
+Interests (bKEP) [ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+bP Midstream Partners lP P 03/04/2021 03/09/2021 $50,001 - gfedc
+Common units representing $100,000
+limited Partner Interests (bPMP)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+NGl ENERGY PARTNERS lP S 03/04/2021 03/09/2021 $100,001 - gfedc
+Common units representing $250,000
+limited Partner Interests (NGl)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+NGl ENERGY PARTNERS lP P 03/12/2021 03/15/2021 $50,001 - gfedc
+Common units representing $100,000
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+limited Partner Interests (NGl)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+NGl ENERGY PARTNERS lP P 03/17/2021 03/18/2021 $15,001 - gfedc
+Common units representing $50,000
+limited Partner Interests (NGl)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+uSA Compression Partners, lP P 03/08/2021 03/12/2021 $1,001 - $15,000 gfedc
+Common units Representing
+limited Partner Interests (uSAC)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+uSA Compression Partners, lP P 03/08/2021 03/09/2021 $15,001 - gfedc
+Common units Representing $50,000
+limited Partner Interests (uSAC)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+uSA Compression Partners, lP P 03/04/2021 03/09/2021 $50,001 - gfedc
+Common units Representing $100,000
+limited Partner Interests (uSAC)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+AXA Retirement Account
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Mark Dr Green , 03/20/2021

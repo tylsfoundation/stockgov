@@ -1,0 +1,153 @@
+[[PAGE 1]]
+Filing ID #20020443
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Pete Sessions
+Status: Member
+State/District: TX32
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Ameren Corporation (AEE) [ST] S 01/18/2022 02/11/2022 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+DESCRIPTION: 49 shares
+bank Nova Scotia Halifax Pfd 3 S 01/18/2022 02/11/2022 $1,001 - $15,000 gfedc
+Ordinary Shares (bNS) [ST]
+FIlINg STATuS: New
+DESCRIPTION: 125 shares
+bank Nova Scotia Halifax Pfd 3 P 02/04/2022 02/11/2022 $1,001 - $15,000 gfedc
+Ordinary Shares (bNS) [ST]
+FIlINg STATuS: New
+DESCRIPTION: 100 shares
+blackRock utility, Infrastructure & P 11/04/2021 02/11/2022 $1,001 - $15,000 gfedc
+Power Opportunities Trust (buI)
+[ST]
+FIlINg STATuS: New
+DESCRIPTION: 500 shares
+blackRock utility, Infrastructure & P 11/08/2021 02/11/2022 $1,001 - $15,000 gfedc
+Power Opportunities Trust (buI)
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: ET IRA
+DESCRIPTION: 200 shares
+Carrier global Corporation (CARR) S 01/19/2022 02/11/2022 $1,001 - $15,000 gfedcb
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedcb
+[ST]
+FIlINg STATuS: New
+DESCRIPTION: 125 shares
+Comcast Corporation - Class A S 01/18/2022 02/11/2022 $1,001 - $15,000 gfedcb
+(CMCSA) [ST]
+FIlINg STATuS: New
+DESCRIPTION: 149 shares
+Costco Wholesale Corporation S (partial) 11/16/2021 02/11/2022 $1,001 - $15,000 gfedcb
+(COST) [ST]
+FIlINg STATuS: New
+DESCRIPTION: 25 shares
+Dominion Energy, Inc. (D) [ST] S 01/31/2022 02/11/2022 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+DESCRIPTION: 175 shares
+DT Midstream, Inc. (DTM) [ST] S 01/18/2022 02/11/2022 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+DESCRIPTION: 32 shares
+DTE Energy Company (DTE) [ST] S 01/19/2022 02/11/2022 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+DESCRIPTION: 64 shares
+Edison International (EIX) [ST] S 01/18/2022 02/11/2022 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+DESCRIPTION: 212 shares
+Energy Transfer lP Common units S 01/18/2022 02/11/2022 $1,001 - $15,000 gfedc
+(ET) [ST]
+FIlINg STATuS: New
+DESCRIPTION: 800 shares
+Enterprise Products Partners l.P. S 01/18/2022 02/11/2022 $1,001 - $15,000 gfedcb
+(EPD) [ST]
+FIlINg STATuS: New
+DESCRIPTION: 300 shares
+Invesco QQQ Trust, Series 1 (QQQ) P 02/09/2022 02/11/2022 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTION: 20 shares
+SP Invesco QQQ Trust, Series 1 (QQQ) P 08/16/2021 02/11/2022 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Trust One
+DESCRIPTION: 15 shares
+Johnson & Johnson (JNJ) [ST] S 01/18/2022 02/11/2022 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: 125 shares
+Kayne Anderson Energy S 01/18/2022 02/11/2022 $1,001 - $15,000 gfedcb
+Infrastructure Fund, Inc. (KYN)
+[ST]
+FIlINg STATuS: New
+DESCRIPTION: 250 shares
+Kroger Company (KR) [ST] S 11/08/2021 02/11/2022 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+DESCRIPTION: 200 shares
+Microsoft Corporation (MSFT) P 09/08/2021 02/11/2022 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+DESCRIPTION: 30 shares
+Microsoft Corporation (MSFT) P 08/19/2021 02/11/2022 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+DESCRIPTION: 25 shares
+Mondelez International, Inc. - S 01/18/2022 02/11/2022 $1,001 - $15,000 gfedcb
+Class A (MDlZ) [ST]
+FIlINg STATuS: New
+DESCRIPTION: 68 shares
+NextEra Energy, Inc. (NEE) [ST] S 01/19/2022 02/11/2022 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: 300 shares
+Otis Worldwide Corporation S 01/18/2022 02/11/2022 $1,001 - $15,000 gfedcb
+(OTIS) [ST]
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+DESCRIPTION: 61 shares
+Procter & gamble Company (Pg) S 01/19/2022 02/11/2022 $15,001 - gfedcb
+[ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: 100 shares
+SPDR Select Sector Fund - Energy S 01/18/2022 02/11/2022 $15,001 - gfedcb
+Select Sector (XlE) [ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: 661 shares
+Taiwan Semiconductor S 11/16/2021 02/11/2022 $1,001 - $15,000 gfedc
+Manufacturing Company ltd.
+(TSM) [ST]
+FIlINg STATuS: New
+DESCRIPTION: 30 shares
+Teradata Corporation (TDC) [ST] S 01/18/2022 02/11/2022 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+DESCRIPTION: 27 shares
+Western Midstream Partners, lP S 01/18/2022 02/11/2022 $1,001 - $15,000 gfedcb
+Common units Representing
+limited Partner Interests (WES)
+[ST]
+FIlINg STATuS: New
+DESCRIPTION: 494 shares
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+ET IRA
+Trust One (100% Interest) (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Pete Sessions , 02/11/2022

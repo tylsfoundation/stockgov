@@ -1,0 +1,77 @@
+[[PAGE 1]]
+Filing ID #20017556
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Lois Frankel
+Status: Member
+State/District: FL21
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+American Express Company (AXP) P 10/01/2020 10/01/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+American Express Company (AXP) P 09/30/2020 09/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+blackRock, Inc. (bLK) [ST] P 09/16/2020 09/16/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Diamondback Energy, Inc. - S (partial) 09/30/2020 09/30/2020 $1,001 - $15,000 gfedc
+Commmon Stock (FANG) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Merck & Company, Inc. Common P 10/07/2020 10/07/2020 $1,001 - $15,000 gfedc
+Stock (MRK) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Merck & Company, Inc. Common P 09/23/2020 09/23/2020 $1,001 - $15,000 gfedc
+Stock (MRK) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+PbF Energy Inc. Class A (PbF) S 10/01/2020 10/01/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Pfizer, Inc. (PFE) [ST] S 10/14/2020 10/14/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Pfizer, Inc. (PFE) [ST] S (partial) 10/07/2020 10/07/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Pfizer, Inc. (PFE) [ST] S (partial) 09/16/2020 09/16/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Pfizer, Inc. (PFE) [ST] S (partial) 09/23/2020 09/23/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+State Street Corporation (STT) S (partial) 09/30/2020 09/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+State Street Corporation (STT) S 10/01/2020 10/01/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Morgan Stanley IRA - X141
+DESCRIPTION: Managed by MFS Investment MGMT
+Morgan Stanley IRA - X142
+DESCRIPTION: Managed by Anchor Capital Advisors LLC
+initial Public offeringS
+[[PAGE 3]]
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 10/22/2020

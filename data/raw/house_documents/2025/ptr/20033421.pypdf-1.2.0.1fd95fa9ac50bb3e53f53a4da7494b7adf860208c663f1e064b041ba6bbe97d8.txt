@@ -1,0 +1,208 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Jared Moskowitz
+Status: Member
+State/District:FL23
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC American Express Company Common
+Stock (AXP) [ST]
+P 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC American Express Company Common
+Stock (AXP) [ST]
+P 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+American Express Company Common
+Stock (AXP) [ST]
+P 10/10/202510/31/2025 $15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+DC Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 10/10/202510/31/2025 $15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Filing ID #20033421
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC Carrier Global Corporation Common
+Stock (CARR) [ST]
+S 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Carrier Global Corporation Common
+Stock (CARR) [ST]
+S 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+Carrier Global Corporation Common
+Stock (CARR) [ST]
+S 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+DC Cisco Systems, Inc. - Common Stock
+(CSCO) [ST]
+P 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Cisco Systems, Inc. - Common Stock
+(CSCO) [ST]
+P 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+Cisco Systems, Inc. - Common Stock
+(CSCO) [ST]
+P 10/10/202510/31/2025 $15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+DC Dell Technologies Inc. Class C
+Common Stock (DELL) [ST]
+P 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Dell Technologies Inc. Class C
+Common Stock (DELL) [ST]
+P 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+Dell Technologies Inc. Class C
+Common Stock (DELL) [ST]
+P 10/10/202510/31/2025 $15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC Goldman Sachs Group, Inc. (GS) [ST] P 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Goldman Sachs Group, Inc. (GS) [ST] P 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+Goldman Sachs Group, Inc. (GS) [ST] P 10/10/202510/31/2025 $15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+DC Johnson & Johnson Common Stock
+(JNJ) [ST]
+S (partial) 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Johnson & Johnson Common Stock
+(JNJ) [ST]
+S (partial) 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC McKesson Corporation Common
+Stock (MCK) [ST]
+P 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Sherwin-Williams Company (SHW)
+[ST]
+S 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+Sherwin-Williams Company (SHW)
+[ST]
+S 10/10/202510/31/2025 $15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+DC Sherwin-Williams Company (SHW)
+[ST]
+S 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Taiwan Semiconductor P 10/10/202510/31/2025 $1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Manufacturing Company Ltd. (TSM)
+[ST]
+F S: New
+S O: Morgan Stanley Active Assets (5)
+Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+P 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+DC Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+P 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC Texas Instruments Incorporated -
+Common Stock (TXN) [ST]
+S 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+Texas Instruments Incorporated -
+Common Stock (TXN) [ST]
+S 10/10/202510/31/2025 $15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+DC Texas Instruments Incorporated -
+Common Stock (TXN) [ST]
+S 10/10/202510/31/2025 $1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Morgan Stanley Active Assets (1)
+L: US
+Morgan Stanley Active Assets (5) (Owner: DC)
+L: US
+Morgan Stanley Active Assets (6) (Owner: DC)
+L: US
+I P O
+[[PAGE 5]]
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Jared Moskowitz , 11/22/2025

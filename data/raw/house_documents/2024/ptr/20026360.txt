@@ -1,0 +1,108 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Morgan McGarvey
+Status: Member
+State/District:KY03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+S 11/13/202412/09/2024$1,001 - $15,000
+F S: New
+S O: Chris IRA
+SP Charles Schwab Corporation (SCHW)
+[ST]
+S 11/13/202412/09/2024$1,001 - $15,000
+F S: New
+S O: Chris IRA
+SP Interactive Brokers Group, Inc. - Class
+A Common Stock (IBKR) [ST]
+S 11/13/202412/09/2024$1,001 - $15,000
+F S: New
+S O: Chris IRA
+SP Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 11/13/202412/09/2024$1,001 - $15,000
+F S: New
+S O: Chris IRA
+JT NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 11/13/202412/09/2024$1,001 - $15,000
+F S: New
+S O: Joint Brokerage
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 11/13/202412/09/2024$1,001 - $15,000
+F S: New
+S O: Chris SEP
+Filing ID #20026360
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 11/13/202412/09/2024$15,001 -
+$50,000
+F S: New
+S O: Chris IRA
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 11/13/202412/09/2024$1,001 - $15,000
+F S: New
+S O: Morgan Roth
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 11/13/202412/09/2024$1,001 - $15,000
+F S: New
+S O: Chris Roth
+SP Shell PLC American Depositary
+Shares (SHEL) [ST]
+S 11/13/202412/09/2024$1,001 - $15,000
+F S: New
+S O: Chris IRA
+SP Tesla, Inc. - Common Stock (TSLA)
+[ST]
+S 11/13/202412/09/2024$1,001 - $15,000
+F S: New
+S O: Chris IRA
+SP Trump Media & Technology Group
+Corp. - Common Stock (DJT) [ST]
+P 11/06/202412/09/2024$1,001 - $15,000
+F S: New
+S O: Chris IRA
+D: Purchased without knowledge of filer or spouse.
+SP Trump Media & Technology Group
+Corp. - Common Stock (DJT) [ST]
+S 11/08/202412/09/2024$1,001 - $15,000
+F S: New
+S O: Chris IRA
+D: Sold for a loss
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Chris IRA (Owner: SP)
+Chris Roth (Owner: SP)
+Chris SEP (Owner: SP)
+[[PAGE 3]]
+Joint Brokerage (Owner: JT)
+L: US
+Morgan Roth
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Morgan McGarvey , 12/10/2024

@@ -1,0 +1,254 @@
+[[PAGE 1]]
+Filing Id #20017476
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District: NJ05
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Advanced Micro devices, Inc. P 09/14/2020 10/05/2020 $1,001 - $15,000 gfedc
+(AMd) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Alcon Inc. Ordinary Shares (ALC) S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Allegiant Travel Company (ALGT) S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Alphabet Inc. - Class C Capital S (partial) 09/25/2020 10/05/2020 $1,001 - $15,000 gfedc
+Stock (GOOG) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Alphabet Inc. - Class C Capital P 09/21/2020 10/05/2020 $1,001 - $15,000 gfedc
+Stock (GOOG) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Ameris bancorp (AbCb) [ST] S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Apple Inc. (AAPL) [ST] P 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Apple Inc. (AAPL) [ST] S (partial) 09/01/2020 10/05/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT banco bilbao Vizcaya Argentaria S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+S.A. (bbVA) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT bioMarin Pharmaceutical Inc. S 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+(bMRN) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT booking Holdings Inc. (bKNG) P 09/21/2020 10/05/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT booking Holdings Inc. (bKNG) S (partial) 09/25/2020 10/05/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Carvana Co. Class A (CVNA) [ST] S 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Catalent, Inc. (CTLT) [ST] S 09/24/2020 10/05/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Cathay General bancorp (CATY) S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Chevron Corporation (CVX) [ST] S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Chuy's Holdings, Inc. (CHUY) [ST] S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT CoStar Group, Inc. (CSGP) [ST] S (partial) 09/25/2020 10/05/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Covetrus, Inc. (CVET) [ST] S 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT CryoLife, Inc. (CRY) [ST] S 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT diageo plc (dEO) [ST] P 09/30/2020 10/05/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT dril-Quip, Inc. (dRQ) [ST] S 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Endava plc American depositary P 09/24/2020 10/05/2020 $1,001 - $15,000 gfedc
+Shares (dAVA) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Exact Sciences Corporation S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+(EXAS) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Fastenal Company (FAST) [ST] S (partial) 09/01/2020 10/05/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT FleetCor Technologies, Inc. (FLT) S 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Franklin Resources, Inc. (bEN) S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Haemonetics Corporation (HAE) S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Horace Mann Educators S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+Corporation (HMN) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT HubSpot, Inc. (HUbS) [ST] S 09/24/2020 10/05/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+SP IG Sponsor LLC [OT] P 09/22/2020 10/08/2020 $100,001 - gfedc
+$250,000
+FILING STATUS: New
+LOCATION: US
+dESCRIPTION: Special purpose acquisition company - as of 10/1/2020 asset converted to a public trading stock on the Nasdaq
+under ticker symbol IGACU.
+JT Infineon Technologies AG (IFNNY) S (partial) 09/17/2020 10/05/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Integra LifeSciences Holdings S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+Corporation (IART) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Johnson & Johnson (JNJ) [ST] P 09/30/2020 10/05/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Lukoil Co Sponsored AdR S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+(LUKOY) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Lyft, Inc. - Class A (LYFT) [ST] S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Mastercard Incorporated (MA) S (partial) 09/14/2020 10/05/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Meridian bancorp, Inc. (EbSb) S 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Minerals Technologies Inc. (MTX) P 09/24/2020 10/05/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Nintendo Co Ltd AdR (NTdOY) P 09/01/2020 10/05/2020 $15,001 - gfedc
+[ST] $50,000
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT NVIdIA Corporation (NVdA) [ST] S (partial) 09/14/2020 10/05/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Pacific Premier bancorp Inc (PPbI) S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT PayPal Holdings, Inc. (PYPL) [ST] P 09/25/2020 10/05/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Phillips 66 (PSX) [ST] S 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Primoris Services Corporation S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+(PRIM) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Rogers Corporation (ROG) [ST] S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Salesforce.com Inc (CRM) [ST] P 09/25/2020 10/05/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Seacoast banking Corporation of S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+Florida (SbCF) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Square, Inc. Class A (SQ) [ST] P 09/25/2020 10/05/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Starbucks Corporation (SbUX) S 09/17/2020 10/05/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Texas Instruments Incorporated P 09/30/2020 10/05/2020 $1,001 - $15,000 gfedc
+(TXN) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT US Ecology, Inc. (ECOL) [ST] S (partial) 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Veeva Systems Inc. Class A (VEEV) S (partial) 09/14/2020 10/05/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Webster Financial Corporation S 09/15/2020 10/05/2020 $1,001 - $15,000 gfedc
+(WbS) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Wells Fargo & Company (WFC) S 09/30/2020 10/05/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Workday, Inc. - Class A (WdAY) P 09/25/2020 10/05/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Zillow Group, Inc. - Class C Capital P 09/17/2020 10/05/2020 $1,001 - $15,000 gfedc
+Stock (Z) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 10/13/2020

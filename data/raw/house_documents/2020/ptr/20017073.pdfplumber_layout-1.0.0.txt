@@ -1,0 +1,63 @@
+[[PAGE 1]]
+Filing Id #20017073
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Alan S. Lowenthal
+Status: Member
+State/District: CA47
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Sunrun Inc. (RuN) [ST] S (partial) 07/13/2020 07/20/2020 $348.03 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Beneficiary IRA
+SP Sunrun Inc. (RuN) [ST] S (partial) 07/13/2020 07/20/2020 $442.95 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Beneficiary IRA
+SP Sunrun Inc. (RuN) [ST] S (partial) 07/13/2020 07/20/2020 $94.91 gfedc
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Beneficiary IRA
+SP Sunrun Inc. (RuN) [ST] S (partial) 07/13/2020 07/13/2020 $63.28 gfedc
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Beneficiary IRA
+SP Sunrun Inc. (RuN) [ST] S (partial) 07/13/2020 07/20/2020 $348.03 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Beneficiary IRA
+SP Sunrun Inc. (RuN) [ST] S (partial) 07/13/2020 07/20/2020 $442.95 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Beneficiary IRA
+SP Sunrun Inc. (RuN) [ST] S (partial) 07/13/2020 07/20/2020 $63.27 gfedc
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Beneficiary IRA
+SP Sunrun Inc. (RuN) [ST] S (partial) 07/13/2020 07/20/2020 $94.91 gfedc
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Beneficiary IRA
+SP T-Mobile uS, Inc. - Subscription S 07/17/2020 07/24/2020 $1.68 gfedc
+Rights Expiring 7/27/2020
+(TMuSR) [ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Beneficiary IRA
+SP uber Technologies, Inc. (uBER) P 07/22/2020 07/29/2020 $456.50 gfedc
+[ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Beneficiary IRA
+SP universal display Corporation P 07/27/2020 08/03/2020 $168.20 gfedc
+(OLEd) [ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Beneficiary IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Neuberger Berman - Beneficiary IRA (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Alan S. Lowenthal , 08/03/2020

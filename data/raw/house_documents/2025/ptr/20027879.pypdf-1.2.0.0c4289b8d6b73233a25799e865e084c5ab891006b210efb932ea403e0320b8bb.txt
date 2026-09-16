@@ -1,0 +1,544 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Jefferson Shreve
+Status: Member
+State/District:IN06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+AbbVie Inc. Common Stock (ABBV)
+[ST]
+P 02/24/202503/01/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Adobe Inc. - Common Stock (ADBE)
+[ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Air Products and Chemicals, Inc.
+Common Stock (APD) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Akamai Technologies, Inc. - Common
+Stock (AKAM) [ST]
+S 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Albemarle Corporation Common
+Stock (ALB) [ST]
+S 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Filing ID #20027879
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Amgen Inc. - Common Stock (AMGN)
+[ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Applovin Corporation - Class A
+Common Stock (APP) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Arch Capital Group Ltd. - Common
+Stock (ACGL) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+AvalonBay Communities, Inc.
+Common Stock (AVB) [ST]
+S (partial) 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+BlackRock, Inc. Common Stock (BLK)
+[ST]
+S 02/24/202503/01/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Block, Inc. Class A Common Stock,
+(XYZ) [ST]
+S 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Boeing Company (BA) [ST] S (partial) 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 02/24/202503/01/2025$100,001 -
+$250,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Brunswick Corporation Common
+Stock (BC) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Caterpillar, Inc. Common Stock (CAT)
+[ST]
+S (partial) 02/24/202503/01/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Comcast Corporation - Class A
+Common Stock (CMCSA) [ST]
+S 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+CoStar Group, Inc. - Common Stock
+(CSGP) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Devon Energy Corporation Common
+Stock (DVN) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Elevance Health, Inc. Common Stock
+(ELV) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+EPAM Systems, Inc. Common Stock
+(EPAM) [ST]
+S 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Exponent, Inc. - Common Stock
+(EXPO) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Exxon Mobil Corporation Common
+Stock (XOM) [ST]
+P 02/24/202503/01/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Fidelity National Information
+Services, Inc. Common Stock (FIS)
+[ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+First Busey Corporation - Common
+Stock (BUSE) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+GE Aerospace Common Stock (GE)
+[ST]
+P 02/24/202503/01/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Halliburton Company Common Stock
+(HAL) [ST]
+S (partial) 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Harley-Davidson, Inc. Common Stock
+(HOG) [ST]
+S 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Home Depot, Inc. (HD) [ST] P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Hope Bancorp, Inc. - Common Stock
+(HOPE) [ST]
+S 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Hubbell Inc Common Stock (HUBB)
+[ST]
+S 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+IDEX Corporation Common Stock
+(IEX) [ST]
+S (partial) 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Intuit Inc. - Common Stock (INTU)
+[ST]
+S (partial) 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+ITT Inc. Common Stock (ITT) [ST] S (partial) 02/24/202503/01/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Johnson & Johnson Common Stock
+(JNJ) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Lennar Corporation Class A Common
+Stock (LEN) [ST]
+S (partial) 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Linde plc - Ordinary Shares (LIN)
+[ST]
+S 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Lowe's Companies, Inc. Common
+Stock (LOW) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S (partial) 02/24/202503/01/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+MicroStrategy Incorporated - Class A
+Common Stock (MSTR) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Millrose Properties, Inc. Class A
+Common Stock (MRP) [ST]
+E 02/24/202503/01/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Millrose Properties, Inc. Class A
+Common Stock (MRP) [ST]
+S 02/24/202503/01/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Norfolk Southern Corporation
+Common Stock (NSC) [ST]
+S 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+nVent Electric plc Ordinary Shares
+(NVT) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Occidental Petroleum Corporation
+Common Stock (OXY) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Oracle Corporation Common Stock
+(ORCL) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Pfizer, Inc. Common Stock (PFE) [ST]P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Primerica, Inc. Common Stock (PRI)
+[ST]
+S (partial) 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Procter & Gamble Company (PG) [ST]S (partial) 02/24/202503/01/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Prologis, Inc. Common Stock (PLD)
+[ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+PulteGroup, Inc. Common Stock
+(PHM) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+QUALCOMM Incorporated - Common
+Stock (QCOM) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Quanta Services, Inc. Common Stock
+(PWR) [ST]
+S 02/24/202503/01/2025$50,001 -
+$100,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Rapid7, Inc. - Common Stock (RPD)
+[ST]
+S 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Royal Gold, Inc. - Common Stock
+(RGLD) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+RTX Corporation Common Stock
+(RTX) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Sandisk Corporation - Common Stock
+(SNDK) [ST]
+E 02/24/202503/01/2025$1,001 - $15,000
+F S: New
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Sherwin-Williams Company (SHW)
+[ST]
+P 02/24/202501/31/2025 $15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+The Cigna Group Common Stock (CI)
+[ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+The Trade Desk, Inc. - Class A
+Common Stock (TTD) [ST]
+S 02/24/202503/01/2025$1,001 - $15,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+TJX Companies, Inc. (TJX) [ST] S (partial) 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+Union Pacific Corporation Common
+Stock (UNP) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+United Parcel Service, Inc. Common
+Stock (UPS) [ST]
+S 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Vertex Pharmaceuticals Incorporated
+- Common Stock (VRTX) [ST]
+P 02/24/202503/01/2025$15,001 -
+$50,000
+F S: New
+S O: CRT - Standard Unit Trust
+D: Portfolio Rebalance
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+CRT - Standard Unit Trust
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Jefferson Shreve , 03/09/2025

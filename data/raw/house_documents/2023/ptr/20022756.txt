@@ -1,0 +1,82 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Maria Elvira Salazar
+Status: Member
+State/District:FL27
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Civitas Resources, Inc. (CIVI) [ST] P 03/13/202303/13/2023$1,001 - $15,000
+F S: New
+S O: Neuberger
+SP Energy Transfer LP Common Units
+(ET) [ST]
+P 03/13/202303/13/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley IRA 4181
+D: ENERGY TRANSFER LP COM UT LTD PREFERENTIAL RATE UNSOLICITED TRADE
+SP Energy Transfer LP Common Units
+(ET) [ST]
+P 03/13/202303/13/2023$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley 9219
+D: ENERGY TRANSFER LP COM UT LTD PREFERENTIAL RATE UNSOLICITED TRADE
+SP Energy Transfer LP Common Units
+(ET) [ST]
+P 03/13/202303/13/2023$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley Acct3084
+D: ENERGY TRANSFER LP COM UT LTD PREFERENTIAL RATE UNSOLICITED TRADE
+SP Tortoise Energy Infrastructure
+Corporation (TYG) [ST]
+S 03/13/202303/13/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley IRA 4181
+D: TORTOISE ENERGY INFRA CORP PREFERENTIAL RATE
+SP Tortoise Energy InfrastructureS 03/13/202303/13/2023$50,001 -
+Filing ID #20022756
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Corporation (TYG) [ST] $100,000
+F S: New
+S O: Morgan Stanley 9219
+D: TORTOISE ENERGY INFRA CORP PREFERENTIAL RATE UNSOLICITED TRADE
+SP Tortoise Energy Infrastructure
+Corporation (TYG) [ST]
+S 03/13/202303/13/2023$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley Acct3084
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley 9219 (Owner: SP)
+L: US
+Morgan Stanley Acct3084 (Owner: SP)
+L: US
+Morgan Stanley IRA 4181 (Owner: SP)
+Neuberger (Owner: SP)
+L: US
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Maria Elvira Salazar , 04/25/2023

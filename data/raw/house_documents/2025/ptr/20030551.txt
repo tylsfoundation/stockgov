@@ -1,0 +1,133 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. James French Hill
+Status: Member
+State/District:AR02
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP AT&T Inc. (T) [ST] S 06/23/202506/23/2025$1,001 - $15,000
+F S: New
+S O: Martha M Hill - Revocable Trust
+D: FULL LIQUIDATION.
+Blackstone Inc. Common Stock (BX)
+[ST]
+S 06/23/202506/23/2025$100,001 -
+$250,000
+F S: New
+S O: J French Hill - IRA
+D: FULL LIQUIDATION.
+SP Fortrea Holdings Inc. - Common
+Stock (FTRE) [ST]
+S 06/23/202506/23/2025$1,001 - $15,000
+F S: New
+S O: Martha M Hill - SEP IRA
+D: FULL LIQUIDATION.
+Intel Corporation - Common Stock
+(INTC) [ST]
+S 06/23/202506/23/2025$15,001 -
+$50,000
+F S: New
+S O: J French Hill - Revocable Trust
+D: FULL LIQUIDATION.
+Lazard, Inc. Common Stock (LAZ)
+[ST]
+S 06/23/202506/23/2025$50,001 -
+$100,000
+F S: New
+S O: J French Hill - IRA
+D: FULL LIQUIDATION.
+Filing ID #20030551
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Loews Corporation Common Stock
+(L) [ST]
+P 06/23/202506/23/2025$50,001 -
+$100,000
+F S: New
+S O: J French Hill - IRA
+SP Markel Group Inc. Common Stock
+(MKL) [ST]
+P 06/23/202506/23/2025$15,001 -
+$50,000
+F S: New
+S O: Martha M Hill - SEP IRA
+Markel Group Inc. Common Stock
+(MKL) [ST]
+P 06/23/202506/23/2025$50,001 -
+$100,000
+F S: New
+S O: J French Hill - Revocable Trust
+D: EXISTING HOLDING.
+Regions Financial Corporation
+Common Stock (RF) [ST]
+S 06/23/202506/23/2025$15,001 -
+$50,000
+F S: New
+S O: J French Hill - Revocable Trust
+D: FULL LIQUIDATION.
+Simmons First National Corporation -
+Common Stock (SFNC) [ST]
+S 06/23/202506/23/2025$100,001 -
+$250,000
+F S: New
+S O: J French Hill - IRA
+D: FULL LIQUIDATION.
+Spectrum Brands Holdings, Inc.
+Common Stock (SPB) [ST]
+S 06/23/202506/23/2025$1,001 - $15,000
+F S: New
+S O: J French Hill - Revocable Trust
+D: FULL LIQUIDATION
+Vitesse Energy, Inc. Common Stock
+(VTS) [ST]
+S 06/23/202506/30/2025$1,001 - $15,000
+F S: New
+S O: J French Hill - Revocable Trust
+D: FULL LIQUIDATION.
+Wells Fargo & Company Common
+Stock (WFC) [ST]
+S 06/23/202506/23/2025$15,001 -
+$50,000
+F S: New
+S O: J French Hill - Revocable Trust
+D: FULL LIQUIDATION.
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+White Mountains Insurance Group,
+Ltd. Common Stock (WTM) [ST]
+P 06/23/202506/23/2025$50,001 -
+$100,000
+F S: New
+S O: J French Hill - IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+J French Hill - IRA
+J French Hill - Revocable Trust
+Martha M Hill - Revocable Trust (Owner: SP)
+Martha M Hill - SEP IRA (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. James French Hill , 07/24/2025

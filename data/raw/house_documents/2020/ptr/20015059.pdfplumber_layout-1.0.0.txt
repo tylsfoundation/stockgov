@@ -1,0 +1,72 @@
+[[PAGE 1]]
+Filing ID #20015059
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Mikie Sherrill
+Status: Member
+State/District: NJ11
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+amazon.com, Inc. (aMZN) [ST] P 01/15/2020 02/07/2020 $1,001 - $15,000 gfedc
+FIlINg STaTuS: New
+BlackRock, Inc. (BlK) [ST] P 01/21/2020 02/07/2020 $1,001 - $15,000 gfedc
+FIlINg STaTuS: New
+Bristol-Myers Squibb Company P 01/21/2020 02/07/2020 $1,001 - $15,000 gfedc
+(BMY) [ST]
+FIlINg STaTuS: New
+Colgate-Palmolive Company (Cl) P 01/15/2020 02/07/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STaTuS: New
+DuPont de Nemours, Inc. (DD) P 01/21/2020 02/07/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STaTuS: New
+Exxon Mobil Corporation (XOM) P 01/21/2020 02/07/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STaTuS: New
+general Dynamics Corporation P 01/21/2020 02/07/2020 $1,001 - $15,000 gfedc
+(gD) [ST]
+FIlINg STaTuS: New
+gilead Sciences, Inc. (gIlD) [ST] P 01/21/2020 02/07/2020 $1,001 - $15,000 gfedc
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FIlINg STaTuS: New
+International Business Machines P 02/04/2020 02/07/2020 $1,001 - $15,000 gfedc
+Corporation (IBM) [ST]
+FIlINg STaTuS: New
+M&T Bank Corporation (MTB) P 01/27/2020 02/07/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STaTuS: New
+Pfizer, Inc. (PFE) [ST] P 01/21/2020 02/07/2020 $1,001 - $15,000 gfedc
+FIlINg STaTuS: New
+Philip Morris International Inc P 01/21/2020 02/07/2020 $1,001 - $15,000 gfedc
+(PM) [ST]
+FIlINg STaTuS: New
+Prudential Financial, Inc. (PRu) P 01/21/2020 02/07/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STaTuS: New
+Regeneron Pharmaceuticals, Inc. P 01/15/2020 02/07/2020 $1,001 - $15,000 gfedc
+(REgN) [ST]
+FIlINg STaTuS: New
+Schlumberger N.V. (SlB) [ST] P 01/15/2020 02/07/2020 $1,001 - $15,000 gfedc
+FIlINg STaTuS: New
+SEI Investments Company (SEIC) P 01/15/2020 02/07/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STaTuS: New
+Ventas, Inc. (VTR) [ST] P 01/21/2020 02/07/2020 $1,001 - $15,000 gfedc
+FIlINg STaTuS: New
+Vornado Realty Trust (VNO) [ST] P 01/21/2020 02/07/2020 $1,001 - $15,000 gfedc
+FIlINg STaTuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 3]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Mikie Sherrill , 02/19/2020

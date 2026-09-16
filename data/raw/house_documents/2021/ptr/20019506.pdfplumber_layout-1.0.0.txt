@@ -1,0 +1,142 @@
+[[PAGE 1]]
+Eagle Seal Filing ID #20019506
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Donald Sternoff Honorable Beyer Jr
+Status: Member
+State/District: VA08
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT AIA group Ltd NPV common [PS] S 09/27/2021 10/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+LOCATION: Hong Kong, CN
+DESCRIPTION: sale of 295 units of AIA group LTD NPV common; no capital gain
+JT BLF FedFund TDDXX [CS] P 09/21/2021 10/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] P 09/20/2021 10/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] P 09/17/2021 09/19/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] S 09/09/2021 09/19/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fed
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT BLF FedFund TDDXX [CS] S 09/03/2021 09/19/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] S 09/02/2021 09/19/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] S 09/30/2021 10/01/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] P 09/28/2021 10/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] P 09/27/2021 10/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase of Blackrock Liq FDS Fed
+JT Cadence Design Systems, Inc. P 09/20/2021 10/01/2021 $1,001 - $15,000 gfedc
+(CDNS) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: purchase 15 units Cadence Design System Inc,
+JT Cognex Corporation (CgNX) [ST] S 09/17/2021 09/19/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 25 units Cognex Corp; cap gains $398
+JT Costco Wholesale Corporation P 09/17/2021 09/19/2021 $1,001 - $15,000 gfedc
+(COST) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: purchase 5 units Costco Wholesale Corp
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT CryoPort, Inc. (CYRX) [ST] S 09/21/2021 10/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 25 units Cryoport Inc common; $159 capital gain
+JT Des Moines Iowa gO Bds 2.00% P 09/30/2021 10/01/2021 $15,001 - gfedc
+06/01/33 [gS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: purchase 30,000 units Des Moines Iowa gO Bds 2.00% 06/01/33
+JT Fanuc Limited Ordinary Shares S 08/28/2021 10/01/2021 $1,001 - $15,000 gfedc
+(FANUF) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 15 units Fanuc Ltd; no capital gains
+JT Illumina, Inc. (ILMN) [ST] S 09/17/2021 09/19/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 5 units Illumina Inc; cap gain of $700
+JT Intellia Therapeutics, Inc. (NTLA) S 09/20/2021 10/01/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 10 units Intellia Therapeutics Inc; capital gains of $1,346
+JT Novartis Ag (NVS) [ST] S 09/17/2021 09/19/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 35 units of Novartis Ag
+JT Regeneron Pharmaceuticals, Inc. P 09/17/2021 09/19/2021 $1,001 - $15,000 gfedc
+(REgN) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 5 units Regeneron Pharmaceuticals
+JT Square, Inc. Class A (SQ) [ST] S 09/17/2021 09/19/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 20 units Square Inc Class A; cap gains $1,480
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT UnitedHealth group Incorporated S 09/17/2021 09/19/2021 $1,001 - $15,000 gfedcb
+Common Stock (UNH) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 5 units Unitedhealth group; cap gain of $566
+JT Visa Inc. (V) [ST] S 09/20/2021 10/01/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 40 units VISA Inc Class A; capital gains of $1,699
+JT Visa Inc. (V) [ST] S 09/20/2021 10/01/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 40 units VISA Inc Class A; capital gains of $1,699
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Stocks, Bonds, & Mutual Funds (Owner: JT)
+LOCATION: VA, US
+COmmeNTS
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Donald Sternoff Honorable Beyer Jr, 10/01/2021

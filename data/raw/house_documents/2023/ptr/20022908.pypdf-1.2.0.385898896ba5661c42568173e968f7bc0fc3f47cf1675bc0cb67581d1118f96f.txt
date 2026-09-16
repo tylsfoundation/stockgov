@@ -1,0 +1,57 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC AdaptHealth Corp. (AHCO) [ST] S 04/06/202304/07/2023$1,001 - $15,000
+F S: New
+S O: Gabrielle Ashtyn Hern Trust
+D: Sell to close
+DC AdaptHealth Corp. (AHCO) [ST] S 04/06/202304/07/2023$1,001 - $15,000
+F S: New
+S O: Kaden Everett Hern Trust
+D: Sell to Close
+JT FS Energy & Power Fund Common
+[PS]
+P 04/13/202304/14/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+L: US
+D: Dividend Reinvestment
+JT Inland Real Estate Income Trust [PS] P 04/06/202304/07/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+L: US
+D: Dividend Reinvestment
+JT JP Morgan Chase & Co. (JPM) [ST] P 04/28/202305/01/2023$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+Filing ID #20022908
+[[PAGE 2]]
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Gabrielle Ashtyn Hern Trust (100% Interest) (Owner: DC)
+D: Revocable Trust Account fbo Gabrielle Ashtyn Hern
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+D: Family Revocable Trust
+Hern Family Revocable Trust ⇒ Brokerage Investment Account (100% Interest) (Owner: JT)
+L: US
+D: Stock, Bonds, EFTs, & Mutual funds
+Kaden Everett Hern Trust (Owner: DC)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 05/11/2023

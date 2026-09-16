@@ -1,0 +1,48 @@
+[[PAGE 1]]
+Filing ID #20017356
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Linda T. Sanchez
+Status: Member
+State/District: CA38
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Charles Schwab - Bank of America S 02/22/2019 09/12/2020 $1,001 - $15,000 gfedc
+[OT]
+FILINg STATUS: New
+LOCATION: US
+DESCRIPTION: withdrew money from fund
+SP Charles Schwab - Enbridge [OT] S 02/22/2019 09/12/2020 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+LOCATION: US
+DESCRIPTION: withdrew money from fund
+SP Charles Schwab - Ford Motor Co S 02/22/2019 09/12/2020 $1,001 - $15,000 gfedc
+[OT]
+FILINg STATUS: New
+LOCATION: US
+DESCRIPTION: withdrew money from fund
+SP Charles Schwab - Root 9 B S 02/22/2019 09/12/2020 $.25 gfedc
+Technologies Inc [OT]
+FILINg STATUS: New
+LOCATION: US
+DESCRIPTION: withdrew money from fund
+SP Charles Schwab - UBS group Ag S 02/22/2019 09/12/2020 $1,001 - $15,000 gfedc
+[OT]
+FILINg STATUS: New
+LOCATION: US
+DESCRIPTION: withdrew money from fund
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Linda T. Sanchez , 09/13/2020

@@ -1,0 +1,64 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Suzan K. DelBene
+Status: Member
+State/District:WA01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Connecticut ST Go BDS 2018 C
+5.0000% Due 06/15/30 [GS]
+P 10/13/202210/13/2022 $1,001 - $15,000
+F S: New
+JT Illinois ST Sales Tax Rev JR Oblig
+4.00 % Due 06/15/30 [GS]
+P 10/12/202210/12/2022$15,001 - $50,000
+F S: New
+JT Maryland ST Go BDS Ser. 2017 B 5.00
+% Due 08/01/26 [GS]
+P 10/13/202210/13/2022 $500,001 -
+$1,000,000
+F S: New
+JT Maryland ST Go ST Local Facs LN
+BDS 5.00 % Due 03/15/27 [GS]
+S 10/13/202210/13/2022 $500,001 -
+$1,000,000
+F S: New
+JT New York N Y City Transitional Fin
+5.00 % Due 11/01/27 [GS]
+P 10/07/202210/07/2022$1,001 - $15,000
+F S: New
+JT Round Rock Tex Indpt SCH Dist
+Unltd Tax 5.00 % Due 08/01/25 [GS]
+P 10/17/202210/17/2022 $15,001 - $50,000
+F S: New
+JT Seattle WA MN LT PW 2.68% PWR
+Util Due 05/01/45 [GS]
+P 10/17/202210/17/2022 $15,001 - $50,000
+F S: New
+JT Seattle WA MN LT PW 2.68% PWRP 10/13/202210/13/2022 $1,001 - $15,000
+Filing ID #20021864
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Util Due 05/01/45 [GS]
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 10/28/2022

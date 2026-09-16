@@ -1,0 +1,52 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kim Dr Schrier
+Status: Member
+State/District:WA08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Apple Inc. (AAPL) [ST] S 03/22/202203/22/2022$250,001 -
+$500,000
+F S: New
+S O: Inherited IRA
+JT Apple Inc. (AAPL) [ST] S 03/22/202203/22/2022$500,001 -
+$1,000,000
+F S: New
+S O: Gowing Family Trust Primary Account
+D: Background Information: The holdings of Gowing Family Trust Secondary account were consolidated into the
+Primary account in December, 2021. As a result, the Primary account held AAPL stock since that time in December until
+this reported sale. (i.e., Prior to that, the AAPL stock was in the Secondary account.)
+JT Tesla, Inc. (TSLA) [ST] S 03/22/202203/22/2022$250,001 -
+$500,000
+F S: New
+S O: Gowing Family Trust Primary Account
+D: Background Information: The holdings of Gowing Family Trust Secondary account were consolidated into the
+Primary account in December, 2021. As a result, the Primary account held Tesla stock since that time in December until this
+reported sale. (i.e., Prior to that, the TSLA stock was in the Secondary account.)
+SP Tesla, Inc. (TSLA) [ST] S 03/22/202203/22/2022$250,001 -
+$500,000
+F S: New
+S O: David's IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Filing ID #20020712
+[[PAGE 2]]
+David's IRA (Owner: SP)
+Gowing Family Trust Primary Account (Owner: JT)
+D: Kimberly Schrier Gowing and David Noble Gowing Trustees
+Inherited IRA (Owner: JT)
+D: Inherited in October, 2021.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kim Dr Schrier , 04/21/2022

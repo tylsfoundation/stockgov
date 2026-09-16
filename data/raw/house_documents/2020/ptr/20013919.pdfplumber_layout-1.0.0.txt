@@ -1,0 +1,166 @@
+[[PAGE 1]]
+Filing Id #20013919
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. John B. Larson
+Status: Member
+State/District: CT01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Adobe Inc. (AdBE) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Alcoa Inc [CS] S 12/18/2019 01/03/2020 $15,001 - gfedcb
+$50,000
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+dESCRIPTION: 5.4% due 04-15-2021
+Allergan Inc [CS] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+dESCRIPTION: 3.375% due 09-15-20
+Amphenol Corporation (APH) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Apple Inc. (AAPL) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Autozone Inc Note Call [CS] S 12/18/2019 01/03/2020 $15,001 - gfedc
+$50,000
+FILINg STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+dESCRIPTION: 2.875% due 01-15-23
+Constellation Brands Inc Note [CS] S 12/18/2019 01/03/2020 $15,001 - gfedcb
+$50,000
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+dESCRIPTION: 2.650% due 11-07-22
+Constellation Brands, Inc. (STZ) S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Costco Wholesale Corporation S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+(COST) [ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+danaher Corporation (dHR) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Enbridge Inc (ENB) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Fortive Corporation (FTV) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Home depot, Inc. (Hd) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Illumina, Inc. (ILMN) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+IQVIA Holdings, Inc. (IQV) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JP Morgan Chase & Co. (JPM) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Kinder Morgan, Inc. (KMI) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Mastercard Incorporated (MA) S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Mcdonald's Corporation (MCd) S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Mettler-Toledo International, Inc. S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+(MTd) [ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Microsoft Corporation (MSFT) S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Mondelez International, Inc. - S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+Class A (MdLZ) [ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Nestle SA Sponsored AdR S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+representing Registered Shares
+Series B (NSRgY) [ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Omnicom group Inc [CS] S 12/18/2019 01/03/2020 $15,001 - gfedc
+$50,000
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+dESCRIPTION: 3.650% due 11-01-24
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+People's united Financial, Inc. S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedc
+(PBCT) [ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+RBC Bearings Incorporated S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+(ROLL) [ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+SS&C Technologies Holdings, Inc. S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+(SSNC) [ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Starbucks Corporation (SBuX) S 12/18/2020 01/03/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+TC Energy Corporation (TRP) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Thermo Fisher Scientific Inc S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+(TMO) [ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+united Technologies Corporation S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+(uTX) [ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+unitedHealth group Incorporated S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+Common Stock (uNH) [ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+Weyerhaeuser Company (WY) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Zoetis Inc. Class A (ZTS) [ST] S 12/18/2019 01/03/2020 $15,001 - gfedcb
+$50,000
+FILINg STATuS: New
+SuBHOLdINg OF: Fidelity Investments SEP IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Fidelity Investments SEP IRA
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. John B. Larson , 01/31/2020

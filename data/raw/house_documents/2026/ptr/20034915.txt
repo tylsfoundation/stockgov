@@ -1,0 +1,38 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Ann Wagner
+Status: Member
+State/District:MO02
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT KKR Private Equity Conglomerate
+LLC Class I [HN]
+P 06/22/202606/23/2026$250,001 -
+$500,000
+F S: New
+S O: Fidelity Trust
+JT PARTNERS GROUP PRIVATE
+EQUITY MASTER FD LLC UNIT CL I
+[HN]
+S 06/10/202606/11/2026$15,001 -
+$50,000
+F S: New
+S O: Fidelity Trust
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Fidelity Trust (Owner: JT)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Ann Wagner , 07/02/2026
+Filing ID #20034915

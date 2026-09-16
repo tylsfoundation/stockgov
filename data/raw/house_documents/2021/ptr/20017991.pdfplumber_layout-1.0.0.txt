@@ -1,0 +1,160 @@
+[[PAGE 1]]
+Filing ID #20017991
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Dean Phillips
+Status: Member
+State/District: MN03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Akamai Technologies, Inc. (AKAM) S 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+American Airlines group, Inc. P 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+(AAl) [ST]
+FIlINg STATuS: New
+Arconic Corporation (ARNC) [ST] S (partial) 12/18/2020 01/07/2021 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+AT&T Inc. (T) [ST] S (partial) 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+baxter International Inc. (bAX) S (partial) 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+boston Scientific Corporation S (partial) 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+(bSX) [ST]
+FIlINg STATuS: New
+Charles Schwab Corp Var Rt Perp P 12/08/2020 01/07/2021 $15,001 - gfedc
+Mat Dtd 12/11/2020 [CS] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Corporate bond
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Cisco Systems, Inc. (CSCO) [ST] P 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Citizens Financial group, Inc. S (partial) 12/18/2020 01/07/2021 $1,001 - $15,000 gfedcb
+(CFg) [ST]
+FIlINg STATuS: New
+Citrix Systems, Inc. (CTXS) [ST] S (partial) 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Clorox Company (ClX) [ST] S 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Comcast Corporation - Class A P 12/16/2020 01/07/2021 $1,001 - $15,000 gfedc
+(CMCSA) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: - Trust 1
+Consolidated Edison, Inc. (ED) S (partial) 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Digital Realty Trust, Inc. (DlR) S 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Dollar Tree, Inc. (DlTR) [ST] P 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: - Trust 1
+Equinix, Inc. (EQIX) [ST] S (partial) 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Fifth Third bancorp 09/30/2165 S (partial) 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+DTD 06/05/2014 [CS]
+FIlINg STATuS: New
+DESCRIPTION: Corporate bond
+Fifth Third bancorp 09/30/2165 S 12/24/2020 01/07/2021 $1,001 - $15,000 gfedc
+DTD 06/05/2014 [CS]
+FIlINg STATuS: New
+DESCRIPTION: Corporate bond
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+First Citizens bancshare PFD [CS] S (partial) 12/16/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+DESCRIPTION: Preferred security
+First Citizens bancshare PFD [CS] S (partial) 12/29/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+DESCRIPTION: Preferred security
+gilead Sciences, Inc. (gIlD) [ST] S (partial) 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+HD Supply Holdings, Inc. (HDS) S (partial) 12/17/2020 01/07/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: - Trust 1
+HD Supply Holdings, Inc. (HDS) S (partial) 12/18/2020 01/07/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: - Trust 1
+HD Supply Holdings, Inc. (HDS) S (partial) 12/21/2020 01/07/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: - Trust 1
+HD Supply Holdings, Inc. (HDS) S 12/22/2020 01/07/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: - Trust 1
+Intel Corporation (INTC) [ST] P 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Jack Henry & Associates, Inc. S 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+(JKHY) [ST]
+FIlINg STATuS: New
+JP Morgan Chase & Co. (JPM) [ST] P 12/16/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: - Trust 1
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Masco Corporation (MAS) [ST] P 12/09/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: - Trust 1
+Masco Corporation (MAS) [ST] P 12/10/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: - Trust 1
+NiSource Inc (NI) [ST] S 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Salesforce.com Inc (CRM) [ST] S (partial) 12/18/2020 01/07/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SbA Communications Corporation S 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+- Class A (SbAC) [ST]
+FIlINg STATuS: New
+Selective Insurance group [CS] P 12/02/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+DESCRIPTION: Preferred security
+Selective Insurance group [CS] S (partial) 12/31/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+DESCRIPTION: Preferred security
+Selective Insurance group [CS] S (partial) 12/07/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+DESCRIPTION: Preferred security
+Simon Property group, Inc. (SPg) P 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Sony Corporation (SNE) [ST] P 12/16/2020 01/07/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: - Trust 1
+Tesla, Inc. (TSlA) [ST] P 12/18/2020 01/07/2021 $50,001 - gfedc
+$100,000
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+Transdigm group Incorporated S (partial) 12/18/2020 01/07/2021 $1,001 - $15,000 gfedcb
+Transdigm group Inc. (TDg) [ST]
+FIlINg STATuS: New
+Vertex Pharmaceuticals P 12/18/2020 01/07/2021 $1,001 - $15,000 gfedc
+Incorporated (VRTX) [ST]
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+- Trust 1 (100% Interest)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dean Phillips , 01/09/2021

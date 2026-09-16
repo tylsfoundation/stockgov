@@ -1,0 +1,116 @@
+[[PAGE 1]]
+Filing ID #20017595
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. James R. Langevin
+Status: Member
+State/District: RI02
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Alibaba group Holding Limited S (partial) 04/10/2019 10/28/2020 $50,001 - gfedcb
+American Depositary Shares each $100,000
+representing eight Ordinary share
+(BABA) [ST]
+FILINg STATuS: New
+Alibaba group Holding Limited S (partial) 06/23/2020 10/29/2020 $1,001 - $15,000 gfedc
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+FILINg STATuS: New
+Alibaba group Holding Limited P 01/17/2020 10/29/2020 $1,001 - $15,000 gfedc
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [OP]
+FILINg STATuS: New
+DESCRIPTION: Call option, $220; Exp. 2/21/20
+Alibaba group Holding Limited S 02/04/2020 10/29/2020 $1,001 - $15,000 gfedc
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [OP]
+FILINg STATuS: New
+DESCRIPTION: Call option, $220; Exp. 2/21/20
+Beyond Meat, Inc. - Common stock P 08/01/2019 10/28/2020 $50,001 - gfedc
+(BYND) [ST] $100,000
+FILINg STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Beyond Meat, Inc. - Common stock P 09/06/2019 10/28/2020 $1,001 - $15,000 gfedc
+(BYND) [OP]
+FILINg STATuS: New
+DESCRIPTION: Call option, $160; Exp. 10/4/19
+Facebook, Inc. - Class A (FB) [OP] P 01/17/2020 10/29/2020 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+DESCRIPTION: Call option, $220; Exp. 2/21/20
+HuYA Inc. American depositary P 01/20/2020 10/29/2020 $1,001 - $15,000 gfedc
+shares, each representing one
+Class A ordinary share (HuYA)
+[OP]
+FILINg STATuS: New
+DESCRIPTION: Call option, $18.5; Exp. 2/28/20
+HuYA Inc. American depositary P 11/20/2019 10/28/2020 $50,001 - gfedc
+shares, each representing one $100,000
+Class A ordinary share (HuYA)
+[ST]
+FILINg STATuS: New
+HuYA Inc. American depositary P 04/20/2019 10/28/2020 $15,001 - gfedc
+shares, each representing one $50,000
+Class A ordinary share (HuYA)
+[ST]
+FILINg STATuS: New
+HuYA Inc. American depositary P 05/06/2019 10/28/2020 $15,001 - gfedc
+shares, each representing one $50,000
+Class A ordinary share (HuYA)
+[ST]
+FILINg STATuS: New
+HuYA Inc. American depositary S 08/30/2019 10/28/2020 $100,001 - gfedcb
+shares, each representing one $250,000
+Class A ordinary share (HuYA)
+[ST]
+FILINg STATuS: New
+Invesco QQQ Trust, Series 1 (QQQ) S 03/04/2020 10/29/2020 $1,001 - $15,000 gfedcb
+[OP]
+FILINg STATuS: New
+DESCRIPTION: Call option, $204; Exp. 4/17/20
+Invesco QQQ Trust, Series 1 (QQQ) P 02/28/2020 10/29/2020 $1,001 - $15,000 gfedc
+[OP]
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATuS: New
+DESCRIPTION: Call option, $204; Exp. 4/17/20
+SPDR Dow Jones Industrial S 04/10/2020 10/29/2020 $1,001 - $15,000 gfedc
+Average ETF (DIA) [OP]
+FILINg STATuS: New
+DESCRIPTION: Call option, $240; Exp. 4/17/20
+SPDR Dow Jones Industrial S 03/05/2020 10/29/2020 $1,001 - $15,000 gfedcb
+Average ETF (DIA) [OP]
+FILINg STATuS: New
+DESCRIPTION: Put option, $270; Exp. 4/3/20
+SPDR Dow Jones Industrial P 03/04/2020 10/29/2020 $1,001 - $15,000 gfedc
+Average ETF (DIA) [OP]
+FILINg STATuS: New
+DESCRIPTION: Put option, $270; Exp. 4/03/20
+SPDR Dow Jones Industrial P 05/23/2019 10/28/2020 $1,001 - $15,000 gfedc
+Average ETF (DIA) [OP]
+FILINg STATuS: New
+DESCRIPTION: Call option, $253; Exp. 6/28/19
+Zebra Technologies Corporation - P 08/02/2019 10/28/2020 $50,001 - gfedc
+Class A (ZBRA) [ST] $100,000
+FILINg STATuS: New
+Zebra Technologies Corporation - S 08/08/2019 10/28/2020 $100,001 - gfedcb
+Class A (ZBRA) [ST] $250,000
+FILINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. James R. Langevin , 10/30/2020

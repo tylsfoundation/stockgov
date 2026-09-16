@@ -1,0 +1,91 @@
+[[PAGE 1]]
+Filing ID #20016466
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Dwight Evans
+Status: Member
+State/District: Pa03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+american Electric Power Company, P 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+Inc. (aEP) [ST]
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+american Water Works Company, S (partial) 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+Inc. (aWK) [ST]
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+apollo global Management, Inc. P 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+Class a (aPO) [ST]
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+aT&T Inc. (T) [ST] P 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+berkshire Hathaway Inc. New S (partial) 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+(bRK.b) [ST]
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+Diageo plc (DEO) [ST] P 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Exxon Mobil Corporation (XOM) P 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+Intel Corporation (INTC) [ST] P 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+Neogenomics, Inc. (NEO) [ST] P 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+Pfizer, Inc. (PFE) [ST] S 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+Raytheon Company (RTN) [ST] P 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+Royal Dutch Shell PlC Royal S 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+Dutch Shell american Depositary
+Shares (RDS.a) [ST]
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+Suncor Energy Inc. (SU) [ST] P 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+The Carlyle group Inc. (Cg) [ST] P 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+Thermo Fisher Scientific Inc S (partial) 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+(TMO) [ST]
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+Twist bioscience Corporation P 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+(TWST) [ST]
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+United Technologies Corporation P 03/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+(UTX) [ST]
+FIlINg STaTUS: New
+SUbHOlDINg OF: PROEQUITIES
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+PROEQUITIES
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Dwight Evans , 04/23/2020

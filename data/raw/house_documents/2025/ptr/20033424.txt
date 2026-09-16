@@ -1,0 +1,101 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Cleo Fields
+Status: Member
+State/District:LA06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+P 10/23/202510/23/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 10/29/202510/29/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 10/30/202510/30/2025$250,001 -
+$500,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 10/23/202510/23/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Celestica, Inc. Common Stock (CLS)
+[ST]
+P 10/31/202510/31/2025 $15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Chipotle Mexican Grill, Inc. Common
+Stock (CMG) [ST]
+S 10/30/202510/30/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE IRA
+Filing ID #20033424
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Netflix, Inc. - Common Stock (NFLX)
+[ST]
+P 10/31/202510/31/2025 $100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 10/30/202510/30/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 10/30/202510/30/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - E*TRADE IRA
+Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+P 10/23/202510/23/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+UNITED STATES TREASURY BILL;
+DUE 01/22/2026 [GS]
+P 10/23/202510/23/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Morgan Stanley - E*TRADE #2
+Morgan Stanley - E*TRADE IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Cleo Fields , 11/12/2025

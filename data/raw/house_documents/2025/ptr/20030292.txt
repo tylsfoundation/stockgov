@@ -1,0 +1,328 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Dan Newhouse
+Status: Member
+State/District:WA04
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Adobe Inc. - Common Stock (ADBE)
+[ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Alcan Inc Debs [CS] P 04/11/202505/01/2025$15,001 -
+$50,000
+F S: New
+S O: Edward Jones IRA
+D: 12/15/2033 06.125%
+SP Alphabet Inc. - Class A Common Stock
+(GOOGL) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Analog Devices, Inc. - Common Stock
+(ADI) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+Filing ID #20030292
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Edward Jones IRA
+SP Apple Inc. - Common Stock (AAPL)
+[ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP AT&T Inc. (T) [ST] S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Bank Amer Corp SR [CS] P 04/11/202505/01/2025$15,001 -
+$50,000
+F S: New
+S O: Edward Jones IRA
+D: 2/07/2042 05.875%
+SP BlackRock, Inc. Common Stock (BLK)
+[ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Booking Holdings Inc. - Common
+Stock (BKNG) [ST]
+S 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Broadcom Inc. - Common Stock
+(AVGO) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Danaher Corporation Common Stock
+(DHR) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Deere & Company Common Stock
+(DE) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Dollar General Corporation Common
+Stock (DG) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Edward Jones IRA
+SP Elevance Health, Inc. Common Stock
+(ELV) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Eli Lilly and Company Common Stock
+(LLY) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Equity Residential Common Shares of
+Beneficial Interest (EQR) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Essential Utilities, Inc. Common Stock
+(WTRG) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Estee Lauder Companies, Inc. (EL)
+[ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Evergy, Inc. (EVRG) [ST] S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Fiserv, Inc. Common Stock (FI) [ST] S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Fortinet, Inc. - Common Stock (FTNT)
+[ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Honeywell International Inc. (HON)
+[ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Intuit Inc. - Common Stock (INTU)
+[ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP JP Morgan Chase &Co [CS] P 04/11/202505/01/2025$15,001 -
+$50,000
+F S: New
+S O: Edward Jones IRA
+D: 05/15/2038 06.400%
+SP Linde plc - Ordinary Shares (LIN)
+[ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Lowe's Companies, Inc. Common
+Stock (LOW) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Magna International, Inc. Common
+Stock (MGA) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Marathon Petroleum Corporation
+Common Stock (MPC) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Mondelez International, Inc. - Class A
+Common Stock (MDLZ) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Moody's Corporation Common Stock
+(MCO) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Edward Jones IRA
+SP Netflix, Inc. - Common Stock (NFLX)
+[ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP NiSource Inc Common Stock (NI) [ST]S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP PayPal Holdings, Inc. - Common
+Stock (PYPL) [ST]
+S 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Pepsico, Inc. (PEP) [ST] S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Prudential Finl Inc Medium Term
+[CS]
+P 04/11/202505/01/2025$15,001 -
+$50,000
+F S: New
+S O: Edward Jones IRA
+D: 12/01/2037 06.625%
+SP RTX Corporation Common Stock
+(RTX) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Salesforce, Inc. Common Stock (CRM)
+[ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP ServiceNow, Inc. Common Stock
+(NOW) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Edward Jones IRA
+SP Starbucks Corporation - Common
+Stock (SBUX) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Tesla, Inc. - Common Stock (TSLA)
+[ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP The Hershey Company Common
+Stock (HSY) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Thermo Fisher Scientific Inc Common
+Stock (TMO) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Truist Financial Corporation Common
+Stock (TFC) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Union Pacific Corporation Common
+Stock (UNP) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP V.F. Corporation Common Stock
+(VFC) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Verizon Communications Inc.
+Common Stock (VZ) [ST]
+S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Edward Jones IRA
+SP Visa Inc. (V) [ST] S (partial) 04/11/202505/01/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Walmart Stores Inc [CS] P 04/11/202505/01/2025$15,001 -
+$50,000
+F S: New
+S O: Edward Jones IRA
+D: 04/15/2041 05.625%
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Edward Jones IRA (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dan Newhouse , 05/16/2025

@@ -1,0 +1,43 @@
+[[PAGE 1]]
+Filing ID #20013906
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Bob Gibbs
+Status: Member
+State/District: oH07
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+annaly Capital Management Inc P 01/08/2020 01/08/2020 $1,001 - $15,000 gfedc
+(NLY) [ST]
+FILING STaTUS: New
+SUBHoLDING oF: CHaRLES SWaBB aCCoUNT
+apple Inc. (aaPL) [ST] P 01/08/2020 01/08/2020 $15,001 - gfedc
+$50,000
+FILING STaTUS: New
+SUBHoLDING oF: CHaRLES SWaBB aCCoUNT
+J.M. Smucker Company (SJM) S 01/08/2020 01/08/2020 $15,001 - gfedcb
+[ST] $50,000
+FILING STaTUS: New
+SUBHoLDING oF: CHaRLES SWaBB aCCoUNT
+oracle Corporation (oRCL) [ST] P 01/08/2020 01/08/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUBHoLDING oF: CHaRLES SWaBB aCCoUNT
+Verizon Communications Inc. (VZ) P 01/08/2020 01/08/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUBHoLDING oF: CHaRLES SWaBB aCCoUNT
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+[[PAGE 2]]
+CHaRLES SWaBB aCCoUNT
+LoCaTIoN: US
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Bob Gibbs , 01/13/2020

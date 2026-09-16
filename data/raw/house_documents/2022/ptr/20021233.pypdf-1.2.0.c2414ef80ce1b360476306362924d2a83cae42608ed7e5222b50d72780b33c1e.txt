@@ -1,0 +1,66 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Lois Frankel
+Status: Member
+State/District:FL21
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+BlackRock, Inc. (BLK) [ST] P 06/01/202206/16/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Cigna Corporation (CI) [ST] S (partial) 05/18/202206/16/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+FIRST REPUBLIC BANK (FRC) [ST] P 05/18/202206/16/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+General Dynamics Corporation (GD)
+[ST]
+P 05/18/202206/16/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+GXO Logistics, Inc. (GXO) [ST] S (partial) 05/25/202206/16/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Helen of Troy Limited (HELE) [ST] S 06/14/202206/16/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S (partial) 06/01/202206/16/2022$1,001 - $15,000
+Filing ID #20021233
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley IRA - X141
+Zimmer Biomet Holdings, Inc. (ZBH)
+[ST]
+S (partial) 06/13/202206/16/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley IRA - X141
+D: Managed by MFS Investment MGMT
+Morgan Stanley IRA - X142
+D: Managed by Anchor Capital Advisors LLC
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 06/16/2022

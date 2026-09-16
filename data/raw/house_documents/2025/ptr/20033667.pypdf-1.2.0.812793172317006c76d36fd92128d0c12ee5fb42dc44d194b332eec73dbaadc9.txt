@@ -1,0 +1,56 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Dwight Evans
+Status: Member
+State/District:PA03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+ALIBABA GROUP HOLDING LTD
+(BABAF) [ST]
+S 11/21/202512/05/2025$1,001 - $15,000
+F S: New
+S O: PERSHING LLC
+American Water Works Company,
+Inc. Common Stock (AWK) [ST]
+S 11/21/202512/05/2025$1,001 - $15,000
+F S: New
+S O: PERSHING LLC
+Apollo Global Management, Inc.
+(APO) [ST]
+S 11/21/202512/05/2025$1,001 - $15,000
+F S: New
+S O: PERSHING LLC
+CVS Health Corporation Common
+Stock (CVS) [ST]
+S 11/21/202512/05/2025$1,001 - $15,000
+F S: New
+S O: PERSHING LLC
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S (partial) 11/21/202512/05/2025$1,001 - $15,000
+F S: New
+S O: PERSHING LLC
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 11/21/202512/05/2025$1,001 - $15,000
+F S: New
+S O: PERSHING LLC
+Filing ID #20033667
+[[PAGE 2]]
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+PERSHING LLC
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dwight Evans , 12/19/2025

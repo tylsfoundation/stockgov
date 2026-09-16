@@ -1,0 +1,157 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Tim Moore
+Status: Member
+State/District:NC14
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Centene Corporation Common Stock
+(CNC) [ST]
+P 07/14/202508/04/2025$15,001 -
+$50,000
+F S: New
+Centene Corporation Common Stock
+(CNC) [ST]
+P 07/18/202508/04/2025$15,001 -
+$50,000
+F S: New
+Centene Corporation Common Stock
+(CNC) [ST]
+P 07/21/202508/04/2025$15,001 -
+$50,000
+F S: New
+Centene Corporation Common Stock
+(CNC) [ST]
+P 07/22/202508/04/2025$1,001 - $15,000
+F S: New
+Centene Corporation Common Stock
+(CNC) [ST]
+P 07/29/202508/04/2025$15,001 -
+$50,000
+F S: New
+Centene Corporation Common Stock
+(CNC) [ST]
+P 07/30/202508/04/2025$15,001 -
+$50,000
+F S: New
+Direxion Daily Small Cap Bull 3X ETF
+- TZA [OT]
+P 07/24/202508/04/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: ETF
+Filing ID #20030824
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Direxion Daily Small Cap Bull 3X ETF
+- TZA [OT]
+P 07/21/202508/04/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: ETF
+Direxion Daily Small Cap Bull 3X ETF
+- TZA [OT]
+P 07/18/202508/04/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: EFT
+Direxion Daily Small Cap Bull 3X ETF
+- TZA [OT]
+S 07/16/202508/04/2025$100,001 -
+$250,000
+F S: New
+L: US
+D: ETF
+Direxion Daily Small Cap Bull 3X ETF
+- TZA [OT]
+P 07/03/202508/04/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: ETF
+Direxion Daily Small Cap Bull 3X ETF
+- TZA [OT]
+P 07/09/202508/04/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: ETF
+Direxion Daily Small Cap Bull 3X ETF
+- TZA [OT]
+P 07/10/202508/04/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: ETF
+Direxion Daily Small Cap Bull 3X ETF
+- TZA [OT]
+P 07/11/202508/04/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: EFT
+Harley-Davidson, Inc. Common Stock
+(HOG) [ST]
+P 07/30/202508/04/2025$15,001 -
+$50,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Intel Corporation - Common Stock
+(INTC) [ST]
+P 07/29/202508/04/2025$15,001 -
+$50,000
+F S: New
+Krispy Kreme, Inc. - Common Stock
+(DNUT) [ST]
+P 07/29/202508/04/2025$1,001 - $15,000
+F S: New
+Krispy Kreme, Inc. - Common Stock
+(DNUT) [ST]
+P 07/30/202508/04/2025$15,001 -
+$50,000
+F S: New
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 07/21/202508/04/2025$1,001 - $15,000
+F S: New
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 07/16/202508/04/2025$15,001 -
+$50,000
+F S: New
+Verizon Communications Inc.
+Common Stock (VZ) [ST]
+P 07/29/202508/04/2025$15,001 -
+$50,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Tim Moore , 08/05/2025

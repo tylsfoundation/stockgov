@@ -1,0 +1,60 @@
+[[PAGE 1]]
+Filing ID #20020574
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Earl Blumenauer
+Status: Member
+State/District: OR03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Allstate Corporation (All) [ST] P 02/11/2022 03/07/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+DESCRIPTION: Part of my spouse's retirement portfolio.
+SP Alphabet Inc. - Class A (gOOgl) P 02/11/2022 03/07/2022 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Part of my spouse's retirement portfolio.
+SP Amgen Inc. (AMgN) [ST] P 02/11/2022 03/07/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+DESCRIPTION: Part of my spouse's retirement portfolio.
+SP Brown Advisory Sustainable S 02/17/2022 03/07/2022 $1,001 - $15,000 gfedcb
+growth Adv [CS]
+FIlINg STATuS: New
+DESCRIPTION: Part of my spouse's retirement portfolio.
+SP FirstEnergy Corp. (FE) [ST] P 02/11/2022 03/07/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+DESCRIPTION: Part of my spouse's retirement portfolio.
+SP Healthpeak Properties, Inc. S 02/23/2022 03/07/2022 $1,001 - $15,000 gfedcb
+(PEAK) [ST]
+FIlINg STATuS: New
+DESCRIPTION: Part of my spouse's retirement portfolio.
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP HP Inc. (HPQ) [ST] S 02/09/2022 03/07/2022 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: Part of my spouse's retirement portfolio.
+SP Imax Corporation (IMAX) [ST] P 02/11/2022 03/07/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+DESCRIPTION: Part of my spouse's retirement portfolio.
+SP Medtronic plc. Ordinary Shares P 02/11/2022 03/07/2022 $1,001 - $15,000 gfedc
+(MDT) [ST]
+FIlINg STATuS: New
+DESCRIPTION: Part of my spouse's retirement portfolio.
+SP Ventas, Inc. (VTR) [ST] P 02/23/2022 03/07/2022 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: Part of my spouse's retirement portfolio.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Earl Blumenauer , 03/07/2022

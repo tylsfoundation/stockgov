@@ -1,0 +1,59 @@
+[[PAGE 1]]
+Filing ID #20018659
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Deborah K. Ross
+Status: Member
+State/District: NC02
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Advanced Micro Devices, Inc. P 04/27/2021 04/27/2021 $15,001 - gfedc
+(AMD) [ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Fidelity IRA 1
+SP Alphabet Inc. - Class A (gOOgl) P 04/27/2021 04/27/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Fidelity IRA 1
+SP Applied Materials, Inc. (AMAT) P 04/27/2021 04/27/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Fidelity IRA 1
+SP berkshire Hathaway Inc. New P 04/01/2021 04/01/2021 $15,001 - gfedc
+(bRK.b) [ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Fidelity IRA 2
+SP Cleveland-Cliffs Inc. (ClF) [ST] P 04/27/2021 04/27/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Fidelity IRA 1
+SP CrowdStrike Holdings, Inc. - Class P 04/27/2021 04/27/2021 $15,001 - gfedc
+A (CRWD) [ST] $50,000
+FIlINg STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOlDINg OF: Fidelity IRA 1
+SP Freeport-McMoRan, Inc. (FCX) P 04/27/2021 04/27/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Fidelity IRA 1
+SP lam Research Corporation (lRCX) P 04/27/2021 04/27/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Fidelity IRA 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Fidelity IRA 1 (Owner: SP)
+Fidelity IRA 2 (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Deborah K. Ross , 04/30/2021

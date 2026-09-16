@@ -1,0 +1,43 @@
+[[PAGE 1]]
+Filing ID #20020561
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Nancy Pelosi
+Status: Member
+State/District: CA12
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+2000090459 SP AllianceBernstein Holding l.P. P 01/27/2022 02/28/2022 $250,001 - gfedc
+units (AB) [Ol] $500,000
+FIlINg STATuS: Amended
+lOCATION: New York, NY, uS
+DESCRIPTION: Purchased 10,000 units in a global asset management firm providing investment management and
+research services worldwide to institutional, high-net-worth and retail investors.
+2000090455 SP American Express Company P 01/21/2022 02/28/2022 $250,001 - gfedc
+(AXP) [ST] $500,000
+FIlINg STATuS: Amended
+DESCRIPTION: Exercised 50 call options (5,000 shares) expiring 1/21/22 at a strike price of $80.
+2000090456 SP Apple Inc. (AAPl) [ST] P 01/21/2022 02/28/2022 $1,000,001 - gfedc
+$5,000,000
+FIlINg STATuS: Amended
+DESCRIPTION: Exercised 100 call options (10,000 shares) expiring 1/21/22 at a strike price of $100.
+2000090458 SP PayPal Holdings, Inc. (PYPl) P 01/21/2022 02/28/2022 $500,001 - gfedc
+[ST] $1,000,000
+FIlINg STATuS: Amended
+DESCRIPTION: Exercised 50 call options (5,000 shares) expiring 1/21/22 at a strike price of $100.
+2000090457 SP Walt Disney Company (DIS) P 01/21/2022 02/28/2022 $1,000,001 - gfedc
+[ST] $5,000,000
+FIlINg STATuS: Amended
+DESCRIPTION: Exercised 100 call options (10,000 shares) expiring 1/21/22 at a strike price of $100.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+[[PAGE 2]]
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Nancy Pelosi , 03/04/2022

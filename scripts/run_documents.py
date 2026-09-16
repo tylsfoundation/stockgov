@@ -28,7 +28,14 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--root", type=Path)
     parser.add_argument("--limit", type=int)
     parser.add_argument("--requires-ocr", action="store_true")
+    parser.add_argument(
+        "--from-year",
+        type=int,
+        help="Inclusive filing reporting year for metadata-backed selection",
+    )
     args = parser.parse_args(argv)
+    if args.from_year is not None and args.from_year < 1:
+        parser.error("--from-year must be positive")
     config = ProcessingConfig.from_environment()
     logging.basicConfig(level=logging.DEBUG if config.debug else logging.INFO)
     if args.root:
@@ -43,6 +50,7 @@ def main(argv: list[str] | None = None) -> int:
         root=root,
         limit=args.limit,
         requires_ocr=args.requires_ocr,
+        from_year=args.from_year,
     )
     print(
         f"mode={args.mode} discovered={summary.discovered} processed={summary.processed} "

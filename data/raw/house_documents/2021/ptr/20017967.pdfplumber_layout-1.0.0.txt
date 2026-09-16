@@ -1,0 +1,48 @@
+[[PAGE 1]]
+Filing ID #20017967
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Virginia Foxx
+Status: Member
+State/District: NC05
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Altria group, Inc. (MO) [ST] P 12/08/2020 12/08/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+JT Altria group, Inc. (MO) [ST] P 12/29/2020 12/29/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+JT AT&T Inc. (T) [ST] P 12/17/2020 12/17/2020 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+JT AT&T Inc. (T) [ST] P 12/18/2020 12/18/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+JT BP p.l.c. (BP) [ST] P 12/21/2020 12/21/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+JT Clearway Energy, Inc. Class A S (partial) 12/07/2020 12/07/2020 $50,001 - gfedcb
+(CWEN.A) [ST] $100,000
+FIlINg STATuS: New
+JT Clearway Energy, Inc. Class A P 12/16/2020 12/16/2020 $1,001 - $15,000 gfedc
+(CWEN.A) [ST]
+FIlINg STATuS: New
+JT gladstone land Corporation S 12/08/2020 12/08/2020 $15,001 - gfedc
+(lAND) [ST] $50,000
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+JT One liberty Properties, Inc. (OlP) P 12/22/2020 12/22/2020 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Virginia Foxx , 01/08/2021

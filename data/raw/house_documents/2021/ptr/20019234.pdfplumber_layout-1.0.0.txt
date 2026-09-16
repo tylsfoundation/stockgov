@@ -1,0 +1,38 @@
+[[PAGE 1]]
+Filing ID #20019234
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Katherine M. Clark
+Status: Member
+State/District: MA05
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Ruane, Cunniff & goldfarb, Inc. S 01/31/2021 08/04/2021 $100,001 - gfedcb
+[PS] $250,000
+FILINg STATUS: New
+SUbHOLDINg OF: Katherine M. Clark Exempt Trust
+LOCATION: US
+DESCRIPTION: shares in a privately held investment adviser, purchased back by the company
+Ruane, Cunniff & goldfarb, Inc. S (partial) 01/31/2021 08/04/2021 $1,001 - $15,000 gfedcb
+[PS]
+FILINg STATUS: New
+SUbHOLDINg OF: Katherine M. Clark Separate Share Trust
+LOCATION: US
+DESCRIPTION: shares in a privately held investment adviser, purchased back by the company
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Katherine M. Clark Exempt Trust
+DESCRIPTION: inherited April 5, 2019
+Katherine M. Clark Separate Share Trust
+DESCRIPTION: inherited April 5, 2019
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 2]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Katherine M. Clark , 08/04/2021

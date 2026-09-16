@@ -1,0 +1,35 @@
+[[PAGE 1]]
+Filing ID #20019099
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. James E Hon Banks
+Status: Member
+State/District: IN03
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Kroger Company (KR) [ST] S (partial) 06/22/2021 07/12/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Kroger Company (KR) [ST] S (partial) 06/22/2021 07/12/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Schwab IRA
+Roblox Corporation Class A P 06/25/2021 07/12/2021 $1,001 - $15,000 gfedc
+(RBlX) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: Schwab IRA
+JT Roblox Corporation Class A P 06/25/2021 07/12/2021 $1,001 - $15,000 gfedc
+(RBlX) [ST]
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Schwab IRA
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 2]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. James E Hon Banks , 07/16/2021

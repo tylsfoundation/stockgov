@@ -1,0 +1,185 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Gilbert Cisneros
+Status: Member
+State/District:CA31
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Amdocs Limited - Ordinary Shares
+(DOX) [ST]
+S (partial) 06/30/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Applovin Corporation - Class A
+Common Stock (APP) [ST]
+P 07/01/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+ASML Holding N.V. - New York
+Registry Shares (ASML) [ST]
+S 06/27/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Boot Barn Holdings, Inc. Common
+Stock (BOOT) [ST]
+S (partial) 06/16/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Boston Scientific Corporation
+Common Stock (BSX) [ST]
+S (partial) 06/11/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Boston Scientific Corporation
+Common Stock (BSX) [ST]
+S (partial) 06/26/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Filing ID #20030634
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Cadre Holdings, Inc. Common Stock
+(CDRE) [ST]
+P 06/11/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Champion Homes, Inc. Common
+Stock (SKY) [ST]
+P 06/16/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Chart Industries, Inc. (GTLS) [ST] S (partial) 06/16/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+CoStar Group, Inc. - Common Stock
+(CSGP) [ST]
+P 06/27/202507/08/2025$15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+CoStar Group, Inc. - Common Stock
+(CSGP) [ST]
+P 06/30/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+CoStar Group, Inc. - Common Stock
+(CSGP) [ST]
+P 06/25/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Dayforce, Inc. Common Stock (DAY)
+[ST]
+P 06/11/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+GoDaddy Inc. Class A Common Stock
+(GDDY) [ST]
+S (partial) 06/11/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+HealthEquity, Inc. - Common Stock
+(HQY) [ST]
+S (partial) 06/16/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Liberty Media Corporation - Series C
+Liberty Formula One Common Stock
+(FWONK) [ST]
+S (partial) 06/26/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+NextEra Energy, Inc. Common Stock
+(NEE) [ST]
+S (partial) 06/25/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+NXP Semiconductors N.V. - Common
+Stock (NXPI) [ST]
+P 06/25/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Pacific Premier Bancorp Inc -
+Common Stock (PPBI) [ST]
+S (partial) 06/16/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+PTC Inc. - Common Stock (PTC) [ST] P 06/11/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+RBC Bearings Incorporated Common
+Stock (RBC) [ST]
+S (partial) 06/16/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Revvity, Inc. Common Stock (RVTY)
+[ST]
+P 06/11/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Seacoast Banking Corporation of
+Florida - Common Stock (SBCF) [ST]
+P 06/16/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+SpringWorks Therapeutics, Inc. -
+common stock (SWTX) [ST]
+S 07/01/202507/08/2025$15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Veracyte, Inc. - Common Stock
+(VCYT) [ST]
+P 06/16/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Willis Towers Watson Public Limited
+Company - Ordinary Shares (WTW)
+[ST]
+S (partial) 06/26/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+XIAOMI CORP (XIACF) [ST] P 06/27/202507/08/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker 1810HK
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+150 Main Street Trust
+150 Main Street Trust ⇒ Bank of America
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Gilbert Cisneros , 07/10/2025

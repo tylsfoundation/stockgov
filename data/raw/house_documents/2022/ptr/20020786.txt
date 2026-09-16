@@ -1,0 +1,294 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJ05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT AbbVie Inc. (ABBV) [ST] P 03/08/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT AbbVie Inc. (ABBV) [ST] P 03/17/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Air Products and Chemicals, Inc.
+(APD) [ST]
+S (partial) 03/15/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 03/09/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Amgen Inc. (AMGN) [ST] P 03/03/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Apple Inc. (AAPL) [ST] P 03/09/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Apple Inc. (AAPL) [ST] S (partial) 03/15/202204/11/2022$1,001 - $15,000
+Filing ID #20020786
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Biogen Inc. (BIIB) [ST] S 03/17/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Blackstone Inc. (BX) [ST] P 03/09/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Carvana Co. Class A (CVNA) [ST] S 03/07/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Castle Biosciences, Inc. - Common
+stock (CSTL) [ST]
+S (partial) 03/15/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT ChemoCentryx, Inc. (CCXI) [ST] S (partial) 03/15/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Coca-Cola Company (KO) [ST] P 03/08/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Coca-Cola Company (KO) [ST] P 03/04/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Cognizant Technology Solutions
+Corporation - Class A (CTSH) [ST]
+P 03/04/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Cognizant Technology Solutions
+Corporation - Class A (CTSH) [ST]
+P 03/29/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Covetrus, Inc. (CVET) [ST] S (partial) 03/15/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT CSPC Pharmaceuticals Group ADR
+(CSPCY) [OT]
+S (partial) 03/15/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+L: US
+D: ADR stock
+JT Eli Lilly and Company (LLY) [ST] P 03/29/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Eli Lilly and Company (LLY) [ST] P 03/16/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Endava plc American Depositary
+Shares (DAVA) [ST]
+S (partial) 03/15/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Endava plc American Depositary
+Shares (DAVA) [ST]
+S (partial) 03/04/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT ENN Energy Holdings Ltd
+Unsponsored ADR (XNGSY) [ST]
+S (partial) 03/15/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Etsy, Inc. (ETSY) [ST] S 03/07/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Fidelity National Information
+Services, Inc. (FIS) [ST]
+P 03/09/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Glacier Bancorp, Inc. (GBCI) [ST] S (partial) 03/09/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Haier Smart Home Co., Ltd ADR
+(HSHCY) [OT]
+P 03/04/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+L: US
+D: ADR stock
+JT Haier Smart Home Co., Ltd ADR
+(HSHCY) [OT]
+P 03/03/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+L: US
+D: ADR stock
+JT Haier Smart Home Co., Ltd ADR
+(HSHCY) [OT]
+S (partial) 03/15/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+L: US
+D: ADR stock
+JT HubSpot, Inc. (HUBS) [ST] S 03/08/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Intuit Inc. (INTU) [ST] S (partial) 03/15/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Lowe's Companies, Inc. (LOW) [ST] P 03/09/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT McKesson Corporation (MCK) [ST] P 03/09/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Microsoft Corporation (MSFT) [ST] P 03/09/202204/11/2022$1,001 - $15,000
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Moderna, Inc. (MRNA) [ST] S 03/16/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT MongoDB, Inc. - Class A (MDB) [ST] S (partial) 03/15/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Morgan Stanley (MS) [ST] S (partial) 03/03/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Netflix, Inc. (NFLX) [ST] S 03/17/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Ollie's Bargain Outlet Holdings, Inc.
+(OLLI) [ST]
+S 03/04/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Oracle Corporation (ORCL) [ST] P 03/09/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Paycor HCM, Inc. (PYCR) [ST] S (partial) 03/15/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Ping An Insurance (PNGAY) [ST] S (partial) 03/15/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Sherwin-Williams Company (SHW)
+[ST]
+S (partial) 03/16/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT SPX Corporation (SPXC) [ST] S (partial) 03/15/202204/11/2022$1,001 - $15,000
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+S (partial) 03/30/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Tencent Holdings Limited
+Unsponsored ADR Representing B
+Shares (TCEHY) [ST]
+S (partial) 03/15/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Terex Corporation (TEX) [ST] S (partial) 03/15/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Texas Instruments Incorporated
+(TXN) [ST]
+P 03/31/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Texas Instruments Incorporated
+(TXN) [ST]
+S (partial) 03/07/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Thoughtworks Holding, Inc. (TWKS)
+[ST]
+P 03/15/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Trane Technologies plc (TT) [ST] P 03/04/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Unilever PLC (UL) [ST] S (partial) 03/30/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Unilever PLC (UL) [ST] S 03/31/202204/11/2022$1,001 - $15,000
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT United Parcel Service, Inc. (UPS) [ST]P 03/09/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Veritex Holdings, Inc. (VBTX) [ST] P 03/09/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Verizon Communications Inc. (VZ)
+[ST]
+P 03/09/202204/11/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 04/17/2022

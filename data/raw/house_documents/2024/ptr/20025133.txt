@@ -1,0 +1,54 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Donald Sternoff Beyer Jr
+Status: Member
+State/District:VA08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Metropolitan Wash DC 5.00%
+10/01/31 [GS]
+P 05/02/202405/24/2024$15,001 -
+$50,000
+F S: New
+S O: Stocks, Bonds, & Mutual Funds
+D: 20,000 units of Metropolitan Washington DC 5.00% 10/01/31 bonds
+JT Putnam Cnty WVA Brd Ed 1.123%
+05/01/24 [GS]
+S 05/23/202405/24/2024$15,001 -
+$50,000
+F S: New
+S O: Stocks, Bonds, & Mutual Funds
+D: Putnam County, WVA Brd Ed 1.123% bonds reached maturity 05/01/24
+JT Wise Cnty VA Indl Var 11-01-40 [GS] P 05/31/202405/31/2024$15,001 -
+$50,000
+F S: New
+S O: Stocks, Bonds, & Mutual Funds
+D: 25,000 units of Wise County Virginia Indl Var bonds, due 11-01-40
+JT Wise Cnty VA V-A 1.875% 11-01-40
+[GS]
+S 05/31/202405/31/2024$15,001 -
+$50,000
+F S: New
+S O: Stocks, Bonds, & Mutual Funds
+D: Called security; 25,000 units
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Stocks, Bonds, & Mutual Funds (Owner: JT)
+L: VA, US
+Filing ID #20025133
+[[PAGE 2]]
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Donald Sternoff Beyer Jr, 06/06/2024

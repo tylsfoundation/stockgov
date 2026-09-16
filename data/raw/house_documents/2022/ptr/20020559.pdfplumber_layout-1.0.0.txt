@@ -1,0 +1,147 @@
+[[PAGE 1]]
+Filing ID #20020559
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. James R. Langevin
+Status: Member
+State/District: RI02
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Alibaba group Holding Limited S 02/07/2022 03/04/2022 $1,001 - $15,000 gfedc
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $119; Expires 02/11/22
+Alibaba group Holding Limited S 02/11/2022 03/04/2022 $1,001 - $15,000 gfedc
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Roth IRA
+Alibaba group Holding Limited S 02/11/2022 03/04/2022 $50,001 - gfedcb
+American Depositary Shares each $100,000
+representing eight Ordinary share
+(BABA) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+Alphabet Inc. - Class A (gOOgL) P 02/11/2022 03/04/2022 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Roth IRA
+Block, Inc. Class A Common Stock, P 02/02/2022 03/04/2022 $1,001 - $15,000 gfedc
+(SQ) [OP]
+FILINg STATUS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $135; Expires 03/11/22
+Block, Inc. Class A Common Stock, P 02/02/2022 03/04/2022 $50,001 - gfedc
+(SQ) [ST] $100,000
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+Block, Inc. Class A Common Stock, S 02/09/2022 03/04/2022 $1,001 - $15,000 gfedc
+(SQ) [OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $125; Expires 02/25/22
+Block, Inc. Class A Common Stock, S 02/25/2022 03/04/2022 $1,001 - $15,000 gfedc
+(SQ) [OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $126; Expires 03/04/22
+generac Holdlings Inc. (gNRC) P 02/01/2022 03/04/2022 $100,001 - gfedc
+[ST] $250,000
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+generac Holdlings Inc. (gNRC) S 02/25/2022 03/04/2022 $1,001 - $15,000 gfedc
+[OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $340; Expires 03/18/22
+generac Holdlings Inc. (gNRC) S 02/25/2022 03/04/2022 $1,001 - $15,000 gfedcb
+[OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $310; Expires 03/18/22
+generac Holdlings Inc. (gNRC) S 02/09/2022 03/04/2022 $15,001 - gfedcb
+[OP] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $270; Expires 03/18/22
+generac Holdlings Inc. (gNRC) P 02/10/2022 03/04/2022 $1,001 - $15,000 gfedc
+[OP]
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $310; Expires 03/18/22
+generac Holdlings Inc. (gNRC) S 02/15/2022 03/04/2022 $1,001 - $15,000 gfedc
+[OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $290; Expires 02/18/22
+generac Holdlings Inc. (gNRC) P 02/18/2022 03/04/2022 $1,001 - $15,000 gfedc
+[OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $290; Expires 02/18/22
+generac Holdlings Inc. (gNRC) P 02/11/2022 03/04/2022 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Roth IRA
+Meta Platforms, Inc. - Class A (FB) S 02/15/2022 03/04/2022 $1,001 - $15,000 gfedcb
+[OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $230; Expires 02/25/22
+Meta Platforms, Inc. - Class A (FB) S 02/01/2022 03/04/2022 $1,001 - $15,000 gfedcb
+[OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $340; Expires 02/25/22
+Netflix, Inc. (NFLX) [OP] P 02/03/2022 03/04/2022 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $400; Expires 03/04/22
+PayPal Holdings, Inc. (PYPL) [OP] S 02/15/2022 03/04/2022 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $118; Expires 02/25/22
+PayPal Holdings, Inc. (PYPL) [OP] P 02/02/2022 03/04/2022 $1,001 - $15,000 gfedc
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $155; Expires 03/18/22
+Roku, Inc. - Class A (ROKU) [OP] P 02/10/2022 03/04/2022 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $170; Expires 02/25/22
+Zillow group, Inc. - Class C Capital S 02/18/2022 03/04/2022 $1,001 - $15,000 gfedc
+Stock (Z) [OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $60; Expires 02/18/22
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Brokerage Account
+LOCATION: US
+Roth IRA
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. James R. Langevin , 03/04/2022

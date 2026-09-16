@@ -1,0 +1,183 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJ05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Apple Inc. (AAPL) [ST] S (partial) 08/26/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Automatic Data Processing, Inc.
+(ADP) [ST]
+P 08/12/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT BioCryst Pharmaceuticals, Inc.
+(BCRX) [ST]
+P 08/11/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Blackstone Inc. (BX) [ST] S (partial) 08/11/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Cerence Inc. (CRNC) [ST] S 08/15/202109/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT ChemoCentryx, Inc. (CCXI) [ST] S (partial) 08/11/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Coca-Cola Company (KO) [ST] P 08/05/202209/06/2022$1,001 - $15,000
+Filing ID #20021676
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Halozyme Therapeutics, Inc. (HALO)
+[ST]
+S (partial) 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Lowe's Companies, Inc. (LOW) [ST] S (partial) 08/16/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Microsoft Corporation (MSFT) [OP] P 08/11/202209/06/2022$250,001 -
+$500,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $145; Expires 01/20/23
+JT Microsoft Corporation (MSFT) [OP] P 08/11/202209/06/2022$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $150; Expires 01/20/23
+JT Microsoft Corporation (MSFT) [OP] P 08/11/202209/06/2022$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $150; Expires 01/20/23
+JT Microsoft Corporation (MSFT) [OP] P 08/11/202209/06/2022$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $150; Expires 01/20/23
+JT Microsoft Corporation (MSFT) [OP] P 08/11/202209/06/2022$250,001 -
+$500,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $155; Expires 01/20/23
+JT Microsoft Corporation (MSFT) [OP] P 08/11/202209/06/2022$250,001 -
+$500,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $160; Expires 01/20/23
+JT Microsoft Corporation (MSFT) [OP] S 08/11/202209/06/2022$250,001 -
+$500,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $160; Expires 03/17/23
+JT Microsoft Corporation (MSFT) [OP] S 08/11/202209/06/2022$250,001 -
+$500,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $160; Expires 03/17/23
+JT Microsoft Corporation (MSFT) [OP] S 08/11/202209/06/2022$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $150; Expires 06/16/23
+JT Microsoft Corporation (MSFT) [OP] S 08/11/202209/06/2022$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $150; Expires 06/16/23
+JT Microsoft Corporation (MSFT) [OP] S 08/11/202209/06/2022$250,001 -
+$500,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $155; Expires 06/16/23
+JT Microsoft Corporation (MSFT) [OP] S 08/11/202209/06/2022$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $155; Expires 06/16/23
+JT Microsoft Corporation (MSFT) [ST] S (partial) 08/17/202209/06/2022$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+JT Microsoft Corporation (MSFT) [OP] S 08/17/202209/06/2022$100,001 -
+$250,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $150; Expires 06/16/23
+JT Microsoft Corporation (MSFT) [ST] P 08/17/202209/06/2022$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+JT Rapid7, Inc. (RPD) [ST] S (partial) 08/10/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Rockwell Automation, Inc. (ROK)
+[ST]
+S (partial) 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT SGS SA ADR (SGSOY) [ST] S 08/02/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Sherwin-Williams Company (SHW)
+[ST]
+S (partial) 08/17/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Trane Technologies plc (TT) [ST] S (partial) 08/05/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 08/11/202209/06/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley - Portfolio Management Active Assets Account (Owner: JT)
+L: US
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+[[PAGE 5]]
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 09/16/2022

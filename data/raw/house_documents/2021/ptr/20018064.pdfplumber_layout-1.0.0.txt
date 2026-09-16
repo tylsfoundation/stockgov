@@ -1,0 +1,104 @@
+[[PAGE 1]]
+Filing ID #20018064
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. K. Michael Conaway
+Status: Former Member
+State/District: TX11
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+AMCAP Fund [OT] P 12/17/2020 12/21/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: JT E57 (Edward Jones)
+LOCATION: US
+DESCRIPTION: AMCAP Fund
+American balanced Fund [OT] P 12/17/2020 12/21/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: JT E57 (Edward Jones)
+LOCATION: US
+DESCRIPTION: American balanced Fund
+American Mutual Fund [OT] P 12/17/2020 12/21/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: JT E57 (Edward Jones)
+LOCATION: US
+DESCRIPTION: American Mutual Fund
+American New Economy Fund P 12/21/2020 12/24/2020 $50,001 - gfedc
+[OT] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: JT E57 (Edward Jones)
+LOCATION: US
+DESCRIPTION: American New Economy Fund
+American Small Cap World Fund P 12/21/2020 12/24/2020 $15,001 - gfedc
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+[OT] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: JT E57 (Edward Jones)
+LOCATION: US
+DESCRIPTION: American Small Cap World Fund
+Capital World growth & Income P 12/17/2020 12/21/2020 $50,001 - gfedc
+Fund [OT] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: JT E57 (Edward Jones)
+LOCATION: US
+DESCRIPTION: Capital World growth & Income Fund
+First Trust DJ Internet Index Fund P 12/10/2020 12/14/2020 $15,001 - gfedc
+(FDN) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: WF 10 (Wells Fargo Financial)
+Fundamental Investors CL A [OT] P 12/16/2020 12/18/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: JT E57 (Edward Jones)
+LOCATION: US
+DESCRIPTION: Fundamental Investors CL A
+goldman Sachs Activebeta U.S. P 12/10/2020 12/14/2020 $15,001 - gfedc
+Large Cap Equity ETF (gSLC) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: WF 10 (Wells Fargo Financial)
+Investment Company of America P 12/18/2020 12/22/2020 $50,001 - gfedc
+[OT] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: JT E57 (Edward Jones)
+LOCATION: US
+DESCRIPTION: Investment Company of America
+iShares Core Dividend growth ETF P 12/17/2020 12/21/2020 $50,001 - gfedc
+(DgRO) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: JT E57 (Edward Jones)
+Vanguard Div Appreciation ETF P 12/10/2020 12/14/2020 $50,001 - gfedc
+(VIg) [ST] $100,000
+FILINg STATUS: New
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: WF 10 (Wells Fargo Financial)
+Washington Mutual Inv FD [OT] P 12/18/2020 12/22/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: JT E57 (Edward Jones)
+LOCATION: US
+DESCRIPTION: Washington Mutual Inv FD
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+JT E57 (Edward Jones)
+LOCATION: US
+WF 10 (Wells Fargo Financial)
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. K. Michael Conaway , 01/22/2021

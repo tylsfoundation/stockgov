@@ -1,0 +1,520 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Lois Frankel
+Status: Member
+State/District:FL22
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+A.O. Smith Corporation (AOS) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+AbbVie Inc. (ABBV) [ST] P 09/06/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+AbbVie Inc. (ABBV) [ST] P 08/30/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+AbbVie Inc. (ABBV) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Alexandria Real Estate Equities, Inc.
+(ARE) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Alliant Energy Corporation (LNT)
+[ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+Filing ID #20023816
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley IRA - X142
+American Express Company (AXP)
+[ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Americold Realty Trust, Inc. (COLD)
+[ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Analog Devices, Inc. (ADI) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Aon plc Class A Ordinary Shares
+(AON) [ST]
+S 09/08/202310/06/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Autodesk, Inc. (ADSK) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Avery Dennison Corporation (AVY)
+[ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Bio-Rad Laboratories, Inc. Class A
+(BIO) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Booz Allen Hamilton Holding
+Corporation (BAH) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Boston Scientific Corporation (BSX)
+[ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Morgan Stanley IRA - X142
+Boston Scientific Corporation (BSX)
+[ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Broadridge Financial Solutions, Inc.
+(BR) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+BWX Technologies, Inc. (BWXT) [ST]S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Caseys General Stores, Inc. (CASY)
+[ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Cboe Global Markets, Inc. (CBOE)
+[ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Charles River Laboratories
+International, Inc. (CRL) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Chubb Limited (CB) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Citigroup, Inc. (C) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Comcast Corporation - Class A
+(CMCSA) [ST]
+S 09/08/202310/06/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley IRA - X141
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+ConocoPhillips (COP) [ST] S 09/08/202310/06/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Diageo plc (DEO) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Diamondback Energy, Inc. (FANG)
+[ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Dollar General Corporation (DG) [ST]S 09/01/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Dominion Energy, Inc. (D) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Dorman Products, Inc. (DORM) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Duke Energy Corporation (DUK) [ST]S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+DuPont de Nemours, Inc. (DD) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Eaton Corporation, PLC Ordinary
+Shares (ETN) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Entergy Corporation (ETR) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Morgan Stanley IRA - X142
+Eversource Energy (ES) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Expeditors International of
+Washington, Inc. (EXPD) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+First American Corporation (FAF)
+[ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Fluor Corporation (FLR) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Gartner, Inc. (IT) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+General Dynamics Corporation (GD)
+[ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Globe Life Inc. (GL) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Halliburton Company (HAL) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Hess Corporation (HES) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Honeywell International Inc. (HON)S 09/08/202310/06/2023$1,001 - $15,000
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+[ST]
+F S: New
+S O: Morgan Stanley IRA - X141
+Hubbell Inc (HUBB) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Illinois Tool Works Inc. (ITW) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Johnson & Johnson (JNJ) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Johnson Controls International plc
+Ordinary Share (JCI) [ST]
+S (partial) 09/06/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Johnson Controls International plc
+Ordinary Share (JCI) [ST]
+S (partial) 08/31/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Johnson Controls International plc
+Ordinary Share (JCI) [ST]
+S (partial) 08/30/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+JP Morgan Chase & Co. (JPM) [ST] S 09/08/202310/06/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Kenvue Inc. (KVUE) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+KKR & Co. Inc. (KKR) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Morgan Stanley IRA - X141
+KLA Corporation (KLAC) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Lamar Advertising Company - Class A
+(LAMR) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Liberty Broadband Corporation -
+Class C (LBRDK) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+LKQ Corporation (LKQ) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Lowe's Companies, Inc. (LOW) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+M&T Bank Corporation (MTB) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Markel Group Inc. (MKL) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Marriott International - Class A
+(MAR) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Marsh & McLennan Companies, Inc.
+(MMC) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+McKesson Corporation (MCK) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley IRA - X141
+McKesson Corporation (MCK) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S (partial) 09/06/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Morgan Stanley (MS) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Nasdaq, Inc. (NDAQ) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+National Storage Affiliates Trust
+Common Shares of Beneficial Interest
+(NSA) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Nestle SA Sponsored ADR
+representing Registered Shares Series
+B (NSRGY) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Norfolk Southern Corporation (NSC)
+[ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Northrop Grumman Corporation
+(NOC) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley IRA - X141
+NXP Semiconductors N.V. (NXPI)
+[ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+PACCAR Inc. (PCAR) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+PACCAR Inc. (PCAR) [ST] P 09/07/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+PACCAR Inc. (PCAR) [ST] P 09/06/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Pepsico, Inc. (PEP) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Pfizer, Inc. (PFE) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Pioneer Natural Resources Company
+(PXD) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+PNC Financial Services Group, Inc.
+(PNC) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Portland General Electric Co (POR)
+[ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Progressive Corporation (PGR) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+ProLogis, Inc. (PLD) [ST] S 09/08/202310/06/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Royal Gold, Inc. (RGLD) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Sherwin-Williams Company (SHW)
+[ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Southern Company (SO) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+SS&C Technologies Holdings, Inc.
+(SSNC) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Sun Communities, Inc. (SUI) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Target Corporation (TGT) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+TE Connectivity Ltd. New Switzerland
+Registered Shares (TEL) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Texas Instruments Incorporated
+(TXN) [ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley IRA - X141
+The Cigna Group (CI) [ST] S 09/08/202310/06/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley IRA - X141
+The Hershey Company (HSY) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Thermo Fisher Scientific Inc (TMO)
+[ST]
+S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Trane Technologies plc (TT) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Ulta Beauty, Inc. (ULTA) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Union Pacific Corporation (UNP) [ST]S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Vontier Corporation (VNT) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+W.R. Berkley Corporation (WRB) [ST]S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Waters Corporation (WAT) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Watsco, Inc. (WSO) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+[[PAGE 12]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley IRA - X142
+Xcel Energy Inc. (XEL) [ST] S 09/08/202310/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley IRA - X141
+D: Managed by MFS Investment MGMT
+Morgan Stanley IRA - X142
+D: Managed by Anchor Capital Advisors LLC
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 10/10/2023

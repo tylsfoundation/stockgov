@@ -1,0 +1,63 @@
+[[PAGE 1]]
+Filing ID #20017853
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Kevin Hern
+Status: Member
+State/District: OK01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Accenture plc Class A Ordinary P 11/13/2020 11/16/2020 $1,001 - $15,000 gfedc
+Shares (ACN) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Dividend Reinvestment
+JT Becton, Dickinson and Company S 11/19/2020 11/20/2020 $1,001 - $15,000 gfedc
+(BDX) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Kevin Hern Insurance Trust
+JT Magellan Midstream Partners L.P. P 11/13/2020 11/16/2020 $1,001 - $15,000 gfedc
+Limited Partnership (MMP) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Reinvestment of ROC Distribution
+JT N1 LIQUIDATINg TR [PS] S 11/03/2020 11/04/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+LOCATION: US
+DESCRIPTION: unsolicited final asset liquidation and return of capital from N1 Liquidating Trust
+JT ONEOK, Inc. (OKE) [ST] P 11/13/2020 11/16/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Dividend Reinvestment
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Suncor Energy Inc. (SU) [ST] S 11/19/2020 11/20/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Kevin Hern Insurance Trust
+JT Texas Instruments Incorporated P 11/16/2020 11/16/2020 $1,001 - $15,000 gfedc
+(TXN) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Hern Family Revocable Trust > Brokerage Investment Account
+DESCRIPTION: Dividend Reinvestment
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+DESCRIPTION: Family Revocable Trust
+Hern Family Revocable Trust ⇒ Brokerage Investment Account (100% Interest) (Owner: JT)
+LOCATION: US
+DESCRIPTION: Stock, Bonds, EFTs, & Mutual funds
+Kevin Hern Insurance Trust (Owner: JT)
+DESCRIPTION: iLIT
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 12/14/2020

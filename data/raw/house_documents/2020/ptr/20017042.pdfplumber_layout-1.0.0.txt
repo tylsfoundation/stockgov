@@ -1,0 +1,29 @@
+[[PAGE 1]]
+Filing ID #20017042
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Lloyd K. Smucker
+Status: Member
+State/District: PA11
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Apple Inc. (AAPL) [ST] S (partial) 07/22/2020 07/22/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SubHOLDINg OF: TDAMERITRADE IRA
+Apple Inc. (AAPL) [ST] S (partial) 10/09/2020 10/09/2020 $15,001 - gfedcb
+$50,000
+FILINg STATuS: New
+SubHOLDINg OF: TDAMERITRADE IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+TDAMERITRADE IRA
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lloyd K. Smucker , 11/09/2020

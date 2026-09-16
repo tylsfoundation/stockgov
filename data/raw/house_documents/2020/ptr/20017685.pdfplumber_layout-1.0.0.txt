@@ -1,0 +1,143 @@
+[[PAGE 1]]
+Filing ID #20017685
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Joe Courtney
+Status: Member
+State/District: CT02
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Apple Inc. (AAPL) [ST] S 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+SP Federated MDT Small Cap growth S 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+[OT]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+LOCATION: US
+DESCRIPTION: QISCX
+SP Franklin growth Fund Advantage P 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+[OT]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+LOCATION: US
+DESCRIPTION: FCgAX
+SP Franklin International growth P 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+Advisor Class [OT]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+LOCATION: US
+DESCRIPTION: FNgZX
+SP Franklin Liberty Investment grade P 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+Corporate ETF (FLCO) [ST]
+FILINg STATUS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: Inherited IRA
+SP Franklin Liberty U.S. Core bond P 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+ETF (FLCb) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+SP Franklin LibertyQ U.S. Equity ETF P 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+(FLQL) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+SP Franklin Small Cap growth Fund P 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+[OT]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+LOCATION: US
+DESCRIPTION: FSSAX
+SP Franklin Small Cap Value Fund P 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+[OT]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+LOCATION: US
+DESCRIPTION: FVADX
+SP goldman Sachs International P 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+Equity Insights [OT]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+LOCATION: US
+DESCRIPTION: gCIIX
+SP iShares U.S. Treasury bond ETF P 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+(gOVT) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+SP JP Morgan Mortgage backed P 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+Securities [OT]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+LOCATION: US
+DESCRIPTION: OMbIX
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Loomis Sayles Senior Float Rate S 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+[OT]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+LOCATION: US
+DESCRIPTION: LSFYX
+SP Pimco FDS Income Institutional S 10/16/2020 10/16/2020 $15,001 - gfedc
+[OT] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+LOCATION: US
+DESCRIPTION: PIMIX
+SP SPDR Portfolio S&P 1500 S 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+Composite Stock Market ETF
+(SPTM) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+SP T Rowe Price blue Chip growth S 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+[OT]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+LOCATION: US
+DESCRIPTION: TbCIX
+SP Templeton Developing Markets P 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+Trust [OT]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+LOCATION: US
+DESCRIPTION: TDADX
+SP Vanguard FTSE Developed P 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+Markets ETF (VEA) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+SP Vanguard FTSE Emerging Markets P 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+ETF (VWO) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+SP Vanguard S&P 500 ETF (VOO) P 10/16/2020 10/16/2020 $15,001 - gfedc
+[ST] $50,000
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+SP WCM Focused International S 10/16/2020 10/16/2020 $1,001 - $15,000 gfedc
+growth [OT]
+FILINg STATUS: New
+SUbHOLDINg OF: Inherited IRA
+LOCATION: US
+DESCRIPTION: WCMIX
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Inherited IRA (Owner: SP)
+DESCRIPTION: IRA inherited in December 2018
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Joe Courtney , 11/16/2020

@@ -1,0 +1,200 @@
+[[PAGE 1]]
+Filing Id #20016520
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. K. Michael Conaway
+Status: Member
+State/District: TX11
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+amazon.com, Inc. (aMZN) [ST] P 04/15/2020 04/20/2020 $15,001 - gfedc
+$50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+amazon.com, Inc. (aMZN) [ST] P 04/15/2020 04/20/2020 $15,001 - gfedc
+$50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 53 (Wells Fargo Financial)
+SP american Capital Income [oT] P 04/22/2020 04/27/2020 $1,001 - $15,000 gfedc
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+LoCaTIoN: US
+dESCRIPTIoN: american Capital Income
+SP american Electric Power Company, P 04/06/2020 04/09/2020 $15,001 - gfedc
+Inc. (aEP) [ST] $50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+SP american Fundamental Investors P 04/22/2020 04/27/2020 $1,001 - $15,000 gfedc
+[oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+LoCaTIoN: US
+dESCRIPTIoN: american Fundamental Investors
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP american growth Fund [oT] P 04/22/2020 04/27/2020 $1,001 - $15,000 gfedc
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+LoCaTIoN: US
+dESCRIPTIoN: american growth Fund
+SP american New Perspective Cl a P 04/22/2020 04/27/2020 $1,001 - $15,000 gfedc
+[oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+LoCaTIoN: US
+dESCRIPTIoN: american New Perspective Cl a
+SP american Tax-exempt bond Fd P 04/22/2020 04/27/2020 $1,001 - $15,000 gfedc
+[oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+LoCaTIoN: US
+dESCRIPTIoN: american Tax-exempt bond Fd
+apple Inc. (aaPL) [ST] P 04/15/2020 04/20/2020 $15,001 - gfedc
+$50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 53 (Wells Fargo Financial)
+apple Inc. (aaPL) [ST] P 04/15/2020 04/20/2020 $50,001 - gfedc
+$100,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+boFa FIN LLC 0% 1Y: LKd To S 04/24/2020 04/27/2020 $50,001 - gfedcb
+S&P 500 INdEX dUE 04/24/2020 $100,000
+CPN 0.000% dUE 04/24/20 [oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+LoCaTIoN: US
+dESCRIPTIoN: boFa FIN LLC 0% 1Y: LKd To S&P 500 INdEX dUE 04/24/2020 CPN 0.000% dUE 04/24/20 Redemption
+boFa FIN LLC 0% 1Y: LKd To S 04/24/2020 04/27/2020 $15,001 - gfedcb
+S&P 500 INdEX dUE 04/24/2020 $50,000
+CPN 0.000% dUE 04/24/20 [oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 25 (Wells Fargo Financial)
+LoCaTIoN: US
+dESCRIPTIoN: boFa FIN LLC 0% 1Y: LKd To S&P 500 INdEX dUE 04/24/2020 CPN 0.000% dUE 04/24/20
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Chevron Corporation (CVX) [ST] P 04/22/2020 04/27/2020 $15,001 - gfedc
+$50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+SP darden Restaurants, Inc. (dRI) P 04/13/2020 04/16/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+SP duke Energy Corporation (dUK) P 04/22/2020 04/27/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+SP Emerson Electric Company (EMR) P 04/22/2020 04/27/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+SP Franklin Rising dividend Cl a [oT] P 04/22/2020 04/24/2020 $1,001 - $15,000 gfedc
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+LoCaTIoN: US
+dESCRIPTIoN: Franklin Rising dividend Cl a
+SP iShares Core dividend growth ETF P 04/22/2020 04/27/2020 $15,001 - gfedc
+(dgRo) [ST] $50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+SP iShares Core dividend growth ETF P 04/06/2020 04/09/2020 $15,001 - gfedc
+(dgRo) [ST] $50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+SP iShares Core dividend growth ETF P 04/06/2020 04/10/2020 $1,001 - $15,000 gfedc
+(dgRo) [ST]
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+SP iShares Core dividend growth ETF P 04/06/2020 04/09/2020 $1,001 - $15,000 gfedc
+(dgRo) [ST]
+FILINg STaTUS: New
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHoLdINg oF: SP E62 (Edward Jones)
+JPMoRgaN CHaSE & Co P 04/15/2020 04/20/2020 $50,001 - gfedc
+FIXEd/FLoaT JR SbRdNTd $100,000
+CaLLabLE PERPETUaL MaT
+CPN 88.875% dUE 12/29/49 [oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+LoCaTIoN: US
+dESCRIPTIoN: JPMoRgaN CHaSE & Co FIXEd/FLoaT JR SbRdNTd CaLLabLE PERPETUaL MaT CPN 88.875% dUE
+12/29/49
+JPMoRgaN CHaSE & Co JR P 04/15/2020 04/20/2020 $50,001 - gfedc
+SUboRdINaTEd FIX/FLT $100,000
+CaLLabLE PERP MaT SER CC
+CPN 4.625% dUE 12/31/49 [oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+LoCaTIoN: US
+dESCRIPTIoN: JPMoRgaN CHaSE & Co JR SUboRdINaTEd FIX/FLT CaLLabLE PERP MaT SER CC CPN 4.625% dUE
+12/31/49
+JPMoRgaN CHaSE & Co JR P 04/15/2020 04/20/2020 $50,001 - gfedc
+SUboRdINaTEd FIX/FLT $100,000
+CaLLabLE PERP MaT SER CC
+CPN 4.625% dUE 12/31/49 [oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+LoCaTIoN: US
+dESCRIPTIoN: JPMoRgaN CHaSE & Co JR SUboRdINaTEd FIX/FLT CaLLabLE PERP MaT SER CC CPN 4.625% dUE
+12/31/49
+SP Marathon Petroleum Corporation P 04/22/2020 04/27/2020 $15,001 - gfedc
+(MPC) [ST] $50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+SP Southern Company (So) [ST] P 04/06/2020 04/09/2020 $15,001 - gfedc
+$50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+SP UIT INVESCo UNIT TRS CENT S 04/23/2020 04/27/2020 $100,001 - gfedcb
+EQUITY TR dIVERSFEd SER $250,000
+2016- [oT]
+FILINg STaTUS: New
+SUbHoLdINg oF: SP E62 (Edward Jones)
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+LoCaTIoN: US
+dESCRIPTIoN: UIT INVESCo UNIT TRS CENT EQUITY TR dIVERSFEd SER 2016- Redemption
+Vanguard div appreciation ETF P 04/15/2020 04/20/2020 $50,001 - gfedc
+(VIg) [ST] $100,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 10 (Wells Fargo Financial)
+Vanguard div appreciation ETF P 04/15/2020 04/20/2020 $50,001 - gfedc
+(VIg) [ST] $100,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 69 (Wells Fargo Financial)
+Vanguard div appreciation ETF P 04/15/2020 04/20/2020 $15,001 - gfedc
+(VIg) [ST] $50,000
+FILINg STaTUS: New
+SUbHoLdINg oF: WF 25 (Wells Fargo Financial)
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+SP E62 (Edward Jones) (owner: SP)
+LoCaTIoN: US
+WF 10 (Wells Fargo Financial)
+LoCaTIoN: US
+WF 25 (Wells Fargo Financial)
+LoCaTIoN: US
+WF 53 (Wells Fargo Financial)
+LoCaTIoN: US
+WF 69 (Wells Fargo Financial)
+LoCaTIoN: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. K. Michael Conaway , 05/04/2020

@@ -1,0 +1,77 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Lois Frankel
+Status: Member
+State/District:FL21
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Chubb Limited (CB) [ST] S (partial) 04/13/202205/03/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Citigroup, Inc. (C) [ST] S (partial) 03/30/202205/03/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Citigroup, Inc. (C) [ST] S (partial) 03/23/202205/03/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Fidelity National Information
+Services, Inc. (FIS) [ST]
+S 04/13/202205/03/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Fidelity National Information
+Services, Inc. (FIS) [ST]
+S (partial) 04/06/202205/03/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Johnson Controls International plc
+Ordinary Share (JCI) [ST]
+P 03/24/202205/03/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Johnson Controls International plcP 03/23/202205/03/2022$1,001 - $15,000
+Filing ID #20020919
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Ordinary Share (JCI) [ST]
+F S: New
+S O: Morgan Stanley IRA - X141
+NXP Semiconductors N.V. (NXPI)
+[ST]
+P 04/06/202205/03/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Pioneer Natural Resources Company
+(PXD) [ST]
+P 03/30/202205/03/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Sherwin-Williams Company (SHW)
+[ST]
+P 04/13/202205/03/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley IRA - X141
+D: Managed by MFS Investment MGMT
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 05/03/2022

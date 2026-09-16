@@ -1,0 +1,171 @@
+[[PAGE 1]]
+Filing Id #20020393
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District: NJ05
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT AbbVie Inc. (AbbV) [ST] P 01/28/2022 02/07/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Advanced Micro devices, Inc. S (partial) 01/31/2022 02/07/2022 $1,001 - $15,000 gfedc
+(AMd) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Advanced Micro devices, Inc. S (partial) 01/26/2022 02/07/2022 $1,001 - $15,000 gfedc
+(AMd) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Align Technology, Inc. (ALGN) S (partial) 01/31/2022 02/07/2022 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT ASML Holding N.V. - New York S (partial) 01/26/2022 02/07/2022 $1,001 - $15,000 gfedcb
+Registry Shares (ASML) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT biogen Inc. (bIIb) [ST] P 01/10/2022 02/07/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT boot barn Holdings, Inc. (bOOT) S (partial) 01/31/2022 02/07/2022 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Capital One Financial Corporation P 01/10/2022 02/07/2022 $1,001 - $15,000 gfedc
+(COF) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Coca-Cola Company (KO) [ST] P 01/31/2022 02/07/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Estee Lauder Companies, Inc. (EL) S (partial) 01/26/2022 02/07/2022 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Fidelity National Information P 01/25/2022 02/07/2022 $1,001 - $15,000 gfedc
+Services, Inc. (FIS) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Fidelity National Information P 01/26/2022 02/07/2022 $1,001 - $15,000 gfedc
+Services, Inc. (FIS) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Franklin Resources, Inc. (bEN) S 01/26/2022 02/07/2022 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Franklin Resources, Inc. (bEN) S (partial) 01/25/2022 02/07/2022 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Freeport-McMoRan, Inc. (FCX) S (partial) 01/28/2022 02/07/2022 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT HealthEquity, Inc. (HQY) [ST] P 01/10/2022 02/07/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Intuitive Surgical, Inc. (ISRG) [ST] S (partial) 01/26/2022 02/07/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Lam Research Corporation (LRCX) S (partial) 01/26/2022 02/07/2022 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Match Group, Inc. (MTCH) [ST] S (partial) 01/18/2022 02/07/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Microsoft Corporation (MSFT) P 01/25/2022 02/07/2022 $50,001 - gfedc
+[OP] $100,000
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Portfolio Management Active Assets Account
+dESCRIPTION: Call options; Strike Price $145; Expires 9/16/2022
+JT Netflix, Inc. (NFLX) [ST] S (partial) 01/28/2022 02/07/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Nitori Holdings CO LTd AdR P 01/10/2022 02/07/2022 $1,001 - $15,000 gfedc
+(NCLTY) [OT]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+LOCATION: US
+dESCRIPTION: AdR Stock
+JT NVIdIA Corporation (NVdA) [ST] S (partial) 01/26/2022 02/07/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT NVIdIA Corporation (NVdA) [ST] S (partial) 01/31/2022 02/07/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Ollie's bargain Outlet Holdings, P 01/10/2022 02/07/2022 $1,001 - $15,000 gfedc
+Inc. (OLLI) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Oracle Corporation (ORCL) [ST] P 01/24/2022 02/07/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Patrick Industries, Inc. (PATK) S (partial) 01/20/2022 02/07/2022 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT PayPal Holdings, Inc. (PYPL) [ST] S (partial) 01/13/2022 02/07/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Pharmaceutical GRP LTd (CSPCY) P 01/10/2022 02/07/2022 $1,001 - $15,000 gfedc
+[OT]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+LOCATION: US
+dESCRIPTION: AdR Stock
+JT Ping An Insurance (PNGAY) [ST] P 01/28/2022 02/07/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Snap Inc. Class A (SNAP) [ST] S (partial) 01/26/2022 02/07/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Syneos Health, Inc. - Class A S (partial) 01/04/2022 02/07/2022 $1,001 - $15,000 gfedcb
+(SYNH) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Tesla, Inc. (TSLA) [ST] S (partial) 01/26/2022 02/07/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Tesla, Inc. (TSLA) [ST] S (partial) 01/31/2022 02/07/2022 $1,001 - $15,000 gfedcb
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Verizon Communications Inc. (VZ) P 01/10/2022 02/07/2022 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan Stanley - Portfolio Management Active Assets Account (Owner: JT)
+LOCATION: US
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 02/18/2022

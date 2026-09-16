@@ -1,0 +1,451 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. John Rutherford
+Status: Member
+State/District:FL04
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+3i Group Plc Unsponsored ADR
+(TGOPY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+AB Volvo Class B American
+Depositary Receipts (VOLVY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+AbbVie Inc. (ABBV) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Altria Group, Inc. (MO) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Arthur J. Gallagher & Co. (AJG) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+ASE Technology Holding Co., Ltd.
+American Depositary Shares (ASX)
+[ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Filing ID #20020828
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+BCE, Inc. (BCE) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+BlackRock, Inc. (BLK) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+BNP Paribas American Depositary
+Shares (BNPQY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Bristol-Myers Squibb Company
+(BMY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+British American Tobacco Industries,
+p.l.c. Common Stock ADR (BTI) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Britvic plc Sponsored ADR (BTVCY)
+[ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Broadcom Inc. (AVGO) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Caterpillar, Inc. (CAT) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Celanese Corporation Celanese
+Corporation (CE) [ST]
+S 03/16/202203/16/2022$15,001 -
+$50,000
+F S: New
+S O: Westend ETF
+Chevron Corporation (CVX) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Westend ETF
+Compagnie de Saint Gobain
+Unsponsored ADR (CODYY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Crown Castle International Corp.
+(CCI) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+CVS Health Corporation (CVS) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Deutsche Post AG Sponsored ADR
+(DPSGY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Deutsche Telekom AG (DTEGY) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+DNB ASA SPONSORED ADR
+Representing 10 (DNHBY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Dow Inc. (DOW) [ST] S 03/23/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Eastman Chemical Company (EMN)
+[ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Enel Societa Per Azioni Unsponsored
+ADR (ENLAY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Evergy, Inc. (EVRG) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Exxon Mobil Corporation (XOM) [ST]S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Fifth Third Bancorp (FITB) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+FNF Group of Fidelity National
+Financial, Inc. (FNF) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+General Dynamics Corporation (GD)
+[ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Healthpeak Properties, Inc. (PEAK)
+[ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Home Depot, Inc. (HD) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+HP Inc. (HPQ) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Iberdrola Sa Sponsored ADR (IBDRY)
+[ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Intel Corporation (INTC) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Westend ETF
+Johnson & Johnson (JNJ) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+KeyCorp (KEY) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Kinder Morgan, Inc. (KMI) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+McDonald's Corporation (MCD) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Medtronic plc. Ordinary Shares
+(MDT) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+MetLife, Inc. (MET) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Michelin Compagnie Generale des
+Etablissements Michelin Unsponsored
+ADR representing Nom Shares
+(MGDDY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Mondelez International, Inc. - Class A
+(MDLZ) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Muenchener Re Group AG
+Unsponsored ADR (MURGY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Nestle SA Sponsored ADR
+representing Registered Shares Series
+B (NSRGY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Nippon Telegraph and Telephone
+Corporation (NTT) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+NN Group NV Ordinary Shares
+(NNGPF) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Novartis AG (NVS) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Pepsico, Inc. (PEP) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Persimmon Plc Unsponsored ADR
+(PSMMY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Philip Morris International Inc (PM)
+[ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+PNC Financial Services Group, Inc.
+(PNC) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Power Corp of Canada Ordinary
+Shares (PWCDF) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Procter & Gamble Company (PG) [ST]S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+ProLogis, Inc. (PLD) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Prudential Financial, Inc. (PRU) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Public Service Enterprise Group
+Incorporated (PEG) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Raytheon Technologies Corporation
+(RTX) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Rio Tinto Plc (RIO) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Roche Holdings AG Basel American
+Depositary Shares (RHHBY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Sanofi - American Depositary Shares
+(SNY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Siemens AG American Depositary
+Shares (SIEGY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Westend ETF
+Smurfit Kappa Group Plc American
+Depositary Shares (SMFKY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Softbank Corp Unsponsored ADR
+(SFTBY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Sonic Healthcare Ltd Unsponsored
+ADR (SKHCY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Southern Company (SO) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Svenska Handelsbanken Unsponsored
+ADR representing A Shares (SVNLY)
+[ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Tesco Plc Ord American Depositary
+Shares (TSCDY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+The Bank of New York Mellon
+Corporation (BK) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Tokio Marine Holdings, Inc.
+Sponsored ADR (TKOMY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+TotalEnergies SE (TTE) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Westend ETF
+Toyota Motor Corporation (TM) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Truist Financial Corporation (TFC)
+[ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Tyson Foods, Inc. (TSN) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+UGI Corporation (UGI) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+United Overseas Bk Singapore
+American Depositary Shares (UOVEY)
+[ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Upm Kymmene Corp Ordinary Shares
+(UPMKF) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+VALE S.A. American Depositary
+Shares Each Representing one
+common share (VALE) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Verizon Communications Inc. (VZ)
+[ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+W. P. Carey Inc. REIT (WPC) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Westend ETF
+Walmart Inc. (WMT) [ST] S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+Zurich Insurance Group Limited
+Sponsored American Depositary
+Shares (ZURVY) [ST]
+S 03/16/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Westend ETF
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Westend ETF
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. John Rutherford , 04/19/2022

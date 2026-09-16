@@ -1,0 +1,190 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJ05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT ADYEN NV UNSP/ADR (ADYEY)
+[ST]
+P 08/21/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 08/14/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Apple Inc. (AAPL) [ST] S (partial) 08/07/202309/07/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Assa Abloy AB Unsponsored ADR
+(ASAZY) [ST]
+P 08/21/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Assa Abloy AB Unsponsored ADR
+(ASAZY) [ST]
+P 08/22/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Block, Inc. Class A Common Stock,
+(SQ) [ST]
+S 08/22/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+Filing ID #20023651
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Chugai Pharmaceutical Ltd
+Unsponsored ADR (CHGCY) [ST]
+P 08/18/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Dassault Systemes, S.A. American
+Depositary Shares (DASTY) [ST]
+P 08/18/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT DexCom, Inc. (DXCM) [ST] S (partial) 08/21/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Eaton Corporation, PLC Ordinary
+Shares (ETN) [ST]
+P 08/25/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Eli Lilly and Company (LLY) [ST] P 08/18/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Equifax, Inc. (EFX) [ST] S 08/22/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Fox Factory Holding Corp. (FOXF)
+[ST]
+P 08/10/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Freeport-McMoRan, Inc. (FCX) [ST] S (partial) 08/21/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT HAIER SMART HOME U/ADR
+(HSHCY) [ST]
+P 08/18/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Mastercard Incorporated (MA) [ST] P 08/22/202309/07/2023$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Meta Platforms, Inc. - Class A (META)
+[ST]
+P 08/21/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Microsoft Corporation (MSFT) [OP] P 08/15/202309/07/2023$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $165; Expires 01/19/2024
+JT Microsoft Corporation (MSFT) [OP] S 08/15/202309/07/2023$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $170; Expires 06/21/2024
+JT Microsoft Corporation (MSFT) [OP] S 08/15/202309/07/2023$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $170; Expires 06/21/2024
+JT Microsoft Corporation (MSFT) [OP] P 08/15/202309/07/2023$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $160; Expires 03/15/2024
+JT Netflix, Inc. (NFLX) [ST] P 08/07/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Norfolk Southern Corporation (NSC)
+[ST]
+P 08/24/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Norfolk Southern Corporation (NSC)
+[ST]
+P 08/25/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT NVIDIA Corporation (NVDA) [ST] S (partial) 08/10/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Regeneron Pharmaceuticals, Inc.
+(REGN) [ST]
+P 08/21/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Shoals Technologies Group, Inc. -
+Class A (SHLS) [ST]
+P 08/10/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT SPX Technologies, Inc. (SPXC) [ST] S (partial) 08/10/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Tapestry, Inc. (TPR) [ST] S 08/10/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Target Corporation (TGT) [ST] S (partial) 08/21/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Target Corporation (TGT) [ST] S (partial) 08/24/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Verizon Communications Inc. (VZ)
+[ST]
+S (partial) 08/24/202309/07/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley - Portfolio Management Active Assets Account (Owner: JT)
+L: US
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+[[PAGE 5]]
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 09/16/2023

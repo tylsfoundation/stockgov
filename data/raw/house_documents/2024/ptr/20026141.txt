@@ -1,0 +1,52 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Earl Blumenauer
+Status: Member
+State/District:OR03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Constellation BR 2.25%31 Due
+08/01/31 [CS]
+P 10/11/202411/04/2024$15,001 -
+$50,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+SP UnitedHealth Gro 3.75%25 [CS] S 10/11/202411/04/2024$15,001 -
+$50,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+SP US Treasu Nt 4.125% UST Due
+03/31/29 [GS]
+P 10/21/202411/04/2024$15,001 -
+$50,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+SP US Treasu NT 4.625% Due 04/30/31
+[GS]
+P 10/21/202411/04/2024$15,001 -
+$50,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+US Treasury Bill Due 02/04/25 [GS] P 10/15/202411/04/2024$15,001 -
+$50,000
+F S: New
+US Treasury Bill Due 04/10/25 [GS] P 10/15/202411/04/2024$15,001 -
+$50,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+Filing ID #20026141
+[[PAGE 2]]
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Earl Blumenauer , 11/05/2024

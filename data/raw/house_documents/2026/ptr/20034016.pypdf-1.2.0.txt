@@ -1,0 +1,36 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Daniel Meuser
+Status: Member
+State/District:PA09
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S (partial) 01/14/202602/11/2026$1,001 - $15,000
+F S: New
+S O: Schwab Brokerage Account
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S (partial) 01/30/202602/11/2026$1,001 - $15,000
+F S: New
+S O: Schwab Brokerage Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Schwab Brokerage Account (Owner: SP)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Daniel Meuser , 02/17/2026
+Filing ID #20034016

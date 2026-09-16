@@ -1,0 +1,190 @@
+[[PAGE 1]]
+Filing ID #20019334
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Kevin Hern
+Status: Member
+State/District: OK01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Adobe Inc. (ADbE) [ST] P 07/21/2021 07/22/2021 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Alphabet Inc. - Class A (gOOgl) P 07/30/2021 07/31/2021 $100,001 - gfedc
+[ST] $250,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Amazon.com, Inc. (AMZN) [ST] P 07/30/2021 07/31/2021 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT boston Scientific Corporation P 07/01/2021 07/02/2021 $100,001 - gfedc
+(bSX) [ST] $250,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+JT boston Scientific Corporation P 07/21/2021 07/22/2021 $15,001 - gfedc
+(bSX) [ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Columbia Diversified Fixed Income P 07/07/2021 07/08/2021 $1,001 - $15,000 gfedc
+Allocation ETF (DIAl) [ST]
+FIlINg STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT Danaher Corporation (DHR) [ST] P 07/01/2021 07/02/2021 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT DexCom, Inc. (DXCM) [ST] P 07/01/2021 07/02/2021 $100,001 - gfedc
+$250,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+JT Eaton Vance Corporation Eaton P 07/01/2021 07/02/2021 $15,001 - gfedc
+Vance Tax-Managed buy-Write $50,000
+Opportunities Fund Common
+Shares of beneficial Interest (ETV)
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+JT Emerson Electric Company (EMR) P 07/01/2021 07/02/2021 $50,001 - gfedc
+[ST] $100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Fidelity Dividend ETF for Rising P 07/30/2021 07/31/2021 $50,001 - gfedc
+Rates (FDRR) [ST] $100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Fidelity MSCI Health Care Index P 07/30/2021 07/31/2021 $50,001 - gfedc
+ETF (FHlC) [ST] $100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Fidelity Quality Factor ETF P 07/01/2021 07/02/2021 $100,001 - gfedc
+(FQAl) [ST] $250,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT FS ENERgY & POWER FuND P 07/20/2021 07/21/2021 $1,001 - $15,000 gfedc
+COMMON [PS]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+lOCATION: uS
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTION: Dividend Reinvestment
+JT Home Depot, Inc. (HD) [ST] P 07/01/2021 07/02/2021 $100,001 - gfedc
+$250,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Illinois Tool Works Inc. (ITW) [ST] P 07/01/2021 07/02/2021 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+JT iShares Core Dividend growth ETF P 07/01/2021 07/02/2021 $250,001 - gfedc
+(DgRO) [ST] $500,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT iShares TIPS bond ETF (TIP) [ST] P 07/08/2021 07/09/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT iShares TIPS bond ETF (TIP) [ST] P 07/30/2021 07/31/2021 $250,001 - gfedc
+$500,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT JP Morgan Chase & Co. (JPM) [ST] P 07/31/2021 08/01/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT JP Morgan Chase & Co. (JPM) [ST] P 07/01/2021 07/02/2021 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT JPMorgan Equity Premium P 07/30/2021 07/31/2021 $100,001 - gfedc
+Income ETF (JEPI) [ST] $250,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT linde plc Ordinary Share (lIN) P 07/01/2021 07/02/2021 $15,001 - gfedc
+[ST] $50,000
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Medtronic plc. Ordinary Shares P 07/01/2021 07/02/2021 $15,001 - gfedc
+(MDT) [ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Microsoft Corporation (MSFT) P 07/21/2021 07/22/2021 $100,001 - gfedc
+[ST] $250,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT NextEra Energy, Inc. (NEE) [ST] P 07/30/2021 07/31/2021 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT NlAND REAl ESTATE INCOME P 07/26/2021 07/27/2021 $1,001 - $15,000 gfedc
+TR I COM [PS]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+lOCATION: uS
+DESCRIPTION: Dividend Reinvestment
+JT Pioneer Natural Resources P 07/14/2021 07/15/2021 $1,001 - $15,000 gfedc
+Company (PXD) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT PTC Inc. (PTC) [ST] P 07/21/2021 07/22/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Rockwell Automation, Inc. (ROK) P 07/21/2021 07/22/2021 $50,001 - gfedc
+[ST] $100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT SPDR S&P 500 (SPY) [ST] P 07/30/2021 07/31/2021 $500,001 - gfedc
+$1,000,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT T. Rowe Price group, Inc. (TROW) P 07/07/2021 07/08/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT Texas Instruments Incorporated P 07/21/2021 07/22/2021 $100,001 - gfedc
+(TXN) [ST] $250,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Thermo Fisher Scientific Inc P 07/21/2021 07/22/2021 $50,001 - gfedc
+(TMO) [ST] $100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Vuzix Corporation (VuZI) [ST] P 07/01/2021 07/02/2021 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Hern Family Foundation (100% Interest) (Owner: JT)
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+DESCRIPTION: Family Revocable Trust
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 09/15/2021

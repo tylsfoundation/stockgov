@@ -1,0 +1,32 @@
+[[PAGE 1]]
+Filing ID #20019555
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Victoria Spartz
+Status: Member
+State/District: IN05
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+2000084767 Simon Property group, Inc. P 08/13/2021 09/26/2021 $15,001 - gfedc
+(SPg) [ST] $50,000
+FIlINg STATuS: Amended
+SubHOlDINg OF: TD Ameritrade Roth IRA
+DESCRIPTION: This transaction was made by Jason Spartz's Roth IRA.
+Simon Property group, Inc. P 10/05/2021 10/06/2021 $15,001 - gfedc
+(SPg) [ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: TD Ameritrade Roth IRA
+DESCRIPTION: This transaction was made by Jason Spartz's Roth IRA.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+TD Ameritrade Roth IRA
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Victoria Spartz , 10/06/2021

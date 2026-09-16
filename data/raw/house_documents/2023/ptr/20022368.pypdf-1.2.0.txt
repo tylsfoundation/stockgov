@@ -1,0 +1,72 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Steve Cohen
+Status: Member
+State/District:TN09
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+CHARLES SCHWAB BK SSB
+WESTLAKE TEX CTF DEP ACT [CS]
+P 01/31/202302/04/2023$250,001 -
+$500,000
+F S: New
+S O: Stephens Advantage Account
+D: CHARLES SCHWAB BK SSB WESTLAKE TEX CTF DEP ACT/365 INT RATE 4.750% MATURITY 2/2/24
+FEDERATED HERMES
+GOVERNMENT OBLIGATIONS
+FUND CLASS SS [GS]
+P 01/31/202302/04/2023$100,001 -
+$250,000
+F S: New
+S O: Stephens Advantage Account
+FIRST NATL BK & TR
+WEATHERFORD TEX CTF DEP ACT
+[CS]
+P 01/31/202302/04/2023$250,001 -
+$500,000
+F S: New
+S O: Stephens Advantage Account
+D: FIRST NATL BK & TR WEATHERFORD TEX CTF DEP ACT/365 INT RATE 4.650 MATURITY 2/14/25
+PUTNAM ULTRA SHORT
+DURATION INCOME FUND CLASS A
+[OT]
+S 01/31/202302/04/2023$100,001 -
+$250,000
+F S: New
+S O: Stephens Advantage Account
+L: US
+D: Asset PSDTX
+Western Asset Inflation-Linked
+Opportunities & Income Fund (WIW)
+[ST]
+S 01/31/202302/04/2023$15,001 -
+$50,000
+Filing ID #20022368
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Stephens Advantage Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Stephens Advantage Account
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Steve Cohen , 02/04/2023

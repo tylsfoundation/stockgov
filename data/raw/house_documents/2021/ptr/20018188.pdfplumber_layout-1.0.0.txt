@@ -1,0 +1,313 @@
+[[PAGE 1]]
+Filing Id #20018188
+P t r
+erioDic ranSaction ePort
+Clerk of the house of Representatives • legislative Resource Center • 135 Cannon Building • Washington, dC 20515
+filer information
+name: Mr. Peter Meijer
+Status: Member
+State/District: MI03
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+adidas AG Sponsored AdR S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+(AddYY) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Adobe Inc. (AdBE) [ST] S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+AIA Group, ltd. Sponsored S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+American depository Receipt
+(AAGIY) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Air Products and Chemicals, Inc. S 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+(APd) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Alibaba Group holding limited S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+American depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+AlIZY [OT] S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedc
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+lOCATION: uS
+dESCRIPTION: AllIANZ SE AdR CMN
+Alphabet Inc. - Class A (GOOGl) S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Amazon.com, Inc. (AMZN) [ST] S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Atmos Energy Corporation (ATO) P 01/13/2021 02/03/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Atmos Energy Corporation (ATO) S 01/28/2021 02/03/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Banco Bilbao Vizcaya Argentaria S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedc
+S.A. (BBVA) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Berkshire hathaway Inc. New S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedc
+(BRK.B) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Berkshire hathaway Inc. New P 01/13/2021 02/03/2021 $1,001 - $15,000 gfedc
+(BRK.B) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Berkshire hathaway Inc. New S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+(BRK.B) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+BPhSPX11 [OT] S 02/03/2021 02/17/2021 $15,001 - gfedcb
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedcb
+$50,000
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+lOCATION: uS
+dESCRIPTION: hSBC uSA INC. lINKEd TO S&P 500 INdEX BuFFEREd
+Check Point Software Technologies P 01/26/2021 02/03/2021 $1,001 - $15,000 gfedc
+ltd. - Ordinary Shares (ChKP) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Clorox Company (ClX) [ST] S 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+CMS Energy Corporation (CMS) S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Coca-Cola Company (KO) [ST] P 01/13/2021 02/03/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Coca-Cola Company (KO) [ST] S 01/28/2021 02/03/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+dassault Systemes, S.A. American S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+depositary Shares (dASTY) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+dbs Group holdings ltd Ord S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedc
+American depositary Shares
+(dBSdY) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+dbs Group holdings ltd Ord S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedc
+American depositary Shares
+(dBSdY) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+[[PAGE 4]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Edwards lifesciences Corporation S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+(EW) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Facebook, Inc. - Class A (FB) [ST] S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Fomento Economico Mexicano S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedc
+S.A.B. de C.V. (FMX) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+humana Inc. (huM) [ST] S 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Infineon Technologies AG (IFNNY) S (partial) 01/22/2021 02/03/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Infineon Technologies AG (IFNNY) S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Infineon Technologies AG (IFNNY) S (partial) 01/22/2021 02/03/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Itau unibanco Banco holding SA S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedc
+American depositary Shares
+(ITuB) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+linde plc Ordinary Share (lIN) S (partial) 02/09/2021 02/17/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+[[PAGE 5]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+lonza Group Ag Zuerich S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+unsponsored AdR (lZAGY) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Mastercard Incorporated (MA) S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Merck & Company, Inc. Common S 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+Stock (MRK) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Merck & Company, Inc. Common S 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+Stock (MRK) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Merck & Company, Inc. Common P 01/13/2021 02/03/2021 $1,001 - $15,000 gfedc
+Stock (MRK) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Microsoft Corporation (MSFT) [ST] S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Moody's Corporation (MCO) [ST] S 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Moody's Corporation (MCO) [ST] S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Nestle SA Sponsored AdR S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+representing Registered Shares
+Series B (NSRGY) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+[[PAGE 6]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Northrop Grumman Corporation S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+(NOC) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Procter & Gamble Company (PG) S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Raytheon Technologies S 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+Corporation (RTX) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Rio Tinto Plc (RIO) [ST] S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Roche holdings AG Basel American S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+depositary Shares (RhhBY) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+S&P Global Inc. (SPGI) [ST] S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+SAP SE AdS (SAP) [ST] S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+SAP SE AdS (SAP) [ST] P 01/26/2021 02/03/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Schneider Electric SE unsponsored P 01/28/2021 02/03/2021 $1,001 - $15,000 gfedc
+AdR (SBGSY) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+SGS SA AdR (SGSOY) [ST] S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+[[PAGE 7]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Sysmex Corporation unsponsored S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+AdR (SSMXY) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Taiwan Semiconductor S (partial) 01/13/2021 02/03/2021 $1,001 - $15,000 gfedcb
+Manufacturing Company ltd.
+(TSM) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Taiwan Semiconductor S (partial) 02/08/2021 02/17/2021 $1,001 - $15,000 gfedcb
+Manufacturing Company ltd.
+(TSM) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Tencent holdings limited P 01/28/2021 02/03/2021 $1,001 - $15,000 gfedc
+unsponsored AdR Representing B
+Shares (TCEhY) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Tesla, Inc. (TSlA) [ST] S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+The Kraft heinz Company (KhC) S 01/28/2021 02/03/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+The Kraft heinz Company (KhC) P 01/13/2021 02/03/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Vertex Pharmaceuticals S 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+Incorporated (VRTX) [ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Visa Inc. (V) [ST] S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+[[PAGE 8]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Visa Inc. (V) [ST] S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Visa Inc. (V) [ST] S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Walmart Inc. (WMT) [ST] S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+Walmart Inc. (WMT) [ST] S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+WEC Energy Group, Inc. (WEC) S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+WEC Energy Group, Inc. (WEC) S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+WEC Energy Group, Inc. (WEC) S (partial) 01/28/2021 02/03/2021 $1,001 - $15,000 gfedcb
+[ST]
+FIlING STATuS: New
+SuBhOldING OF: MEIJER GST EXEMPT 97 FBO PETER
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+MEIJER GST EXEMPT 97 FBO PETER
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 9]]
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Mr. Peter Meijer , 02/23/2021

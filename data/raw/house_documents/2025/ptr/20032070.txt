@@ -1,0 +1,1343 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Valerie Hoyle
+Status: Member
+State/District:OR04
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP 3M Company Common Stock (MMM)
+[ST]
+S 07/28/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+D: Purchase less than $1,000
+SP Alphabet Inc. - Class A Common Stock
+(GOOGL) [ST]
+S (partial) 04/15/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Alphabet Inc. - Class A Common Stock
+(GOOGL) [ST]
+S (partial) 04/02/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Alphabet Inc. - Class A Common Stock
+(GOOGL) [ST]
+P 07/14/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Alphabet Inc. - Class A Common Stock
+(GOOGL) [ST]
+P 07/02/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Alphabet Inc. - Class A Common Stock
+(GOOGL) [ST]
+P 01/13/202509/11/2025 $1,001 - $15,000
+F S: New
+Filing ID #20032070
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Fidelity Rollover IRA
+SP Alphabet Inc. - Class A Common Stock
+(GOOGL) [ST]
+P 12/27/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Alphabet Inc. - Class A Common Stock
+(GOOGL) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 01/13/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 07/02/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 04/02/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Amdocs Limited - Ordinary Shares
+(DOX) [ST]
+P 04/15/202509/11/2025 $1,001 - $15,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Fidelity Rollover IRA
+SP AMETEK, Inc. (AME) [ST] S 01/24/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP AMETEK, Inc. (AME) [ST] P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Amphenol Corporation Common
+Stock (APH) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Apollo Global Management, Inc.
+(APO) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Apple Inc. - Common Stock (AAPL)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Apple Inc. - Common Stock (AAPL)
+[ST]
+P 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Ares Management Corporation Class
+A Common Stock (ARES) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Arista Networks, Inc. Common Stock
+(ANET) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Arista Networks, Inc. Common Stock
+(ANET) [ST]
+P 12/04/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Arista Networks, Inc. Common Stock
+(ANET) [ST]
+S 04/29/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Arista Networks, Inc. Common Stock
+(ANET) [ST]
+P 07/14/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Arthur J. Gallagher & Co. Common
+Stock (AJG) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP ASML Holding N.V. - New York
+Registry Shares (ASML) [ST]
+P 12/27/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP ASML Holding N.V. - New York
+Registry Shares (ASML) [ST]
+S 01/24/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP AstraZeneca PLC - American
+Depositary Shares (AZN) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP AutoZone, Inc. Common Stock (AZO)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Bank of America Corporation
+Common Stock (BAC) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Bank of America Corporation
+Common Stock (BAC) [ST]
+P 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+S (partial) 05/21/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+S (partial) 07/02/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP BioNTech SE - American Depositary
+Shares (BNTX) [ST]
+S 08/07/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP BlackRock, Inc. Common Stock (BLK)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Blackstone Inc. Common Stock (BX)
+[ST]
+P 04/15/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Blackstone Inc. Common Stock (BX)
+[ST]
+S 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Boeing Company (BA) [ST] P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Booking Holdings Inc. - Common
+Stock (BKNG) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Boston Scientific Corporation
+Common Stock (BSX) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Bristol-Myers Squibb Company
+Common Stock (BMY) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Brown & Brown, Inc. Common Stock
+(BRO) [ST]
+P 06/26/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Brown Forman Inc Class B Common
+Stock (BF.B) [ST]
+P 07/14/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Cadence Design Systems, Inc. -
+Common Stock (CDNS) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Canadian Natural Resources Limited
+Common Stock (CNQ) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Cap Gemini SA American Depositary
+Shares (CGEMY) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Capital One Financial Corporation
+Common Stock (COF) [ST]
+P 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Centene Corporation Common Stock
+(CNC) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP CF Industries Holdings, Inc. Common
+Stock (CF) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Cintas Corporation - Common Stock
+(CTAS) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Cisco Systems, Inc. - Common Stock
+(CSCO) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP CME Group Inc. - Class A Common
+Stock (CME) [ST]
+P 05/21/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Coca-Cola Company (KO) [ST] P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Coca-Cola Europacific Partners plc -
+Ordinary Shares (CCEP) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Coca-Cola Europacific Partners plc -
+Ordinary Shares (CCEP) [ST]
+S 06/26/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Comcast Corporation - Class AP 10/29/202409/11/2025 $1,001 - $15,000
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Common Stock (CMCSA) [ST]
+F S: New
+S O: Fidelity Rollover IRA
+SP ConocoPhillips Common Stock (COP)
+[ST]
+P 04/29/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP CONSTELLATION SFTWRE INC
+(CNSWF) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Copart, Inc. - Common Stock (CPRT)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Copart, Inc. - Common Stock (CPRT)
+[ST]
+S 08/19/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP CoreWeave, Inc. - Class A Common
+Stock (CRWV) [ST]
+P 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Costco Wholesale Corporation -
+Common Stock (COST) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Crown Castle Inc. Common Stock
+(CCI) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Crown Holdings, Inc. (CCK) [ST] P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP CVS Health Corporation Common
+Stock (CVS) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Fidelity Rollover IRA
+SP Danaher Corporation Common Stock
+(DHR) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP DBA Sempra Common Stock (SRE)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP DBA Sempra Common Stock (SRE)
+[ST]
+S 06/26/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Deere & Company Common Stock
+(DE) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Diageo plc Common Stock (DEO) [ST]P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Eaton Corporation, PLC Ordinary
+Shares (ETN) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Edison International Common Stock
+(EIX) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Elevance Health, Inc. Common Stock
+(ELV) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Elevance Health, Inc. Common Stock
+(ELV) [ST]
+S 01/13/202509/11/2025 $1,001 - $15,000
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Fidelity Rollover IRA
+SP Eli Lilly and Company Common Stock
+(LLY) [ST]
+S (partial) 05/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Eli Lilly and Company Common Stock
+(LLY) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Emerson Electric Company Common
+Stock (EMR) [ST]
+P 07/14/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Exxon Mobil Corporation Common
+Stock (XOM) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP FedEx Corporation Common Stock
+(FDX) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Gartner, Inc. Common Stock (IT) [ST]P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Gartner, Inc. Common Stock (IT) [ST]S 06/26/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP GE Aerospace Common Stock (GE)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP GE Vernova Inc. Common Stock
+(GEV) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Fidelity Rollover IRA
+SP Gen Digital Inc. - Common Stock
+(GEN) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Gilead Sciences, Inc. - Common Stock
+(GILD) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Goldman Sachs Group, Inc. (GS) [ST] S 07/28/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+D: Purchase less than $1,000
+SP GSK plc American Depositary Shares
+(GSK) [ST]
+P 11/18/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP H&R Block, Inc. Common Stock
+(HRB) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Haleon plc American Depositary
+Shares (HLN) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP HCA Healthcare, Inc. Common Stock
+(HCA) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP HCA Healthcare, Inc. Common Stock
+(HCA) [ST]
+S 12/27/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Heico Corporation Common Stock
+(HEI.A) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+[[PAGE 12]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Fidelity Rollover IRA
+SP Hilton Worldwide Holdings Inc.
+Common Stock (HLT) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Imperial Oil Limited Common Stock
+(IMO) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Ingersoll Rand Inc. Common Stock
+(IR) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Ingersoll Rand Inc. Common Stock
+(IR) [ST]
+S 05/21/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Intuit Inc. - Common Stock (INTU)
+[ST]
+S 02/04/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Intuit Inc. - Common Stock (INTU)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Johnson & Johnson Common Stock
+(JNJ) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Johnson Controls International plc
+Ordinary Share (JCI) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Johnson Controls International plc
+Ordinary Share (JCI) [ST]
+S 08/19/202509/11/2025 $1,001 - $15,000
+F S: New
+[[PAGE 13]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Fidelity Rollover IRA
+SP JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+S (partial) 07/02/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+P 01/24/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+S (partial) 03/13/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+S (partial) 04/15/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Kenvue Inc. Common Stock (KVUE)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Keurig Dr Pepper Inc. (KDP) [ST] P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP KKR & Co. Inc. Common Stock (KKR)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP KKR & Co. Inc. Common Stock (KKR)
+[ST]
+P 04/02/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+[[PAGE 14]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP KLA Corporation - Common Stock
+(KLAC) [ST]
+P 07/28/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP KLA Corporation - Common Stock
+(KLAC) [ST]
+S 04/29/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP KLA Corporation - Common Stock
+(KLAC) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Knight-Swift Transportation Holdings
+Inc. (KNX) [ST]
+P 06/26/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Kroger Company (KR) [ST] P 07/28/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Lam Research Corporation - Common
+Stock (LRCX) [ST]
+S (partial) 02/04/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Lam Research Corporation - Common
+Stock (LRCX) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Lennar Corporation Class A Common
+Stock (LEN) [ST]
+P 06/26/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Linde plc - Ordinary Shares (LIN)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+[[PAGE 15]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Lockheed Martin Corporation
+Common Stock (LMT) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Lowe's Companies, Inc. Common
+Stock (LOW) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP LPL Financial Holdings Inc. -
+Common Stock (LPLA) [ST]
+P 03/03/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP M&T Bank Corporation Common
+Stock (MTB) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Marriott International - Class A
+Common Stock (MAR) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Marsh & McLennan Companies, Inc.
+Common Stock (MMC) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Martin Marietta Materials, Inc.
+Common Stock (MLM) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Marvell Technology, Inc. - Common
+Stock (MRVL) [ST]
+P 02/20/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Mastercard Incorporated Common
+Stock (MA) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+[[PAGE 16]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP MercadoLibre, Inc. - Common Stock
+(MELI) [ST]
+P 03/13/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Merck & Company, Inc. Common
+Stock (MRK) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+P 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Micron Technology, Inc. - Common
+Stock (MU) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 10/29/202409/11/2025 $15,001 -
+$50,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 06/09/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 01/13/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+[[PAGE 17]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Moody's Corporation Common Stock
+(MCO) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Morgan Stanley Common Stock (MS)
+[ST]
+P 01/24/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Morgan Stanley Common Stock (MS)
+[ST]
+S (partial) 04/02/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Motorola Solutions, Inc. Common
+Stock (MSI) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP National Grid Transco, PLC National
+Grid PLC (NGG) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Netflix, Inc. - Common Stock (NFLX)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Netflix, Inc. - Common Stock (NFLX)
+[ST]
+P 02/04/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Northern Trust Corporation -
+Common Stock (NTRS) [ST]
+P 07/28/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Northrop Grumman Corporation
+Common Stock (NOC) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+[[PAGE 18]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Novo Nordisk A/S Common Stock
+(NVO) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Nutrien Ltd. Common Shares (NTR)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 10/29/202409/11/2025 $15,001 -
+$50,000
+F S: New
+S O: Fidelity Rollover IRA
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 01/14/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 01/13/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 06/09/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP NXP Semiconductors N.V. - Common
+Stock (NXPI) [ST]
+P 11/18/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Oracle Corporation Common Stock
+(ORCL) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+[[PAGE 19]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Oracle Corporation Common Stock
+(ORCL) [ST]
+S (partial) 04/15/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP O'Reilly Automotive, Inc. - Common
+Stock (ORLY) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Pacific Gas & Electric Co. Common
+Stock (PCG) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Palo Alto Networks, Inc. (PANW) [ST]P 03/13/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Palo Alto Networks, Inc. (PANW) [ST]S 08/19/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Pentair plc. Ordinary Share (PNR)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP PNC Financial Services Group, Inc.
+(PNC) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Procter & Gamble Company (PG) [ST]P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Procter & Gamble Company (PG) [ST]S 07/02/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Progressive Corporation (PGR) [ST] P 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+[[PAGE 20]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Fidelity Rollover IRA
+SP QUALCOMM Incorporated - Common
+Stock (QCOM) [ST]
+S 02/20/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP QUALCOMM Incorporated - Common
+Stock (QCOM) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Quanta Services, Inc. Common Stock
+(PWR) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Regal Rexnord Corporation Common
+Stock (RRX) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Republic Services, Inc. Common Stock
+(RSG) [ST]
+P 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Ross Stores, Inc. - Common Stock
+(ROST) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP S&P Global Inc. Common Stock
+(SPGI) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Salesforce, Inc. Common Stock (CRM)
+[ST]
+P 06/26/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP SAP SE ADS (SAP) [ST] P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+[[PAGE 21]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Fidelity Rollover IRA
+SP ServiceNow, Inc. Common Stock
+(NOW) [ST]
+P 04/15/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP ServiceNow, Inc. Common Stock
+(NOW) [ST]
+S 08/19/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Shell PLC American Depositary
+Shares (SHEL) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Sherwin-Williams Company (SHW)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Sherwin-Williams Company (SHW)
+[ST]
+S 07/14/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Siemens AG American Depositary
+Shares (SIEGY) [ST]
+S 02/20/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Siemens AG American Depositary
+Shares (SIEGY) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Snap Inc. Class A Common Stock
+(SNAP) [ST]
+P 02/04/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Southern Company (SO) [ST] P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+[[PAGE 22]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Spotify Technology S.A. Ordinary
+Shares (SPOT) [ST]
+P 03/13/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Synopsys, Inc. - Common Stock
+(SNPS) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Taiwan Semiconductor Manufacturing
+Company Ltd. (TSM) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Taiwan Semiconductor Manufacturing
+Company Ltd. (TSM) [ST]
+P 05/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Target Corporation Common Stock
+(TGT) [ST]
+P 02/04/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP The Bank of New York Mellon
+Corporation Common Stock (BK) [ST]
+P 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP The Cigna Group Common Stock (CI)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP The Hartford Insurance Group, Inc.
+Common Stock (HIG) [ST]
+P 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP The Travelers Companies, Inc.
+Common Stock (TRV) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+[[PAGE 23]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Thermo Fisher Scientific Inc Common
+Stock (TMO) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Thermo Fisher Scientific Inc Common
+Stock (TMO) [ST]
+P 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Thermo Fisher Scientific Inc Common
+Stock (TMO) [ST]
+S 03/03/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Trane Technologies plc (TT) [ST] P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Transdigm Group Incorporated
+Common Stock (TDG) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Tyler Technologies, Inc. Common
+Stock (TYL) [ST]
+P 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Tyler Technologies, Inc. Common
+Stock (TYL) [ST]
+P 08/07/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Tyson Foods, Inc. Common Stock
+(TSN) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP U.S. Bancorp Common Stock (USB)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+[[PAGE 24]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+S 11/18/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+P 08/19/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP United Rentals, Inc. Common Stock
+(URI) [ST]
+P 08/07/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP United Rentals, Inc. Common Stock
+(URI) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 04/29/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S (partial) 05/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 04/15/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+[[PAGE 25]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S (partial) 01/24/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP US Foods Holding Corp. Common
+Stock (USFD) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Verisk Analytics, Inc. - Common Stock
+(VRSK) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Vertiv Holdings, LLC Class A
+Common Stock (VRT) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Visa Inc. (V) [ST] P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Vulcan Materials Company (VMC)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Vulcan Materials Company (VMC)
+[ST]
+S 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Walgreens Boots Alliance, Inc. -
+Common Stock (WBA) [ST]
+S 08/27/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+D: Purchase less than $1,000
+SP Walt Disney Company (DIS) [ST] P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+[[PAGE 26]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Waste Connections, Inc. Common
+Shares (WCN) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Watsco, Inc. Common Stock (WSO)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Wells Fargo & Company Common
+Stock (WFC) [ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Wells Fargo & Company Common
+Stock (WFC) [ST]
+P 06/06/202509/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Westinghouse Air Brake Technologies
+Corporation Common Stock (WAB)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+SP Willis Towers Watson Public Limited
+Company - Ordinary Shares (WTW)
+[ST]
+P 10/29/202409/11/2025 $1,001 - $15,000
+F S: New
+S O: Fidelity Rollover IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Fidelity Rollover IRA (Owner: SP)
+C
+These transactions were made by my spouse's financial broker, and were not specifically requested by me or my spouse. I have now
+implemented thorough procedures to confirm that my financial disclosure preparer will be notified of all transactions in a timely manner.
+I P O
+[[PAGE 27]]
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Valerie Hoyle , 09/12/2025

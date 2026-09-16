@@ -5,12 +5,15 @@ from __future__ import annotations
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 from ingestion.common.config import ProcessingConfig
 from ingestion.common.discovery import discover_documents
 from ingestion.common.validation import duplicate_keys, validate_required
 from ingestion.common.artifacts import artifact_path, content_hash, write_immutable_text
-from ingestion.orchestrator import DocumentOrchestrator, ProcessingOutcome
+from ingestion.orchestrator import DocumentOrchestrator, DocumentSelection, ProcessingOutcome
+from ingestion.common.discovery import DiscoveredDocument
+from ingestion.processors.house_ptr import HousePtrProcessor
 from scripts.reset_house_ptr_data import main as reset_main
 
 
@@ -67,6 +70,91 @@ class DocumentPipelineTests(unittest.TestCase):
             self.assertEqual(1, summary.discovered)
             self.assertEqual(1, summary.skipped)
             self.assertEqual(0, summary.processed)
+
+    def test_orchestrator_passes_metadata_filters_to_processor(self) -> None:
+        class FilteringProcessor(_Processor):
+            def __init__(self) -> None:
+                super().__init__()
+                self.filters: tuple[int | None, bool, str | None] | None = None
+
+            def select_documents(self, documents, *, from_year, requires_ocr, database_url):
+                self.filters = (from_year, requires_ocr, database_url)
+                return DocumentSelection(documents[:1], ("selection applied",))
+
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            (root / "a.pdf").write_bytes(b"a")
+            processor = FilteringProcessor()
+            config = ProcessingConfig(
+                database_url="postgresql://example",
+                document_root=root,
+                incoming_directory=None,
+                processed_directory=None,
+                review_directory=None,
+            )
+            summary = DocumentOrchestrator(config, {"test": processor}).run(
+                "test", from_year=2020, requires_ocr=True
+            )
+            self.assertEqual((1, 1), (summary.discovered, summary.processed))
+            self.assertEqual((2020, True, "postgresql://example"), processor.filters)
+
+    def test_house_selection_from_year_and_ocr_uses_filing_metadata(self) -> None:
+        documents = [
+            DiscoveredDocument(Path("2019.pdf"), "hash-2019", 1),
+            DiscoveredDocument(Path("2020.pdf"), "hash-2020", 1),
+            DiscoveredDocument(Path("2021.pdf"), "hash-2021", 1),
+        ]
+
+        class FakeCursor:
+            def __init__(self) -> None:
+                self.sql: list[str] = []
+                self.parameters: list[tuple[object, ...]] = []
+                self.result: list[tuple[object, ...]] = []
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *_args):
+                return False
+
+            def execute(self, sql, parameters):
+                self.sql.append(sql)
+                self.parameters.append(parameters)
+                if "SELECT d.content_hash, f.reporting_year" in sql:
+                    self.result = [("hash-2019", 2019, True), ("hash-2020", 2020, True)]
+                else:
+                    self.result = [("hash-2020",)]
+
+            def fetchall(self):
+                return self.result
+
+        class FakeConnection:
+            def __init__(self, cursor):
+                self.cursor_value = cursor
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *_args):
+                return False
+
+            def cursor(self):
+                return self.cursor_value
+
+        cursor = FakeCursor()
+        with patch("psycopg2.connect", return_value=FakeConnection(cursor)):
+            selection = HousePtrProcessor().select_documents(
+                documents,
+                from_year=2020,
+                requires_ocr=True,
+                database_url="postgresql://example",
+            )
+
+        self.assertEqual([Path("2020.pdf")], [item.path for item in selection.documents])
+        self.assertIn("f.reporting_year >= %s", cursor.sql[1])
+        self.assertIn("d.requires_ocr IS TRUE", cursor.sql[1])
+        self.assertIn("Documents selected: 1", selection.messages)
+        self.assertIn("Documents excluded before 2020: 1", selection.messages)
 
     def test_content_addressed_artifacts_are_immutable_and_idempotent(self) -> None:
         with tempfile.TemporaryDirectory() as temp:

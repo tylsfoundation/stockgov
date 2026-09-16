@@ -1,0 +1,191 @@
+[[PAGE 1]]
+Filing Id #20019458
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+filer information
+name: Hon. Zoe Lofgren
+Status: Member
+State/District: CA19
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP AbbVie Inc. (AbbV) [CS] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond
+SP Accenture plc Class A Ordinary P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+Shares (ACN) [ST]
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP Adobe Inc. (AdbE) [ST] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP Ally Financial Inc. (ALLY) [ST] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP American Tower Corporation P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+(REIT) (AMT) [CS]
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond
+SP Anheuser-busch Inbev SA P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+Sponsored AdR (belgium) (bud)
+[CS]
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond
+SP Aon plc Class A Ordinary Shares P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+(AON) [ST]
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP Applied Materials, Inc. (AMAT) P 08/09/2021 09/09/2021 $15,001 - gfedc
+[CS] $50,000
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond
+SP blackstone Inc. (bX) [ST] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP Cintas Corporation (CTAS) [ST] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP Cisco Systems, Inc. (CSCO) [ST] S 08/02/2021 09/09/2021 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP Credit Suisse uSA Inc. [CS] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond
+SP CVS Health Corporation (CVS) [CS] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond
+SP CVS Health Corporation (CVS) [CS] S (partial) 08/24/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP Edwards Lifesciences Corporation P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+(EW) [ST]
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP general Mills, Inc. (gIS) [ST] S 08/02/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP HCA Healthcare, Inc. (HCA) [ST] S 08/02/2021 09/09/2021 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP Home depot, Inc. (Hd) [ST] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP Jefferies group LLC [CS] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond
+SP JP Morgan Chase & Co. (JPM) [ST] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP Mastercard Incorporated (MA) P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP Morgan Stanley (MS) [CS] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond
+SP NetApp, Inc. (NTAP) [CS] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond
+SP NXP Semiconductors N.V. (NXPI) P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+[[PAGE 4]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+[ST]
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP Pfizer, Inc. (PFE) [CS] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond
+SP QuALCOMM Incorporated S 08/02/2021 09/09/2021 $1,001 - $15,000 gfedcb
+(QCOM) [ST]
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP Starbucks Corporation (SbuX) P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP Thermo Fisher Scientific Inc P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+(TMO) [ST]
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP T-Mobile uS, Inc. (TMuS) [ST] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP Trane Technologies plc (TT) [ST] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP unitedHealth group Incorporated P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+(uNH) [CS]
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond
+SP unitedHealth group Incorporated P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+Common Stock (uNH) [ST]
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+[[PAGE 5]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP uS bancorp [CS] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond
+SP Verizon Communications Inc. (VZ) P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+[CS]
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond
+SP ViacomCbS Inc. [CS] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond
+SP Visa Inc. (V) [ST] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+SP Walgreens boots Alliance, Inc. P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+(WbA) [CS]
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond.
+SP Westpac banking Corporation P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+(WbK) [CS]
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+dESCRIPTION: Corporate bond
+SP Zoetis Inc. Class A (ZTS) [ST] P 08/09/2021 09/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLdINg OF: John Marshall Collins Rollover IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+John Marshall Collins Rollover IRA (Owner: SP)
+[[PAGE 6]]
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Zoe Lofgren , 09/10/2021

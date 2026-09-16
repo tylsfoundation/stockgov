@@ -1,0 +1,2344 @@
+[[PAGE 1]]
+Filing ID #20016481
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Donna Shalala
+Status: Member
+State/District: FL27
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+A.o. Smith Corporation (AoS) [ST] P 02/20/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+A.o. Smith Corporation (AoS) [ST] P 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+A.o. Smith Corporation (AoS) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+ABM Industries Incorporated S 04/30/2019 04/30/2019 $1,001 - $15,000 gfedc
+(ABM) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+ABM Industries Incorporated S (partial) 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+(ABM) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+ABM Industries Incorporated P 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+(ABM) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Acuity Brands, Inc. (AYI) [ST] S 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Acuity Brands, Inc. (AYI) [ST] S (partial) 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Addus HomeCare Corporation S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(ADUS) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+adidas Ag Sponsored ADR S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(ADDYY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+adidas Ag Sponsored ADR P 01/29/2019 01/31/2019 $1,001 - $15,000 gfedc
+(ADDYY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Advanced Micro Devices, Inc. P 01/23/2019 01/31/2019 $1,001 - $15,000 gfedc
+(AMD) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Advanced Micro Devices, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(AMD) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+AgCo Corporation (AgCo) [ST] S 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+AIA group, Ltd. Sponsored S (partial) 04/08/2019 04/30/2019 $1,001 - $15,000 gfedc
+American Depository Receipt
+(AAgIY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+AIA group, Ltd. Sponsored P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+American Depository Receipt
+(AAgIY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+AIA group, Ltd. Sponsored S 06/24/2019 06/30/2019 $15,001 - gfedc
+American Depository Receipt $50,000
+(AAgIY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Alaska Air group, Inc. (ALK) [ST] S 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Alaska Air group, Inc. (ALK) [ST] S (partial) 02/20/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Alfa-Laval Ab Unsponsored ADR S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(ALFVY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Allegion plc ordinary Shares S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(ALLE) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Allegion plc ordinary Shares P 02/20/2019 02/28/2019 $1,001 - $15,000 gfedc
+(ALLE) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Allegion plc ordinary Shares P 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+(ALLE) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Allegion plc ordinary Shares P 02/06/2019 02/28/2019 $1,001 - $15,000 gfedc
+(ALLE) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+[[PAGE 4]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Allergan plc ordinary Shares P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+(AgN) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Allergan plc ordinary Shares S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(AgN) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Allianz SE ADS (AZSEY) [ST] S 06/24/2019 06/30/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Allianz SE ADS (AZSEY) [ST] P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Allianz SE ADS (AZSEY) [ST] S (partial) 04/05/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Altra Industrial Motion Corp. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(AIMC) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Ambarella, Inc. - ordinary Shares P 05/15/2019 05/31/2019 $1,001 - $15,000 gfedc
+(AMBA) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Ambarella, Inc. - ordinary Shares S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(AMBA) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Ambarella, Inc. - ordinary Shares P 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+(AMBA) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Ambev S.A. American Depositary P 03/15/2019 03/31/2019 $1,001 - $15,000 gfedc
+[[PAGE 5]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+Shares (ABEV) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Ambev S.A. American Depositary S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Shares (ABEV) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+AMC Networks Inc. - Class A S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(AMCX) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Amedisys Inc (AMED) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Amedisys Inc (AMED) [ST] S (partial) 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+American Homes 4 Rent Common P 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+Shares of Beneficial Interest (AMH)
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+American Homes 4 Rent Common S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Shares of Beneficial Interest (AMH)
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+American outdoor Brands S 01/23/2019 01/31/2019 $1,001 - $15,000 gfedc
+Corporation (AoBC) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Anadarko Petroleum Corporation P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+(APC) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+[[PAGE 6]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Anadarko Petroleum Corporation S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(APC) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Apartment Investment and S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Management Company (AIV) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Apartment Investment and P 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+Management Company (AIV) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Apollo Commercial Real Estate P 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+Finance, Inc (ARI) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Apollo Commercial Real Estate S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Finance, Inc (ARI) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Apple Hospitality REIT, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Common Shares (APLE) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Apple Hospitality REIT, Inc. P 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+Common Shares (APLE) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Apple Hospitality REIT, Inc. P 02/20/2019 02/28/2019 $1,001 - $15,000 gfedc
+Common Shares (APLE) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Apple Inc. (AAPL) [ST] S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Apple Inc. (AAPL) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedcb
+[[PAGE 7]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+ARMoUR Residential REIT, Inc. S 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+(ARR) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Armstrong World Industries Inc S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(AWI) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Aspen Pharmacare Holdings plc S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Unsponsored ADR (APNHY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Assurant, Inc. (AIZ) [ST] S 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Assured guaranty Ltd. (Ago) [ST] S 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+AT&T Inc. (T) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+Atlas Copco Ab Sponsored ADR S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+repstg Class A (ATLKY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Autodesk, Inc. (ADSK) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Avery Dennison Corporation (AVY) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+[[PAGE 8]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Avery Dennison Corporation (AVY) P 02/06/2019 02/28/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Avery Dennison Corporation (AVY) P 03/06/2019 03/31/2019 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Avery Dennison Corporation (AVY) P 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Axogen, Inc. (AXgN) [ST] P 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Axogen, Inc. (AXgN) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Baidu, Inc. - American Depositary S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Shares, each representing one tenth
+Class A ordinary share (BIDU) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Baidu, Inc. - American Depositary P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+Shares, each representing one tenth
+Class A ordinary share (BIDU) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Balchem Corporation (BCPC) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Banco Bilbao Vizcaya Argentaria S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+S.A. (BBVA) [ST]
+FILINg STATUS: New
+[[PAGE 9]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Banco Bilbao Vizcaya Argentaria P 04/05/2019 04/30/2019 $1,001 - $15,000 gfedc
+S.A. (BBVA) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+BancorpSouth Bank (BXS) [ST] P 02/20/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+BancorpSouth Bank (BXS) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+BankUnited, Inc. (BKU) [ST] P 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+BankUnited, Inc. (BKU) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+BankUnited, Inc. (BKU) [ST] P 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Bayer Aktiengesellschaft American P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+Depositary Shares (BAYRY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Bayer Aktiengesellschaft American S 04/11/2019 04/30/2019 $1,001 - $15,000 gfedc
+Depositary Shares (BAYRY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Bayerische Motoren Werke Ag S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Unsponsored ADR (BAMXY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Berry global group, Inc. (BERY) P 04/30/2019 04/30/2019 $1,001 - $15,000 gfedc
+[[PAGE 10]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Berry global group, Inc. (BERY) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Big Lots, Inc. (BIg) [ST] S 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Biogen Inc. (BIIB) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+BlackRock, Inc. (BLK) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+Brandywine Realty Trust (BDN) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Brandywine Realty Trust (BDN) P 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Broadcom Inc. (AVgo) [ST] P 05/22/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Broadcom Inc. (AVgo) [ST] P 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Broadcom Inc. (AVgo) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+[[PAGE 11]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Bruker Corporation (BRKR) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Burlington Stores, Inc. (BURL) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Burlington Stores, Inc. (BURL) [ST] P 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Cadence Design Systems, Inc. S (partial) 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+(CDNS) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Cadence Design Systems, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(CDNS) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Calavo growers, Inc. (CVgW) [ST] S 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Canadian National Railway S (partial) 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+Company (CNI) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Canadian National Railway S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Company (CNI) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Cantel Medical Corp. (CMD) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Cathay general Bancorp (CATY) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+[[PAGE 12]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Cathay general Bancorp (CATY) P 02/20/2019 02/28/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Centennial Resource Development, S 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+Inc. - Class A (CDEV) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Century Communities, Inc. (CCS) P 02/06/2019 02/28/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Century Communities, Inc. (CCS) S 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+CF Industries Holdings, Inc. (CF) S (partial) 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+CF Industries Holdings, Inc. (CF) S 04/30/2019 04/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Charles River Laboratories S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+International, Inc. (CRL) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Check Point Software Technologies S 06/24/2019 06/30/2019 $15,001 - gfedc
+Ltd. - ordinary Shares (CHKP) [ST] $50,000
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Check Point Software Technologies P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+Ltd. - ordinary Shares (CHKP) [ST]
+[[PAGE 13]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Chemed Corp (CHE) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Chevron Corporation (CVX) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+Chevron Corporation (CVX) [ST] S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Children's Place, Inc. (PLCE) [ST] P 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Children's Place, Inc. (PLCE) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+China Mobile Limited (CHL) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+China Mobile Limited (CHL) [ST] P 03/18/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Choice Hotels International, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(CHH) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Chubb Limited (CB) [ST] S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Chubb Limited (CB) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedcb
+[[PAGE 14]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+Chugai Pharmaceutical Ltd P 02/21/2019 02/28/2019 $1,001 - $15,000 gfedc
+Unsponsored ADR (CHgCY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Chugai Pharmaceutical Ltd P 02/20/2019 02/28/2019 $1,001 - $15,000 gfedc
+Unsponsored ADR (CHgCY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley IRA
+Chugai Pharmaceutical Ltd P 02/19/2019 02/28/2019 $1,001 - $15,000 gfedc
+Unsponsored ADR (CHgCY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Chugai Pharmaceutical Ltd S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Unsponsored ADR (CHgCY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Cimpress PLC - ordinary Shares S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(CMPR) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Cirrus Logic, Inc. (CRUS) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Cirrus Logic, Inc. (CRUS) [ST] S (partial) 05/15/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Cisco Systems, Inc. (CSCo) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+Cisco Systems, Inc. (CSCo) [ST] S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+[[PAGE 15]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Cisco Systems, Inc. (CSCo) [ST] S (partial) 05/30/2019 05/31/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Citrix Systems, Inc. (CTXS) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Clearway Energy, Inc. Class C S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(CWEN) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Clearway Energy, Inc. Class C P 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+(CWEN) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Coca-Cola Company (Ko) [ST] P 05/23/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Coca-Cola Company (Ko) [ST] P 05/30/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Coca-Cola Company (Ko) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+Coeur Mining, Inc. (CDE) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Cogent Communications Holdings, S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Inc. (CCoI) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Colgate-Palmolive Company (CL) S 05/23/2019 05/31/2019 $1,001 - $15,000 gfedc
+[ST]
+[[PAGE 16]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Colgate-Palmolive Company (CL) S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Columbia Property Trust, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(CXP) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Columbia Property Trust, Inc. P 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+(CXP) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Comcast Corporation - Class A S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(CMCSA) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Comcast Corporation - Class A S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedc
+(CMCSA) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Comcast Corporation - Class A S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedcb
+(CMCSA) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+CommVault Systems, Inc. (CVLT) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+ConocoPhillips (CoP) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+ConocoPhillips (CoP) [ST] S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+[[PAGE 17]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+ConocoPhillips (CoP) [ST] P 05/20/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Cooper Tire & Rubber Company S 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+(CTB) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+CoreSite Realty Corporation (CoR) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Coupa Software Incorporated S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(CoUP) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Cree, Inc. (CREE) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Dassault Systemes, S.A. American S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Depositary Shares (DASTY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Dassault Systemes, S.A. American S (partial) 03/18/2019 03/31/2019 $1,001 - $15,000 gfedc
+Depositary Shares (DASTY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Dassault Systemes, S.A. American S (partial) 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+Depositary Shares (DASTY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Dassault Systemes, S.A. American S (partial) 03/20/2019 03/31/2019 $1,001 - $15,000 gfedc
+Depositary Shares (DASTY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+[[PAGE 18]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Dbs group Holdings Ltd ord P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+American Depositary Shares
+(DBSDY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Dbs group Holdings Ltd ord S 06/24/2019 06/30/2019 $15,001 - gfedc
+American Depositary Shares $50,000
+(DBSDY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Deckers outdoor Corporation S 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+(DECK) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Deckers outdoor Corporation S (partial) 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+(DECK) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Deckers outdoor Corporation S (partial) 01/23/2019 01/31/2019 $1,001 - $15,000 gfedc
+(DECK) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Deckers outdoor Corporation S (partial) 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+(DECK) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Dentsu Inc Tokyo Unsponsored P 01/17/2019 01/31/2019 $1,001 - $15,000 gfedc
+ADR (DNTUY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Dentsu Inc Tokyo Unsponsored P 01/15/2019 01/31/2019 $1,001 - $15,000 gfedc
+ADR (DNTUY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Dentsu Inc Tokyo Unsponsored P 01/16/2019 01/31/2019 $1,001 - $15,000 gfedc
+ADR (DNTUY) [ST]
+FILINg STATUS: New
+[[PAGE 19]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Dentsu Inc Tokyo Unsponsored S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+ADR (DNTUY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Diageo plc (DEo) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Diageo plc (DEo) [ST] P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Diebold Nixdorf Incorporated P 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+(DBD) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Diebold Nixdorf Incorporated S 04/30/2019 04/30/2019 $1,001 - $15,000 gfedc
+(DBD) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Digital Realty Trust, Inc. (DLR) P 05/20/2019 05/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Digital Realty Trust, Inc. (DLR) S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+Dine Brands global, Inc. (DIN) S (partial) 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Dine Brands global, Inc. (DIN) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+[[PAGE 20]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Discovery, Inc. - Series A (DISCA) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+DMC global Inc. (BooM) [ST] P 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+DMC global Inc. (BooM) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Dolby Laboratories (DLB) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Domo, Inc. - Class B (DoMo) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Domo, Inc. - Class B (DoMo) [ST] P 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Dorman Products, Inc. (DoRM) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Dow Inc. (DoW) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+Dow Inc. (DoW) [ST] P 05/20/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Dow Inc. (DoW) [ST] S 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+[[PAGE 21]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+DowDuPont Inc. (DWDP) [ST] S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+DowDuPont Inc. (DWDP) [ST] S 05/20/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Dril-Quip, Inc. (DRQ) [ST] S 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Eagle Bancorp, Inc. (EgBN) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Eastgroup Properties, Inc. (EgP) S 02/20/2019 02/28/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Editas Medicine, Inc. (EDIT) [ST] P 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Editas Medicine, Inc. (EDIT) [ST] S 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+EPIRoC AKTIEBoLAg ADR S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(EPoKY) [PS]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+LoCATIoN: US
+DESCRIPTIoN: EPIRoC AKTIEBoLAg ADR (EPoKY)
+EPIRoC AKTIEBoLAg ADR P 03/18/2019 03/31/2019 $1,001 - $15,000 gfedc
+(EPoKY) [PS]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+[[PAGE 22]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+LoCATIoN: US
+DESCRIPTIoN: EPIRoC AKTIEBoLAg ADR (EPoKY)
+EPIRoC AKTIEBoLAg ADR P 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+(EPoKY) [PS]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+LoCATIoN: US
+DESCRIPTIoN: EPIRoC AKTIEBoLAg ADR (EPoKY)
+Essent group Ltd. Common Shares P 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+(ESNT) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Essent group Ltd. Common Shares S 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+(ESNT) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Euronet Worldwide, Inc. (EEFT) S 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Euronet Worldwide, Inc. (EEFT) S 01/23/2019 01/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+EVo Payments, Inc. - Class A P 05/15/2019 05/31/2019 $1,001 - $15,000 gfedc
+(EVoP) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+EVo Payments, Inc. - Class A S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(EVoP) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Exact Sciences Corporation (EXAS) P 06/19/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+[[PAGE 23]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Exact Sciences Corporation (EXAS) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Exelixis, Inc. (EXEL) [ST] S 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Exelixis, Inc. (EXEL) [ST] S (partial) 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Exelixis, Inc. (EXEL) [ST] P 02/06/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Exelixis, Inc. (EXEL) [ST] P 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+F.N.B. Corporation (FNB) [ST] P 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+F.N.B. Corporation (FNB) [ST] S 05/15/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Fanuc Corporation Unsponsored S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+ADR (FANUY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Fanuc Corporation Unsponsored S (partial) 01/11/2019 01/31/2019 $1,001 - $15,000 gfedc
+ADR (FANUY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Fanuc Corporation Unsponsored S (partial) 01/15/2019 01/31/2019 $1,001 - $15,000 gfedc
+ADR (FANUY) [ST]
+FILINg STATUS: New
+[[PAGE 24]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Federated Investors, Inc. (FII) [ST] P 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Federated Investors, Inc. (FII) [ST] P 02/20/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Federated Investors, Inc. (FII) [ST] S 05/15/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Federated Investors, Inc. (FII) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+First American Corporation (FAF) S 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+First American Corporation (FAF) S (partial) 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+First Financial Bankshares, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(FFIN) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+First Interstate BancSystem, Inc. - S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Class A (FIBK) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Five Below, Inc. (FIVE) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Five Below, Inc. (FIVE) [ST] P 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+[[PAGE 25]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Flagstar Bancorp, Inc. (FBC) [ST] P 04/30/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Flagstar Bancorp, Inc. (FBC) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Fluor Corporation (FLR) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Fluor Corporation (FLR) [ST] P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Fomento Economico Mexicano P 04/05/2019 04/30/2019 $1,001 - $15,000 gfedc
+S.A.B. de C.V. (FMX) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Fomento Economico Mexicano S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+S.A.B. de C.V. (FMX) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Fortinet, Inc. (FTNT) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Fox Factory Holding Corp. (FoXF) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Freeport-McMoRan, Inc. (FCX) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+[[PAGE 26]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Fuchs Petrolub SE Unsponsored S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+American Depository
+ReceiptRepresenting Preferenced
+Shares (FUPBY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+gannett Co., Inc. (gCI) [ST] E 11/20/2019 11/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Basic Securities Account (1)
+DESCRIPTIoN: Exchange resulting from merger between New Media Investment group, Inc. and gannett Co., Inc. on
+11/19/2019.
+genesco Inc. (gCo) [ST] S 02/06/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+genpact Limited (g) [ST] P 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+genpact Limited (g) [ST] P 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+genpact Limited (g) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+global Blood Therapeutics, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(gBT) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+global Blood Therapeutics, Inc. P 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+(gBT) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+greenbrier Companies, Inc. (gBX) S 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+[[PAGE 27]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+grifols, S.A. - American Depositary S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Shares (gRFS) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+grupo Financiero Banorte, S.A.B. S 02/19/2019 02/28/2019 $1,001 - $15,000 gfedc
+De C.V Sponsored ADR (gBooY)
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+grupo Financiero Banorte, S.A.B. S 02/20/2019 02/28/2019 $1,001 - $15,000 gfedc
+De C.V Sponsored ADR (gBooY)
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+grupo Financiero Banorte, S.A.B. S (partial) 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+De C.V Sponsored ADR (gBooY)
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Hawaiian Electric Industries, Inc. P 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+(HE) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Hawaiian Electric Industries, Inc. S (partial) 01/23/2019 01/31/2019 $1,001 - $15,000 gfedc
+(HE) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Hawaiian Electric Industries, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(HE) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+HDFC Bank Limited (HDB) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Healthcare Realty Trust S 02/20/2019 02/28/2019 $1,001 - $15,000 gfedc
+[[PAGE 28]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+Incorporated (HR) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Healthcare Services group, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(HCSg) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Hecla Mining Company (HL) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Hecla Mining Company (HL) [ST] P 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Helmerich & Payne, Inc. (HP) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Highwoods Properties, Inc. (HIW) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Highwoods Properties, Inc. (HIW) P 02/06/2019 02/28/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Highwoods Properties, Inc. (HIW) P 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Hill-Rom Holdings Inc (HRC) [ST] S (partial) 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Hill-Rom Holdings Inc (HRC) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+[[PAGE 29]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+HollyFrontier Corporation (HFC) S 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+HP Inc. (HPQ) [ST] P 05/20/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+HP Inc. (HPQ) [ST] P 02/05/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+HP Inc. (HPQ) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+HSBC Holdings, plc. (HSBC) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Hyatt Hotels Corporation Class A S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(H) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Hyatt Hotels Corporation Class A P 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+(H) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Hyatt Hotels Corporation Class A P 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+(H) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+ICICI Bank Limited (IBN) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Infineon Technologies Ag (IFNNY) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[[PAGE 30]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Integra LifeSciences Holdings S 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+Corporation (IART) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Intersect ENT, Inc. (XENT) [ST] P 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Ionis Pharmaceuticals, Inc. (IoNS) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Ionis Pharmaceuticals, Inc. (IoNS) P 05/08/2019 05/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+iRhythm Technologies, Inc. (IRTC) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Iron Mountain Incorporated (IRM) S 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Iron Mountain Incorporated (IRM) S (partial) 02/20/2019 02/28/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Itau Unibanco Banco Holding SA P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+American Depositary Shares
+(ITUB) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Itau Unibanco Banco Holding SA S (partial) 03/15/2019 03/31/2019 $1,001 - $15,000 gfedc
+[[PAGE 31]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+American Depositary Shares
+(ITUB) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Itau Unibanco Banco Holding SA S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+American Depositary Shares
+(ITUB) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+J g C Corp (JgCCY) [ST] S (partial) 05/09/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+J g C Corp (JgCCY) [ST] S 05/10/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Johnson & Johnson (JNJ) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+Johnson & Johnson (JNJ) [ST] S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Johnson & Johnson (JNJ) [ST] P 05/20/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Johnson Controls International plc P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+ordinary Share (JCI) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Johnson Controls International plc S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+ordinary Share (JCI) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+JP Morgan Chase & Co. (JPM) [ST] P 05/20/2019 05/31/2019 $1,001 - $15,000 gfedc
+[[PAGE 32]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+JP Morgan Chase & Co. (JPM) [ST] S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+JP Morgan Chase & Co. (JPM) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+Kennametal Inc. (KMT) [ST] S (partial) 04/30/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Kennametal Inc. (KMT) [ST] S 05/15/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Komatsu Ltd ord American S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Depositary Shares (KMTUY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Kubota Corporation (KUBTY) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Kubota Corporation (KUBTY) [ST] P 01/16/2019 01/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Kubota Corporation (KUBTY) [ST] P 01/15/2019 01/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Kubota Corporation (KUBTY) [ST] P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+L3 Technologies, Inc. (LLL) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[[PAGE 33]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+L'Air Liquide ord American S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Depositary Shares (AIQUY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+L'Air Liquide ord American S (partial) 03/18/2019 03/31/2019 $1,001 - $15,000 gfedc
+Depositary Shares (AIQUY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+L'Air Liquide ord American S (partial) 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+Depositary Shares (AIQUY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Lamb Weston Holdings, Inc. (LW) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Lancaster Colony Corporation S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(LANC) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Laureate Education, Inc. - Class A S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(LAUR) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Laureate Education, Inc. - Class A P 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+(LAUR) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Liberty Broadband Corporation - S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Class C (LBRDK) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Liberty Media Corporation - Series S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+C Liberty SiriusXM (LSXMK) [ST]
+[[PAGE 34]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Linde plc ordinary Share (LIN) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Live Nation Entertainment, Inc. S 02/06/2019 02/28/2019 $1,001 - $15,000 gfedc
+(LYV) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Lockheed Martin Corporation S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedcb
+(LMT) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+Lockheed Martin Corporation P 05/20/2019 05/31/2019 $1,001 - $15,000 gfedc
+(LMT) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Lockheed Martin Corporation P 02/05/2019 02/28/2019 $1,001 - $15,000 gfedc
+(LMT) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Lonza group Ag Zuerich S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Unsponsored ADR (LZAgY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+L'oreal Co. American Depositary S 06/24/2019 06/30/2019 $15,001 - gfedc
+Shares (LRLCY) [ST] $50,000
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Lowe's Companies, Inc. (LoW) [ST] S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Lowe's Companies, Inc. (LoW) [ST] S 05/20/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+[[PAGE 35]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Lukoil Co Sponsored ADR P 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+(LUKoY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Lukoil Co Sponsored ADR P 03/20/2019 03/31/2019 $1,001 - $15,000 gfedc
+(LUKoY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Lukoil Co Sponsored ADR P 03/18/2019 03/31/2019 $1,001 - $15,000 gfedc
+(LUKoY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Lukoil Co Sponsored ADR S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(LUKoY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+LVMH Moet Hennessy Louis S 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+Vuitton Unsponsored American
+Depositary Receipt (LVMUY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+LVMH Moet Hennessy Louis S 02/19/2019 02/28/2019 $1,001 - $15,000 gfedc
+Vuitton Unsponsored American
+Depositary Receipt (LVMUY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Manhattan Associates, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(MANH) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Masonite International Corporation S 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+ordinary Shares (DooR) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+McDonald's Corporation (MCD) S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedcb
+[ST]
+[[PAGE 36]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+McDonald's Corporation (MCD) S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+MEDIFAST INC (MED) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+MEDIFAST INC (MED) [ST] P 04/30/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Mednax, Inc. (MD) [ST] S 10/15/2019 10/31/2019 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Basic Securities Account (1)
+Medtronic plc. ordinary Shares S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(MDT) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Meritage Homes Corporation S (partial) 05/15/2019 05/31/2019 $1,001 - $15,000 gfedc
+(MTH) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Meritage Homes Corporation S 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+(MTH) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+MgP Ingredients, Inc. (MgPI) [ST] P 04/30/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Microsoft Corporation (MSFT) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+[[PAGE 37]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Microsoft Corporation (MSFT) [ST] S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+MicroStrategy Incorporated - Class S 02/06/2019 02/28/2019 $1,001 - $15,000 gfedc
+A (MSTR) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Moelis & Company Class A (MC) S 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Monolithic Power Systems, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(MPWR) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Monotaro Co. Ltd., osaka S (partial) 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+Unsponsored ADR (MoNoY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Monotaro Co. Ltd., osaka S 03/20/2019 03/31/2019 $1,001 - $15,000 gfedc
+Unsponsored ADR (MoNoY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Monotaro Co. Ltd., osaka S (partial) 03/08/2019 03/31/2019 $1,001 - $15,000 gfedc
+Unsponsored ADR (MoNoY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Naspers Limited N Shs Sponsored S (partial) 01/30/2019 01/31/2019 $1,001 - $15,000 gfedc
+American Depositary Receipt
+Representing Class N Shares
+(NPSNY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Naspers Limited N Shs Sponsored S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+American Depositary Receipt
+Representing Class N Shares
+(NPSNY) [ST]
+[[PAGE 38]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+National Instruments Corporation S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(NATI) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+National oilwell Varco, Inc. (NoV) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+National oilwell Varco, Inc. (NoV) P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Neogen Corporation (NEog) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Nestle SA Sponsored ADR S 06/24/2019 06/30/2019 $15,001 - gfedc
+representing Registered Shares $50,000
+Series B (NSRgY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Nestle SA Sponsored ADR P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+representing Registered Shares
+Series B (NSRgY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Nestle SA Sponsored ADR S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedcb
+representing Registered Shares
+Series B (NSRgY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+Nestle SA Sponsored ADR S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedcb
+representing Registered Shares
+Series B (NSRgY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+[[PAGE 39]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+NextEra Energy, Inc. (NEE) [ST] S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+NextEra Energy, Inc. (NEE) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+NovoCure Limited - ordinary S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Shares (NVCR) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+NovoCure Limited - ordinary P 06/19/2019 06/30/2019 $1,001 - $15,000 gfedc
+Shares (NVCR) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Novozymes A/S Unsponsored S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+American Depositary Receipt
+(NVZMY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+NoW Inc. (DNoW) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Nuance Communications, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(NUAN) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Nucor Corporation (NUE) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Nutanix, Inc. - Class A (NTNX) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+occidental Petroleum Corporation S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedc
+[[PAGE 40]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+(oXY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+occidental Petroleum Corporation S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedc
+(oXY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+occidental Petroleum Corporation P 05/20/2019 05/31/2019 $1,001 - $15,000 gfedc
+(oXY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+oxford Industries, Inc. (oXM) [ST] P 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+oxford Industries, Inc. (oXM) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+PacWest Bancorp (PACW) [ST] S 06/19/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Paramount group, Inc. (PgRE) P 05/15/2019 05/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Paramount group, Inc. (PgRE) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Paramount group, Inc. (PgRE) S 01/23/2019 01/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Park 24 Co Ltd Sponsored ADR S (partial) 05/17/2019 05/31/2019 $1,001 - $15,000 gfedc
+(PKCoY) [ST]
+[[PAGE 41]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Park 24 Co Ltd Sponsored ADR S 05/21/2019 05/31/2019 $1,001 - $15,000 gfedc
+(PKCoY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Patrick Industries, Inc. (PATK) [ST] P 02/06/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Patrick Industries, Inc. (PATK) [ST] S 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Pattern Energy group Inc. - Class A S 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+(PEgI) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Patterson-UTI Energy, Inc. (PTEN) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+PDC Energy, Inc. (PDCE) [ST] S 06/19/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+PDC Energy, Inc. (PDCE) [ST] P 04/30/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+PDC Energy, Inc. (PDCE) [ST] P 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Pentair plc. ordinary Share (PNR) P 01/23/2019 01/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+[[PAGE 42]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Pentair plc. ordinary Share (PNR) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+People's United Financial, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(PBCT) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+People's United Financial, Inc. P 02/06/2019 02/28/2019 $1,001 - $15,000 gfedc
+(PBCT) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+People's United Financial, Inc. P 02/06/2019 02/28/2019 $1,001 - $15,000 gfedc
+(PBCT) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+PerkinElmer, Inc. (PKI) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Pfizer, Inc. (PFE) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+Pfizer, Inc. (PFE) [ST] S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Piedmont office Realty Trust, Inc. P 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+Class A (PDM) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Piedmont office Realty Trust, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Class A (PDM) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Ping An Insurance (PNgAY) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[[PAGE 43]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Ping An Insurance (PNgAY) [ST] P 03/20/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Ping An Insurance (PNgAY) [ST] P 03/18/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Pinnacle West Capital Corporation P 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+(PNW) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Pinnacle West Capital Corporation P 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+(PNW) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Pinnacle West Capital Corporation S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(PNW) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Planet Fitness, Inc. (PLNT) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Planet Fitness, Inc. (PLNT) [ST] P 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Planet Fitness, Inc. (PLNT) [ST] P 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Planet Fitness, Inc. (PLNT) [ST] P 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+[[PAGE 44]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Pluralsight, Inc. - Class A (PS) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Pluralsight, Inc. - Class A (PS) [ST] P 06/19/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+PotlatchDeltic Corporation (PCH) P 04/30/2019 04/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+PotlatchDeltic Corporation (PCH) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+PotlatchDeltic Corporation (PCH) P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Power Integrations, Inc. (PoWI) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+ProAssurance Corporation (PRA) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+ProAssurance Corporation (PRA) P 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Progress Software Corporation S (partial) 05/15/2019 05/31/2019 $1,001 - $15,000 gfedc
+(PRgS) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Progress Software Corporation S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[[PAGE 45]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+(PRgS) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+ProPetro Holding Corp. (PUMP) S 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+ProPetro Holding Corp. (PUMP) S (partial) 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Prosperity Bancshares, Inc. (PB) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+PS Business Parks, Inc. (PSB) [ST] S 02/06/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Pultegroup, Inc. (PHM) [ST] S (partial) 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Pultegroup, Inc. (PHM) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Pultegroup, Inc. (PHM) [ST] S 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Puma Biotechnology Inc (PBYI) S 05/15/2019 05/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Puma Biotechnology Inc (PBYI) P 01/23/2019 01/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+[[PAGE 46]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Qiagen N.V. Common Shares S (partial) 01/23/2019 01/31/2019 $1,001 - $15,000 gfedc
+(QgEN) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Qiagen N.V. Common Shares S 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+(QgEN) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+QTS Realty Trust, Inc. Class A S 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+(QTS) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+QTS Realty Trust, Inc. Class A P 05/15/2019 05/31/2019 $1,001 - $15,000 gfedc
+(QTS) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+QTS Realty Trust, Inc. Class A S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(QTS) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Qurate Retail, Inc. - Series A S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(QRTEA) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Radius Health, Inc. (RDUS) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Radius Health, Inc. (RDUS) [ST] P 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Radius Health, Inc. (RDUS) [ST] P 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+[[PAGE 47]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Ralph Lauren Corporation (RL) S (partial) 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Ralph Lauren Corporation (RL) S 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Redfin Corporation (RDFN) [ST] S 04/30/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Reinsurance group of America, S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Incorporated (RgA) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Rent-A-Center Inc. (RCII) [ST] P 01/23/2019 01/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Rent-A-Center Inc. (RCII) [ST] S 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Rexford Industrial Realty, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(REXR) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Rexford Industrial Realty, Inc. P 04/30/2019 04/30/2019 $1,001 - $15,000 gfedc
+(REXR) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Rio Tinto Plc (RIo) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Rio Tinto Plc (RIo) [ST] P 04/10/2019 04/30/2019 $1,001 - $15,000 gfedc
+[[PAGE 48]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Rio Tinto Plc (RIo) [ST] P 04/11/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Roche Holdings Ag Basel American P 01/29/2019 01/31/2019 $1,001 - $15,000 gfedc
+Depositary Shares (RHHBY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Roche Holdings Ag Basel American P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+Depositary Shares (RHHBY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Roche Holdings Ag Basel American S 06/24/2019 06/30/2019 $15,001 - gfedc
+Depositary Shares (RHHBY) [ST] $50,000
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Rollins, Inc. (RoL) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Royal Dutch Shell PLC Royal Dutch S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Shell PLC American Depositary
+Shares (RDS.B) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Royal Dutch Shell PLC Royal Dutch P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+Shell PLC American Depositary
+Shares (RDS.B) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Royal Dutch Shell PLC Royal Dutch S (partial) 03/18/2019 03/31/2019 $1,001 - $15,000 gfedc
+Shell PLC American Depositary
+Shares (RDS.B) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Royal gold, Inc. (RgLD) [ST] S 02/06/2019 02/28/2019 $1,001 - $15,000 gfedc
+[[PAGE 49]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Royal gold, Inc. (RgLD) [ST] S (partial) 01/23/2019 01/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+SAP SE ADS (SAP) [ST] P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+SAP SE ADS (SAP) [ST] P 04/11/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+SAP SE ADS (SAP) [ST] S 06/24/2019 06/30/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Sasol Ltd. American Depositary S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Shares (SSL) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Schlumberger N.V. (SLB) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Schnitzer Steel Industries, Inc. - S 04/30/2019 04/30/2019 $1,001 - $15,000 gfedc
+Class A (SCHN) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Seagate Technology PLC - ordinary S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Shares (STX) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Sealed Air Corporation (SEE) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+[[PAGE 50]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Seattle genetics, Inc. (SgEN) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Sempra Energy (SRE) [ST] S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Sempra Energy (SRE) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+SgS SA ADR (SgSoY) [ST] P 04/08/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+SgS SA ADR (SgSoY) [ST] P 04/05/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+SgS SA ADR (SgSoY) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Shake Shack, Inc. Class A (SHAK) P 05/15/2019 05/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Shake Shack, Inc. Class A (SHAK) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+SITE Centers Corp. (SITC) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+SITE Centers Corp. (SITC) [ST] P 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+[[PAGE 51]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Siteone Landscape Supply, Inc. P 05/15/2019 05/31/2019 $1,001 - $15,000 gfedc
+(SITE) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Siteone Landscape Supply, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(SITE) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Sonova Holding Ag Unsponsored S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+ADR (SoNVY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Spirit Aerosystems Holdings, Inc. S 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+(SPR) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Spirit Aerosystems Holdings, Inc. P 02/20/2019 02/28/2019 $1,001 - $15,000 gfedc
+(SPR) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Spirit Aerosystems Holdings, Inc. P 02/06/2019 02/28/2019 $1,001 - $15,000 gfedc
+(SPR) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Spirit Airlines, Inc. (SAVE) [ST] S 02/06/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Spirit Airlines, Inc. (SAVE) [ST] S 02/20/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Spirit Realty Capital, Inc. (SRC) P 03/19/2019 03/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+[[PAGE 52]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Spirit Realty Capital, Inc. (SRC) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+SPS Commerce, Inc. (SPSC) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+STERIS plc (STE) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Symrise Ag Unsponsored ADR S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(SYIEY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Sysmex Corporation Unsponsored S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+ADR (SSMXY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Tactile Systems Technology, Inc. P 01/23/2019 01/31/2019 $1,001 - $15,000 gfedc
+(TCMD) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Taiwan Semiconductor P 04/11/2019 04/30/2019 $1,001 - $15,000 gfedc
+Manufacturing Company Ltd.
+(TSM) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Taiwan Semiconductor P 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+Manufacturing Company Ltd.
+(TSM) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Taiwan Semiconductor S 06/24/2019 06/30/2019 $15,001 - gfedc
+Manufacturing Company Ltd. $50,000
+(TSM) [ST]
+FILINg STATUS: New
+[[PAGE 53]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Taylor Morrison Home Corporation S 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+(TMHC) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Taylor Morrison Home Corporation P 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+(TMHC) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+TE Connectivity Ltd. New S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Switzerland Registered Shares
+(TEL) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Temenos group Ag SPoNSoRED S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+ADR (TMSNY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Tempur Sealy International, Inc. S 05/15/2019 05/31/2019 $1,001 - $15,000 gfedc
+(TPX) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Tenaris S.A. American Depositary S 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+Shares (TS) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Tencent Holdings Limited P 01/29/2019 01/31/2019 $1,001 - $15,000 gfedc
+Unsponsored ADR Representing B
+Shares (TCEHY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Tencent Holdings Limited S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Unsponsored ADR Representing B
+Shares (TCEHY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Teradyne, Inc. (TER) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[[PAGE 54]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Teradyne, Inc. (TER) [ST] P 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Texas Roadhouse, Inc. (TXRH) S (partial) 02/06/2019 02/28/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Texas Roadhouse, Inc. (TXRH) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+The Bank of New York Mellon S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedc
+Corporation (BK) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+The Bank of New York Mellon P 05/20/2019 05/31/2019 $1,001 - $15,000 gfedc
+Corporation (BK) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+The Bank of New York Mellon P 02/05/2019 02/28/2019 $1,001 - $15,000 gfedc
+Corporation (BK) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+The goodyear Tire & Rubber S 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+Company (gT) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Toll Brothers, Inc. (ToL) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Toll Brothers, Inc. (ToL) [ST] P 01/23/2019 01/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+[[PAGE 55]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Toll Brothers, Inc. (ToL) [ST] P 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Torchmark Corporation (TMK) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Trimble Inc. (TRMB) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+TripAdvisor, Inc. (TRIP) [ST] S 04/30/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+TripAdvisor, Inc. (TRIP) [ST] S (partial) 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Trustmark Corporation (TRMK) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Twitter, Inc. (TWTR) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Twitter, Inc. (TWTR) [ST] P 03/28/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Two Harbors Investment Corp S 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+(TWo) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+U.S. Physical Therapy, Inc. (USPH) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[[PAGE 56]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Umpqua Holdings Corporation S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(UMPQ) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Umpqua Holdings Corporation S (partial) 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+(UMPQ) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Umpqua Holdings Corporation S 06/19/2019 06/30/2019 $1,001 - $15,000 gfedc
+(UMPQ) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Umpqua Holdings Corporation P 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+(UMPQ) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Unicharm Corp Sponsored ADR P 02/21/2019 02/28/2019 $1,001 - $15,000 gfedc
+(UNICY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Unicharm Corp Sponsored ADR P 02/22/2019 02/28/2019 $1,001 - $15,000 gfedc
+(UNICY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Unicharm Corp Sponsored ADR P 02/19/2019 02/28/2019 $1,001 - $15,000 gfedc
+(UNICY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Unicharm Corp Sponsored ADR P 02/20/2019 02/28/2019 $1,001 - $15,000 gfedc
+(UNICY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Unicharm Corp Sponsored ADR S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[[PAGE 57]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+(UNICY) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Unilever PLC (UL) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+United Bankshares, Inc. (UBSI) P 06/04/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+United Bankshares, Inc. (UBSI) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+United Therapeutics Corporation S 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+(UTHR) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+UnitedHealth group Incorporated S (partial) 02/15/2019 02/28/2019 $1,001 - $15,000 gfedc
+Common Stock (UNH) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+UnitedHealth group Incorporated S (partial) 02/15/2019 02/28/2019 $50,001 - gfedc
+Common Stock (UNH) [ST] $100,000
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+UnitedHealth group Incorporated S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Common Stock (UNH) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Universal Corporation (UVV) [ST] S 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Varonis Systems, Inc. (VRNS) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[[PAGE 58]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Verizon Communications Inc. (VZ) S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+Verizon Communications Inc. (VZ) S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Vertex Pharmaceuticals S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Incorporated (VRTX) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Vertex Pharmaceuticals P 04/18/2019 04/30/2019 $1,001 - $15,000 gfedc
+Incorporated (VRTX) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Vocera Communications, Inc. S 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+(VCRA) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Vocera Communications, Inc. P 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+(VCRA) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+W. P. Carey Inc. REIT (WPC) [ST] P 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+W. P. Carey Inc. REIT (WPC) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Waddell & Reed Financial, Inc. S 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+(WDR) [ST]
+FILINg STATUS: New
+[[PAGE 59]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Walmart Inc. (WMT) [ST] S (partial) 02/05/2019 02/28/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Walmart Inc. (WMT) [ST] S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+Washington Federal, Inc. (WAFD) P 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Washington Federal, Inc. (WAFD) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Watts Water Technologies, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Class A (WTS) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Weibo Corporation - American S 01/15/2019 01/31/2019 $1,001 - $15,000 gfedc
+Depositary Shares (WB) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Weibo Corporation - American S (partial) 01/11/2019 01/31/2019 $1,001 - $15,000 gfedc
+Depositary Shares (WB) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Weibo Corporation - American S (partial) 01/14/2019 01/31/2019 $1,001 - $15,000 gfedc
+Depositary Shares (WB) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Wells Fargo & Company (WFC) S 08/28/2019 08/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (2)
+[[PAGE 60]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Wells Fargo & Company (WFC) P 02/05/2019 02/28/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+Wells Fargo & Company (WFC) P 05/20/2019 05/31/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Active Assets Account (3)
+West Pharmaceutical Services, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(WST) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Western Digital Corporation S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(WDC) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Wingstop Inc. (WINg) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Wyndham Destinations, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Common Stock (WYND) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Wyndham Destinations, Inc. P 03/06/2019 03/31/2019 $1,001 - $15,000 gfedc
+Common Stock (WYND) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Wyndham Destinations, Inc. P 04/16/2019 04/30/2019 $1,001 - $15,000 gfedc
+Common Stock (WYND) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Wyndham Hotels & Resorts, Inc. S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+(WH) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+[[PAGE 61]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Wyndham Hotels & Resorts, Inc. P 04/30/2019 04/30/2019 $1,001 - $15,000 gfedc
+(WH) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Yandex N.V. - Class A ordinary S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+Shares (YNDX) [ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Yext, Inc. (YEXT) [ST] S 01/09/2019 01/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Zendesk, Inc. (ZEN) [ST] P 04/03/2019 04/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Zendesk, Inc. (ZEN) [ST] S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+Zions Bancorporation N.A. (ZIoN) S 06/24/2019 06/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHoLDINg oF: Morgan Stanley Rollover IRA Account (1)
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Morgan Stanley Active Assets Account (2)
+LoCATIoN: US
+Morgan Stanley Active Assets Account (3)
+LoCATIoN: US
+Morgan Stanley Basic Securities Account (1)
+LoCATIoN: US
+Morgan Stanley IRA
+Morgan Stanley Rollover IRA Account (1)
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 62]]
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Donna Shalala , 04/27/2020

@@ -1,0 +1,53 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT CITIGROUP GLOBAL MKTS HLDGS
+IN SER A 07/27/2027MTN [CS]
+P 07/22/202207/22/2022$250,001 -
+$500,000
+F S: New
+S O: Hern Family Foundation
+D: Buy Open CITI Medium Term Note
+JT FS Energy & Power Fund Common
+[PS]
+P 07/13/202207/14/2022$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+L: US
+D: Dividend Reinvestment
+JT iShares TIPS Bond ETF (TIP) [ST] P 07/08/202207/09/2022$1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+D: Dividend Reinvestment
+JT JP Morgan Chase & Co. (JPM) [ST] P 07/31/202207/31/2022$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Hern Family Foundation (100% Interest) (Owner: JT)
+Filing ID #20021553
+[[PAGE 2]]
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+D: Family Revocable Trust
+Hern Family Revocable Trust ⇒ Brokerage Investment Account (100% Interest) (Owner: JT)
+L: US
+D: Stock, Bonds, EFTs, & Mutual funds
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 08/15/2022

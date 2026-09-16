@@ -1,0 +1,161 @@
+[[PAGE 1]]
+Filing ID #20014973
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. David P. Joyce
+Status: Member
+State/District: OH14
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+bessemer AL gO bd. [CS] P 04/02/2019 01/29/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce Trust
+DESCRIPTION: Term bond 3.125% due 2/1/24
+brookville OH Loc Sch Dist [CS] P 03/27/2019 01/29/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce Trust
+DESCRIPTION: Term bond 4.0% due 11/1/30
+buckeye OH Cent Loc Sch Dist. P 04/03/2019 01/29/2020 $50,001 - gfedc
+[CS] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce Trust
+DESCRIPTION: Term bond 4.0% due 12/1/25
+Delaware OH Cry Sch Dist. [CS] P 03/28/2019 01/29/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce Trust
+DESCRIPTION: Term bond 4.5% due 12/1/29
+East Muskingum OH Loc Sch Dist. P 03/25/2019 01/29/2020 $50,001 - gfedc
+[CS] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce Trust
+DESCRIPTION: Term bond 4.00% due 12/1/22
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Fidelity Advisor Real Estate P 09/30/2019 01/29/2020 $15,001 - gfedc
+Income Z (fikmx) [Ab] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce Trust
+Fidelity Advisor Real Estate P 12/31/2019 01/29/2020 $1,001 - $15,000 gfedc
+Income Z (fikmx) [Ab]
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce Trust
+Fidelity Advisor Real Estate P 09/30/2019 01/29/2020 $15,001 - gfedc
+income Z (fikmx) [Ab] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce QSST Trust
+Fidelity FL High Income (ffrhx) S 05/30/2019 01/29/2020 $15,001 - gfedc
+[Ab] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Rita M. Joyce IRA
+Fidelity FL Rt High Income (ffhrx) S 03/22/2019 01/29/2020 $100,001 - gfedc
+[Ab] $250,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce Trust
+Fidelity Limited Term Municipal P 03/22/2019 01/29/2020 $15,001 - gfedc
+Inc. (fstfx) [Ab] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce QSST Trust
+golub Capital bDC, Inc. (gbDC) P 05/30/2019 01/29/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Rita M. Joyce IRA
+Invesco QQQ Trust, Series 1 (QQQ) S 01/10/2019 01/29/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: DPJ & KAJ joint account
+Invesco QQQ Trust, Series 1 (QQQ) S 01/10/2019 01/29/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: DPJ & KAJ joint account
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+iShares Core MSCI EAFE ETF P 03/04/2019 01/29/2020 $15,001 - gfedc
+(IEFA) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce QSST Trust
+iShares Core S&P 500 ETF (IVV) P 03/04/2019 01/29/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce QSST Trust
+iShares Core S&P 500 ETF (IVV) P 07/24/2019 01/29/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce QSST Trust
+iShares Core S&P Mid-Cap ETF P 03/04/2019 01/29/2020 $15,001 - gfedc
+(IJH) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce Trust
+iShares Core S&P Mid-Cap ETF P 07/24/2019 01/29/2020 $1,001 - $15,000 gfedc
+(IJH) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce Trust
+iShares Core S&P Small-Cap ETF P 03/04/2019 01/29/2020 $15,001 - gfedc
+(IJR) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce Trust
+iShares Core S&P Small-Cap ETF P 07/24/2019 01/29/2020 $1,001 - $15,000 gfedc
+(IJR) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: David P. Joyce Trust
+iShares Russell 2000 Value ETF P 12/31/2019 01/29/2020 $1,001 - $15,000 gfedc
+(IWN) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Rita M. Joyce IRA
+iShares S&P 500 Value ETF (IVE) P 12/31/2019 01/29/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Rollover
+[[PAGE 4]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JPMorgan Chase Capital XVI JP S 07/08/2019 01/29/2020 $1,001 - $15,000 gfedc
+Morgan Alerian MLP ETN (AMJ)
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Rita M. Joyce IRA
+SPDR MidCap Trust Series I P 09/20/2019 01/29/2020 $1,001 - $15,000 gfedc
+(MDY) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: DPJ & KAJ joint account
+SPDR S&P 500 (SPY) [ST] P 06/21/2019 01/29/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: DPJ & KAJ joint account
+Vanguard FTSE Developed P 06/21/2019 07/30/2020 $1,001 - $15,000 gfedc
+Markets ETF (VEA) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: DPJ & KAJ joint account
+Vanguard Information Tech ETF P 01/10/2019 07/30/2020 $1,001 - $15,000 gfedc
+(VgT) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: DPJ & KAJ joint account
+Vanguard Short-Term Corporate P 03/22/2019 01/29/2020 $15,001 - gfedc
+bond ETF (VCSH) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Rollover
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+David P. Joyce QSST Trust
+David P. Joyce Trust
+DPJ & KAJ joint account
+LOCATION: US
+Rita M. Joyce IRA
+Rollover
+initial Public offeringS
+[[PAGE 5]]
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. David P. Joyce , 07/30/2020

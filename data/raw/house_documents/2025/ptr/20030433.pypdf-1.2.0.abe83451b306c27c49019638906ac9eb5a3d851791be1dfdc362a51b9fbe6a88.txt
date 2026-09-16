@@ -1,0 +1,299 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Rob Bresnahan
+Status: Member
+State/District:PA08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Advanced Micro Devices, Inc. (AMD)
+[ST]
+P 05/15/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: JP Morgan Brokerage Account
+Agilent Technologies, Inc. Common
+Stock (A) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S 05/08/202505/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S 05/07/202505/07/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Amcor plc Ordinary Shares (AMCR)
+[ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+CALL INVESCO QQQ SER 1 [OT] S 05/01/202505/01/2025$1,001 - $15,000
+F S: New
+S O: LPL Account I
+L: US
+Filing ID #20030433
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: CALL INVESCO QQQ SER 1 $450 EXP 09/19/25
+C: Filer’s transaction of covered calls is for hedging purposes, not for the purpose of selling options short.
+CALL INVESCO QQQ SER 1 [OT] S 05/01/202505/01/2025$1,001 - $15,000
+F S: New
+S O: LPL Account II
+L: US
+D: CALL INVESCO QQQ SER 1 $450 EXP 09/19/25
+C: Filer’s transaction of covered calls is for hedging purposes, not for the purpose of selling options short.
+CALL ISHARES RUSSELL [OT] S 05/01/202505/01/2025$1,001 - $15,000
+F S: New
+S O: LPL Account I
+L: US
+D: CALL ISHARES RUSSELL $175 EXP 09/19/25 2000 INDEX FD
+C: Filer’s transaction of covered calls is for hedging purposes, not for the purpose of selling options short.
+CALL ISHARES RUSSELL [OT] S 05/01/202505/01/2025$1,001 - $15,000
+F S: New
+S O: LPL Account II
+L: US
+D: CALL ISHARES RUSSELL $175 EXP 09/19/25 2000 INDEX FD
+C: Filer’s transaction of covered calls is for hedging purposes, not for the purpose of selling options short.
+Caterpillar, Inc. Common Stock (CAT)
+[ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Charles River Laboratories
+International, Inc. Common Stock
+(CRL) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+ConocoPhillips Common Stock (COP)
+[ST]
+P 05/15/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: JP Morgan Brokerage Account
+CoStar Group, Inc. - Common Stock
+(CSGP) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+CVS Health Corporation Common
+Stock (CVS) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Danaher Corporation Common Stock
+(DHR) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Elevance Health, Inc. Common Stock
+(ELV) [ST]
+S 05/15/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: JP Morgan Brokerage Account
+Exxon Mobil Corporation Common
+Stock (XOM) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+GE HealthCare Technologies Inc. -
+Common Stock (GEHC) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+General Mills, Inc. Common Stock
+(GIS) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Incyte Corporation - Common Stock
+(INCY) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+International Flavors & Fragrances,
+Inc. Common Stock (IFF) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+IQVIA Holdings, Inc. Common Stock
+(IQV) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Keurig Dr Pepper Inc. (KDP) [ST] S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Kimberly-Clark Corporation Common
+Stock (KMB) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Labcorp Holdings Inc. Common Stock
+(LH) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Marathon Petroleum Corporation
+Common Stock (MPC) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Medtronic plc. Ordinary Shares
+(MDT) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S 05/15/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: JP Morgan Brokerage Account
+Mettler-Toledo International, Inc.
+Common Stock (MTD) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 05/09/202505/09/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Occidental Petroleum Corporation
+Common Stock (OXY) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Pepsico, Inc. (PEP) [ST] S 05/15/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: JP Morgan Brokerage Account
+Pfizer, Inc. Common Stock (PFE) [ST]P 05/15/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: JP Morgan Brokerage Account
+Robinhood Markets, Inc. - Class A
+Common Stock (HOOD) [ST]
+P 05/09/202505/09/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Schlumberger N.V. Common Stock
+(SLB) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Texas Instruments Incorporated -
+Common Stock (TXN) [ST]
+P 05/15/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: JP Morgan Brokerage Account
+The Hershey Company Common
+Stock (HSY) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+The Kraft Heinz Company - Common
+Stock (KHC) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Thermo Fisher Scientific Inc Common
+Stock (TMO) [ST]
+P 05/15/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: JP Morgan Brokerage Account
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S 05/15/202505/15/2025$15,001 -
+$50,000
+F S: New
+S O: JP Morgan Brokerage Account
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+WEC Energy Group, Inc. Common
+Stock (WEC) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Yum! Brands, Inc. (YUM) [ST] S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Zimmer Biomet Holdings, Inc.
+Common Stock (ZBH) [ST]
+S 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Zoetis Inc. Class A Common Stock
+(ZTS) [ST]
+P 05/15/202505/15/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+JP Morgan Brokerage Account
+L: US
+JP Morgan Brokerage Account #2
+L: US
+LPL Account I
+L: US
+LPL Account II
+L: US
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Rob Bresnahan , 05/31/2025

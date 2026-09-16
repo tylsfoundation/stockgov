@@ -1,0 +1,48 @@
+[[PAGE 1]]
+Filing ID #20020243
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Suzan K. DelBene
+Status: Member
+State/District: WA01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Florida HSg Fin Corp Homeowner S (partial) 01/03/2022 01/03/2022 $15,001 - gfedc
+MTg Rev 2.15% Due 07/01/2029 $50,000
+[gS]
+FIlINg STATuS: New
+JT los Angeles CNTY Calif Tax And S 01/11/2022 01/11/2022 $500,001 - gfedc
+Rev 4.00% Due 06/30/2022 [gS] $1,000,000
+FIlINg STATuS: New
+JT Maryland ST Dept TR 5% Comb P 01/14/2022 01/14/2022 $15,001 - gfedc
+Tax Due 10/01/2026 [gS] $50,000
+FIlINg STATuS: New
+JT Maryland ST Dept TR 5% Comb P 01/07/2022 01/07/2022 $15,001 - gfedc
+Tax Due 10/01/2026 [gS] $50,000
+FIlINg STATuS: New
+JT Maryland ST Dept TR 5% Comb P 01/10/2022 01/10/2022 $15,001 - gfedc
+Tax Due 10/01/2026 [gS] $50,000
+FIlINg STATuS: New
+JT Prince georges CNTY MD go P 01/10/2022 01/10/2022 $500,001 - gfedc
+Consolidated 5.00% Due $1,000,000
+07/15/2031 [gS]
+FIlINg STATuS: New
+JT Round Rock Tex Indpt SCH Dist P 01/07/2022 01/07/2022 $15,001 - gfedc
+unltd Tax 5% Due 08/01/2025 $50,000
+[gS]
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 01/20/2022

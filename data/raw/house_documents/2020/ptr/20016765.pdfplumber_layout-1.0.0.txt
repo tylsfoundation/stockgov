@@ -1,0 +1,51 @@
+[[PAGE 1]]
+Filing Id #20016765
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Alan S. Lowenthal
+Status: Member
+State/District: CA47
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Crown Castle Intl Corp [CS] P 06/04/2020 06/11/2020 $15,001 - gfedc
+$50,000
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Traditional IRA
+dESCRIPTION: Maturity date is 7/15/2025, interest rate is 1.353%
+SP draftKings Inc. - Class A (dKNg) S (partial) 06/03/2020 06/10/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Traditional IRA
+SP draftKings Inc. - Class A (dKNg) S (partial) 06/03/2020 06/10/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Traditional IRA
+SP Salesforce.com Inc (CRM) [ST] P 06/04/2020 06/11/2020 $15,001 - gfedc
+$50,000
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Traditional IRA
+SP Sempra Energy (SRE) [ST] S 06/04/2020 06/11/2020 $15,001 - gfedcb
+$50,000
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Traditional IRA
+SP Virgin galactic Holdings, Inc. P 06/03/2020 06/10/2020 $1,001 - $15,000 gfedc
+(SPCE) [ST]
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Traditional IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Neuberger Berman - Traditional IRA (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Alan S. Lowenthal , 06/12/2020

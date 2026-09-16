@@ -1,0 +1,117 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT CADDO CNTY OKLA
+GOVERNMENTAL BLDG
+05.00000% 09/01/2030 [GS]
+P 07/24/202608/05/2026$50,001 -
+$100,000
+F S: New
+S O: Hern Family Revocable Trust
+JT Comcast Corporation - Class A
+Common Stock (CMCSA) [ST]
+S 08/05/202608/05/2026$1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+JT Diageo plc Common Stock (DEO) [ST]S 08/05/202608/05/2026$1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+JT EDMOND OKLA PUB WKS AUTH
+SALES TAX & 03.00000%
+07/01/2033 [GS]
+P 07/16/202608/05/2026$15,001 -
+$50,000
+F S: New
+S O: Hern Family Revocable Trust
+JT Estee Lauder Companies, Inc. (EL)
+[ST]
+S 08/05/202608/05/2026$1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+JT GRAND RIVER DAM AUTH OKLA
+REV REV BDS 03.12500%
+06/01/2029 [GS]
+P 07/20/202608/05/2026$15,001 -
+$50,000
+Filing ID #20035134
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Hern Family Revocable Trust
+JT Kenvue Inc. Common Stock (KVUE)
+[ST]
+S 08/05/202608/05/2026$1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+JT KINGFISHER CNTY OKLA EDL
+FACS AUTH EDL 03.00000%
+03/01/2031 [GS]
+P 07/20/202608/05/2026$100,001 -
+$250,000
+F S: New
+S O: Hern Family Revocable Trust
+JT LAWTON OKLA GO BDS SER. 2019
+02.00000% 12/01/2027 [GS]
+P 07/17/202608/05/2026$15,001 -
+$50,000
+F S: New
+S O: Hern Family Revocable Trust
+JT Mondelez International, Inc. - Class A
+Common Stock (MDLZ) [ST]
+S 08/05/202608/05/2026$1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+JT OKLAHOMA CNTY OKLA FIN AUTH
+LEASE REV 03.00000% 12/01/2028
+[GS]
+P 07/17/202608/05/2026$15,001 -
+$50,000
+F S: New
+S O: Hern Family Revocable Trust
+JT Organon & Co. Common Stock (OGN)
+[ST]
+S 08/05/202608/05/2026$1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+JT TULSA CNTY OKLA INDPT SCH
+DIST NO 02.00000% 09/01/2026
+[GS]
+P 07/24/202608/05/2026$100,001 -
+$250,000
+F S: New
+S O: Hern Family Revocable Trust
+JT Versant Media Group, Inc. - Class A
+Common Stock (VSNT) [ST]
+S 08/05/202608/05/2026$1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+[[PAGE 3]]
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Hern Family Foundation (100% Interest) (Owner: JT)
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+D: Family Revocable Trust
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 08/10/2026

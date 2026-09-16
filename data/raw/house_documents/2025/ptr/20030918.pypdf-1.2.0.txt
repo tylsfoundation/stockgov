@@ -1,0 +1,72 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Scott Scott Franklin
+Status: Member
+State/District:FL18
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Comcast Corporation - Class A
+Common Stock (CMCSA) [ST]
+S 08/04/202508/05/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Comcast Corporation - Class A
+Common Stock (CMCSA) [ST]
+S 08/04/202508/05/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Comcast Corporation - Class A
+Common Stock (CMCSA) [ST]
+S 08/04/202508/05/2025$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+Novo Nordisk A/S Common Stock
+(NVO) [ST]
+P 08/04/202508/05/2025$15,001 -
+$50,000
+F S: New
+S O: Fidelity Traditional IRA
+Novo Nordisk A/S Common Stock
+(NVO) [ST]
+P 08/04/202508/05/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+Novo Nordisk A/S Common Stock
+(NVO) [ST]
+P 08/04/202508/05/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Traditional IRA
+Filing ID #20030918
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Novo Nordisk A/S Common Stock
+(NVO) [ST]
+P 08/04/202508/05/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Fidelity Roth IRA
+Fidelity Roth IRA (Owner: SP)
+Fidelity Traditional IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Scott Scott Franklin , 08/14/2025

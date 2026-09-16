@@ -1,0 +1,62 @@
+[[PAGE 1]]
+Filing Id #20016438
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Katherine M. Clark
+Status: Member
+State/District: MA05
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP glaxoSmithKline PlC (gSK) [ST] P 03/02/2020 04/14/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP glaxoSmithKline PlC (gSK) [ST] P 03/02/2020 04/14/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Hasbro, Inc. (HAS) [ST] S 03/02/2020 04/14/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Marathon Petroleum Corporation P 03/02/2020 04/14/2020 $1,001 - $15,000 gfedc
+(MPC) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Marathon Petroleum Corporation S 03/20/2020 04/14/2020 $1,001 - $15,000 gfedc
+(MPC) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Marathon Petroleum Corporation S 03/20/2020 04/14/2020 $1,001 - $15,000 gfedc
+(MPC) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Ritchie bros. Auctioneers S 03/02/2020 04/14/2020 $1,001 - $15,000 gfedc
+Incorporated (RbA) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+SP Ritchie bros. Auctioneers S 03/02/2020 04/14/2020 $1,001 - $15,000 gfedc
+Incorporated (RbA) [ST]
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Skechers u.S.A., Inc. (SKX) [ST] P 03/02/2020 04/14/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise Traditional IRA
+SP Skechers u.S.A., Inc. (SKX) [ST] S 03/02/2020 04/14/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOldINg OF: Ameriprise SEP IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Ameriprise SEP IRA (Owner: SP)
+Ameriprise Traditional IRA (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Katherine M. Clark , 04/20/2020

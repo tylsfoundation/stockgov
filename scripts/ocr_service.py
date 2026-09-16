@@ -12,6 +12,7 @@ import os
 import shutil
 import subprocess
 import tempfile
+import time
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
@@ -38,6 +39,8 @@ class TesseractOCRService:
     """Run generic page OCR using Tesseract and pdf2image."""
 
     extractor_name = "tesseract"
+    _TEMP_DELETE_ATTEMPTS = 5
+    _TEMP_DELETE_BACKOFF_SECONDS = 0.05
 
     def __init__(
         self,
@@ -92,6 +95,44 @@ class TesseractOCRService:
             "or set POPPLER_PATH to its bin directory"
         )
 
+    def _delete_temp_file(self, path: Path) -> None:
+        """Delete a page image, retrying transient Windows file locks."""
+
+        for attempt in range(self._TEMP_DELETE_ATTEMPTS):
+            try:
+                path.unlink(missing_ok=True)
+                return
+            except PermissionError:
+                if attempt + 1 == self._TEMP_DELETE_ATTEMPTS:
+                    raise
+                time.sleep(self._TEMP_DELETE_BACKOFF_SECONDS * (attempt + 1))
+
+    def _ocr_page(self, pytesseract: Any, image: Any) -> str:
+        """OCR one rendered page without passing a PPM handle to Tesseract."""
+
+        image_path: Path | None = None
+        try:
+            # pdf2image returns PIL images whose format is usually PPM.  Letting
+            # pytesseract create/delete a PPM itself can race on Windows while
+            # Tesseract releases its last handle.  Save a fully closed PNG
+            # first, then pass the path so pytesseract does not own that file.
+            if hasattr(image, "save"):
+                file_descriptor, temporary_name = tempfile.mkstemp(
+                    prefix="stockgov_ocr_",
+                    suffix=".png",
+                )
+                os.close(file_descriptor)
+                image_path = Path(temporary_name)
+                image.save(image_path, format="PNG")
+                return pytesseract.image_to_string(str(image_path), lang=self.language).strip()
+            return pytesseract.image_to_string(image, lang=self.language).strip()
+        finally:
+            close = getattr(image, "close", None)
+            if callable(close):
+                close()
+            if image_path is not None:
+                self._delete_temp_file(image_path)
+
     def extract(self, path: Path) -> OCRResult:
         try:
             import pytesseract
@@ -122,7 +163,7 @@ class TesseractOCRService:
         for page_number, image in enumerate(images, 1):
             page_lines.append(f"[[PAGE {page_number}]]")
             try:
-                page_lines.append(pytesseract.image_to_string(image, lang=self.language).strip())
+                page_lines.append(self._ocr_page(pytesseract, image))
             except Exception as exc:
                 warnings.append(f"page {page_number} OCR failed: {type(exc).__name__}: {exc}")
         if warnings:

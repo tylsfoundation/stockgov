@@ -1,0 +1,53 @@
+[[PAGE 1]]
+Filing Id #20020422
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Earl Leroy Carter
+Status: Member
+State/District: gA01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Eaton Vance Large Value [HN] S (partial) 12/28/2021 02/09/2022 $250,001 - gfedcb
+$500,000
+FILINg STATUS: New
+SUbHOLdINg OF: Morgan Stanley Unified Management Account
+Kayne Anderson Sm Quality Val P 12/28/2021 02/09/2022 $15,001 - gfedc
+[HN] $50,000
+FILINg STATUS: New
+SUbHOLdINg OF: Morgan Stanley Unified Management Account
+Neuberger berman Intl AdR [HN] S (partial) 12/28/2021 02/09/2022 $50,001 - gfedcb
+$100,000
+FILINg STATUS: New
+SUbHOLdINg OF: Morgan Stanley Unified Management Account
+Sterling Capital Mgt Mid Val [HN] S (partial) 12/28/2021 02/09/2022 $100,001 - gfedcb
+$250,000
+FILINg STATUS: New
+SUbHOLdINg OF: Morgan Stanley Unified Management Account
+Uniplan Investment Equity REIT S 12/28/2021 02/09/2022 $250,001 - gfedcb
+[OT] $500,000
+FILINg STATUS: New
+SUbHOLdINg OF: Morgan Stanley Unified Management Account
+LOCATION: US
+dESCRIPTION: REIT
+Winslow Large Cap growth [HN] S (partial) 12/28/2021 02/09/2022 $250,001 - gfedcb
+$500,000
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUbHOLdINg OF: Morgan Stanley Unified Management Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan Stanley Unified Management Account
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Earl Leroy Carter , 02/09/2022

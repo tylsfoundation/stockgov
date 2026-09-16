@@ -1,0 +1,42 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Suzan K. DelBene
+Status: Member
+State/District:WA01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Illinois ST Sales Tax Rev JR Oblig
+4.00% Due Jun 15, 2030 [GS]
+P 05/17/202405/17/2024$100,001 -
+$250,000
+F S: New
+JT Pacific Co B1 Bond - Villa del Sol [CS]P 05/24/202405/24/2024$1,000,001 -
+$5,000,000
+F S: New
+D: Real estate bond
+JT Wise CNTY VA Indl Dev Auth Solid
+Waste 1.20% Due Nov 1, 2040 [GS]
+S 05/22/202405/22/2024$500,001 -
+$1,000,000
+F S: New
+JT Wise CNTY VA Indl Dev Auth Solid
+Waste 3.80% Due Nov 1, 2040 [GS]
+P 05/22/202405/22/2024$500,001 -
+$1,000,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 06/10/2024
+Filing ID #20025178

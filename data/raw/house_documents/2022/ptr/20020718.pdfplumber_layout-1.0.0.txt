@@ -1,0 +1,115 @@
+[[PAGE 1]]
+Filing ID #20020718
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Virginia Foxx
+Status: Member
+State/District: NC05
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT AEgON N.V. (AEg) [ST] S 03/07/2021 03/07/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+JT Arlington Asset Investment Corp P 03/31/2021 03/31/2021 $1,001 - $15,000 gfedc
+7.00% (AAIC$B) [ST]
+FIlINg STATuS: New
+JT British American Tobacco P 03/31/2021 03/31/2021 $1,001 - $15,000 gfedc
+Industries, p.l.c. Common Stock
+ADR (BTI) [ST]
+FIlINg STATuS: New
+JT British American Tobacco P 03/29/2021 03/29/2021 $15,001 - gfedc
+Industries, p.l.c. Common Stock $50,000
+ADR (BTI) [ST]
+FIlINg STATuS: New
+JT Capital Power Corp. Ordinary P 03/24/2021 03/24/2021 $1,001 - $15,000 gfedc
+Shares (CPXWF) [ST]
+FIlINg STATuS: New
+JT Capital Power Corp. Ordinary P 03/21/2021 03/21/2021 $15,001 - gfedc
+Shares (CPXWF) [ST] $50,000
+FIlINg STATuS: New
+JT Capital Power Corp. Ordinary P 03/23/2021 03/23/2021 $15,001 - gfedc
+Shares (CPXWF) [ST] $50,000
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FIlINg STATuS: New
+JT Capital Power Corp. Ordinary P 03/08/2021 03/08/2021 $15,001 - gfedc
+Shares (CPXWF) [ST] $50,000
+FIlINg STATuS: New
+JT Clearway Energy, Inc. Class A P 03/23/2021 03/23/2021 $50,001 - gfedc
+(CWEN.A) [ST] $100,000
+FIlINg STATuS: New
+JT ConAgra Brands, Inc. (CAg) [ST] S 03/28/2021 03/28/2021 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+JT ConAgra Brands, Inc. (CAg) [ST] P 03/04/2021 03/04/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+JT Duke Energy Corporation P 03/25/2021 03/25/2021 $15,001 - gfedc
+Depositary Shares, each $50,000
+representing a 1/1,000th interest
+in a share of 5.75% Series A
+Cumulative Redeemable Perpetual
+Preferred Stock (DuK$A) [ST]
+FIlINg STATuS: New
+JT Exxon Mobil Corporation (XOM) P 03/10/2021 03/10/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+JT Fidelity MSCI Health Care Index S 03/08/2021 03/08/2021 $15,001 - gfedc
+ETF (FHlC) [ST] $50,000
+FIlINg STATuS: New
+JT Flowers Foods, Inc. (FlO) [ST] S 03/28/2021 03/28/2021 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+JT general Mills, Inc. (gIS) [ST] S 03/22/2021 03/22/2021 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+JT Hartford Core Bond ETF (HCRB) S 03/08/2021 03/08/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Hercules Capital, Inc. (HTgC) [ST] P 03/07/2021 03/07/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+JT Hercules Capital, Inc. (HTgC) [ST] P 03/04/2021 03/04/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+JT Hercules Capital, Inc. (HTgC) [ST] P 03/08/2021 03/08/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+JT Old Republic International P 03/01/2022 03/01/2021 $15,001 - gfedc
+Corporation (ORI) [ST] $50,000
+FIlINg STATuS: New
+JT Old Republic International P 03/07/2021 03/07/2021 $1,001 - $15,000 gfedc
+Corporation (ORI) [ST]
+FIlINg STATuS: New
+JT Philip Morris International Inc S 03/23/2021 03/23/2021 $100,001 - gfedcb
+(PM) [ST] $250,000
+FIlINg STATuS: New
+JT PPl Corporation (PPl) [ST] S 03/14/2021 03/14/2021 $100,001 - gfedc
+$250,000
+FIlINg STATuS: New
+JT Ryder System, Inc. (R) [ST] P 03/28/2021 03/28/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+JT Sisecam Resources lP Common P 03/30/2021 03/30/2021 $15,001 - gfedc
+units representing limited partner $50,000
+interests (SIRE) [ST]
+FIlINg STATuS: New
+JT Tyson Foods, Inc. (TSN) [ST] S 03/28/2021 03/28/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 4]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Virginia Foxx , 04/05/2022

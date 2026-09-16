@@ -1,0 +1,34 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Brian Mast
+Status: Member
+State/District:FL18
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Tilray Brands, Inc. - Class 2 (TLRY)
+[ST]
+E 05/03/202105/03/2021$1,001 - $15,000
+F S: New
+S O: MS Joint A/C
+D: The Member held stock in Aphria, Inc. On May 3, 2021, an exchange of Member's shares in Aphria for Class 2
+shares of Tilray Brands, Inc. occurred as a result of a merger of the two companies.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+MS Joint A/C
+L: US
+D: Morgan Stanley Joint Advisory Account
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Brian Mast , 10/05/2022
+Filing ID #20021782

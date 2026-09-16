@@ -405,6 +405,19 @@ The shared modules live under `ingestion/`: generic configuration, file discover
 
 `GLOBAL_DEBUG=true` leaves source files in place; `GLOBAL_DRY_RUN=true` suppresses permanent changes. `PROCESSED_DIRECTORY` and `REVIEW_DIRECTORY` are used only after a DB-backed handler returns from a committed transaction. `EXPECTED_ACCURACY`, `CURRENT_EXPECTED_ACCURACY`, `HISTORICAL_EXPECTED_ACCURACY`, `MAX_RETRY_ATTEMPTS`, and `STALE_JOB_TIMEOUT_SECONDS` configure processing targets and retry limits.
 
+For House PTR metadata-backed selection, `run_documents.py` supports an inclusive
+`--from-year` filter. The House processor applies it to `filings.reporting_year`
+and combines it with `--requires-ocr` when requested; it never infers a year from
+the PDF folder name. For example:
+
+```powershell
+python scripts\run_documents.py --document-type house_ptr --mode bulk --from-year 2020
+python scripts\run_documents.py --document-type house_ptr --mode bulk --from-year 2020 --requires-ocr
+```
+
+The run reports the reporting-year and OCR selection, selected document count,
+and documents excluded before the requested year.
+
 ## Reset and rebuild House PTR data
 
 `python scripts\reset_house_ptr_data.py --dry-run` prints the exact derived House trade, staging, extraction, parse-job, and status scope. Run the destructive operation only with `--confirm`; it preserves source PDFs, documents, filings, members, and source metadata. After reset, run a representative parser sample and QA validation before any historical bulk load.

@@ -1,0 +1,72 @@
+[[PAGE 1]]
+Filing ID #20016661
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Lois Frankel
+Status: Member
+State/District: FL21
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Amdocs Limited - ordinary shares s (partial) 05/14/2020 05/14/2020 $1,001 - $15,000 gfedc
+(DoX) [sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+bluebird bio, Inc. (bLuE) [sT] P 04/27/2020 04/27/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+broadridge Financial solutions, s (partial) 04/27/2020 04/27/2020 $1,001 - $15,000 gfedc
+Inc. (bR) [sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+Diageo plc (DEo) [sT] P 05/14/2020 05/14/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+Entergy Corporation (ETR) [sT] P 04/30/2020 04/30/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+FIRsT REPubLIC bANK (FRC) s (partial) 04/27/2020 04/27/2020 $1,001 - $15,000 gfedc
+[sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Fiserv, Inc. (FIsV) [sT] s (partial) 05/13/2020 05/13/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+FLIR systems, Inc. (FLIR) [sT] P 04/27/2020 04/27/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+Marsh & McLennan Companies, P 04/22/2020 04/22/2020 $1,001 - $15,000 gfedc
+Inc. (MMC) [sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+ollie's bargain outlet Holdings, s (partial) 04/27/2020 04/27/2020 $1,001 - $15,000 gfedc
+Inc. (oLLI) [sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+Philip Morris International Inc s (partial) 05/06/2020 05/06/2020 $1,001 - $15,000 gfedc
+(PM) [sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+Zimmer biomet Holdings, Inc. s (partial) 04/27/2020 04/27/2020 $1,001 - $15,000 gfedc
+(ZbH) [sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan stanley IRA - X141
+DEsCRIPTIoN: Managed by MFs Investment MGMT
+Morgan stanley IRA - X142
+DEsCRIPTIoN: Managed by Anchor Capital Advisors LLC
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Lois Frankel , 05/28/2020

@@ -1,0 +1,44 @@
+[[PAGE 1]]
+Filing ID #20016693
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. John Curtis
+Status: Member
+State/District: UT03
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+COLORADO ST CTFS PARTN P 06/09/2020 06/15/2020 $1,001 - $15,000 gfedc
+RURAL COPS 2020 A 4.000%
+12/15/37 [CS]
+FILINg STATUS: New
+DESCRIPTION: COLORADO
+SANgAMON LOgAN & MENARD P 06/05/2020 06/15/2020 $1,001 - $15,000 gfedc
+CNTYS ILL CMNTY UNIT SCH
+DIST NO 015 gO BDS 2020A
+4.000% 12/01/34 [CS]
+FILINg STATUS: New
+DESCRIPTION: SANgAMON, LOgAN, & MENARD COUNTY, IL
+SKAgIT CNTY WASH CONS SCH P 06/03/2020 06/15/2020 $1,001 - $15,000 gfedc
+DIST NO 320 MOUNT VERNON
+UNLTD TAX gO BDS 2017
+4.000% 12/01/32 [CS]
+FILINg STATUS: New
+DESCRIPTION: SKAgIT COUNTY, WASHINgTON
+SULLIVAN CNTY PA SCH DIST P 06/05/2020 06/15/2020 $1,001 - $15,000 gfedc
+gO NTS 2020 3.000% 04/01/28
+B/E DTD 07/07/20 [CS]
+FILINg STATUS: New
+DESCRIPTION: SULLIVAN COUNTY PA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 2]]
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. John Curtis , 06/16/2020

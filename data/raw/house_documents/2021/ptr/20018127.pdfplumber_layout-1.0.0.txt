@@ -1,0 +1,36 @@
+[[PAGE 1]]
+Filing ID #20018127
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. James R. Langevin
+Status: Member
+State/District: RI02
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Apple Inc. (AAPL) [ST] P 01/15/2021 02/08/2021 $100,001 - gfedc
+$250,000
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+PayPal Holdings, Inc. (PYPL) [ST] P 01/28/2021 02/01/2021 $100,001 - gfedc
+$250,000
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+PayPal Holdings, Inc. (PYPL) [OP] S 01/28/2021 02/01/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call option, $247.50, Exp. 2/5/21
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Brokerage Account
+LOCATION: US
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+[[PAGE 2]]
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. James R. Langevin , 02/17/2021

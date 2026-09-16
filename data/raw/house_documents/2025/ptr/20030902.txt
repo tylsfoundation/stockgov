@@ -1,0 +1,144 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Austin Scott
+Status: Member
+State/District:GA08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Ballard Power Systems, Inc. -
+Common Shares (BLDP) [ST]
+S 07/31/202408/11/2025$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: 1000 shares @ 2.295 net 2204.03
+SP Bloom Energy Corporation Class A
+Common Stock (BE) [ST]
+S 07/15/202408/11/2025$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: 1000 shares @ 14.245 net 14,057.15
+SP Clean Energy Fuels Corp. - Common
+Stock (CLNE) [ST]
+S 07/15/202408/11/2025$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: 2500 shares @ 2.675 sale net 6,560.43
+SP Ford Motor Company Common Stock
+(F) [ST]
+S 10/02/202408/11/2025$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: 390 shares @ 10.47 net 3962.61
+SP Ford Motor Company Common Stock
+(F) [ST]
+S 03/04/202508/11/2025$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: 610 shares @ 9.225 net 5,529.72
+Filing ID #20030902
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP GE Aerospace Common Stock (GE)
+[ST]
+S 05/23/202508/11/2025$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: 10 shares @ 233.0955 net 2,249.24
+SP GE Aerospace Common Stock (GE)
+[ST]
+S 06/16/202508/11/2025$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: 10 @ 238.105 net 2,298.33
+SP GE Aerospace Common Stock (GE)
+[ST]
+S 12/13/202408/11/2025$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: 37 shares at 166.21 net 6,052.72
+SP GE Aerospace Common Stock (GE)
+[ST]
+S 01/13/202508/11/2025$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: 42 shares @ 171.8301 net 7,109.06
+SP GE Aerospace Common Stock (GE)
+[ST]
+S 03/04/202508/11/2025$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: 25 shares @ 201.55 net 4,953.09
+SP GE HealthCare Technologies Inc. -
+Common Stock (GEHC) [ST]
+S 03/27/202508/11/2025$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: 50 shares @ 81.45 net 3,955.43
+SP GE Vernova Inc. Common Stock
+(GEV) [ST]
+S 05/14/202508/11/2025$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: 12 shares @ 433.27 net 5,112.13
+SP GE Vernova Inc. Common Stock
+(GEV) [ST]
+S 10/02/202408/11/2025$1,001 - $15,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Vivien G Scott IRA
+D: 11 shares @ 250.86 net 2,669.08
+SP GE Vernova Inc. Common Stock
+(GEV) [ST]
+S 06/16/202508/11/2025$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: 7 shares @ 487.87 net 3,311.72
+SP GE Vernova Inc. Common Stock
+(GEV) [ST]
+S 05/23/202508/11/2025$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: 8 shares @ 467.92 net 3,633.41
+SP Katapult Holdings, Inc. - Common
+Stock (KPLT) [ST]
+S 07/31/202408/11/2025$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: 80 shares @ 21.18 net 1,624.66
+SP Plug Power, Inc. - Common Stock
+(PLUG) [ST]
+S 07/31/202408/11/2025$1,001 - $15,000
+F S: New
+S O: Vivien G Scott IRA
+D: 1000 shares @ 2.495 net 2,400.03
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Vivien G Scott IRA (Owner: SP)
+D: Retirement Account
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Austin Scott , 08/13/2025

@@ -1,0 +1,129 @@
+[[PAGE 1]]
+Filing ID #20017909
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Donald Sternoff Honorable Beyer Jr
+Status: Member
+State/District: VA08
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Apple Inc. (AAPL) [ST] S 12/16/2020 12/23/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 10 units Apple Inc. common
+JT BLF FedFund TDDXX [CS] P 12/16/2020 12/23/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep purchase Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] P 12/23/2020 01/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep purchase Blackrock Liq FDS Fed Fund
+JT BLF FedFund TDDXX [CS] S 12/07/2020 12/23/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 12/14/2020 12/23/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 12/15/2020 12/23/2020 $1,001 - $15,000 gfedc
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] P 12/01/2020 12/23/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep purchase Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 12/02/2020 12/23/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 12/03/2020 12/23/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 12/04/2020 12/23/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep sale Blackrock Liq FDS FedFund
+JT Cognex Corporation (CgNX) [ST] P 12/03/2020 12/23/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 15 units Cognex Corp
+JT Ecolab Inc. (ECL) [ST] P 12/02/2020 12/23/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 5 units Ecolab Inc.
+JT goldman Sachs group, Inc. (gS) P 12/15/2020 12/23/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 5 units goldman Sachs group Inc.
+JT Kadant Inc (KAI) [ST] P 12/15/2020 12/23/2020 $1,001 - $15,000 gfedc
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 45 units Kadant Inc. Common
+JT LVMH Moet Hennessy Louis P 12/02/2020 12/24/2020 $1,001 - $15,000 gfedc
+Vuitton Ordinary Shares (LVMHF)
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 10 units LVMH Moet Hennessy ADR
+JT Microsoft Corporation (MSFT) S 12/23/2020 01/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 10 units of Microsoft Corp
+JT MSCI Inc (MSCI) [ST] P 12/03/2020 12/23/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 5 units MSCI Inc Class A
+JT Roper Technologies, Inc. (ROP) S 12/16/2020 12/23/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 5 units Roper Technologies Inc. common
+JT VgP N.V. NPV Common [OT] P 12/04/2020 12/23/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+LOCATION: BE
+DESCRIPTION: 15 units VgP N.V. NPV Common
+JT Virginia College Bldg 3.00% P 12/14/2020 12/23/2020 $15,001 - gfedc
+02/01/37 [gS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 35,000 units Virginia College Building 3.00% 02/01/37
+JT Walt Disney Company (DIS) [ST] P 12/07/2020 12/23/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 10 units The Walt Disney Co
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Stocks, Bonds, & Mutual Funds (Owner: JT)
+LOCATION: VA, US
+COmmeNTS
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Donald Sternoff Honorable Beyer Jr, 01/01/2021

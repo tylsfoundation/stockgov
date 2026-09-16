@@ -1,0 +1,199 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJ05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Apple Inc. (AAPL) [ST] S (partial) 06/14/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Arcutis Biotherapeutics, Inc. -
+Common stock (ARQT) [ST]
+P 06/15/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Avient Corporation (AVNT) [ST] S (partial) 06/21/202207/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Capital One Financial Corporation
+(COF) [ST]
+S (partial) 06/14/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Daifuku Co., Ltd ADR (DFKCY) [OT] P 06/29/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+L: US
+D: ADR stock
+JT Daifuku Co., Ltd ADR (DFKCY) [OT] P 06/30/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+L: US
+Filing ID #20021351
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: ADR stock
+JT Deere & Company (DE) [ST] S (partial) 06/14/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Diageo plc (DEO) [ST] S 06/29/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Diageo plc (DEO) [ST] S (partial) 06/28/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Equifax, Inc. (EFX) [ST] S (partial) 06/14/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Fidelity National Information
+Services, Inc. (FIS) [ST]
+S (partial) 06/14/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT HCA Healthcare, Inc. (HCA) [ST] S (partial) 06/21/202207/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Intuit Inc. (INTU) [ST] S (partial) 06/14/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT ITT Inc. (ITT) [ST] P 06/21/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Kering Unsponsored ADR (PPRUY)
+[ST]
+P 06/28/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Kering Unsponsored ADR (PPRUY)
+[ST]
+P 06/29/202207/08/2022$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT LHC Group - common stock (LHCG)
+[ST]
+S 06/21/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Manulife Financial Corporation
+(MFC) [ST]
+P 06/28/202207/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Microsoft Corporation (MSFT) [ST] S (partial) 06/14/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Nestle SA Sponsored ADR
+representing Registered Shares Series
+B (NSRGY) [ST]
+S (partial) 06/28/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Nestle SA Sponsored ADR
+representing Registered Shares Series
+B (NSRGY) [ST]
+S (partial) 06/29/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Nintendo Co Ltd ADR (NTDOY) [ST] S (partial) 06/14/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Oracle Corporation (ORCL) [ST] S (partial) 06/14/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Oracle Corporation (ORCL) [ST] S (partial) 06/08/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Shiseido Co Ltd Ord American
+Depositary Shares (SSDOY) [ST]
+S (partial) 06/14/202207/08/2022$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Skyline Champion Corporation (SKY)
+[ST]
+S (partial) 06/21/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Starbucks Corporation (SBUX) [ST] S (partial) 06/14/202207/08/2022$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT SVB Financial Group (SIVB) [ST] S (partial) 06/14/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Target Corporation (TGT) [ST] S (partial) 06/14/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Texas Roadhouse, Inc. (TXRH) [ST] S (partial) 06/21/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Trane Technologies plc (TT) [ST] S (partial) 06/14/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT United Parcel Service, Inc. (UPS) [ST]S (partial) 06/14/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 06/21/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 06/23/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Veritex Holdings, Inc. (VBTX) [ST] P 06/21/202207/07/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT XP Inc. - Class A (XP) [ST] S (partial) 06/14/202207/08/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 07/22/2022

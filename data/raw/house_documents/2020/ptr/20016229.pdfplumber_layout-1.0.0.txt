@@ -1,0 +1,93 @@
+[[PAGE 1]]
+Filing ID #20016229
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Alan S. Lowenthal
+Status: Member
+State/District: CA47
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Alphabet Inc. - Class C Capital P 03/04/2020 03/09/2020 $1,001 - $15,000 gfedc
+Stock (gOOg) [ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP Boeing Company (BA) [ST] S 03/05/2020 03/09/2020 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP Cisco Systems, Inc. (CSCO) [ST] S 02/19/2020 03/09/2020 $15,001 - gfedc
+$50,000
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP global Payments Inc [CS] P 02/28/2020 03/09/2020 $15,001 - gfedc
+$50,000
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+DESCRIPTION: 2.65% interest, maturity date is 2/15/2025
+SP Oracle Corp [CS] P 02/27/2020 03/09/2020 $15,001 - gfedc
+$50,000
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+DESCRIPTION: 2.625% interest, maturity date is 2/15/2023
+SP Paypal Holdings Inc [CS] P 02/27/2020 03/09/2020 $15,001 - gfedc
+$50,000
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+DESCRIPTION: 2.40% interest, maturity date is 10/1/2024
+SP ProShares Short S&P500 (SH) P 02/27/2020 03/09/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP Sunrun Inc. (RuN) [ST] S (partial) 02/27/2020 03/09/2020 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP Sunrun Inc. (RuN) [ST] S (partial) 02/25/2020 03/09/2020 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP Sunrun Inc. (RuN) [ST] S (partial) 02/26/2020 03/09/2020 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP T-Mobile uS, Inc. (TMuS) [ST] P 03/04/2020 03/09/2020 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP Virgin galactic Holdings, Inc. S (partial) 02/18/2020 03/09/2020 $1,001 - $15,000 gfedc
+(SPCE) [ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP Virgin galactic Holdings, Inc. S (partial) 02/20/2020 03/09/2020 $1,001 - $15,000 gfedc
+(SPCE) [ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP Virgin galactic Holdings, Inc. S (partial) 03/06/2020 03/09/2020 $879.89 gfedc
+(SPCE) [ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP Vivint Solar, Inc. (VSLR) [ST] S 02/20/2020 03/09/2020 $15,001 - gfedc
+$50,000
+FILINg STATuS: New
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP Zoetis Inc [CS] P 02/27/2020 03/09/2020 $15,001 - gfedc
+$50,000
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Traditional IRA
+DESCRIPTION: 3.25% interest, maturity date is 2/1/2023
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Neuberger Berman - Traditional IRA (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Alan S. Lowenthal , 03/11/2020

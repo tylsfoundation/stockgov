@@ -1,0 +1,107 @@
+[[PAGE 1]]
+Filing ID #20016258
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Lois Frankel
+Status: Member
+State/District: FL21
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Cinemark Holdings Inc Cinemark s 02/21/2020 02/21/2020 $1,001 - $15,000 gfedc
+Holdings, Inc. (CNK) [sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+ConocoPhillips (CoP) [sT] P 03/11/2020 03/11/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+ConocoPhillips (CoP) [sT] P 03/04/2020 03/04/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+Danaher Corporation (DHR) [sT] s (partial) 02/19/2020 02/19/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+Diamondback Energy, Inc. - P 03/06/2020 03/06/2020 $1,001 - $15,000 gfedc
+Commmon stock (FANG) [sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+Donaldson Company, Inc. (DCI) P 03/06/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Gartner, Inc. (IT) [sT] P 02/28/2020 02/28/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+Honeywell International Inc. P 02/19/2020 02/19/2020 $1,001 - $15,000 gfedc
+(HoN) [sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+Ingersoll Rand Inc. (IR) [sT] s (partial) 02/19/2020 02/19/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+Ingersoll Rand Inc. (IR) [sT] s (partial) 02/20/2020 02/20/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+Ingersoll Rand Inc. (IR) [sT] s (partial) 03/05/2020 03/05/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+Merck & Company, Inc. Common P 02/20/2020 02/20/2020 $1,001 - $15,000 gfedc
+stock (MRK) [sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+Merck & Company, Inc. Common P 02/19/2020 02/19/2020 $1,001 - $15,000 gfedc
+stock (MRK) [sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+Mohawk Industries, Inc. (MHK) s (partial) 03/11/2020 03/11/2020 $1,001 - $15,000 gfedc
+[sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+ollie's bargain outlet Holdings, P 02/28/2020 02/28/2020 $1,001 - $15,000 gfedc
+Inc. (oLLI) [sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+united bankshares, Inc. (ubsI) s 03/11/2020 03/11/2020 $1,001 - $15,000 gfedc
+[sT]
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+Watsco, Inc. (Wso) [sT] P 03/04/2020 03/04/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+Watsco, Inc. (Wso) [sT] P 03/03/2020 03/03/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+Wells Fargo & Company (WFC) s 03/11/2020 03/11/2020 $1,001 - $15,000 gfedc
+[sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+Wells Fargo & Company (WFC) s (partial) 03/04/2020 03/04/2020 $1,001 - $15,000 gfedc
+[sT]
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X141
+Woodward, Inc. (WWD) [sT] s (partial) 03/05/2020 03/05/2020 $1,001 - $15,000 gfedc
+FILING sTATus: New
+subHoLDING oF: Morgan stanley IRA - X142
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan stanley IRA - X141
+DEsCRIPTIoN: Managed by MFs Investment MGMT
+Morgan stanley IRA - X142
+DEsCRIPTIoN: Managed by Anchor Capital Advisors LLC
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Lois Frankel , 03/23/2020

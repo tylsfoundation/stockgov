@@ -1,0 +1,30 @@
+[[PAGE 1]]
+Filing ID #20013849
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Virginia Foxx
+Status: Member
+State/District: NC05
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT BP p.l.c. (BP) [sT] P 12/23/2019 12/23/2019 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+JT Clearway Energy, Inc. Class a P 12/17/2019 12/17/2019 $1,001 - $15,000 gfedc
+(CWEN.a) [sT]
+FIlINg sTaTus: New
+JT Duke Energy Corporation (DuK) P 12/17/2019 12/17/2019 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+JT southern Company (sO) [sT] P 12/09/2019 12/09/2019 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Virginia Foxx , 01/06/2020

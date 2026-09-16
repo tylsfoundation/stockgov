@@ -1,0 +1,67 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. James Comer
+Status: Member
+State/District:KY01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Arista Networks, Inc. Common Stock
+(ANET) [ST]
+S (partial) 07/03/202507/22/2025$1,001 - $15,000
+F S: New
+AT&T Inc. (T) [ST] S (partial) 07/03/202507/22/2025$1,001 - $15,000
+F S: New
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+S (partial) 07/03/202507/22/2025$1,001 - $15,000
+F S: New
+Churchill Downs, Incorporated -
+Common Stock (CHDN) [ST]
+S (partial) 07/03/202507/22/2025$1,001 - $15,000
+F S: New
+Dover Corporation Common Stock
+(DOV) [ST]
+S (partial) 07/03/202507/22/2025$1,001 - $15,000
+F S: New
+Home Depot, Inc. (HD) [ST] S (partial) 07/03/202507/22/2025$1,001 - $15,000
+F S: New
+Marvell Technology, Inc. - Common
+Stock (MRVL) [ST]
+S (partial) 07/03/202507/22/2025$1,001 - $15,000
+F S: New
+PayPal Holdings, Inc. - Common
+Stock (PYPL) [ST]
+S (partial) 07/03/202507/22/2025$1,001 - $15,000
+Filing ID #20030716
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+Salesforce, Inc. Common Stock (CRM)
+[ST]
+S (partial) 07/03/202507/22/2025$1,001 - $15,000
+F S: New
+VeriSign, Inc. - Common Stock
+(VRSN) [ST]
+S (partial) 07/03/202507/22/2025$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. James Comer , 08/11/2025

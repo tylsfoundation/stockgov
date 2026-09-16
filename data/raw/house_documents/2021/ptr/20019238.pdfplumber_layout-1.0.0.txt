@@ -1,0 +1,81 @@
+[[PAGE 1]]
+Filing ID #20019238
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Susie Lee
+Status: Member
+State/District: NV03
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Ball Corporation (BLL) [ST] P 07/13/2021 08/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Ball Corporation (BLL) [ST] P 07/07/2021 08/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Caesars Entertainment, Inc. (CZR) P 07/13/2021 08/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT CarMax Inc (KMX) [ST] S 07/07/2021 08/01/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Churchill Downs, Incorporated P 07/07/2021 08/01/2021 $1,001 - $15,000 gfedc
+(CHDN) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Churchill Downs, Incorporated P 07/13/2021 08/01/2021 $1,001 - $15,000 gfedc
+(CHDN) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Constellation Brands, Inc. (STZ) S 07/07/2021 08/01/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Crown Holdings, Inc. (CCK) [ST] P 07/07/2021 08/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT L Brands, Inc. (LTD) [ST] P 07/13/2021 08/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Live Nation Entertainment, Inc. P 07/13/2021 08/01/2021 $1,001 - $15,000 gfedc
+(LYV) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Live Nation Entertainment, Inc. P 07/07/2021 08/01/2021 $1,001 - $15,000 gfedc
+(LYV) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT NortonLifeLock Inc. (NLOK) [ST] S 07/14/2021 08/01/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Planet Fitness, Inc. (PLNT) [ST] P 07/13/2021 08/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Under Armour, Inc. Class A (UAA) S 07/13/2021 08/01/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT XPO Logistics, Inc. (XPO) [ST] S 07/27/2021 08/01/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+[[PAGE 3]]
+aSSet claSS DetailS
+DSL Living Trust (Owner: JT)
+DSL Living Trust ⇒ Bank of New York Brokerage Account 340 (Owner: JT)
+LOCATION: US
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Susie Lee , 08/13/2021

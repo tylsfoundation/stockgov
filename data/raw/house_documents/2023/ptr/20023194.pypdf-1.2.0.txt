@@ -1,0 +1,128 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Lois Frankel
+Status: Member
+State/District:FL22
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alexandria Real Estate Equities, Inc.
+(ARE) [ST]
+P 05/30/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Alexandria Real Estate Equities, Inc.
+(ARE) [ST]
+P 05/16/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Boston Scientific Corporation (BSX)
+[ST]
+P 05/30/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Boston Scientific Corporation (BSX)
+[ST]
+S (partial) 05/31/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Dollar General Corporation (DG) [ST]S (partial) 06/06/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Dominion Energy, Inc. (D) [ST] P 06/08/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Filing ID #20023194
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Dominion Energy, Inc. (D) [ST] P 06/07/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Eversource Energy (ES) [ST] P 06/02/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+General Dynamics Corporation (GD)
+[ST]
+P 05/24/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Globe Life Inc. (GL) [ST] S (partial) 06/02/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Johnson Controls International plc
+Ordinary Share (JCI) [ST]
+S (partial) 05/24/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X140 > Commonwealth Allmerica Select Resources II
+JP Morgan Chase & Co. (JPM) [ST] S (partial) 06/14/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+National Storage Affiliates Trust
+Common Shares of Beneficial Interest
+(NSA) [ST]
+P 05/22/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+National Storage Affiliates Trust
+Common Shares of Beneficial Interest
+(NSA) [ST]
+P 05/19/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+National Storage Affiliates Trust
+Common Shares of Beneficial Interest
+(NSA) [ST]
+P 05/16/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Sherwin-Williams Company (SHW)
+[ST]
+S (partial) 06/07/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Target Corporation (TGT) [ST] P 06/14/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+The Cigna Group (CI) [ST] P 05/31/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+W.R. Berkley Corporation (WRB)
+[ST]
+P 05/26/202306/22/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley IRA - X140
+Morgan Stanley IRA - X140 ⇒ Commonwealth Allmerica Select Resources II
+Morgan Stanley IRA - X141
+D: Managed by MFS Investment MGMT
+Morgan Stanley IRA - X142
+D: Managed by Anchor Capital Advisors LLC
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 06/24/2023

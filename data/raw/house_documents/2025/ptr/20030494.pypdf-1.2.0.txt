@@ -1,0 +1,348 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Scott Scott Franklin
+Status: Member
+State/District:FL18
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Accenture plc Class A Ordinary
+Shares (ACN) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Air Products and Chemicals, Inc.
+Common Stock (APD) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Amgen Inc. - Common Stock (AMGN)
+[ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+Filing ID #20030494
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Apple Inc. - Common Stock (AAPL)
+[ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+JT Apple Inc. - Common Stock (AAPL)
+[ST]
+S (partial) 01/30/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Joint TBE
+C: Our broker sold partial holdings of four different shares (WMT, SBUX, BRKB and AAPL) on 1/30/24 for a total
+of $25,380.79. He failed to advise me of these transactions and I only discovered it when trying to reconcile my holdings for
+the 2024 financial disclosure..
+SP Automatic Data Processing, Inc. -
+Common Stock (ADP) [ST]
+P 09/25/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of of ADP and ITW in my spouse's Roth IRA on 9/25/24. He failed to notify me of
+these transactions and it wasn't discovered until I was attempting to reconcile our investment holdings for my 2024
+Financial Disclosure.
+JT Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+S (partial) 01/30/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Joint TBE
+C: Our broker sold partial holdings of four different shares (WMT, SBUX, BRKB and AAPL) on 1/30/24 for a total
+of $25,380.79. He failed to advise me of these transactions and I only discovered it when trying to reconcile my holdings for
+the 2024 financial disclosure..
+SP Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Chubb Limited Common Stock (CB)
+[ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Comcast Corporation - Class A
+Common Stock (CMCSA) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Costco Wholesale Corporation -
+Common Stock (COST) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Fidelity Advisor Total Bond CL Z
+(FBKWX) [AB]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP FIRST TR EXCHANGE-TRADED FD
+VI SMID RISNG ETF (SDVY) [AB]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP General Dynamics Corporation
+Common Stock (GD) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Home Depot, Inc. (HD) [ST] P 08/07/202405/19/2025$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Illinois Tool Works Inc. Common
+Stock (ITW) [ST]
+P 09/25/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of ADP and ITW in my spouse's Roth IRA on 9/25/24. He failed to notify me of
+these transactions and it wasn't discovered until I was attempting to reconcile our investment holdings for my 2024
+Financial Disclosure.
+SP INVESCO EXCH TRADED FD TR II
+NASDAQ 100 ETF (QQQM) [AB]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Johnson & Johnson Common Stock
+(JNJ) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Lockheed Martin Corporation
+Common Stock (LMT) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP LORD ABBETT SHORT DURATION
+HIGH YLD I (LSYIX) [AB]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP McDonald's Corporation Common
+Stock (MCD) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Merck & Company, Inc. Common
+Stock (MRK) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Pepsico, Inc. (PEP) [ST] P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Procter & Gamble Company (PG) [ST]P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Starbucks Corporation - Common
+Stock (SBUX) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+JT Starbucks Corporation - Common
+Stock (SBUX) [ST]
+S (partial) 01/30/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Joint TBE
+C: Our broker sold partial holdings of four different shares (WMT, SBUX, BRKB and AAPL) on 1/30/24 for a total
+of $25,380.79. He failed to advise me of these transactions and I only discovered it when trying to reconcile my holdings for
+the 2024 financial disclosure..
+SP The Hershey Company Common
+Stock (HSY) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP United Parcel Service, Inc. Common
+Stock (UPS) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Visa Inc. (V) [ST] P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+SP Walmart Inc. Common Stock (WMT)
+[ST]
+P 08/07/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Roth IRA
+C: Our broker purchased shares of 29 stocks in my spouse's Roth IRA on 8/7/24 in order to rebalance the portfolio
+in accordance with the firm's investment strategy for accounts that size. He failed to notify me of these transactions and it
+wasn't discovered until I was attempting to reconcile our investment holdings for my 2024 Financial Disclosure.
+JT Walmart Inc. Common Stock (WMT)
+[ST]
+S (partial) 01/30/202405/19/2025$1,001 - $15,000
+F S: New
+S O: Fidelity Joint TBE
+C: Our broker sold partial holdings of four different shares (WMT, SBUX, BRKB and AAPL) on 1/30/24 for a total
+of $25,380.79. He failed to advise me of these transactions and I only discovered it when trying to reconcile my holdings for
+the 2024 financial disclosure..
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Fidelity Joint TBE (Owner: JT)
+L: US
+Fidelity Roth IRA (Owner: SP)
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Scott Scott Franklin , 07/03/2025

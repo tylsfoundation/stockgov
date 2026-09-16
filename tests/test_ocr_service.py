@@ -84,6 +84,57 @@ class OCRServiceTests(unittest.TestCase):
         self.assertEqual(first.bytes_extracted, second.bytes_extracted)
         self.assertEqual(first.characters_extracted, second.characters_extracted)
 
+    def test_pil_pages_use_closed_png_paths_and_cleanup(self) -> None:
+        class FakeImage:
+            def __init__(self) -> None:
+                self.closed = False
+
+            def save(self, path: Path, *, format: str) -> None:
+                self.assert_format = format
+                Path(path).write_bytes(b"png")
+
+            def close(self) -> None:
+                self.closed = True
+
+        image = FakeImage()
+        observed: list[str] = []
+
+        def convert_from_path(_path: str, **_: object):
+            return [image]
+
+        def image_to_string(page: str, *, lang: str):
+            observed.append(page)
+            self.assertTrue(Path(page).exists())
+            return "recognized"
+
+        modules = {
+            "pytesseract": SimpleNamespace(
+                pytesseract=SimpleNamespace(tesseract_cmd=None),
+                get_tesseract_version=lambda: "5.3.0\n",
+                image_to_string=image_to_string,
+            ),
+            "pdf2image": SimpleNamespace(convert_from_path=convert_from_path),
+        }
+        which = lambda name: "tesseract.exe" if name == "tesseract" else "pdftoppm.exe"
+        with patch.dict(sys.modules, modules), patch("ocr_service.shutil.which", side_effect=which):
+            result = TesseractOCRService().extract(Path("fixture.pdf"))
+
+        self.assertEqual("PNG", image.assert_format)
+        self.assertTrue(image.closed)
+        self.assertEqual(1, len(observed))
+        self.assertFalse(Path(observed[0]).exists())
+        self.assertIn("recognized", result.text)
+
+    def test_temp_cleanup_retries_transient_windows_lock(self) -> None:
+        service = TesseractOCRService()
+        transient_lock = PermissionError(32, "file in use")
+        with patch.object(Path, "unlink", side_effect=[transient_lock, None]) as unlink, patch(
+            "ocr_service.time.sleep"
+        ) as sleep:
+            service._delete_temp_file(Path("fixture.png"))
+        self.assertEqual(2, unlink.call_count)
+        sleep.assert_called_once()
+
 
 if __name__ == "__main__":
     unittest.main()

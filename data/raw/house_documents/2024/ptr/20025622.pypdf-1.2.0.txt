@@ -1,0 +1,571 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Greg Landsman
+Status: Member
+State/District:OH01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Adobe Inc. - Common Stock (ADBE)
+[ST]
+P 01/12/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Adobe Inc. - Common Stock (ADBE)
+[ST]
+P 05/23/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S (partial) 05/29/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+P 10/12/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S 12/14/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 04/12/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+Filing ID #20025622
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 06/03/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP Ameriprise Financial, Inc. Common
+Stock (AMP) [ST]
+P 01/12/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Ameriprise Financial, Inc. Common
+Stock (AMP) [ST]
+P 01/18/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Ameriprise Financial, Inc. Common
+Stock (AMP) [ST]
+S 04/24/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Analog Devices, Inc. - Common Stock
+(ADI) [ST]
+P 04/24/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Analog Devices, Inc. - Common Stock
+(ADI) [ST]
+S 05/30/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP Apple Inc. - Common Stock (AAPL)
+[ST]
+P 06/06/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Apple Inc. - Common Stock (AAPL)
+[ST]
+S (partial) 05/29/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP BlackRock, Inc. Common Stock (BLK)
+[ST]
+P 01/12/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT BlackRock, Inc. Common Stock (BLK)
+[ST]
+P 02/02/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT BlackRock, Inc. Common Stock (BLK)
+[ST]
+S 03/09/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Cadence Design Systems, Inc. -
+Common Stock (CDNS) [ST]
+P 11/16/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP Cadence Design Systems, Inc. -
+Common Stock (CDNS) [ST]
+P 11/15/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Cadence Design Systems, Inc. -
+Common Stock (CDNS) [ST]
+S 04/12/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP Cencora, Inc. Common Stock (COR)
+[ST]
+P 05/29/202408/08/2024$15,001 -
+$50,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Cheniere Energy, Inc. Common Stock
+(LNG) [ST]
+P 09/19/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Costco Wholesale Corporation -
+Common Stock (COST) [ST]
+P 01/12/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Costco Wholesale Corporation -
+Common Stock (COST) [ST]
+P 05/15/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT CrowdStrike Holdings, Inc. - Class A
+Common Stock (CRWD) [ST]
+S 05/02/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP CrowdStrike Holdings, Inc. - Class A
+Common Stock (CRWD) [ST]
+P 05/23/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT CrowdStrike Holdings, Inc. - Class A
+Common Stock (CRWD) [ST]
+P 12/18/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Diamondback Energy, Inc. - Common
+Stock (FANG) [ST]
+S 01/18/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Diamondback Energy, Inc. - Common
+Stock (FANG) [ST]
+P 10/18/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Diamondback Energy, Inc. - Common
+Stock (FANG) [ST]
+S 11/16/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Diamondback Energy, Inc. - Common
+Stock (FANG) [ST]
+P 07/17/202408/08/2024$15,001 -
+$50,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Dollar General Corporation Common
+Stock (DG) [ST]
+S 01/18/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Eli Lilly and Company Common Stock
+(LLY) [ST]
+P 01/18/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Eli Lilly and Company Common Stock
+(LLY) [ST]
+S 02/02/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Eli Lilly and Company Common Stock
+(LLY) [ST]
+P 05/11/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Eli Lilly and Company Common Stock
+(LLY) [ST]
+S (partial) 06/03/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP Estee Lauder Companies, Inc. (EL)
+[ST]
+S 08/15/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Exxon Mobil Corporation Common
+Stock (XOM) [ST]
+S 05/29/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Honeywell International Inc. (HON)
+[ST]
+S 01/18/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Horizon Pharma [OT] P 01/18/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+L: US
+D: ADR Stock
+JT Horizon Pharma [OT] S 02/01/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+L: US
+D: ADR Stock
+SP Horizon Therapeutics Public Limited
+Company - Ordinary Shares (HZNP)
+[ST]
+S 02/03/202308/08/2024$1,001 - $15,000
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Intuitive Surgical, Inc. - Common
+Stock (ISRG) [ST]
+P 05/04/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Intuitive Surgical, Inc. - Common
+Stock (ISRG) [ST]
+P 05/30/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Intuitive Surgical, Inc. - Common
+Stock (ISRG) [ST]
+S (partial) 08/02/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Intuitive Surgical, Inc. - Common
+Stock (ISRG) [ST]
+S 10/12/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP Intuitive Surgical, Inc. - Common
+Stock (ISRG) [ST]
+P 02/01/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Intuitive Surgical, Inc. - Common
+Stock (ISRG) [ST]
+S 07/17/202408/08/2024$15,001 -
+$50,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Intuitive Surgical, Inc. - Common
+Stock (ISRG) [ST]
+P 06/20/202408/08/2024$15,001 -
+$50,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP Intuitive Surgical, Inc. - Common
+Stock (ISRG) [ST]
+S 07/17/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP L3Harris Technologies, Inc. Common
+Stock (LHX) [ST]
+P 07/17/202408/08/2024$1,001 - $15,000
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Linde plc - Ordinary Shares (LIN)
+[ST]
+S (partial) 01/18/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Linde plc - Ordinary Shares (LIN)
+[ST]
+S 06/22/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 05/30/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S (partial) 08/02/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S (partial) 05/29/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 01/04/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT NextEra Energy, Inc. Common Stock
+(NEE) [ST]
+S 01/18/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 02/01/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S (partial) 03/27/202308/08/2024$1,001 - $15,000
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Rockefeller Capital Management (1)
+JT NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S (partial) 05/30/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S (partial) 05/29/202408/08/2024$15,001 -
+$50,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 01/12/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S (partial) 08/02/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S (partial) 06/03/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Parker-Hannifin Corporation
+Common Stock (PH) [ST]
+P 06/03/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Parker-Hannifin Corporation
+Common Stock (PH) [ST]
+P 05/02/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Parker-Hannifin Corporation
+Common Stock (PH) [ST]
+P 01/18/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Parker-Hannifin Corporation
+Common Stock (PH) [ST]
+S (partial) 04/27/202308/08/2024$1,001 - $15,000
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Parker-Hannifin Corporation
+Common Stock (PH) [ST]
+S 05/04/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP Regeneron Pharmaceuticals, Inc. -
+Common Stock (REGN) [ST]
+P 08/11/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP RTX Corporation Common Stock
+(RTX) [ST]
+S 09/21/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Salesforce, Inc. Common Stock (CRM)
+[ST]
+P 01/12/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Salesforce, Inc. Common Stock (CRM)
+[ST]
+P 04/24/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Salesforce, Inc. Common Stock (CRM)
+[ST]
+S 10/18/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP TE Connectivity Ltd. New Switzerland
+Registered Shares (TEL) [ST]
+P 05/29/202408/08/2024$15,001 -
+$50,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Trimble Inc. - Common Stock (TRMB)
+[ST]
+S 11/17/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+S 05/15/202408/08/2024$1,001 - $15,000
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Rockefeller Capital Management (1)
+SP Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+S (partial) 05/25/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+P 03/09/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+S 04/24/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+P 06/23/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+S (partial) 08/02/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP Ulta Beauty, Inc. - Common Stock
+(ULTA) [ST]
+P 05/29/202408/08/2024$15,001 -
+$50,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT United Rentals, Inc. Common Stock
+(URI) [ST]
+P 01/04/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP United Rentals, Inc. Common Stock
+(URI) [ST]
+P 01/12/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT United Rentals, Inc. Common Stock
+(URI) [ST]
+S (partial) 01/18/202308/08/2024$1,001 - $15,000
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Rockefeller Capital Management (1)
+JT United Rentals, Inc. Common Stock
+(URI) [ST]
+S 05/11/202308/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT United Rentals, Inc. Common Stock
+(URI) [ST]
+P 06/03/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT United Rentals, Inc. Common Stock
+(URI) [ST]
+S 06/20/202408/08/2024$15,001 -
+$50,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP Veralto Corp Common Stock (VLTO)
+[ST]
+S 05/29/202408/08/2024$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Rockefeller Capital Management (1) (100% Interest) (Owner: JT)
+L: US
+Sarah Landsman Traditional IRA (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Greg Landsman , 08/14/2024

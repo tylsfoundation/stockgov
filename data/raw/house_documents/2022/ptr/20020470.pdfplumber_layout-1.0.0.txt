@@ -1,0 +1,99 @@
+[[PAGE 1]]
+Filing ID #20020470
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Lois Frankel
+Status: Member
+State/District: FL21
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+A.O. Smith Corporation (AOS) [ST] S (partial) 02/07/2022 02/26/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Citigroup, Inc. (C) [ST] S (partial) 01/26/2022 02/26/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Clorox Company (CLX) [ST] S 02/07/2022 02/26/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Diamondback Energy, Inc. - P 01/27/2022 02/26/2022 $1,001 - $15,000 gfedc
+Commmon Stock (FANG) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Hexcel Corporation (HXL) [ST] S 02/10/2022 02/26/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Kimberly-Clark Corporation S (partial) 02/09/2022 02/26/2022 $1,001 - $15,000 gfedc
+(KMb) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Kimberly-Clark Corporation S (partial) 02/10/2022 02/26/2022 $1,001 - $15,000 gfedc
+(KMb) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Lockheed Martin Corporation S (partial) 01/19/2022 02/26/2022 $1,001 - $15,000 gfedc
+(LMT) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+McKesson Corporation (MCK) [ST] P 01/20/2022 02/26/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+McKesson Corporation (MCK) [ST] P 02/07/2022 02/26/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Medtronic plc. Ordinary Shares S (partial) 02/03/2022 02/26/2022 $1,001 - $15,000 gfedc
+(MDT) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Medtronic plc. Ordinary Shares S (partial) 02/09/2022 02/26/2022 $1,001 - $15,000 gfedc
+(MDT) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Medtronic plc. Ordinary Shares S (partial) 02/02/2022 02/26/2022 $1,001 - $15,000 gfedc
+(MDT) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+NuVasive, Inc. (NuVA) [ST] S 02/14/2022 02/26/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+NXP Semiconductors N.V. (NXPI) P 02/09/2022 02/26/2022 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Pfizer, Inc. (PFE) [ST] P 02/02/2022 02/26/2022 $1,001 - $15,000 gfedc
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Pfizer, Inc. (PFE) [ST] P 02/09/2022 02/26/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+PPG Industries, Inc. (PPG) [ST] P 02/02/2022 02/26/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+SS&C Technologies Holdings, Inc. S (partial) 02/07/2022 02/26/2022 $1,001 - $15,000 gfedc
+(SSNC) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan Stanley IRA - X141
+DESCRIPTION: Managed by MFS Investment MGMT
+Morgan Stanley IRA - X142
+DESCRIPTION: Managed by Anchor Capital Advisors LLC
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 02/27/2022

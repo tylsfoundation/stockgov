@@ -1,0 +1,41 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. David Kustoff
+Status: Member
+State/District:TN08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT AT&T Inc. (T) [ST] E 04/11/202204/11/2022$4,450.50
+F S: New
+S O: Raymond James Retail Account
+D: AT&T was the parent company of Warner Media until it was spun off and merged into Discovery, Inc. The
+resulting entity from the merger is Warner Bros. Discovery and, as part of the consideration for the transaction, AT&T
+shareholders received shares of the new company based on their AT&T holdings when the transaction closed.
+JT Warner Bros. Discovery, Inc. - Series
+A (WBD) [ST]
+E 04/11/202204/11/2022$4,450.50
+F S: New
+S O: Raymond James Retail Account
+D: AT&T was the parent company of Warner Media until it was spun off and merged into Discovery, Inc. The
+resulting entity from the merger is Warner Bros. Discovery and, as part of the consideration for the transaction, AT&T
+shareholders received shares of the new company based on their AT&T holdings when the transaction closed.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Raymond James Retail Account (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+Filing ID #20020875
+[[PAGE 2]]
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. David Kustoff , 05/02/2022

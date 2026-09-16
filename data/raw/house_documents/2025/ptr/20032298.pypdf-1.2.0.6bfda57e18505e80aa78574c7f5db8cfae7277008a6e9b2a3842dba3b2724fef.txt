@@ -1,0 +1,69 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Rick Larsen
+Status: Member
+State/District:WA02
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Abbott Laboratories Common Stock
+(ABT) [ST]
+P 10/06/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: part of quarterly portfolio rebalancing
+American Electric Power Company,
+Inc. (AEP) [ST]
+P 10/06/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: part of quarterly portfolio rebalancing
+Colgate-Palmolive Company Common
+Stock (CL) [ST]
+S 10/06/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: part of quarterly portfolio rebalancing
+Old Dominion Freight Line, Inc. -
+Common Stock (ODFL) [ST]
+S 10/06/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: part of quarterly portfolio rebalancing
+Walmart Inc. Common Stock (WMT)
+[ST]
+P 10/06/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: part of quarterly portfolio rebalancing
+Filing ID #20032298
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Zoetis Inc. Class A Common Stock
+(ZTS) [ST]
+S 10/06/202510/07/2025$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: part of quarterly portfolio rebalancing
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Richard R Larsen IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Rick Larsen , 10/16/2025

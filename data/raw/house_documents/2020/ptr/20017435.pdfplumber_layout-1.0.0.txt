@@ -1,0 +1,74 @@
+[[PAGE 1]]
+Filing ID #20017435
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Donald Sternoff Beyer Jr
+Status: Member
+State/District: VA08
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT BLF FedFund TDDXX [CS] S 09/15/2020 09/27/2020 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fed Fund
+JT BLF FedFund TDDXX [CS] P 09/11/2020 09/27/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase of Blackrock Liq FDS Fed Fund
+JT BLF FedFund TDDXX [CS] S 09/09/2020 09/27/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fed Fund
+JT BLF FedFund TDDXX [CS] S 09/03/2020 09/27/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fed Fund
+JT BLF FedFund TDDXX [CS] S 09/02/2020 09/27/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fed Fund
+JT BLF FedFund TDDXX [CS] S 09/29/2020 10/01/2020 $15,001 - gfedc
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+$50,000
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Lig FED Fed Fund-in
+JT California St Various 5.00% P 09/29/2020 10/01/2020 $15,001 - gfedc
+04/01/37 [GS] $50,000
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 20,000 units of California St Various 5.00% 04/01/37
+JT Halifax Cnty VA Indl Dev Var P 09/01/2020 09/27/2020 $15,001 - gfedc
+12/01/41 [GS] $50,000
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: purchase 25 units Halifax County Virginia Industrial Development Var 12/01/41
+JT Pepsico, Inc. (PEP) [ST] S 09/11/2020 09/27/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 25 units Pepsico Inc
+JT VGP Group [PS] P 09/09/2020 09/27/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+LOCATION: Antwerp, BE
+DESCRIPTION: 25 units VGP Group NV
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Stocks, Bonds, & Mutual Funds (Owner: JT)
+LOCATION: VA, US
+COmmeNTS
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Donald Sternoff Beyer Jr, 10/01/2020

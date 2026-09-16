@@ -1,0 +1,198 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. David J. Taylor
+Status: Member
+State/District:OH02
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alphabet Inc. - Class A Common Stock
+(GOOGL) [ST]
+S 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 01/29/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+American Electric Power Company,
+Inc. (AEP) [ST]
+P 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Amgen Inc. - Common Stock (AMGN)
+[ST]
+P 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Amgen Inc. - Common Stock (AMGN)
+[ST]
+S 01/29/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Filing ID #20033916
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+AT&T Inc. (T) [ST] P 01/29/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 01/29/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+S 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Eaton Corporation, PLC Ordinary
+Shares (ETN) [ST]
+P 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Eli Lilly and Company Common Stock
+(LLY) [ST]
+S 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Home Depot, Inc. (HD) [ST] S 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Installed Building Products, Inc.
+Common Stock (IBP) [ST]
+S 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Installed Building Products, Inc.
+Common Stock (IBP) [ST]
+P 01/29/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+P 01/29/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+JP Morgan Chase & Co. CommonP 01/16/202601/30/2026$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Stock (JPM) [ST]
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Kroger Company (KR) [ST] P 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Lam Research Corporation - Common
+Stock (LRCX) [ST]
+S 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Medpace Holdings, Inc. - Common
+Stock (MEDP) [ST]
+S 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Medpace Holdings, Inc. - Common
+Stock (MEDP) [ST]
+P 01/29/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 01/29/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Parker-Hannifin Corporation
+Common Stock (PH) [ST]
+S 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Procter & Gamble Company (PG) [ST]S 01/29/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Progressive Corporation (PGR) [ST] P 01/16/202601/30/2026$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Prologis, Inc. Common Stock (PLD)
+[ST]
+S 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Prologis, Inc. Common Stock (PLD)
+[ST]
+P 01/29/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+RPM International Inc. Common
+Stock (RPM) [ST]
+P 01/29/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+RPM International Inc. Common
+Stock (RPM) [ST]
+P 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Salesforce, Inc. Common Stock (CRM)
+[ST]
+P 01/29/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Vertex Pharmaceuticals Incorporated
+- Common Stock (VRTX) [ST]
+S 01/29/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+Visa Inc. (V) [ST] P 01/16/202601/30/2026$1,001 - $15,000
+F S: New
+S O: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+David Taylor Trust
+David Taylor Trust ⇒ Sardinia Ready Mix 401(k) - Dave
+[[PAGE 5]]
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. David J. Taylor , 02/02/2026

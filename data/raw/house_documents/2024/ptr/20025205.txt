@@ -1,0 +1,36 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Abigail Spanberger
+Status: Member
+State/District:VA07
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP L3Harris Technologies, Inc. Common
+Stock (LHX) [ST]
+S 06/04/202406/04/2024$1,001 - $15,000
+F S: New
+S O: Shares of Restricted Stock
+D: On 6/1/2021, spouse was granted a Restricted Unit Award of L3Harris Technologies, Inc common stock as
+part of his compensation pursuant to the provisions of the Harris Corporation 2015 Equity Incentive Plan ( see
+https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018843.pdf ). These RSUs vested on 6/1/2024, were
+distributed on 6/3/2023 at the end of the day, and were sold as soon as possible on 6/4/2024.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Shares of Restricted Stock (Owner: SP)
+L: US
+D: Restricted stock options granted as part of spouse's compensation from his employer.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Abigail Spanberger , 06/05/2024
+Filing ID #20025205

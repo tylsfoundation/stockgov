@@ -1,0 +1,279 @@
+[[PAGE 1]]
+Filing ID #20020354
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Donald Sternoff Beyer Jr.
+Status: Member
+State/District: VA08
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Accenture plc Class A Ordinary P 02/02/2022 02/17/2022 $1,001 - $15,000 gfedc
+Shares (ACN) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 5 units Accenture
+JT Accenture plc Class A Ordinary S 02/28/2022 03/01/2022 $15,001 - gfedcb
+Shares (ACN) [ST] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 65 units Accenture PLC
+JT Alphabet Inc. - Class C Capital S 02/28/2022 03/01/2022 $15,001 - gfedcb
+Stock (gOOg) [ST] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 16 units Alphabet Inc Class C
+JT Amazon.com, Inc. (AMZN) [ST] S 02/28/2022 03/01/2022 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 9 units Amazon.com Inc
+JT Apple Inc. (AAPL) [ST] S 02/28/2022 03/01/2022 $50,001 - gfedcb
+$100,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 400 units Apple Inc common
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT ASML Holding N.V. - New York S 02/28/2022 03/01/2022 $15,001 - gfedcb
+Registry Shares (ASML) [ST] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 28 units ASML Holding NV
+JT Berkshire Hathaway Inc. New S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedcb
+(BRK.B) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 36 units Berkshire Hathaway Inc Class B
+JT Berkshire Hathaway Inc. New P 02/03/2022 02/17/2022 $1,001 - $15,000 gfedc
+(BRK.B) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: six units Berkshire Hathaway B
+JT Block, Inc. Class A Common Stock, S 02/10/2022 02/17/2022 $1,001 - $15,000 gfedcb
+(SQ) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 30 units Block Inc Class A; $1,578 capital gain
+JT Cadence Design Systems, Inc. S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedc
+(CDNS) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 80 units Cadence Design System Inc
+JT CarMax Inc (KMX) [ST] S 02/01/2022 02/01/2022 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 290 units of Carmax Inc. Common
+JT Cognex Corporation (CgNX) [ST] S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 115 units Cognex Corp common
+JT Costco Wholesale Corporation S 02/28/2022 03/01/2022 $15,001 - gfedcb
+(COST) [ST] $50,000
+FILINg STATUS: New
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 40 units Costco Wholesale Corp
+JT CryoPort, Inc. (CYRX) [ST] S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 220 units Cryoport Inc common
+JT CVS Health Corporation (CVS) S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 90 units CVS Health Corp common
+JT Ecolab Inc. (ECL) [ST] S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 60 units Ecolab Inc common
+JT Estee Lauder Companies, Inc. (EL) S 02/28/2022 03/01/2022 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 115 units Estee Lauder Companies Class A
+JT Fontana Calif Univ Sch 3.00% P 02/08/2022 02/17/2022 $15,001 - gfedc
+08/01/38 [gS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 15,000 units Fontana Calif Univ Sch 3.00% 08/01/38
+JT Franco-Nevada Corporation (FNV) S 02/28/2022 03/02/2022 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 35 units Franco-Nevada Corp
+JT goldman Sachs group, Inc. (gS) S 02/28/2022 03/01/2022 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 75 units goldman Sachs group Inc common
+JT guardant Health, Inc. (gH) [ST] S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedc
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 50 units guardant Health Inc common
+JT Illumina, Inc. (ILMN) [ST] S 02/28/2022 03/01/2022 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 50 units Illumina Inc common
+JT Impinj, Inc. (PI) [ST] S 02/28/2022 03/01/2022 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 255 units Impinj Inc common
+JT Intellia Therapeutics, Inc. (NTLA) S 02/28/2022 03/01/2022 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 215 units Intellia Therapeutics Inc common
+JT Intuitive Surgical, Inc. (ISRg) [ST] S 02/28/2022 03/01/2022 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 75 units Intuitive Surgical Inc.
+JT iShares gold Trust Shares of the S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedcb
+iShares gold Trust (IAU) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 150 units iShares gold Trust
+JT JP Morgan Chase & Co. (JPM) [ST] S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 105 units JP Morgan Chase & Co
+JT Kadant Inc (KAI) [ST] S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 80 units Kadant Inc common
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT LVMH Moet Hennessy Louis S 02/28/2022 03/01/2022 $15,001 - gfedcb
+Vuitton Ordinary Shares (LVMHF) $50,000
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 175 units LVMH Moet Hennessy ADR
+JT Microsoft Corporation (MSFT) S 02/28/2022 03/01/2022 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 150 units Microsoft Corp
+JT Morgan Stanley FR Var S 02/02/2022 02/17/2022 $1,001 - $15,000 gfedc
+05/04/2027 [CS]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: redemption of 15,000 units Morgan Stanley FR Var 05/04/2027
+JT MSCI Inc (MSCI) [ST] S 02/03/2022 02/17/2022 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of four units of MSCI Inc; $1,098 capital gain
+JT MSCI Inc (MSCI) [ST] S 02/28/2022 03/01/2022 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 51 units MSCI Inc common
+JT Nasdaq, Inc. (NDAQ) [ST] S 02/28/2022 03/01/2022 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 125 units NASDAQ Inc
+JT Nestle SA Sponsored ADR S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedcb
+representing Registered Shares
+Series B (NSRgY) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 100 units Nestle Nam Spon ADR
+JT Nike, Inc. (NKE) [ST] S 02/28/2022 03/01/2022 $15,001 - gfedcb
+$50,000
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 175 units Nike Inc Class B common
+JT Novartis Ag (NVS) [ST] S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 55 units Novartis Ag Spon ADR
+JT NVIDIA Corporation (NVDA) [ST] S 02/28/2022 03/01/2022 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 200 units Nvidia Corp
+JT Pepsico, Inc. (PEP) [ST] S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 45 units of Pepsico Inc common
+JT Regeneron Pharmaceuticals, Inc. S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedcb
+(REgN) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 21 units Regeneron Pharmaceuticals
+JT Roper Technologies, Inc. (ROP) S 02/28/2022 03/01/2022 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 40 units Roper Technologies Inc common
+JT Target Corporation (TgT) [ST] S 02/28/2022 03/01/2022 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 115 units Target Corp
+JT Terreno Realty Corporation S 02/28/2022 03/01/2022 $15,001 - gfedcb
+(TRNO) [ST] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 225 units Terreno Realty Corp
+JT TJX Companies, Inc. (TJX) [ST] S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedc
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 130 units TJX Cos Inc new common
+JT UnitedHealth group Incorporated S 02/28/2022 03/01/2022 $15,001 - gfedcb
+Common Stock (UNH) [ST] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 45 units UnitedHealth group Inc
+JT Verizon Communications Inc. (VZ) S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 79 units Verizon Communications Inc
+JT Visa Inc. (V) [ST] S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 70 units Visa Inc Class A
+JT Walt Disney Company (DIS) [ST] S 02/28/2022 03/01/2022 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 100 units Walt Disney Co
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Stocks, Bonds, & Mutual Funds (Owner: JT)
+LOCATION: VA, US
+COmmeNTS
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Donald Sternoff Beyer Jr., 03/03/2022

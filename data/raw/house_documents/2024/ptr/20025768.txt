@@ -1,0 +1,44 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Suzan K. DelBene
+Status: Member
+State/District:WA01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Maryland ST Go BDS Ser. 2017 B
+5.00 % Due Aug 1, 2026 [GS]
+S 08/29/202408/29/2024$500,001 -
+$1,000,000
+F S: New
+JT Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 08/31/202408/31/2024$100,001 -
+$250,000
+F S: New
+D: Vested shares sold to separate trust not for the benefit of filer or spouse pursuant to forward contract dated
+2/9/2022
+JT Seattle WA MN LT PW 0%45 PWR
+Util Due 05/01/45 [GS]
+P 08/23/202408/23/2024$1,001 - $15,000
+F S: New
+JT UT ST Tran Auth 5%36 Excise Tax
+Due 06/15/36 [GS]
+P 08/29/202408/29/2024$500,001 -
+$1,000,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 09/09/2024
+Filing ID #20025768

@@ -1,0 +1,64 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Brad Sherman
+Status: Member
+State/District:CA30
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+US Treasury Inflation Protected Note
+[GS]
+S 11/03/202211/03/2022 $250,001 -
+$500,000
+F S: New
+D: This item appears on Page 18 of the filer's 2021 annual financial disclosure statement.
+US Treasury Inflation Protected Note
+[GS]
+S 11/03/202211/03/2022 $500,001 -
+$1,000,000
+F S: New
+D: This item appears on page 15 of the filer's 2021 annual financial disclosure statement (4th asset listed on
+page).
+US Treasury Inflation Protected Note
+#2 [GS]
+S 11/03/202211/03/2022 $250,001 -
+$500,000
+F S: New
+D: This item appears on page 15 of the filer's 2021 annual financial disclosure statement (5th asset listed on
+page).
+US Treasury Inflation Protected
+Notes [GS]
+S (partial) 11/07/202211/07/2022 $250,001 -
+$500,000
+F S: New
+D: This item was acquired by filer on 8/26/2022 as reported via periodic transaction report.
+US Treasury Notes [GS] S 11/03/202211/03/2022 $250,001 -
+$500,000
+F S: New
+D: This item was acquired on 5/10/2022 as reported via periodic transaction report.
+US Treasury Notes [GS] S 11/03/202211/03/2022 $15,001 - $50,000
+F S: New
+Filing ID #20021945
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: These were acquired on 7/13/2022 as reported via periodic transaction report.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Brad Sherman , 11/10/2022

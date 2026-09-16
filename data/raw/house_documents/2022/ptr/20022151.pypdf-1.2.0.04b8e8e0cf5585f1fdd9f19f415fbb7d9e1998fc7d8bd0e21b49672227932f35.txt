@@ -1,0 +1,85 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Peter Meijer
+Status: Member
+State/District:MI03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alibaba Group Holding Limited
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+P 02/11/202102/11/2021 $1,001 - $15,000
+F S: New
+S O: MEIJER GST EXEMPT 97 FBO PETER
+Centene Corporation (CNC) [ST] S 02/16/202102/16/2021$581.86
+F S: New
+S O: MEIJER GST EXEMPT 97 FBO PETER
+Chevron Corporation (CVX) [ST] S 02/16/202102/16/2021$651.88
+F S: New
+S O: MEIJER GST EXEMPT 97 FBO PETER
+Equifax, Inc. (EFX) [ST] S 01/16/202101/16/2021 $902.42
+F S: New
+S O: MEIJER GST EXEMPT 97 FBO PETER
+Lyft, Inc. - Class A (LYFT) [ST] S 02/16/202102/16/2021$876.76
+F S: New
+S O: MEIJER GST EXEMPT 97 FBO PETER
+Masco Corporation (MAS) [ST] S 02/16/202102/16/2021$802.14
+F S: New
+S O: MEIJER GST EXEMPT 97 FBO PETER
+Filing ID #20022151
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+PACCAR Inc. (PCAR) [ST] S 02/16/202102/16/2021$971.25
+F S: New
+S O: MEIJER GST EXEMPT 97 FBO PETER
+Park Hotels & Resorts Inc. (PK) [ST] S 02/16/202102/16/2021$971.25
+F S: New
+S O: MEIJER GST EXEMPT 97 FBO PETER
+Pilgrim's Pride Corporation (PPC)
+[ST]
+S 01/26/202101/26/2021$819.48
+F S: New
+S O: MEIJER GST EXEMPT 97 FBO PETER
+Ross Stores, Inc. (ROST) [ST] S 02/16/202102/16/2021$1,001 - $15,000
+F S: New
+S O: MEIJER GST EXEMPT 97 FBO PETER
+Seagen Inc. (SGEN) [ST] S 02/16/202102/16/2021$796.67
+F S: New
+S O: MEIJER GST EXEMPT 97 FBO PETER
+The Goodyear Tire & Rubber
+Company (GT) [ST]
+S 02/16/202102/16/2021$496.90
+F S: New
+S O: MEIJER GST EXEMPT 97 FBO PETER
+Tiffany & Co. (TIF) [ST] S 01/07/202101/07/2021$15,001 -
+$50,000
+F S: New
+S O: MEIJER GST EXEMPT 97 FBO PETER
+TJX Companies, Inc. (TJX) [ST] S 02/16/202102/16/2021$674.96
+F S: New
+S O: MEIJER GST EXEMPT 97 FBO PETER
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+MEIJER GST EXEMPT 97 FBO PETER
+[[PAGE 3]]
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Peter Meijer , 12/30/2022

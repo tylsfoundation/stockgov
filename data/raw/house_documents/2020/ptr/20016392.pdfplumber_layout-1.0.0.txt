@@ -1,0 +1,49 @@
+[[PAGE 1]]
+Filing ID #20016392
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Peter Welch
+Status: Member
+State/District: VT00
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+frontdoor, inc. (FTDR) [ST] S 03/16/2020 03/18/2020 $1,001 - $15,000 gfedc
+FILINg STaTUS: New
+SUbHoLDINg oF: Welch account
+general Mills, Inc. (gIS) [ST] S 03/17/2020 03/19/2020 $1,001 - $15,000 gfedcb
+FILINg STaTUS: New
+SUbHoLDINg oF: Welch account
+Medtronic plc. ordinary Shares P 03/09/2020 03/11/2020 $1,001 - $15,000 gfedc
+(MDT) [ST]
+FILINg STaTUS: New
+SUbHoLDINg oF: Welch account
+Medtronic plc. ordinary Shares S 04/03/2020 04/05/2020 $1,001 - $15,000 gfedc
+(MDT) [ST]
+FILINg STaTUS: New
+SUbHoLDINg oF: Welch account
+PayPal Holdings, Inc. (PYPL) [ST] P 03/20/2020 03/24/2020 $1,001 - $15,000 gfedc
+FILINg STaTUS: New
+SUbHoLDINg oF: Welch account
+US Treasury Note [gS] S 03/23/2020 03/24/2020 $15,001 - gfedcb
+$50,000
+FILINg STaTUS: New
+SUbHoLDINg oF: Welch account
+DESCRIPTIoN: 2.5% due 8/15/23
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Welch account
+LoCaTIoN: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Peter Welch , 04/10/2020

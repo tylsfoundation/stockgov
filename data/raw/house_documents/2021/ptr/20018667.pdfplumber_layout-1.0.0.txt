@@ -1,0 +1,71 @@
+[[PAGE 1]]
+Filing ID #20018667
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Alan S. Lowenthal
+Status: Member
+State/District: CA47
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Bank Amer Corp MTN Call Make S 10/01/2020 05/03/2021 $1,001 - $15,000 gfedc
+Whole [CS]
+FILINg STATUS: New
+SUBHOLDINg OF: Neuberger Berman - Individual
+DESCRIPTION: Maturation Date: 10/01/21; Percentage Yield 2.328%
+SP CBS OUTDOOR AMERS CAP LLC S 07/31/2020 05/06/2021 $15,001 - gfedc
+[CS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Neuberger Berman - Traditional IRA
+DESCRIPTION: Maturity date is 2/15/2024, interest rate is 5.625%
+SP DraftKings Inc. - Class A (DKNg) P 01/21/2020 05/03/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP DraftKings Inc. - Class A (DKNg) P 02/03/2020 05/03/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Neuberger Berman - Traditional IRA
+SP Fidelity Natl Information Svcs S 12/03/2019 05/06/2021 $15,001 - gfedc
+[CS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Neuberger Berman - Traditional IRA
+DESCRIPTION: Maturation Date: 08/15/21; Percentage Yield: 2.25%
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Lennar Corp Note Call Make S 11/24/2020 05/06/2021 $15,001 - gfedc
+Whole [CS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Neuberger Berman - Traditional IRA
+DESCRIPTION: Maturation Date: 04/01/21; Percentage Yield: 4.75%
+SP Limited Brands, Inc. [CS] S 06/20/2019 05/06/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Neuberger Berman - Traditional IRA
+DESCRIPTION: Maturation: 4/1/21; Yield 6.625%
+SP Outfront Media Inc. Ser B Note P 05/31/2019 05/03/2021 $15,001 - gfedc
+5.625%; Due 2/15/2024 [CS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Neuberger Berman - Traditional IRA
+DESCRIPTION: Corporate Bond
+JT Service Corp Intl [CS] P 04/13/2021 04/20/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Neuberger Berman - Malumed Lowenthal Rev Trust
+DESCRIPTION: Maturity date is 12/15/2027, interest rate is 4.62%
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Neuberger Berman - Individual (Owner: SP)
+LOCATION: US
+Neuberger Berman - Malumed Lowenthal Rev Trust (Owner: JT)
+Neuberger Berman - Traditional IRA (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Alan S. Lowenthal , 05/17/2021

@@ -1,0 +1,48 @@
+[[PAGE 1]]
+Filing ID #20016764
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Alan S. Lowenthal
+Status: Member
+State/District: CA47
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP DraftKings Inc. - Class A (DKNg) S (partial) 06/03/2020 06/10/2020 $120.89 gfedc
+[ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Beneficiary IRA
+SP DraftKings Inc. - Class A (DKNg) S (partial) 06/03/2020 06/10/2020 $80.59 gfedc
+[ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Beneficiary IRA
+SP DraftKings Inc. - Class A (DKNg) S (partial) 06/03/2020 06/10/2020 $282.10 gfedc
+[ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Beneficiary IRA
+SP Salesforce.com Inc (CRM) [ST] P 06/04/2020 06/11/2020 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Beneficiary IRA
+SP Sempra Energy (SRE) [ST] S 06/04/2020 06/11/2020 $644.37 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Beneficiary IRA
+SP Virgin galactic Holdings, Inc. P 06/03/2020 06/10/2020 $418.83 gfedc
+(SPCE) [ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Beneficiary IRA
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Neuberger Berman - Beneficiary IRA (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Alan S. Lowenthal , 06/12/2020

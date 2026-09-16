@@ -1,0 +1,156 @@
+[[PAGE 1]]
+Filing Id #20016403
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+filer information
+name: Hon. Greg Gianforte
+Status: Member
+State/District: MT00
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT AdYEN N V AdR [OT] P 03/30/2020 04/06/2020 $100,001 - gfedc
+$250,000
+FILING STATUS: New
+SUbHOLdING OF: Harding Loevner International Equity
+LOCATION: NL
+dESCRIPTION: AdYEY AdYEN N V AdR
+JT AIA Group, Ltd. Sponsored P 03/27/2020 03/30/2020 $50,001 - gfedc
+American depository Receipt $100,000
+(AAGIY) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Harding Loevner International Equity
+JT Ambev S.A. American depositary P 04/01/2020 04/06/2020 $15,001 - gfedc
+Shares (AbEV) [ST] $50,000
+FILING STATUS: New
+SUbHOLdING OF: Harding Loevner International Equity
+JT Check Point Software Technologies S (partial) 03/30/2020 04/06/2020 $50,001 - gfedcb
+Ltd. - Ordinary Shares (CHKP) $100,000
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Harding Loevner International Equity
+JT dbs Group Holdings Ltd Ord P 03/27/2020 03/30/2020 $50,001 - gfedc
+American depositary Shares $100,000
+(dbSdY) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Harding Loevner International Equity
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT dentsu Inc Tokyo Unsponsored S 03/30/2020 04/06/2020 $50,001 - gfedc
+AdR (dNTUY) [ST] $100,000
+FILING STATUS: New
+SUbHOLdING OF: Harding Loevner International Equity
+JT Element Solutions Inc. (ESI) [ST] P 04/03/2020 04/06/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT Element Solutions Inc. (ESI) [ST] P 04/03/2020 04/06/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT Element Solutions Inc. (ESI) [ST] P 04/02/2020 04/06/2020 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT Element Solutions Inc. (ESI) [ST] P 04/01/2020 04/06/2020 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT Element Solutions Inc. (ESI) [ST] P 04/01/2020 04/06/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT Element Solutions Inc. (ESI) [ST] P 04/01/2020 04/06/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT Element Solutions Inc. (ESI) [ST] P 04/01/2020 04/06/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT Element Solutions Inc. (ESI) [ST] P 04/01/2020 04/06/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT Element Solutions Inc. (ESI) [ST] P 04/01/2020 04/06/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT Haynes International, Inc. (HAYN) S (partial) 04/01/2020 04/06/2020 $15,001 - gfedc
+[ST] $50,000
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT Haynes International, Inc. (HAYN) S 04/07/2020 04/13/2020 $15,001 - gfedc
+[ST] $50,000
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT HSbC Holdings, plc. (HSbC) [ST] S 03/27/2020 03/30/2020 $100,001 - gfedc
+$250,000
+FILING STATUS: New
+SUbHOLdING OF: Harding Loevner International Equity
+JT Infineon Technologies AG P 03/27/2020 03/30/2020 $50,001 - gfedc
+(IFNNY) [ST] $100,000
+FILING STATUS: New
+SUbHOLdING OF: Harding Loevner International Equity
+JT MTS Systems Corporation (MTSC) S (partial) 03/31/2020 04/06/2020 $15,001 - gfedc
+[ST] $50,000
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT MTS Systems Corporation (MTSC) S 04/06/2020 04/13/2020 $15,001 - gfedc
+[ST] $50,000
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT Nestle SA Sponsored AdR S (partial) 03/30/2020 04/06/2020 $50,001 - gfedcb
+representing Registered Shares $100,000
+Series b (NSRGY) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Harding Loevner International Equity
+JT Playa Hotels & Resorts N.V. - S 03/26/2020 03/30/2020 $50,001 - gfedc
+Ordinary Shares (PLYA) [ST] $100,000
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT Teladoc Health, Inc. (TdOC) [ST] S (partial) 03/26/2020 03/30/2020 $50,001 - gfedcb
+$100,000
+[[PAGE 4]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILING STATUS: New
+SUbHOLdING OF: Riverbridge Managed Account - Small Cap US Equities
+JT Unifirst Corporation (UNF) [ST] S (partial) 03/31/2020 04/06/2020 $50,001 - gfedcb
+$100,000
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT Unilever PLC (UL) [ST] P 03/30/2020 04/06/2020 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUbHOLdING OF: Harding Loevner International Equity
+JT Upland Software, Inc. (UPLd) [ST] P 04/02/2020 04/06/2020 $50,001 - gfedc
+$100,000
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT Upland Software, Inc. (UPLd) [ST] P 04/08/2020 04/13/2020 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT Upland Software, Inc. (UPLd) [ST] P 04/06/2020 04/13/2020 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+JT WESCO International, Inc. (WCC) P 03/23/2020 03/30/2020 $15,001 - gfedc
+[ST] $50,000
+FILING STATUS: New
+SUbHOLdING OF: Newsouth Small Cap Equities
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Harding Loevner International Equity (Owner: JT)
+Newsouth Small Cap Equities (Owner: JT)
+Riverbridge Managed Account - Small Cap US Equities (Owner: JT)
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 5]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Greg Gianforte , 04/14/2020

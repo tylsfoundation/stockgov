@@ -1,0 +1,147 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Suzan K. DelBene
+Status: Member
+State/District:WA01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Arizona Indl Dev Auth Rev BDS
+Lincoln 5.00% Due Nov 1, 2029 [GS]
+S (partial) 03/19/202503/19/2025$100,001 -
+$250,000
+F S: New
+JT Colorado Health Fac 5% Hosp HLTH
+Due 08/01/49 [GS]
+S (partial) 03/19/202503/19/2025$250,001 -
+$500,000
+F S: New
+JT Florida Dev Fin Corp Healthcare Facs
+Rev 4.00% Due Nov 15, 2035 [GS]
+S (partial) 03/19/202503/19/2025$250,001 -
+$500,000
+F S: New
+JT Florida HSG Fin Corp Homeowner
+MTG Rev 2.15% Due Jul 1, 2029 [GS]
+S 03/19/202503/19/2025$100,001 -
+$250,000
+F S: New
+JT Honolulu HI City & 4% Go Utx Due
+10/01/32 [GS]
+S (partial) 03/19/202503/19/2025$250,001 -
+$500,000
+F S: New
+JT Illinois ST Sales Tax Rev JR Oblig
+4.00% Due Jun 15, 2030 [GS]
+S (partial) 03/19/202503/19/2025$100,001 -
+$250,000
+F S: New
+JT Michigan ST HSG Dev Auth Single
+Family 1.25% Due Jun 1, 2027 [GS]
+S (partial) 03/19/202503/19/2025$250,001 -
+$500,000
+F S: New
+JT New Jersey ST Transn TR FD AuthS (partial) 03/19/202503/19/2025$250,001 -
+Filing ID #20029070
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SYS BDS 5.00% Due Jun 15, 2035
+[GS]
+$500,000
+F S: New
+JT New York New Y CI 2.6% Mult HSG
+Due 05/01/26 [GS]
+S (partial) 03/19/202503/19/2025$250,001 -
+$500,000
+F S: New
+JT New York NY City Transitional Fin
+5.00 % Due Nov 1, 2027 [GS]
+S (partial) 03/19/202503/19/2025$100,001 -
+$250,000
+F S: New
+JT New York NY City Transitional Fin
+5.00% Due Feb 1, 2032 [GS]
+S (partial) 03/19/202503/19/2025$250,001 -
+$500,000
+F S: New
+JT Ohio ST Higher Ed Go BDS Ser. 2025
+A 5.00% Due May 1, 2036 [GS]
+S (partial) 03/19/202503/19/2025$100,001 -
+$250,000
+F S: New
+JT Oklahoma City Okla Go BDS Ser.
+2023 4.00% Due Mar 1, 2035 [GS]
+S (partial) 03/19/202503/19/2025$100,001 -
+$250,000
+F S: New
+JT Philadelphia PA SCH Dist Go BDS
+Ser. F 5.00% Due Sep 1, 2027 [GS]
+S (partial) 03/19/202503/19/2025$50,001 -
+$100,000
+F S: New
+JT Sales Tax Securitization Corp 5.00%
+Due Jan 1, 2031 [GS]
+S (partial) 03/19/202503/19/2025$250,001 -
+$500,000
+F S: New
+JT Seattle WA MN LT PW 0% PWR Util
+Due 05/01/45 [GS]
+S (partial) 03/19/202503/19/2025$250,001 -
+$500,000
+F S: New
+JT Spring TX Isd 4% Go Utx Due
+08/15/31 [GS]
+S (partial) 03/19/202503/19/2025$250,001 -
+$500,000
+F S: New
+JT Tennessee HSG Dev Agy Residential
+Fin 2.80% Due Jan 1, 2026 [GS]
+S 03/19/202503/19/2025$250,001 -
+$500,000
+F S: New
+JT Triborough Bridge & Tunl 4% SPL TaxS (partial) 03/19/202503/19/2025$250,001 -
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Due 11/15/31 [GS] $500,000
+F S: New
+JT TX Trans Commn TPK 5% TPK Tran
+Due 08/15/42 [GS]
+S (partial) 03/19/202503/19/2025$250,001 -
+$500,000
+F S: New
+JT UT ST Tran Auth 5% Excise Tax Due
+06/15/36 [GS]
+S (partial) 03/19/202503/19/2025$100,001 -
+$250,000
+F S: New
+JT Wise CNTY VA Indl Dev Auth Solid
+Waste 3.80% Due Nov 1, 2040 [GS]
+S (partial) 03/19/202503/19/2025$100,001 -
+$250,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 04/10/2025

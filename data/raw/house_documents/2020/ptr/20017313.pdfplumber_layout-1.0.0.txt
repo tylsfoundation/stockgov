@@ -1,0 +1,123 @@
+[[PAGE 1]]
+Filing ID #20017313
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Donald Sternoff Beyer Jr
+Status: Member
+State/District: VA08
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Accenture plc Class A Ordinary P 08/27/2020 09/03/2020 $1,001 - $15,000 gfedc
+Shares (ACN) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 10 shares Accenture PLC
+JT ASML Holding N.V. - New York S 08/14/2020 09/04/2020 $1,001 - $15,000 gfedc
+Registry Shares (ASML) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 15 units ASML Holding NV
+JT BLF FedFund TDDXX [CS] P 08/13/2020 09/03/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep purchase of Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] P 08/27/2020 09/03/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep purchase of Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 08/04/2020 09/03/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep sale of Blackrock Liq FDS FedFund
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT BLF FedFund TDDXX [CS] S 08/03/2020 09/03/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep sale of Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] P 08/26/2020 09/03/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep purchase of Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 08/28/2020 09/03/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep sale of Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] P 08/14/2020 09/03/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep purchase of Blackrock Liq FDS FedFund
+JT Costco Wholesale Corporation P 08/27/2020 09/04/2020 $1,001 - $15,000 gfedc
+(COST) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 15 shares Costco Wholesale Corp
+JT Ecolab Inc. (ECL) [ST] S 08/27/2020 09/03/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 10 units of Ecolab Inc.
+JT Fiverr International Ltd. Ordinary P 08/27/2020 09/03/2020 $1,001 - $15,000 gfedc
+Shares, no par value (FVRR) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 40 units Fiverr Intl Ord
+JT Illumina, Inc. (ILMN) [ST] S 08/27/2020 09/03/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 5 units Illumina Inc.
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Intellia Therapeutics, Inc. (NTLA) S 08/26/2020 09/03/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 185 units Intellia Therapeutics
+JT Moody's Corporation (MCO) [ST] P 08/28/2020 09/03/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 15 units Moodys Corp
+JT NextEra Energy, Inc. (NEE) [ST] P 08/28/2020 09/03/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 5 units NextEra Energy Inc
+JT Pepsico, Inc. (PEP) [ST] S 08/27/2020 09/04/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 25 units Pepsico Inc.
+JT Regeneron Pharmaceuticals, Inc. S 08/14/2020 09/03/2020 $1,001 - $15,000 gfedc
+(REgN) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 5 units Regeron Pharmaceuticals
+JT Roper Technologies, Inc. (ROP) P 08/27/2020 09/03/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 5 units Roper Technologies Inc common
+JT Texas St Tax Rev 4.00% 08/27/20 S 08/27/2020 09/03/2020 $15,001 - gfedc
+[gS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Bond maturity of Texas State Tax Revenue 4.00%
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Stocks, Bonds, & Mutual Funds (Owner: JT)
+[[PAGE 4]]
+LOCATION: VA, US
+commentS
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Donald Sternoff Beyer Jr, 09/06/2020

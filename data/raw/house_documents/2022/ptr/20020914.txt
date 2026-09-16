@@ -1,0 +1,208 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Virginia Foxx
+Status: Member
+State/District:NC05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Apollo Asset Management, Inc.
+6.375% Series A Preferred Stock
+(AAM$A) [ST]
+P 04/19/202204/19/2022$1,001 - $15,000
+F S: New
+JT Apollo Asset Management, Inc.
+6.375% Series A Preferred Stock
+(AAM$A) [ST]
+P 04/22/202204/22/2022$1,001 - $15,000
+F S: New
+JT Arlington Asset Investment Corp
+7.00% (AAIC$B) [ST]
+P 04/01/202204/01/2022$1,001 - $15,000
+F S: New
+JT Arlington Asset Investment Corp
+7.00% (AAIC$B) [ST]
+P 04/06/202204/06/2022$1,001 - $15,000
+F S: New
+JT AT&T INC 5% PFDPFD SER A (T+A)
+[CS]
+P 04/06/202204/06/2022$15,001 -
+$50,000
+F S: New
+D: AT&T INC PFDPFD SER A
+JT AT&T INC 5% PFDPFD SER A (T+A)
+[CS]
+P 04/08/202204/08/2022$15,001 -
+$50,000
+F S: New
+D: AT&T INC 5% PFDPFD SER A
+JT AT&T INC 5% PFDPFD SER A (T+A)
+[CS]
+P 04/11/202204/11/2022$1,001 - $15,000
+Filing ID #20020914
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+D: AT&T INC 5% PFDPFD SER A
+JT British American Tobacco Industries,
+p.l.c. Common Stock ADR (BTI) [ST]
+P 04/07/202204/07/2022$1,001 - $15,000
+F S: New
+JT British American Tobacco Industries,
+p.l.c. Common Stock ADR (BTI) [ST]
+P 04/26/202204/26/2022$15,001 -
+$50,000
+F S: New
+JT Broadcom Inc. (AVGO) [ST] S 04/08/202204/08/2022$15,001 -
+$50,000
+F S: New
+JT Clearway Energy, Inc. Class A
+(CWEN.A) [ST]
+P 04/01/202204/01/2022$15,001 -
+$50,000
+F S: New
+JT GlaxoSmithKline PLC (GSK) [ST] P 04/08/202204/08/2022$1,001 - $15,000
+F S: New
+JT Green Plains Partners LP - Common
+Units (GPP) [ST]
+P 04/11/202204/11/2022$15,001 -
+$50,000
+F S: New
+JT Green Plains Partners LP - Common
+Units (GPP) [ST]
+P 04/22/202204/22/2022$15,001 -
+$50,000
+F S: New
+JT KNOT Offshore Partners LP Common
+Units representing Limited Partner
+Interests (KNOP) [ST]
+P 04/22/202204/22/2022$1,001 - $15,000
+F S: New
+JT KNOT Offshore Partners LP Common
+Units representing Limited Partner
+Interests (KNOP) [ST]
+P 04/11/202204/11/2022$15,001 -
+$50,000
+F S: New
+JT Magellan Midstream Partners L.P.
+Limited Partnership (MMP) [ST]
+P 04/07/222004/07/2022$1,001 - $15,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Magellan Midstream Partners L.P.
+Limited Partnership (MMP) [ST]
+P 04/22/202204/22/2022$15,001 -
+$50,000
+F S: New
+JT Magellan Midstream Partners L.P.
+Limited Partnership (MMP) [ST]
+P 04/21/202204/21/2022$15,001 -
+$50,000
+F S: New
+JT Magellan Midstream Partners L.P.
+Limited Partnership (MMP) [ST]
+P 04/28/202204/28/2022$1,001 - $15,000
+F S: New
+JT NextEra Energy, Inc. 6.219%
+Corporate Units (NEE$Q) [ST]
+P 04/21/202204/21/2022$50,001 -
+$100,000
+F S: New
+JT NextEra Energy, Inc. 6.219%
+Corporate Units (NEE$Q) [ST]
+P 04/22/202204/22/2022$1,001 - $15,000
+F S: New
+JT NextEra Energy, Inc. 6.219%
+Corporate Units (NEE$Q) [ST]
+P 04/18/202204/18/2022$15,001 -
+$50,000
+F S: New
+JT NextEra Energy, Inc. 6.219%
+Corporate Units (NEE$Q) [ST]
+P 04/25/202204/25/2022$1,001 - $15,000
+F S: New
+JT Old Republic International
+Corporation (ORI) [ST]
+P 04/06/202204/06/2022$1,001 - $15,000
+F S: New
+JT Phillips 66 (PSX) [ST] S 04/25/202204/25/2022$50,001 -
+$100,000
+F S: New
+JT Rio Tinto Plc (RIO) [ST] P 04/11/202204/11/2022$15,001 -
+$50,000
+F S: New
+JT Rio Tinto Plc (RIO) [ST] P 04/20/202204/20/2022$15,001 -
+$50,000
+F S: New
+JT Rio Tinto Plc (RIO) [ST] P 04/21/202204/21/2022$15,001 -
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+$50,000
+F S: New
+JT Ryder System, Inc. (R) [ST] S 04/08/202204/08/2022$15,001 -
+$50,000
+F S: New
+JT Schwab U.S. REIT ETF (SCHH) [ST] S 04/19/202204/19/2022$50,001 -
+$100,000
+F S: New
+JT Sisecam Resources LP Common Units
+representing limited partner interests
+(SIRE) [ST]
+P 04/25/202204/25/2022$1,001 - $15,000
+F S: New
+JT Sisecam Resources LP Common Units
+representing limited partner interests
+(SIRE) [ST]
+P 04/07/202204/07/2022$1,001 - $15,000
+F S: New
+DC TotalEnergies SE (TTE) [ST] P 04/07/202204/07/2022$15,001 -
+$50,000
+F S: New
+JT TotalEnergies SE (TTE) [ST] P 04/21/202204/21/2022$1,001 - $15,000
+F S: New
+JT TotalEnergies SE (TTE) [ST] P 04/29/202204/29/2022$1,001 - $15,000
+F S: New
+JT USD Partners LP Common Units
+representing limited partner interest
+(USDP) [ST]
+P 04/26/202204/26/2022$1,001 - $15,000
+F S: New
+JT USD Partners LP Common Units
+representing limited partner interest
+(USDP) [ST]
+P 04/22/202204/22/2022$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+[[PAGE 5]]
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Virginia Foxx , 05/04/2022

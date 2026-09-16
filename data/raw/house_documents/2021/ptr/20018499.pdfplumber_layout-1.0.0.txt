@@ -1,0 +1,37 @@
+[[PAGE 1]]
+Filing ID #20018499
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Suzan K. DelBene
+Status: Member
+State/District: WA01
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT los Angeles CNTY Calif Tax and S (partial) 03/31/2021 03/31/2021 $15,001 - gfedc
+Rev 4.00% Due 06/30/21 [gS] $50,000
+FIlINg STATuS: New
+JT Maryland ST go local Facs 5.00% P 03/10/2021 03/10/2021 $1,001 - $15,000 gfedc
+Due 03/15/2027 [gS]
+FIlINg STATuS: New
+SP Microsoft Corporation (MSFT) S (partial) 03/04/2021 03/04/2021 $500,001 - gfedcb
+[ST] $1,000,000
+FIlINg STATuS: New
+JT Microsoft Corporation (MSFT) P 03/31/2021 03/31/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+JT New York NY go BDS 2008 5.00% P 03/25/2021 03/25/2021 $15,001 - gfedc
+Due 08/01/2026 [gS] $50,000
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+[[PAGE 2]]
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 04/13/2021

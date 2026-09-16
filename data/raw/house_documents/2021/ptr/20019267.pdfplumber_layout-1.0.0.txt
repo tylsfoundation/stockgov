@@ -1,0 +1,178 @@
+[[PAGE 1]]
+Filing ID #20019267
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Daniel Meuser
+Status: Member
+State/District: PA09
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DC Alphabet Inc. - Class A (gOOgL) P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab DM Trust I
+DC Alphabet Inc. - Class A (gOOgL) P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab DM Trust II
+DC Alphabet Inc. - Class A (gOOgL) P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Brokerage Account
+DC Alphabet Inc. - Class A (gOOgL) P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Trust I
+DC Alphabet Inc. - Class A (gOOgL) P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Trust II
+SP Alphabet Inc. - Class A (gOOgL) P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUBHOLDINg OF: Schwab Brokerage Account
+DC Alphabet Inc. - Class C Capital P 03/30/2020 03/30/2020 $1,001 - $15,000 gfedc
+Stock (gOOg) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab DM Brokerage Account
+DC BP p.l.c. (BP) [ST] S 04/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab DM Brokerage Account
+SP BP p.l.c. (BP) [ST] S 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab Brokerage Account
+DC BP p.l.c. (BP) [ST] S 03/31/2020 03/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Brokerage Account
+DC Chubb Limited (CB) [ST] S 03/31/2020 03/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Brokerage Account
+DC Exxon Mobil Corporation (XOM) S 03/31/2020 03/31/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Brokerage Account
+DC Microsoft Corporation (MSFT) S (partial) 03/31/2020 03/31/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Brokerage Account
+DC Microsoft Corporation (MSFT) P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Trust I
+SP Microsoft Corporation (MSFT) P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab Brokerage Account
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DC Microsoft Corporation (MSFT) P 03/26/2020 03/26/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Trust II
+DC Microsoft Corporation (MSFT) P 03/30/2020 03/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab DM Brokerage Account
+DC Microsoft Corporation (MSFT) P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Brokerage Account
+DC Microsoft Corporation (MSFT) P 03/26/2020 03/26/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab DM Trust II
+DC Microsoft Corporation (MSFT) P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab DM Trust I
+DC Norfolk Southern Corporation S (partial) 03/31/2020 03/31/2020 $1,001 - $15,000 gfedc
+(NSC) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Brokerage Account
+DC Nucor Corporation (NUE) [ST] S 03/31/2020 03/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Brokerage Account
+DC Roche Holdings Ag Basel S (partial) 04/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+Ordinary Shares (RHHBF) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab DM Brokerage Account
+DC The Kraft Heinz Company (KHC) S 04/02/2020 04/02/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab DM Brokerage Account
+DC Visa Inc. (V) [ST] P 03/30/2020 03/30/2020 $1,001 - $15,000 gfedc
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab DM Brokerage Account
+DC Visa Inc. (V) [ST] P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab DM Trust I
+DC Visa Inc. (V) [ST] P 03/26/2020 03/26/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab DM Trust II
+DC Visa Inc. (V) [ST] P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Brokerage Account
+SP Visa Inc. (V) [ST] P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab Brokerage Account
+DC Visa Inc. (V) [ST] P 03/26/2020 03/26/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Trust II
+DC Visa Inc. (V) [ST] P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Trust I
+DC Walt Disney Company (DIS) [ST] P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Trust I
+DC Walt Disney Company (DIS) [ST] P 03/26/2020 03/26/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab JM Trust II
+DC Walt Disney Company (DIS) [ST] P 03/26/2020 03/26/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab DM Trust II
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DC Walt Disney Company (DIS) [ST] P 03/30/2020 03/30/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab DM Brokerage Account
+DC Walt Disney Company (DIS) [ST] P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Schwab DM Trust I
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Schwab Brokerage Account (Owner: SP)
+LOCATION: US
+Schwab DM Brokerage Account (Owner: DC)
+LOCATION: US
+Schwab DM Trust I (Owner: DC)
+Schwab DM Trust II (Owner: DC)
+Schwab JM Brokerage Account (Owner: DC)
+Schwab JM Trust I (Owner: DC)
+Schwab JM Trust II (Owner: DC)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Daniel Meuser , 08/11/2021

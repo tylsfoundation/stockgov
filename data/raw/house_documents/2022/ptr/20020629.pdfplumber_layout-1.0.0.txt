@@ -1,0 +1,160 @@
+[[PAGE 1]]
+Filing ID #20020629
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. John Rutherford
+Status: Member
+State/District: Fl04
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+3i group Plc unsponsored ADR P 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+(TgOPY) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Ab Volvo Class b American P 02/17/2022 03/17/2022 $1,001 - $15,000 gfedc
+Depositary Receipts (VOlVY) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Abb ltd (Abb) [ST] S 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+AFlAC Incorporated (AFl) [ST] S 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Amcor plc Ordinary Shares S 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+(AMCR) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Amgen Inc. (AMgN) [ST] S 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+bCE, Inc. (bCE) [ST] S (partial) 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+british American Tobacco S (partial) 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+Industries, p.l.c. Common Stock
+ADR (bTI) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Chevron Corporation (CVX) [ST] P 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Corteva, Inc. (CTVA) [ST] S 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Dow Inc. (DOW) [ST] P 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Evergy, Inc. (EVRg) [ST] P 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+glaxoSmithKline PlC (gSK) [ST] S 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Healthpeak Properties, Inc. P 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+(PEAK) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Home Depot, Inc. (HD) [ST] S (partial) 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+las Vegas Sands Corp. (lVS) [ST] S 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Manulife Financial Corporation S 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+(MFC) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+McDonald's Corporation (MCD) P 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Michelin Compagnie generale des S (partial) 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+Etablissements Michelin
+unsponsored ADR representing
+Nom Shares (MgDDY) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Pfizer, Inc. (PFE) [ST] S 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Phillips 66 (PSX) [ST] S 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Power Corp of Canada Ordinary P 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+Shares (PWCDF) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Procter & gamble Company (Pg) S (partial) 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Raytheon Technologies P 02/24/2022 02/24/2022 $1,001 - $15,000 gfedc
+Corporation (RTX) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Stock: DNbbY [OT] P 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+[[PAGE 4]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+lOCATION: uS
+DESCRIPTION: DNbbY (DNb bANK ASA SPON ADR EACH REP 1 ORD SHS) -- was not in stock catalog
+Tesco Plc Ord American Depositary P 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+Shares (TSCDY) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+The bank of New York Mellon P 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+Corporation (bK) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Thomson Reuters Corp Ordinary S 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+Shares (TRI) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+Toyota Motor Corporation (TM) S (partial) 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+u.S. bancorp (uSb) [ST] S 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+ugI Corporation (ugI) [ST] P 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Domestic
+VAlE S.A. American Depositary S (partial) 02/17/2022 02/17/2022 $1,001 - $15,000 gfedc
+Shares Each Representing one
+common share (VAlE) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+Xinyi glass Holdings limited P 02/17/2022 03/17/2022 $1,001 - $15,000 gfedc
+unsponsored ADR (XYIgY) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: National Financial Services/Fidelity - Premiere Select IRA Int'l
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+[[PAGE 5]]
+aSSet claSS DetailS
+National Financial Services/Fidelity - Premiere Select IRA Domestic
+DESCRIPTION: Separately Managed Account - IRA
+National Financial Services/Fidelity - Premiere Select IRA Int'l
+DESCRIPTION: Separately Managed Account - IRA
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. John Rutherford , 03/16/2022

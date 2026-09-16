@@ -1,0 +1,54 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Carol Devine Miller
+Status: Member
+State/District:WV01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+EOG Resources, Inc. (EOG) [ST] P 11/03/202312/04/2023$15,001 -
+$50,000
+F S: New
+S O: Matt Miller Investment Management Account
+D: 11/3/23 Buy 247 shares of EOG Resources, Inc, cusip 26875P101, ticker EOG, at a price of $125.6342/share.
+SP iShares 1-5 Year Investment Grade
+Corporate Bond ETF (IGSB) [ST]
+P 11/30/202312/04/2023$1,001 - $15,000
+F S: New
+S O: United IRA
+D: 11/30/23 Buy 65 shares of IShares 1-5 year investment grade corp bond fund, cusip 464288646, ticker IGSB,
+at a price of $50.5649/share.
+SP Pimco Investment Grade Corporate
+Bond Index Exchange-Traded Fund
+(CORP) [ST]
+S 11/28/202312/04/2023$1,001 - $15,000
+F S: New
+S O: United IRA
+D: 11/28/23 Sold 383.695 shares of Pimco Investment Grade Corp Bond fund, cusip 722005816, ticker PIGIX, at
+a price of $8.61/share, resulting in a gain of $99.76
+Union Pacific Corporation (UNP) [ST]S 11/03/202312/04/2023$15,001 -
+$50,000
+F S: New
+S O: Matt Miller Investment Management Account
+D: 11/3/23 Sold 150 shares of Union Pacific Corp, cusip 907818108, ticker UNP, at a price of $207.3597/share,
+resulting in a gain of $5,324.45.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+Filing ID #20024109
+[[PAGE 2]]
+A C D
+Matt Miller Investment Management Account
+L: US
+United IRA (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Carol Devine Miller , 12/07/2023

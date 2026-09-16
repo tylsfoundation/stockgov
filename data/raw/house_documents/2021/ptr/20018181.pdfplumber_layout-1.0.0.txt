@@ -1,0 +1,37 @@
+[[PAGE 1]]
+Filing ID #20018181
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Dwight Evans
+Status: Member
+State/District: PA03
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Huntington Ingalls Industries, Inc. S 12/30/2020 01/05/2021 $1,001 - $15,000 gfedcb
+(HII) [ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+ONEOK, Inc. (OKE) [ST] S 12/30/2020 01/05/2021 $15,001 - gfedcb
+$50,000
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+Targa Resources Partners lP S 12/21/2020 01/05/2021 $15,001 - gfedcb
+Common Units Representing $50,000
+limited Partnership Interests
+(NglS) [ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+PROEQUITIES
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+[[PAGE 2]]
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dwight Evans , 02/09/2021

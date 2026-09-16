@@ -1,0 +1,42 @@
+[[PAGE 1]]
+Filing ID #20015024
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Scott H. Peters
+Status: Member
+State/District: Ca52
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP alameda Ca Trans Excise [gS] S 01/27/2020 01/31/2020 $500,001 - gfedc
+$1,000,000
+FIlINg STaTuS: New
+Butte-glenn Muni Bonds [gS] S 01/29/2020 01/31/2020 $500,001 - gfedc
+$1,000,000
+FIlINg STaTuS: New
+SP Ca EDuC FaC auTH REV [gS] S 01/27/2020 01/31/2020 Spouse/DC Over gfedc
+$1,000,000
+FIlINg STaTuS: New
+SP San Francisco County Ca EXCISE S 01/27/2020 01/31/2020 $500,001 - gfedc
+TaX [gS] $1,000,000
+FIlINg STaTuS: New
+SP Silicon Vy Cln Wtr util [gS] S (partial) 01/27/2020 01/31/2020 $250,001 - gfedc
+$500,000
+FIlINg STaTuS: New
+SP u.S. Treasury Notes [gS] P 01/27/2020 01/31/2020 Spouse/DC Over gfedc
+$1,000,000
+FIlINg STaTuS: New
+SP u.S. Treasury Notes [gS] P 01/28/2020 01/31/2020 $500,001 - gfedc
+$1,000,000
+FIlINg STaTuS: New
+[[PAGE 2]]
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Scott H. Peters , 02/17/2020

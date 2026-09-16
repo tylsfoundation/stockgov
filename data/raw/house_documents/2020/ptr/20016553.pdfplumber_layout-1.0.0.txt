@@ -1,0 +1,39 @@
+[[PAGE 1]]
+Filing ID #20016553
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District: CA47
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP ProShares Short S&P500 (SH) S (partial) 04/27/2020 05/04/2020 $73.57 gfedc
+[ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Beneficiary IRA
+SP ProShares Short S&P500 (SH) S (partial) 04/27/2020 05/04/2020 $122.63 gfedc
+[ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Beneficiary IRA
+SP ProShares Short S&P500 (SH) S (partial) 04/29/2020 05/04/2020 $264.47 gfedc
+[ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Beneficiary IRA
+SP ProShares Short S&P500 (SH) S (partial) 04/29/2020 05/04/2020 $264.46 gfedc
+[ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Beneficiary IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Neuberger Berman - Beneficiary IRA (Owner: SP)
+initial Public offeringS
+[[PAGE 2]]
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Alan S. Lowenthal , 05/06/2020

@@ -1,0 +1,200 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Dan Newhouse
+Status: Member
+State/District:WA04
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+P 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Adobe Inc. - Common Stock (ADBE)
+[ST]
+S 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Advanced Micro Devices, Inc. (AMD)
+[ST]
+S (partial) 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S (partial) 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Amcor plc Ordinary Shares (AMCR)
+[ST]
+P 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Amphenol Corporation Common
+Stock (APH) [ST]
+P 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+Filing ID #20034998
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Applied Materials, Inc. - Common
+Stock (AMAT) [ST]
+S (partial) 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Arista Networks, Inc. Common Stock
+(ANET) [ST]
+P 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Costco Wholesale Corporation -
+Common Stock (COST) [ST]
+P 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP CSX Corporation (CSX) [ST] S (partial) 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Deere & Company Common Stock
+(DE) [ST]
+S (partial) 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Duke Energy Corporation (DUK) [ST]P 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Eli Lilly and Company Common Stock
+(LLY) [ST]
+S (partial) 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Fidelity National Information
+Services, Inc. Common Stock (FIS)
+[ST]
+P 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP FirstEnergy Corp. Common Stock
+(FE) [ST]
+P 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP FMC Corporation Common Stock
+(FMC) [ST]
+S 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Fortinet, Inc. - Common Stock
+(FTNT) [ST]
+S (partial) 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Honeywell Aerospace Inc. - Common
+Stock (HONAV) [ST]
+S (partial) 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Honeywell International Inc. (HON)
+[ST]
+P 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Intuit Inc. - Common Stock (INTU)
+[ST]
+S 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Magna International, Inc. Common
+Stock (MGA) [ST]
+S (partial) 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Marathon Petroleum Corporation
+Common Stock (MPC) [ST]
+S (partial) 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Micron Technology, Inc. - Common
+Stock (MU) [ST]
+P 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Morgan Stanley Common Stock (MS)
+[ST]
+P 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S (partial) 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Palo Alto Networks, Inc. (PANW) [ST]S (partial) 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP The Hershey Company Common
+Stock (HSY) [ST]
+S 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Thermo Fisher Scientific Inc Common
+Stock (TMO) [ST]
+S 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+P 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP United Parcel Service, Inc. Common
+Stock (UPS) [ST]
+S 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S 07/10/202607/10/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Edward Jones IRA (Owner: SP)
+I P O
+Yes No
+[[PAGE 5]]
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dan Newhouse , 07/17/2026

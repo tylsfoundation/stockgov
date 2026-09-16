@@ -1,0 +1,70 @@
+[[PAGE 1]]
+Filing ID #20019752
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Patrick Fallon
+Status: Member
+State/District: TX04
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Amazon.com, Inc. (AMZN) [ST] S 10/04/2021 11/02/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Amazon.com, Inc. (AMZN) [ST] S 10/26/2021 11/02/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+American Airlines group, Inc. S 10/04/2021 11/02/2021 $1,001 - $15,000 gfedc
+(AAl) [ST]
+FIlINg STATuS: New
+Boeing Company (BA) [ST] S 10/04/2021 11/02/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Chevron Corporation (CVX) [ST] S 10/01/2021 11/02/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Chevron Corporation (CVX) [ST] S 10/18/2021 11/02/2021 $100,001 - gfedc
+$250,000
+FIlINg STATuS: New
+CrowdStrike Holdings, Inc. - Class S 10/18/2021 11/02/2021 $100,001 - gfedc
+A (CRWD) [ST] $250,000
+FIlINg STATuS: New
+CrowdStrike Holdings, Inc. - Class S 10/01/2021 11/02/2021 $1,001 - $15,000 gfedc
+A (CRWD) [ST]
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FIlINg STATuS: New
+CrowdStrike Holdings, Inc. - Class P 10/01/2021 11/02/2021 $100,001 - gfedc
+A (CRWD) [ST] $250,000
+FIlINg STATuS: New
+DESCRIPTION: 6 Separate purchases all on the same day totaling to $221,000
+FedEx Corporation (FDX) [ST] S 10/04/2021 11/02/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+PayPal Holdings, Inc. (PYPl) [ST] S (partial) 10/26/2021 11/02/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+DESCRIPTION: 2 Separate PayPal Put sales totaling just over $5,000
+Southwest Airlines Company (luV) S 10/04/2021 11/02/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Square, Inc. Class A (SQ) [ST] S 10/04/2021 11/02/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Square, Inc. Class A (SQ) [ST] P 10/04/2021 11/02/2021 $100,001 - gfedc
+$250,000
+FIlINg STATuS: New
+Twitter, Inc. (TWTR) [ST] S 10/04/2021 11/02/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Verizon Communications Inc. (VZ) S (partial) 10/04/2021 11/02/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+DESCRIPTION: 5 Separate VZ sales on the same day 10/4
+Walt Disney Company (DIS) [ST] S 10/04/2021 11/02/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 3]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Patrick Fallon , 11/04/2021

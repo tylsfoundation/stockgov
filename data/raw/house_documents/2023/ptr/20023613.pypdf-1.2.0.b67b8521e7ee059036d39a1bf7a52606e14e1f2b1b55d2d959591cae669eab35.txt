@@ -1,0 +1,41 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Virginia Foxx
+Status: Member
+State/District:NC05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Alliance Resource Partners, L.P. -
+Common Units Representing Limited
+Partnership Interests (ARLP) [ST]
+P 08/16/202309/02/2023$1,001 - $15,000
+F S: New
+JT AT&T Inc. (T) [ST] P 08/02/202309/02/2023$1,001 - $15,000
+F S: New
+S O: AT&T INC. 5% PFDPFD SER A (T+A)
+JT Takeda Pharmaceutical Company
+Limited American Depositary Shares
+(TAK) [ST]
+S 08/29/202309/02/2023$15,001 -
+$50,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+AT&T INC. 5% PFDPFD SER A (T+A) (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Filing ID #20023613
+[[PAGE 2]]
+Digitally Signed: Hon. Virginia Foxx , 09/05/2023

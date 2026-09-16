@@ -1,0 +1,73 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Stephen F. Lynch
+Status: Member
+State/District:MA08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+American Funds Income Fund of
+America Mutual Fund [OT]
+P 12/30/202101/11/2023 $15,001 -
+$50,000
+F S: New
+S O: South Boston Community Health Center 403(b)
+L: US
+D: American Funds Mutual Fund was purchased on 12/30/22. The 403(B) Retirement Fund is managed by an
+Account Manager who is authorized to enact sell and purchase transactions. The 2022 4th Quarter Statement that reported
+this purchase transaction was misplaced and just recently located.
+Fidelity Emerging Markets Mutual
+Fund [OT]
+P 12/30/202201/11/2023 $1,001 - $15,000
+F S: New
+S O: South Boston Community Health Center 403(b)
+L: US
+D: Fidelity Emerging Markets Mutual Fund was purchased on 12/30/22. The 403(B) Retirement Fund is
+managed by an Account Manager who is authorized to enact sell and purchase transactions. The 2022 4th Quarter
+Statement that reported this purchase transaction was misplaced and just recently located.
+Invesco Development Markets Mutual
+Fund [OT]
+S 12/30/202201/11/2023 $1,001 - $15,000
+F S: New
+S O: South Boston Community Health Center 403(b)
+L: US
+D: Invesco Development Mutual Fund was sold on 12/30/22. The 403(B) Retirement Fund is managed by an
+Account Manager who is authorized to enact sell and purchase transactions. The 2022 4th Quarter Statement that reported
+this sale transaction was misplaced and just recently located.
+Nationwide Investor Destination
+Moderate Aggressive Mutual Fund
+[OT]
+S 12/30/202201/11/2023 $15,001 -
+$50,000
+Filing ID #20020981
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: South Boston Community Health Center 403(b)
+L: US
+D: Nationwide Investor Mutual Fund was sold on 12/30/22. The 403(B) Retirement Fund is managed by an
+Account Manager who is authorized to enact sell and purchase transactions. The 2022 4th Quarter Statement that reported
+this sale transaction was misplaced and just recently located.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+South Boston Community Health Center 403(b)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Stephen F. Lynch , 05/03/2023

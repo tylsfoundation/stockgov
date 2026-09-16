@@ -1,0 +1,46 @@
+[[PAGE 1]]
+Filing ID #20013879
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Roger W. Marshall
+Status: Member
+State/District: Ks01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DC alibaba group Holding limited P 12/03/2019 01/07/2020 $1,001 - $15,000 gfedc
+american Depositary shares each
+representing eight Ordinary share
+(BaBa) [sT]
+FIlINg sTaTus: New
+DC alibaba group Holding limited s 12/05/2019 01/07/2020 $1,001 - $15,000 gfedc
+american Depositary shares each
+representing eight Ordinary share
+(BaBa) [sT]
+FIlINg sTaTus: New
+DC apple Inc. (aaPl) [sT] P 12/02/2019 01/07/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+DC apple Inc. (aaPl) [sT] s 12/06/2019 01/07/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+DC apple Inc. (aaPl) [sT] P 12/03/2019 01/07/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+DC apple Inc. (aaPl) [sT] s 12/06/2019 01/07/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+DC YETI Holdings, Inc. (YETI) [sT] P 11/06/2019 01/07/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DC YETI Holdings, Inc. (YETI) [sT] s 12/12/2019 01/07/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Roger W. Marshall , 01/09/2020

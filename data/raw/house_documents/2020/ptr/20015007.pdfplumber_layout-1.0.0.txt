@@ -1,0 +1,172 @@
+[[PAGE 1]]
+Filing Id #20015007
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District: NJ05
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT abIoMEd, Inc. (abMd) [ST] P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT amgen Inc. (aMGN) [ST] P 01/14/2020 02/04/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT apple Inc. (aaPL) [ST] P 01/29/2020 02/04/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT apple Inc. (aaPL) [ST] P 01/14/2020 02/04/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT baidu, Inc. - american depositary P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+Shares, each representing one tenth
+Class a ordinary share (bIdU) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT banco bilbao Vizcaya argentaria P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+S.a. (bbVa) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT boeing Company (ba) [ST] S (partial) 01/07/2020 02/04/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT boeing Company (ba) [ST] S (partial) 01/21/2020 02/04/2020 $1,001 - $15,000 gfedcb
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT booking Holdings Inc. (bKNG) [ST] P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Carnival Corporation (CCL) [ST] P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Central Garden & Pet Company P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+(CENT) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Central Garden & Pet Company - P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+Class a Common Stock Nonvoting
+(CENTa) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT China Mobile Limited (CHL) [ST] P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Compass Minerals Intl Inc (CMP) P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT CoStar Group, Inc. (CSGP) [ST] S (partial) 01/17/2020 02/04/2020 $1,001 - $15,000 gfedcb
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT CryoLife, Inc. (CRY) [ST] P 01/14/2020 02/04/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT CryoPort, Inc. (CYRX) [ST] P 01/14/2020 02/04/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT dentsu Inc Tokyo Unsponsored P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+adR (dNTUY) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT dril-Quip, Inc. (dRQ) [ST] P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Estee Lauder Companies, Inc. (EL) S (partial) 01/22/2020 02/04/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Exact Sciences Corporation (EXaS) P 01/22/2020 02/04/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Exact Sciences Corporation (EXaS) P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Franklin Resources, Inc. (bEN) P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Fuchs Petrolub SE Unsponsored S (partial) 01/17/2020 02/04/2020 $1,001 - $15,000 gfedc
+american depository
+ReceiptRepresenting Preferenced
+Shares (FUPbY) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Komatsu Ltd ord american P 01/30/2020 02/04/2020 $1,001 - $15,000 gfedc
+depositary Shares (KMTUY) [ST]
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT lululemon athletica inc. (LULU) S (partial) 01/14/2020 02/04/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Mastercard Incorporated (Ma) [ST] S (partial) 01/09/2020 02/04/2020 $1,001 - $15,000 gfedcb
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Matador Resources Company P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+(MTdR) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT MercadoLibre, Inc. (MELI) [ST] S (partial) 01/14/2020 02/04/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Microsoft Corporation (MSFT) [ST] S (partial) 01/16/2020 02/04/2020 $1,001 - $15,000 gfedcb
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Microsoft Corporation (MSFT) S 01/09/2020 02/04/2020 $1,001 - $15,000 gfedc
+[oP]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $170; Expires 02/28/2020
+JT Microsoft Corporation (MSFT) [ST] S (partial) 01/09/2020 02/04/2020 $1,001 - $15,000 gfedcb
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Primoris Services Corporation P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+(PRIM) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Sasol Ltd. american depositary P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+Shares (SSL) [ST]
+FILING STaTUS: New
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT Schlumberger N.V. (SLb) [ST] P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+JT United bankshares, Inc. (UbSI) P 01/10/2020 02/04/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMa account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan Stanley - Portfolio Management (owner: JT)
+LoCaTIoN: US
+Morgan Stanley - Select UMa account # 1 (owner: JT)
+LoCaTIoN: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Josh Gottheimer , 02/10/2020

@@ -1,0 +1,139 @@
+[[PAGE 1]]
+Filing Id #20018699
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District: NJ05
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Alphabet Inc. - Class C Capital P 04/16/2021 05/06/2021 $1,001 - $15,000 gfedc
+Stock (GOOG) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Alphabet Inc. - Class C Capital P 04/15/2021 05/06/2021 $1,001 - $15,000 gfedc
+Stock (GOOG) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Alphabet Inc. - Class C Capital P 04/09/2021 05/06/2021 $1,001 - $15,000 gfedc
+Stock (GOOG) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Central Garden & Pet Company S (partial) 04/08/2021 05/06/2021 $1,001 - $15,000 gfedcb
+(CENT) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT dassault Systemes, S.A. American S (partial) 04/13/2021 05/06/2021 $1,001 - $15,000 gfedc
+depositary Shares (dASTY) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT diageo plc (dEO) [ST] S (partial) 04/13/2021 05/06/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT ENN Energy Holdings Ltd P 04/23/2021 05/06/2021 $1,001 - $15,000 gfedc
+Unsponsored AdR (XNGSY) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT ENN Energy Holdings Ltd P 04/21/2021 05/06/2021 $1,001 - $15,000 gfedc
+Unsponsored AdR (XNGSY) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Facebook, Inc. - Class A (Fb) [ST] P 04/16/2021 05/06/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Lithia Motors, Inc. (LAd) [ST] S (partial) 04/09/2021 05/06/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Lonza Group Ag Zuerich S (partial) 04/13/2021 05/06/2021 $1,001 - $15,000 gfedcb
+Unsponsored AdR (LZAGY) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT lululemon athletica inc. (LULU) S 04/15/2021 05/06/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Match Group, Inc. (MTCH) [ST] S (partial) 04/07/2021 05/06/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT MercadoLibre, Inc. (MELI) [ST] P 04/16/2021 05/06/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Ollie's bargain Outlet Holdings, P 04/09/2021 05/06/2021 $1,001 - $15,000 gfedc
+Inc. (OLLI) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Open Lending Corporation - Class P 04/05/2021 05/06/2021 $1,001 - $15,000 gfedc
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+A (LPRO) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT PayPal Holdings, Inc. (PYPL) [ST] S (partial) 04/28/2021 05/06/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Pharmaceutical GRP LTd (CSPCY) P 04/13/2021 05/06/2021 $1,001 - $15,000 gfedc
+[OT]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+LOCATION: US
+dESCRIPTION: Publicly traded stock
+JT Pharmaceutical GRP LTd (CSPCY) P 04/15/2021 05/06/2021 $1,001 - $15,000 gfedc
+[OT]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+LOCATION: US
+dESCRIPTION: Publicly traded stock
+JT Roku, Inc. - Class A (ROKU) [ST] S 04/16/2021 05/06/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT SAP SE AdS (SAP) [ST] S (partial) 04/13/2021 05/06/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT SAP SE AdS (SAP) [ST] S (partial) 04/12/2021 05/06/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Shionogi & Co Ltd Unsponsored P 04/14/2021 05/06/2021 $1,001 - $15,000 gfedc
+AdR (SGIOY) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Spotify Technology S.A. Ordinary S (partial) 04/07/2021 05/06/2021 $1,001 - $15,000 gfedc
+Shares (SPOT) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Tesla, Inc. (TSLA) [ST] S (partial) 04/05/2021 05/06/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Tesla, Inc. (TSLA) [ST] S (partial) 04/30/2021 05/06/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Twitter, Inc. (TWTR) [ST] S (partial) 04/30/2021 05/06/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT UFP Industries, Inc. (UFPI) [ST] S (partial) 04/09/2021 05/06/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 05/07/2021

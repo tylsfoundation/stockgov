@@ -1,0 +1,98 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kelly Louise Morrison
+Status: Member
+State/District:MN03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+ASHTED GRP PLC UNSP/ADR
+(ASHTY) [ST]
+S (partial) 04/10/202505/06/2025$15,001 -
+$50,000
+F S: New
+S O: Trust 1
+ASHTED GRP PLC UNSP/ADR
+(ASHTY) [ST]
+S (partial) 04/10/202505/06/2025$15,001 -
+$50,000
+F S: New
+S O: Trust 2
+ASHTED GRP PLC UNSP/ADR
+(ASHTY) [ST]
+S (partial) 04/10/202505/06/2025$1,001 - $15,000
+F S: New
+S O: Trust 3
+ASHTED GRP PLC UNSP/ADR
+(ASHTY) [ST]
+S (partial) 04/10/202505/06/2025$1,001 - $15,000
+F S: New
+S O: Trust 4
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 04/11/202505/06/2025$15,001 -
+$50,000
+F S: New
+S O: Trust 2
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 04/11/202505/06/2025$1,001 - $15,000
+F S: New
+S O: Trust 1
+Filing ID #20030313
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+CHASKA MN ELEC REVENUE REF -
+SER A DTD 10/01/15 [GS]
+P 04/01/202505/06/2025$1,001 - $15,000
+F S: New
+S O: Trust 2
+D: Interest
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+P 04/11/202505/06/2025$15,001 -
+$50,000
+F S: New
+S O: Trust 2
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+P 04/11/202505/06/2025$1,001 - $15,000
+F S: New
+S O: Trust 1
+MINNESOTA ST MUNI PWR AGY
+ELEC DTD 08/25/16 [GS]
+P 04/01/202505/06/2025$1,001 - $15,000
+F S: New
+S O: Trust 2
+D: Interest
+ResMed Inc. Common Stock (RMD)
+[ST]
+S 04/28/202505/06/2025$1,001 - $15,000
+F S: New
+S O: Trust 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Trust 1
+Trust 2
+Trust 3
+Trust 4
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+[[PAGE 3]]
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kelly Louise Morrison , 05/13/2025

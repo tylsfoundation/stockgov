@@ -1,0 +1,176 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJ05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT AbbVie Inc. (ABBV) [ST] S 11/08/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Adobe Inc. (ADBE) [ST] P 11/08/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Alphabet Inc. - Class A (GOOGL) [ST]S (partial) 11/29/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S (partial) 11/10/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Arista Networks, Inc. (ANET) [ST] P 11/01/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT ASML Holding N.V. - New York
+Registry Shares (ASML) [ST]
+S (partial) 11/09/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT AutoZone, Inc. (AZO) [ST] S (partial) 11/16/202312/05/2023$1,001 - $15,000
+Filing ID #20024097
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Celsius Holdings, Inc. (CELH) [ST] P 11/02/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Celsius Holdings, Inc. (CELH) [ST] P 11/20/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT DoorDash, Inc. (DASH) [ST] P 11/16/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Eli Lilly and Company (LLY) [ST] P 11/13/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Eli Lilly and Company (LLY) [ST] P 11/16/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Exact Sciences Corporation (EXAS)
+[ST]
+S (partial) 11/13/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT HCA Healthcare, Inc. (HCA) [ST] S (partial) 11/13/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT HCA Healthcare, Inc. (HCA) [ST] S (partial) 11/28/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Intapp, Inc. (INTA) [ST] P 11/15/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT McKesson Corporation (MCK) [ST] S (partial) 11/16/202312/05/2023$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Microsoft Corporation (MSFT) [OP] P 11/14/202312/05/2023$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $170; Expires 06/21/2024
+JT Microsoft Corporation (MSFT) [OP] P 11/14/202312/05/2023$5,000,001 -
+$25,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $160; Expires 06/21/2024
+JT Microsoft Corporation (MSFT) [OP] S 11/14/202312/05/2023$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $170; Expires 01/17/2025
+JT Microsoft Corporation (MSFT) [OP] S 11/14/202312/05/2023$5,000,001 -
+$25,000,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $165; Expires 01/17/2025
+JT Monster Beverage Corporation
+(MNST) [ST]
+S (partial) 11/20/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Monster Beverage Corporation
+(MNST) [ST]
+S (partial) 11/09/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Palo Alto Networks, Inc. (PANW) [ST]P 11/28/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Quanta Services, Inc. (PWR) [ST] P 11/27/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Regeneron Pharmaceuticals, Inc.
+(REGN) [ST]
+S (partial) 11/13/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Rockwell Automation, Inc. (ROK)
+[ST]
+S 11/27/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Salesforce, Inc. (CRM) [ST] S 11/22/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Salesforce, Inc. (CRM) [ST] S (partial) 11/08/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT ServiceNow, Inc. (NOW) [ST] P 11/08/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT ServiceNow, Inc. (NOW) [ST] P 11/22/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT ServiceNow, Inc. (NOW) [ST] P 11/29/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Thermo Fisher Scientific Inc (TMO)
+[ST]
+S 11/28/202312/05/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley - Portfolio Management Active Assets Account (Owner: JT)
+L: US
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+[[PAGE 5]]
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 12/08/2023

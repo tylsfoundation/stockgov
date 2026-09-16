@@ -1,0 +1,197 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Tim Moore
+Status: Member
+State/District:NC14
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Centene Corporation Common Stock
+(CNC) [ST]
+P 08/07/202509/02/2025$15,001 -
+$50,000
+F S: New
+Centene Corporation Common Stock
+(CNC) [ST]
+P 08/08/202509/02/2025$1,001 - $15,000
+F S: New
+Centene Corporation Common Stock
+(CNC) [ST]
+S 08/18/202509/02/2025$100,001 -
+$250,000
+F S: New
+Direxion Daily Small Cap Bear 3X
+ETF - TZA [OT]
+P 08/13/202509/02/2025$1,001 - $15,000
+F S: New
+L: US
+D: ETF
+Direxion Daily Small Cap Bear 3X
+ETF - TZA [OT]
+P 08/14/202509/02/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: ETF
+Direxion Daily Small Cap Bear 3X
+ETF - TZA [OT]
+P 08/25/202509/02/2025$50,001 -
+$100,000
+F S: New
+L: US
+D: ETF
+Filing ID #20031020
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Direxion Daily Small Cap Bear 3X
+ETF - TZA [OT]
+P 08/28/202509/02/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: ETF
+Hyster-Yale, Inc. Class A common
+stock (HY) [ST]
+P 08/12/202509/02/2025$15,001 -
+$50,000
+F S: New
+Hyster-Yale, Inc. Class A common
+stock (HY) [ST]
+S 08/13/202509/02/2025$50,001 -
+$100,000
+F S: New
+Hyster-Yale, Inc. Class A common
+stock (HY) [ST]
+P 08/07/202509/02/2025$15,001 -
+$50,000
+F S: New
+Intel Corporation - Common Stock
+(INTC) [ST]
+P 08/08/202509/02/2025$15,001 -
+$50,000
+F S: New
+Intel Corporation - Common Stock
+(INTC) [ST]
+P 08/01/202509/02/2025$15,001 -
+$50,000
+F S: New
+Intel Corporation - Common Stock
+(INTC) [ST]
+S 08/13/202509/02/2025$100,001 -
+$250,000
+F S: New
+Intel Corporation - Common Stock
+(INTC) [ST]
+P 08/11/202509/02/2025$15,001 -
+$50,000
+F S: New
+Krispy Kreme, Inc. - Common Stock
+(DNUT) [ST]
+P 08/01/202509/02/2025$1,001 - $15,000
+F S: New
+Krispy Kreme, Inc. - Common Stock
+(DNUT) [ST]
+P 08/04/202509/02/2025$1,001 - $15,000
+F S: New
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 08/01/202509/02/2025$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 08/08/202509/02/2025$15,001 -
+$50,000
+F S: New
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S 08/15/202509/02/2025$50,001 -
+$100,000
+F S: New
+Verizon Communications Inc.
+Common Stock (VZ) [ST]
+S 08/01/202509/02/2025$15,001 -
+$50,000
+F S: New
+Yieldmax MSTR Opt Incm Strtgy ETF
+(MSTY) [OT]
+P 08/11/202509/02/2025$50,001 -
+$100,000
+F S: New
+L: US
+D: ETF
+Yieldmax MSTR Opt Incm Strtgy ETF
+(MSTY) [OT]
+P 08/20/202509/02/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: ETF
+Yieldmax Smci Optn Inc Strg ETF -
+SMCY [OT]
+P 08/20/202509/02/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: ETF
+Yieldmax Smci Optn Inc Strg ETF -
+SMCY [OT]
+P 08/21/202509/02/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: ETF
+Yieldmax Smci Optn Inc Strg ETF -
+SMCY [OT]
+P 08/07/202509/02/2025$100,001 -
+$250,000
+F S: New
+L: US
+D: ETF
+Yieldmax Smci Optn Inc Strg ETF -P 08/06/202509/02/2025$15,001 -
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SMCY [OT] $50,000
+F S: New
+L: US
+D: ETF
+Yieldmax Smci Optn Inc Strg ETF -
+SMCY [OT]
+P 08/29/202509/02/2025$15,001 -
+$50,000
+F S: New
+L: US
+D: EFT
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Tim Moore , 09/03/2025

@@ -1,0 +1,577 @@
+[[PAGE 1]]
+Filing ID #20019374
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Tom Malinowski
+Status: Member
+State/District: NJ07
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+8x8 Inc (EgHT) [ST] S (partial) 03/18/2019 04/01/2019 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+8x8 Inc (EgHT) [ST] S (partial) 08/16/2019 09/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+Ameresco, Inc. Class A (AMRC) S (partial) 10/16/2020 11/01/2020 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Call Option.
+Ameresco, Inc. Class A (AMRC) P 11/10/2020 12/01/2020 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Call Closing Transaction.
+Ameresco, Inc. Class A (AMRC) P 12/18/2020 01/01/2021 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Call Closing Transaction.
+Ameresco, Inc. Class A (AMRC) P 12/29/2020 01/01/2021 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTION: Call Closing Transaction.
+Ameresco, Inc. Class A (AMRC) S (partial) 01/07/2021 02/01/2021 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+Ameresco, Inc. Class A (AMRC) S (partial) 01/08/2021 02/01/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+Ameresco, Inc. Class A (AMRC) P 03/09/2021 04/01/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Short Cover Purchase. Capital gains Exceed $200.
+Ameresco, Inc. Class A (AMRC) S (partial) 11/10/2020 11/01/2020 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Call Option.
+Anika Therapeutics Inc. (ANIK) P 02/27/2020 03/01/2020 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Cover Purchase.
+Anika Therapeutics Inc. (ANIK) P 02/28/2020 03/01/2020 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Cover Purchase.
+Anika Therapeutics Inc. (ANIK) S (partial) 10/29/2019 11/01/2019 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+Anika Therapeutics Inc. (ANIK) S (partial) 01/28/2020 02/01/2020 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+Anika Therapeutics Inc. (ANIK) S (partial) 07/29/2019 08/01/2019 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTION: Short Sale.
+Anika Therapeutics Inc. (ANIK) P 08/01/2019 09/01/2019 $50,001 - gfedc
+[ST] $100,000
+FIlINg STATuS: New
+DESCRIPTION: Short Cover Purchase.
+Apollo Endosurgery, Inc. P 10/30/2020 11/01/2020 $1,001 - gfedc
+(APEN) [ST] $15,000
+FIlINg STATuS: New
+2000081119 BellRing Brands, Inc. Class A P 12/17/2019 01/01/2019 $15,001 - gfedc
+(BRBR) [ST] $50,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase.
+2000081118 BellRing Brands, Inc. Class A S (partial) 10/23/2019 11/01/2019 $1,001 - gfedc
+(BRBR) [ST] $15,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Sale.
+BellRing Brands, Inc. Class A S (partial) 10/24/2019 11/01/2019 $1,001 - gfedc
+(BRBR) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+Biolife Solutions Inc. NEW P 06/19/2020 07/01/2020 $1,001 - gfedc
+(BlFSD) [ST] $15,000
+FIlINg STATuS: New
+2000076394 Blackline, Inc. (Bl) [ST] S (partial) 01/15/2021 03/01/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Sale.
+2000076246 Blackline, Inc. (Bl) [ST] P 07/05/2019 08/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+CareDx, Inc. (CDNA) [ST] S (partial) 01/06/2021 02/01/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+CareDx, Inc. (CDNA) [ST] S (partial) 01/08/2021 02/01/2021 $1,001 - gfedc
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+$15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+CareDx, Inc. (CDNA) [ST] S (partial) 01/11/2021 02/01/2021 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+CareDx, Inc. (CDNA) [ST] P 12/29/2020 01/01/2021 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+DESCRIPTION: Call Closing Transaction.
+CareDx, Inc. (CDNA) [ST] P 12/23/2020 01/01/2021 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+DESCRIPTION: Call Closing Transaction.
+CareDx, Inc. (CDNA) [ST] S (partial) 10/09/2020 11/01/2020 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+DESCRIPTION: Call Option.
+CareDx, Inc. (CDNA) [ST] P 11/16/2020 12/01/2020 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+DESCRIPTION: Call Closing Transaction.
+CareDx, Inc. (CDNA) [ST] P 12/07/2020 01/01/2021 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+DESCRIPTION: Call Closing Transaction.
+Castlight Health, Inc. Class B P 11/13/2020 12/01/2020 $1,001 - gfedc
+(CSlT) [ST] $15,000
+FIlINg STATuS: New
+Castlight Health, Inc. Class B P 11/13/2020 12/01/2020 $1,001 - gfedc
+(CSlT) [ST] $15,000
+FIlINg STATuS: New
+Castlight Health, Inc. Class B S 07/27/2020 08/01/2020 $1,001 - gfedc
+(CSlT) [ST] $15,000
+FIlINg STATuS: New
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+2000076217 Castlight Health, Inc. Class B P 01/25/2019 02/01/2019 $1,001 - gfedc
+(CSlT) [ST] $15,000
+FIlINg STATuS: Amended
+Castlight Health, Inc. Class B P 10/21/2019 11/01/2019 $1,001 - gfedc
+(CSlT) [ST] $15,000
+FIlINg STATuS: New
+Castlight Health, Inc. Class B P 10/22/2019 11/01/2019 $1,001 - gfedc
+(CSlT) [ST] $15,000
+FIlINg STATuS: New
+Castlight Health, Inc. Class B P 10/15/2019 11/01/2019 $1,001 - gfedc
+(CSlT) [ST] $15,000
+FIlINg STATuS: New
+Castlight Health, Inc. Class B P 10/16/2019 11/01/2019 $1,001 - gfedc
+(CSlT) [ST] $15,000
+FIlINg STATuS: New
+CC Neuberger Principal P 12/21/2020 01/01/2021 $1,001 - gfedc
+Holdings I Class A Ordinary $15,000
+Shares (PCPl) [ST]
+FIlINg STATuS: New
+2000076261 CC Neuberger Principal P 01/28/2021 02/01/2021 $1,001 - gfedc
+Holdings I Class A Ordinary $15,000
+Shares (PCPl) [ST]
+FIlINg STATuS: Amended
+CC Neuberger Principal P 01/05/2021 02/01/2021 $1,001 - gfedc
+Holdings I units, each $15,000
+consisting of one Class A
+ordinary share and one-fourth
+of one Redeemable Warrant
+(PCPl.u) [ST]
+FIlINg STATuS: New
+Celcuity Inc. (CElC) [ST] P 06/22/2020 07/01/2020 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+Celcuity Inc. (CElC) [ST] P 06/23/2020 07/01/2020 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+2000076353 Chembio Diagnostics, Inc. S 03/24/2020 04/01/2020 $1,001 - gfedc
+(CEMI) [ST] $15,000
+FIlINg STATuS: Amended
+2000076293 CM life Sciences, Inc. - Class A P 10/14/2020 11/01/2020 $1,001 - gfedc
+(CMlF) [ST] $15,000
+FIlINg STATuS: Amended
+CM life Sciences, Inc. - unit P 10/15/2020 11/01/2020 $1,001 - gfedc
+(CMlFu) [ST] $15,000
+FIlINg STATuS: New
+CM life Sciences, Inc. - unit P 10/16/2020 11/01/2020 $1,001 - gfedc
+(CMlFu) [ST] $15,000
+FIlINg STATuS: New
+2000076274 CNFinance Holdings limited P 12/30/2020 01/01/2021 $1,001 - gfedc
+American Depositary Shares, $15,000
+each representing twenty
+(CNF) [ST]
+FIlINg STATuS: Amended
+CNFinance Holdings limited P 01/06/2021 02/01/2021 $1,001 - gfedc
+American Depositary Shares, $15,000
+each representing twenty
+(CNF) [ST]
+FIlINg STATuS: New
+CNFinance Holdings limited P 01/04/2021 02/01/2021 $1,001 - gfedc
+American Depositary Shares, $15,000
+each representing twenty
+(CNF) [ST]
+FIlINg STATuS: New
+Colgate-Palmolive Company S (partial) 01/29/2019 02/01/2019 $1,001 - gfedc
+(Cl) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+Colgate-Palmolive Company S (partial) 04/30/2019 05/01/2019 $1,001 - gfedc
+(Cl) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+2000081101 Dave & Buster's Entertainment, P 08/09/2019 09/01/2019 $15,001 - gfedc
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+Inc. (PlAY) [ST] $50,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase. Capital gains Exceed $200.
+2000081100 Dave & Buster's Entertainment, S (partial) 04/05/2019 05/01/2019 $1,001 - gfedc
+Inc. (PlAY) [ST] $15,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Sale.
+DermTech, Inc. (DMTK) [ST] P 01/11/2021 02/01/2021 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+2000081103 Domo, Inc. - Class B (DOMO) P 03/06/2019 04/01/2019 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase.
+2000081102 Domo, Inc. - Class B (DOMO) P 03/20/2019 04/01/2019 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase.
+DoorDash, Inc. Class A (DASH) P 01/15/2021 02/01/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Short Cover Purchase.
+DoorDash, Inc. Class A (DASH) S (partial) 12/22/2020 01/01/2021 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+2000081082 Equinix, Inc. (EQIX) [ST] S (partial) 06/19/2019 07/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+2000081123 Everbridge, Inc. (EVBg) [ST] S 03/26/2019 04/01/2019 $1,001 - gfedcb
+$15,000
+FIlINg STATuS: Amended
+2000081124 Everbridge, Inc. (EVBg) [ST] S 01/24/2020 02/01/2020 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: Amended
+[[PAGE 8]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Everbridge, Inc. (EVBg) [ST] S 03/13/2020 04/01/2020 $1,001 - gfedcb
+$15,000
+FIlINg STATuS: New
+Everbridge, Inc. (EVBg) [ST] S 03/20/2020 04/01/2020 $1,001 - gfedcb
+$15,000
+FIlINg STATuS: New
+2000081125 Five9, Inc. (FIVN) [ST] S 01/24/2020 02/01/2020 $1,001 - gfedcb
+$15,000
+FIlINg STATuS: Amended
+Five9, Inc. (FIVN) [ST] S 01/27/2020 02/01/2020 $1,001 - gfedcb
+$15,000
+FIlINg STATuS: New
+Flexion Therapeutics, Inc. P 03/26/2019 04/01/2019 $1,001 - gfedc
+(FlXN) [ST] $15,000
+FIlINg STATuS: New
+2000081128 Flexion Therapeutics, Inc. S 05/11/2020 06/01/2020 $1,001 - gfedc
+(FlXN) [ST] $15,000
+FIlINg STATuS: Amended
+Flexion Therapeutics, Inc. S 05/12/2020 06/01/2020 $1,001 - gfedc
+(FlXN) [ST] $15,000
+FIlINg STATuS: New
+2000076289 general Finance Corporation S 11/20/2020 12/01/2020 $1,001 - gfedcb
+(gFN) [ST] $15,000
+FIlINg STATuS: Amended
+general Finance Corporation S 11/30/2020 12/01/2020 $1,001 - gfedcb
+(gFN) [ST] $15,000
+FIlINg STATuS: New
+general Finance Corporation S 12/02/2020 01/01/2021 $1,001 - gfedcb
+(gFN) [ST] $15,000
+FIlINg STATuS: New
+general Finance Corporation P 12/03/2020 01/01/2021 $1,001 - gfedc
+(gFN) [ST] $15,000
+FIlINg STATuS: New
+[[PAGE 9]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Heron Therapeutics, Inc. S (partial) 12/30/2020 01/01/2021 $1,001 - gfedc
+(APPAD) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+Hormel Foods Corporation P 03/03/2020 04/01/2020 $15,001 - gfedc
+(HRl) [ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Short Cover Purchase.
+Hormel Foods Corporation S (partial) 07/01/2019 08/01/2019 $15,001 - gfedc
+(HRl) [ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+Instructure Holdings, Inc. S 01/06/2020 02/01/2020 $15,001 - gfedcb
+(INST) [ST] $50,000
+FIlINg STATuS: New
+J.M. Smucker Company (SJM) S (partial) 11/15/2019 12/01/2019 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+J.M. Smucker Company (SJM) S (partial) 08/29/2019 09/01/2019 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+J.M. Smucker Company (SJM) S (partial) 02/28/2019 03/01/2019 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+Kellogg Company (K) [ST] S (partial) 02/11/2019 03/01/2019 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+Kellogg Company (K) [ST] S (partial) 06/27/2019 07/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+Kellogg Company (K) [ST] S (partial) 07/08/2019 08/01/2019 $1,001 - gfedc
+[[PAGE 10]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+$15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+Kellogg Company (K) [ST] S (partial) 10/29/2019 11/01/2019 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+2000081088 Macerich Company (MAC) [ST] P 05/31/2019 06/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase. Capital gains Exceed $200.
+2000081120 Merck & Company, Inc. P 08/26/2020 09/01/2020 $15,001 - gfedc
+Common Stock (MRK) [ST] $50,000
+FIlINg STATuS: Amended
+Meridian Bioscience Inc. S (partial) 09/16/2020 10/01/2020 $1,001 - gfedc
+(VIVO) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+2000081089 MicroStrategy Incorporated - P 08/16/2019 09/01/2019 $1,001 - gfedc
+Class A (MSTR) [ST] $15,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase.
+2000081130 MicroStrategy Incorporated - S (partial) 07/11/2019 08/01/2019 $1,001 - gfedc
+Class A (MSTR) [ST] $15,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Sale.
+Navigator Holdings ltd. P 06/03/2020 07/01/2020 $1,001 - gfedc
+Ordinary Shares (NVIgF) [ST] $15,000
+FIlINg STATuS: New
+2000076363 New Relic, Inc. (NEWR) [ST] P 12/17/2019 01/01/2020 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+2000081090 Norwegian Cruise line S (partial) 02/04/2019 03/01/2019 $1,001 - gfedcb
+Holdings ltd. Ordinary Shares $15,000
+(NClH) [ST]
+FIlINg STATuS: Amended
+[[PAGE 11]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTION: Short Cover Purchase.
+Onto Innovation Inc. (ONTO) S 04/30/2020 05/01/2020 $1,001 - gfedcb
+[ST] $15,000
+FIlINg STATuS: New
+OraSure Technologies, Inc. S (partial) 10/08/2020 11/01/2020 $1,001 - gfedc
+(OSuR) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+2000076264 Pacira BioSciences, Inc. P 01/25/2021 02/01/2021 $1,001 - gfedc
+(PCRX) [ST] $15,000
+FIlINg STATuS: Amended
+2000076239 Pacira BioSciences, Inc. P 05/31/2019 06/01/2019 $15,001 - gfedc
+(PCRX) [ST] $50,000
+FIlINg STATuS: Amended
+2000081093 Peloton Interactive, Inc. P 11/21/2019 12/01/2019 $15,001 - gfedc
+(PTON) [ST] $50,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase.
+2000081092 Peloton Interactive, Inc. S (partial) 10/01/2019 11/01/2019 $15,001 - gfedc
+(PTON) [ST] $50,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Sale.
+2000081091 Peloton Interactive, Inc. S (partial) 10/24/2019 11/01/2019 $1,001 - gfedc
+(PTON) [ST] $15,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Sale.
+Pepsico, Inc. (PEP) [ST] S (partial) 07/12/2019 08/01/2019 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+2000081109 Pool Corporation (POOl) [ST] S (partial) 07/22/2019 08/01/2019 $15,001 - gfedc
+$50,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Sale.
+2000081110 Pool Corporation (POOl) [ST] P 10/17/2019 11/01/2019 $15,001 - gfedc
+[[PAGE 12]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+$50,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase.
+Post Holdings, Inc. (POST) S (partial) 11/29/2019 12/01/2019 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+Post Holdings, Inc. (POST) S (partial) 01/28/2019 02/01/2019 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+Post Holdings, Inc. (POST) S (partial) 02/05/2019 03/01/2019 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+Profound Medical Corp. - P 01/14/2020 02/01/2020 $1,001 - gfedc
+common stock (PROF) [ST] $15,000
+FIlINg STATuS: New
+Profound Medical Corp. - P 01/27/2020 02/01/2020 $1,001 - gfedc
+common stock (PROF) [ST] $15,000
+FIlINg STATuS: New
+2000081111 Regency Centers Corporation P 11/29/2019 12/01/2019 $15,001 - gfedc
+(REg) [ST] $50,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase.
+Regency Centers Corporation S (partial) 10/29/2019 11/01/2019 $15,001 - gfedc
+(REg) [ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+2000076346 Regency Centers Corporation P 03/25/2020 04/01/2020 $15,001 - gfedc
+(REg) [ST] $50,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase. Capital gains Exceed $200.
+2000081113 Restaurant Brands P 10/30/2019 11/01/2019 $1,001 - gfedc
+International Inc. Common $15,000
+Shares (QSR) [ST]
+FIlINg STATuS: Amended
+[[PAGE 13]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTION: Short Cover Purchase.
+2000081112 Restaurant Brands S (partial) 05/02/2019 06/01/2019 $15,001 - gfedc
+International Inc. Common $50,000
+Shares (QSR) [ST]
+FIlINg STATuS: Amended
+DESCRIPTION: Short Sale.
+2000081114 Restaurant Brands P 10/04/2019 11/01/2019 $15,001 - gfedc
+International Inc. Common $50,000
+Shares (QSR) [ST]
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase.
+2000081115 Simon Property group, Inc. P 01/23/2019 02/01/2019 $1,001 - gfedc
+(SPg) [ST] $15,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase.
+2000081094 Tabula Rasa HealthCare, Inc. P 11/13/2019 12/01/2019 $1,001 - gfedc
+(TRHC) [ST] $15,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase. Capital gains Exceed $200.
+Tabula Rasa HealthCare, Inc. S (partial) 11/12/2019 12/01/2019 $1,001 - gfedc
+(TRHC) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+Talend S.A. - American P 01/27/2020 02/01/2020 $15,001 - gfedc
+Depositary Shares (TlND) [ST] $50,000
+FIlINg STATuS: New
+2000081096 Tanger Factory Outlet Centers, P 06/04/2019 07/01/2019 $15,001 - gfedc
+Inc. (SKT) [ST] $50,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase. Capital gains Exceed $200.
+Tapestry, Inc. (TPR) [ST] S (partial) 09/24/2019 10/01/2019 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: Short Sale.
+2000076356 Taubman Centers, Inc. (TCO) P 02/12/2020 03/01/2020 $1,001 - gfedc
+[ST] $15,000
+[[PAGE 14]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase. Capital gains Exceed $200.
+2000081099 Tesla, Inc. (TSlA) [ST] P 05/07/2019 06/01/2019 $15,001 - gfedc
+$50,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase.
+2000081098 Tesla, Inc. (TSlA) [ST] S (partial) 04/08/2019 05/01/2019 $15,001 - gfedc
+$50,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Sale.
+2000081097 Tesla, Inc. (TSlA) [ST] S (partial) 04/25/2019 05/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+DESCRIPTION: Short Sale.
+TFF Pharmaceuticals, Inc. P 06/11/2020 07/01/2020 $1,001 - gfedc
+(TFFP) [ST] $15,000
+FIlINg STATuS: New
+2000081116 Viomi Technology Co., ltd - P 04/02/2019 05/01/2019 $1,001 - gfedc
+American Depositary Shares $15,000
+(VIOT) [ST]
+FIlINg STATuS: Amended
+DESCRIPTION: Short Cover Purchase.
+Viomi Technology Co., ltd - P 04/08/2019 05/01/2019 $1,001 - gfedc
+American Depositary Shares $15,000
+(VIOT) [ST]
+FIlINg STATuS: New
+DESCRIPTION: Short Cover Purchase.
+Yext, Inc. (YEXT) [ST] P 02/19/2019 03/01/2019 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+2000076240 Yext, Inc. (YEXT) [ST] P 06/04/2019 07/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+Yext, Inc. (YEXT) [ST] P 11/14/2019 12/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+[[PAGE 15]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+2000076275 Yext, Inc. (YEXT) [ST] P 12/08/2020 01/01/2021 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+Zuora, Inc. Class A (ZuO) [ST] P 11/14/2019 12/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+Zuora, Inc. Class A (ZuO) [ST] P 01/27/2020 02/01/2020 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+2000076257 Zuora, Inc. Class A (ZuO) [ST] P 11/13/2019 12/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Tom Malinowski , 08/26/2021

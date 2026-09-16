@@ -1,0 +1,97 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kathy Manning
+Status: Member
+State/District:NC06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Seven Bridges Emerging Markets
+Fund Series [HN]
+S 12/31/202401/22/2025$500,001 -
+$1,000,000
+F S: New
+S O: Randall R. Kaplan Irrevocable GST FBO Kathy Manning & Descendants > Randall Robert Kaplan Alaska
+LLC
+D: Hedge fund. Fund manager letter on file with the Committee on Ethics.
+SP Seven Bridges Emerging Markets
+Fund Series [HN]
+S 12/31/202401/22/2025$100,001 -
+$250,000
+F S: New
+S O: 2021 Kathy E. Manning Irrevocable GST Trust FBO Randall R Kaplan & Descendants > Randall Robert
+Kaplan Alaska LLC
+SP Seven Bridges Long/Short Equity
+Fund Ltd. [HN]
+S (partial) 01/01/202501/22/2025$15,001 - $50,000
+F S: New
+S O: RRK Charitable Trust U/A 11/28/00 #2
+D: Hedge Fund. Fund manager letter on file with the Committee on Ethics.
+Seven Bridges Long/Short Equity
+Fund Series [HN]
+S (partial) 01/01/202501/22/2025$50,001 -
+$100,000
+F S: New
+S O: Randall R. Kaplan Irrevocable GST FBO Kathy Manning & Descendants > Randall Robert Kaplan Alaska
+LLC
+D: Hedge fund. Fund manager letter on file with the Committee on Ethics.
+SP Seven Bridges Long/Short Equity
+Fund Series [HN]
+S (partial) 01/01/202501/22/2025$15,001 - $50,000
+F S: New
+S O: 2021 Kathy E. Manning Irrevocable GST Trust FBO Randall R Kaplan & Descendants > Randall Robert
+Filing ID #20026638
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Kaplan Alaska LLC
+D: Hedge Fund. Fund manager letter on file with the Committee on Ethics.
+SP Seven Bridges Multi-Strategy Fund
+Ltd. [HN]
+S (partial) 12/31/202401/22/2025$100,001 -
+$250,000
+F S: New
+S O: RRK Charitable Trust U/A 11/28/00 #2
+D: Investment Company. Fund manager letter on file with the Committee on Ethics.
+Seven Bridges Strategic Equity Fund
+Series [HN]
+S 12/31/202401/22/2025$1,000,001 -
+$5,000,000
+F S: New
+S O: Randall R. Kaplan Irrevocable GST FBO Kathy Manning & Descendants > Randall Robert Kaplan Alaska
+LLC
+D: Hedge fund. Fund manager letter on file with the Committee on Ethics.
+SP Seven Bridges Strategic Equity Fund
+Series [HN]
+S 12/31/202401/22/2025$250,001 -
+$500,000
+F S: New
+S O: 2021 Kathy E. Manning Irrevocable GST Trust FBO Randall R Kaplan & Descendants > Randall Robert
+Kaplan Alaska LLC
+D: Hedge Fund. Fund manager letter on file with the Committee on Ethics.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+2021 Kathy E. Manning Irrevocable GST Trust FBO Randall R Kaplan & Descendants (Owner: SP)
+2021 Kathy E. Manning Irrevocable GST Trust FBO Randall R Kaplan & Descendants ⇒ Randall Robert Kaplan Alaska LLC (Owner:
+SP)
+Randall R. Kaplan Irrevocable GST FBO Kathy Manning & Descendants
+Randall R. Kaplan Irrevocable GST FBO Kathy Manning & Descendants ⇒ Randall Robert Kaplan Alaska LLC
+RRK Charitable Trust U/A 11/28/00 #2 (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kathy Manning , 01/27/2025

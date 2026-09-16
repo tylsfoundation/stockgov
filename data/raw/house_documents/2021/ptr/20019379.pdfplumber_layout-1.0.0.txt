@@ -1,0 +1,1934 @@
+[[PAGE 1]]
+Filing ID #20019379
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Thomas Suozzi
+Status: Member
+State/District: NY03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Advanced Micro Devices, Inc. P 12/06/2017 12/31/2017 $1,001 - $15,000 gfedc
+(AMD) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Advanced Micro Devices, Inc. P 01/29/2019 01/31/2019 $15,001 - gfedc
+(AMD) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Advanced Micro Devices, Inc. S (partial) 10/17/2019 10/30/2019 $50,001 - gfedcb
+(AMD) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Advanced Micro Devices, Inc. S (partial) 11/18/2019 11/30/2019 $15,001 - gfedcb
+(AMD) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Advanced Micro Devices, Inc. P 03/03/2020 03/31/2020 $1,001 - $15,000 gfedc
+(AMD) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Advanced Micro Devices, Inc. S 06/03/2020 06/30/2020 $15,001 - gfedcb
+(AMD) [ST] $50,000
+FILINg STATUS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Advanced Micro Devices, Inc. P 06/30/2021 06/30/2021 $15,001 - gfedc
+(AMD) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Advanced Micro Devices, Inc. P 07/28/2021 07/31/2021 $1,001 - $15,000 gfedc
+(AMD) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Advanced Micro Devices, Inc. S 06/04/2021 06/30/2021 $1,001 - $15,000 gfedcb
+(AMD) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Allstate Corporation (ALL) [ST] S 06/04/2021 06/30/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Allstate Corporation (ALL) [ST] P 03/01/2021 03/31/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Allstate Corporation (ALL) [ST] P 03/04/2021 03/31/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Alphabet Inc. - Class A (gOOgL) S 01/05/2017 01/30/2017 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+Alphabet Inc. - Class C Capital S 01/05/2017 01/30/2017 $15,001 - gfedcb
+Stock (gOOg) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+American Express Company (AXP) P 11/12/2019 11/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+American Express Company (AXP) S 05/05/2020 05/31/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+American Express Company (AXP) P 01/09/2020 01/31/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Amerisourcebergen Corporation S 01/05/2017 01/30/2017 $15,001 - gfedcb
+(AbC) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+Amplify ETF Trust Amplify Online P 06/03/2021 06/30/2021 $15,001 - gfedc
+Retail ETF (IbUY) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Amplify ETF Trust Amplify Online S 08/16/2021 08/31/2021 $50,001 - gfedc
+Retail ETF (IbUY) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Apple Inc. (AAPL) [ST] S 06/04/2021 06/30/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Apple Inc. (AAPL) [ST] S 05/05/2021 05/31/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Apple Inc. (AAPL) [ST] P 06/03/2021 06/30/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Apple Inc. (AAPL) [ST] S 11/24/2020 11/30/2020 $50,001 - gfedcb
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Apple Inc. (AAPL) [ST] S 07/28/2021 07/31/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Apple Inc. (AAPL) [ST] P 11/01/2018 11/30/2018 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Apple Inc. (AAPL) [ST] S 11/02/2018 11/30/2018 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Apple Inc. (AAPL) [ST] P 05/13/2019 05/30/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Apple Inc. (AAPL) [ST] S (partial) 10/17/2019 10/17/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Apple Inc. (AAPL) [ST] S 11/18/2019 11/30/2001 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Apple Inc. (AAPL) [ST] P 03/02/2020 03/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Apple Inc. (AAPL) [ST] P 03/10/2020 03/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Apple Inc. (AAPL) [ST] P 07/08/2019 07/30/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+ARK Innovation ETF (ARKK) [ST] P 04/20/2021 04/30/2021 $15,001 - gfedc
+$50,000
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+ARK Innovation ETF (ARKK) [ST] S 05/20/2021 05/31/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+AstraZeneca PLC - American P 01/07/2020 01/31/2020 $15,001 - gfedc
+Depositary Shares (AZN) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+AstraZeneca PLC - American S 02/24/2020 02/29/2020 $15,001 - gfedc
+Depositary Shares (AZN) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+AT&T Inc. (T) [ST] S 02/21/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+AT&T Inc. (T) [ST] S 04/17/2018 04/30/2018 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+AT&T Inc. (T) [ST] P 08/17/2017 08/31/2017 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+baidu, Inc. - American Depositary S 01/05/2017 01/30/2017 $15,001 - gfedcb
+Shares, each representing 8 $50,000
+ordinary share (bIDU) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+beyond Meat, Inc. - Common stock P 08/20/2019 08/31/2019 $15,001 - gfedc
+(bYND) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+beyond Meat, Inc. - Common stock S 09/24/2019 09/30/2019 $1,001 - $15,000 gfedc
+(bYND) [ST]
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+blackRock Municipal Income P 06/27/2018 06/30/2018 $1,001 - $15,000 gfedc
+Investment Quality Trust (bAF)
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+blackRock Municipal Income S 07/24/2018 07/30/2018 $1,001 - $15,000 gfedc
+Investment Quality Trust (bAF)
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+blackrock NY Municipal [gS] P 08/17/2017 08/31/2017 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+blackrock NY Municipal [gS] S 07/24/2018 07/31/2018 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+blackRock, Inc. (bLK) [ST] S 01/05/2017 01/30/2017 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+boeing Company (bA) [ST] P 10/01/2018 10/31/2018 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+boeing Company (bA) [ST] P 05/13/2019 05/30/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+boeing Company (bA) [ST] S (partial) 07/29/2019 07/31/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+boeing Company (bA) [ST] P 05/13/2019 05/31/2019 $1,001 - $15,000 gfedc
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+boeing Company (bA) [ST] S (partial) 07/30/2019 07/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+boeing Company (bA) [ST] P 08/21/2019 08/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+boeing Company (bA) [ST] P 03/02/2020 03/31/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+boeing Company (bA) [ST] P 01/09/2020 01/31/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+boeing Company (bA) [ST] S 06/03/2020 06/30/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+boeing Company (bA) [ST] S 01/29/2021 01/31/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+borgWarner Inc. (bWA) [ST] S 06/04/2021 06/30/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+borgWarner Inc. (bWA) [ST] P 04/01/2021 04/30/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+borgWarner Inc. (bWA) [ST] P 08/03/2021 08/31/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+[[PAGE 8]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+borgWarner Inc. (bWA) [ST] S 08/26/2021 08/31/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+bristol-Myers Squibb Company S 06/04/2021 06/30/2021 $1,001 - $15,000 gfedc
+(bMY) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+bristol-Myers Squibb Company S 06/07/2021 06/30/2021 $1,001 - $15,000 gfedc
+(bMY) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+bristol-Myers Squibb Company S 01/09/2020 01/31/2020 $15,001 - gfedc
+(bMY) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+bristol-Myers Squibb Company P 01/09/2020 01/31/2020 $50,001 - gfedc
+(bMY) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+bristol-Myers Squibb Company S 04/08/2019 04/30/2019 $15,001 - gfedc
+(bMY) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+bristol-Myers Squibb Company P 10/01/2018 10/30/2018 $15,001 - gfedc
+(bMY) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+C3.ai, Inc. Class A (AI) [ST] S 06/09/2021 06/30/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+C3.ai, Inc. Class A (AI) [ST] P 03/15/2021 03/31/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 9]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+C3.ai, Inc. Class A (AI) [ST] P 04/07/2021 04/30/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+C3.ai, Inc. Class A (AI) [ST] P 06/03/2021 06/30/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+C3.ai, Inc. Class A (AI) [ST] S 05/05/2021 05/31/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+C3.ai, Inc. Class A (AI) [ST] P 03/04/2021 03/31/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+C3.ai, Inc. Class A (AI) [ST] P 03/01/2021 03/31/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+CarMax Inc (KMX) [ST] S 01/05/2017 01/30/2017 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+Carnival Corporation (CCL) [ST] S 05/20/2021 05/31/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Carnival Corporation (CCL) [ST] P 03/04/2021 03/31/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Catalent, Inc. (CTLT) [ST] S 06/03/2021 06/30/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 10]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Catalent, Inc. (CTLT) [ST] P 12/18/2020 12/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Caterpillar, Inc. (CAT) [ST] S 06/18/2019 06/30/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Caterpillar, Inc. (CAT) [ST] S 04/14/2020 04/30/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Caterpillar, Inc. (CAT) [ST] P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Caterpillar, Inc. (CAT) [ST] P 05/08/2019 05/30/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Caterpillar, Inc. (CAT) [ST] P 03/05/2019 03/31/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Caterpillar, Inc. (CAT) [ST] S (partial) 06/18/2019 06/30/2019 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Cerner Corporation (CERN) [ST] S 01/05/2017 01/30/2017 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+Chegg, Inc. (CHgg) [ST] P 08/03/2020 08/31/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Chegg, Inc. (CHgg) [ST] P 06/15/2020 06/30/2020 $1,001 - $15,000 gfedc
+[[PAGE 11]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Chegg, Inc. (CHgg) [ST] S 09/01/2020 09/30/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Chevron Corporation (CVX) [ST] S 10/21/2019 10/30/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Cigna Corporation (CI) [ST] P 01/09/2020 01/31/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Cigna Corporation (CI) [ST] P 04/17/2018 04/30/2018 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Cigna Corporation (CI) [ST] S 07/25/2018 07/30/2018 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Cigna Corporation (CI) [ST] P 05/08/2019 05/30/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Cigna Corporation (CI) [ST] P 04/12/2019 04/30/2019 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Cigna Corporation (CI) [ST] S 11/18/2019 11/30/2019 $50,001 - gfedcb
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Cigna Corporation (CI) [ST] S 06/04/2021 06/30/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 12]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Cisco Systems, Inc. (CSCO) [ST] P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Cisco Systems, Inc. (CSCO) [ST] S 02/13/2020 02/29/2020 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Cisco Systems, Inc. (CSCO) [ST] S 10/17/2019 10/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Citigroup, Inc. (C) [ST] S 01/25/2019 01/30/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Citigroup, Inc. (C) [ST] P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Citigroup, Inc. (C) [ST] S 01/25/2019 01/30/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+CME group Inc. - Class A (CME) S 01/05/2017 01/30/2017 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+COCA COLA COM [gS] S 07/25/2018 07/31/2018 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Coca-Cola Company (KO) [ST] P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Compass Minerals Intl Inc (CMP) S 01/05/2017 01/30/2017 $15,001 - gfedc
+[ST] $50,000
+[[PAGE 13]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+ConocoPhillips (COP) [ST] P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+ConocoPhillips (COP) [ST] P 11/12/2019 11/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+ConocoPhillips (COP) [ST] S 04/08/2019 04/30/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+ConocoPhillips (COP) [ST] S 11/18/2019 11/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Consolidated Edison, Inc. (ED) S 07/05/2018 07/31/2018 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Consolidated Edison, Inc. (ED) P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Control4 Corporation (CTRL) [ST] P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Control4 Corporation (CTRL) [ST] P 01/25/2019 01/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Control4 Corporation (CTRL) [ST] S 05/13/2019 05/31/2019 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 14]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Control4 Corporation (CTRL) [ST] S 05/13/2019 05/31/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Control4 Corporation (CTRL) [ST] S 05/23/2019 05/31/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Corning Incorporated (gLW) [ST] P 04/14/2020 04/30/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Corning Incorporated (gLW) [ST] P 08/19/2019 08/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Corning Incorporated (gLW) [ST] S 03/20/2020 03/31/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Corning Incorporated (gLW) [ST] P 01/09/2020 01/31/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Corning Incorporated (gLW) [ST] P 05/08/2019 05/30/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Corning Incorporated (gLW) [ST] S 11/12/2019 11/30/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Corning Incorporated (gLW) [ST] P 05/11/2019 05/30/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Corteva, Inc. (CTVA) [ST] S 08/23/2019 08/30/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+[[PAGE 15]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Costco Wholesale Corporation S 06/18/2019 06/30/2019 $15,001 - gfedcb
+(COST) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Costco Wholesale Corporation P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+(COST) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+CRISPR Therapeutics Ag - P 06/03/2021 06/30/2021 $50,001 - gfedc
+Common Shares (CRSP) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+CrowdStrike Holdings, Inc. - Class P 07/26/2019 07/31/2019 $15,001 - gfedc
+A (CRWD) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+CrowdStrike Holdings, Inc. - Class S 12/02/2019 12/31/2019 $1,001 - $15,000 gfedc
+A (CRWD) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Crown Holdings, Inc. (CCK) [ST] S 09/24/2019 09/30/2019 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Crown Holdings, Inc. (CCK) [ST] P 10/15/2018 10/31/2018 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Crown Holdings, Inc. (CCK) [ST] S 10/17/2019 10/30/2019 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+CVS Health Corporation (CVS) [ST] P 03/02/2020 03/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+[[PAGE 16]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+CVS Health Corporation (CVS) [ST] P 05/05/2021 05/31/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+CVS Health Corporation (CVS) [ST] P 04/05/2021 04/30/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+CVS Health Corporation (CVS) [ST] P 04/14/2021 04/30/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+CVS Health Corporation (CVS) [ST] S 06/04/2021 06/30/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+CyberArk Software Ltd. - Ordinary P 01/07/2020 01/31/2020 $1,001 - $15,000 gfedc
+Shares (CYbR) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+CyberArk Software Ltd. - Ordinary S 02/24/2020 02/29/2020 $1,001 - $15,000 gfedc
+Shares (CYbR) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Dana Incorporated (DAN) [ST] S 01/15/2021 01/31/2021 $50,001 - gfedcb
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Dana Incorporated (DAN) [ST] P 11/15/2019 11/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Dana Incorporated (DAN) [ST] P 04/14/2020 04/30/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Dana Incorporated (DAN) [ST] P 01/15/2020 01/31/2020 $1,001 - $15,000 gfedc
+[[PAGE 17]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Dana Incorporated (DAN) [ST] S 07/30/2020 07/30/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Dana Incorporated (DAN) [ST] P 01/09/2020 01/31/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Dana Incorporated (DAN) [ST] P 03/02/2020 03/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Deere & Company (DE) [ST] P 05/13/2019 05/30/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Deere & Company (DE) [ST] S 06/06/2019 06/30/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Delta Air Lines, Inc. (DAL) [ST] P 03/10/2020 03/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Delta Air Lines, Inc. (DAL) [ST] S 05/04/2020 05/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Devon Energy Corporation (DVN) S 05/05/2021 05/31/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Devon Energy Corporation (DVN) S 06/04/2021 06/30/2021 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+[[PAGE 18]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Devon Energy Corporation (DVN) P 08/03/2020 08/31/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Devon Energy Corporation (DVN) P 07/30/2020 07/30/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+DexCom, Inc. (DXCM) [ST] P 01/10/2020 01/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+DexCom, Inc. (DXCM) [ST] P 01/09/2020 01/31/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+DexCom, Inc. (DXCM) [ST] S 06/03/2021 06/30/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Discover Financial Services (DFS) S 01/05/2017 01/30/2017 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+Dominion Energy, Inc. (D) [ST] P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Dominion Energy, Inc. (D) [ST] S 06/27/2018 06/30/2018 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Domino's Pizza Inc (DPZ) [ST] S 06/04/2021 06/30/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 19]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Domino's Pizza Inc (DPZ) [ST] P 03/01/2021 03/31/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Dow Inc. (DOW) [ST] S 08/21/2019 08/31/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+DowDuPont Inc. (DWDP) [ST] P 03/05/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+DowDuPont Inc. (DWDP) [ST] S 03/29/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+DuPont de Nemours, Inc. (DD) S 08/23/2019 08/31/2019 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+DuPont de Nemours, Inc. (DD) P 01/09/2020 01/31/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+DuPont de Nemours, Inc. (DD) S 04/29/2020 04/30/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Eaton Corporation, PLC Ordinary P 01/15/2021 01/31/2021 $50,001 - gfedc
+Shares (ETN) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Eaton Corporation, PLC Ordinary S 06/04/2021 06/30/2021 $15,001 - gfedcb
+Shares (ETN) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+ebay Inc. (EbAY) [ST] S 01/05/2017 01/30/2017 $15,001 - gfedcb
+$50,000
+[[PAGE 20]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+Electrameccanica Vehicles Corp. S 02/16/2021 02/28/2021 $15,001 - gfedcb
+Ltd. (SOLO) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Electrameccanica Vehicles Corp. P 01/11/2021 01/31/2021 $15,001 - gfedc
+Ltd. (SOLO) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Eli Lilly and Company (LLY) [ST] P 03/03/2021 03/31/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Eli Lilly and Company (LLY) [ST] S 05/05/2021 05/31/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Eli Lilly and Company (LLY) [ST] P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Eli Lilly and Company (LLY) [ST] S 11/18/2019 11/30/2019 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Encana Corporation (ECA) [ST] P 11/12/2019 11/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Encana Corporation (ECA) [ST] S 11/18/2019 11/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Express Scripts Holding Company S 01/05/2017 01/30/2017 $15,001 - gfedc
+(ESRX) [ST] $50,000
+FILINg STATUS: New
+[[PAGE 21]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: Charles Schwab Retirement Account
+Exxon Mobil Corporation (XOM) P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Exxon Mobil Corporation (XOM) P 07/25/2018 07/31/2018 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Exxon Mobil Corporation (XOM) S 07/25/2018 07/31/2018 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Facebook, Inc. - Class A (Fb) [ST] S 01/05/2017 01/30/2017 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+Federal National Mortgage P 03/03/2020 03/31/2020 $1,001 - $15,000 gfedc
+Association (FNMA) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Federal National Mortgage S 05/11/2020 05/31/2020 $1,001 - $15,000 gfedc
+Association (FNMA) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Fidelity Total bond ETF (FbND) P 06/09/2021 06/30/2021 $50,001 - gfedc
+[ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+FireEye, Inc. (FEYE) [ST] S 02/25/2020 02/29/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+FireEye, Inc. (FEYE) [ST] P 01/07/2020 01/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+[[PAGE 22]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+First Trust NASDAQ Cybersecurity P 06/03/2021 06/30/2021 $15,001 - gfedc
+ETF (CIbR) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Ford Motor Company (F) [ST] P 06/03/2021 06/30/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Ford Motor Company (F) [ST] S 04/14/2020 04/30/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Ford Motor Company (F) [ST] P 01/03/2020 01/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+fuboTV Inc. (FUbO) [ST] P 11/16/2020 11/30/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+fuboTV Inc. (FUbO) [ST] S 11/18/2020 11/30/2020 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+FuelCell Energy, Inc. (FCEL) [ST] S 12/01/2020 12/31/2020 $100,001 - gfedcb
+$250,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+FuelCell Energy, Inc. (FCEL) [ST] P 11/25/2020 11/30/2020 $100,001 - gfedc
+$250,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+general Electric Company (gE) P 01/07/2020 01/31/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+[[PAGE 23]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+general Electric Company (gE) S 02/24/2020 02/29/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+general Electric Company (gE) S 02/24/2020 02/29/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+general Motors Company (gM) S 06/04/2021 06/30/2021 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+general Motors Company (gM) P 03/02/2020 03/31/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+general Motors Company (gM) P 06/03/2020 06/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+general Motors Company (gM) P 04/14/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+general Motors Company (gM) S 09/16/2019 09/16/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+general Motors Company (gM) P 10/01/2018 10/30/2018 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+general Motors Company (gM) S 09/16/2019 09/30/2019 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 24]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+global X FinTech ETF (FINX) [ST] P 06/03/2021 06/30/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Halliburton Company (HAL) [ST] P 09/24/2019 09/30/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Halliburton Company (HAL) [ST] S 11/18/2019 11/30/2019 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Henry Schein, Inc. (HSIC) [ST] S 04/17/2018 04/30/2018 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Henry Schein, Inc. (HSIC) [ST] S 12/06/2017 12/31/2017 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Henry Schein, Inc. (HSIC) [ST] P 08/17/2017 08/31/2017 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+HollyFrontier Corporation (HFC) P 05/05/2020 05/31/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+HollyFrontier Corporation (HFC) S 05/05/2020 05/31/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Inphi Corporation (IPHI) [ST] S 11/19/2020 11/30/2020 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Inphi Corporation (IPHI) [ST] P 04/29/2020 04/30/2020 $1,001 - $15,000 gfedc
+[[PAGE 25]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Intel Corporation (INTC) [ST] P 01/24/2019 01/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Intel Corporation (INTC) [ST] S 06/18/2019 06/30/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Intel Corporation (INTC) [ST] S 05/23/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Intel Corporation (INTC) [ST] P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Intel Corporation (INTC) [ST] S 06/27/2018 06/30/2018 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Intel Corporation (INTC) [ST] S 06/18/2019 06/30/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+International business Machines P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+Corporation (IbM) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+International business Machines S 01/24/2019 01/31/2019 $1,001 - $15,000 gfedc
+Corporation (IbM) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+International Paper Company (IP) P 04/14/2020 04/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 26]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+International Paper Company (IP) P 11/15/2019 11/30/2019 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+International Paper Company (IP) P 04/29/2020 04/30/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+International Paper Company (IP) S 07/10/2020 07/31/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+International Paper Company (IP) P 02/12/2020 02/29/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+International Paper Company (IP) S 05/02/2019 05/30/2019 $50,001 - gfedc
+[ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+International Paper Company (IP) P 03/04/2021 03/31/2021 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+International Paper Company (IP) S 06/04/2021 06/30/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+INTL PAPER CO [gS] P 10/02/2018 10/30/2018 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Intrexon Corporation (XON) [ST] S 12/14/2018 12/31/2018 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 27]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Intrexon Corporation (XON) [ST] P 12/06/2017 12/31/2017 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Invesco Dynamic Leisure and P 06/03/2021 06/30/2021 $15,001 - gfedc
+Entertainment ETF (PEJ) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+IPg Photonics Corporation (IPgP) P 04/15/2021 04/30/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+IPg Photonics Corporation (IPgP) S 06/03/2021 06/30/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+iShares global Comm Services ETF S 01/24/2019 01/31/2019 $1,001 - $15,000 gfedc
+(IXP) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+iShares National Muni bond ETF P 06/09/2021 06/30/2021 $50,001 - gfedc
+(MUb) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+iShares TIPS bond ETF (TIP) [ST] P 01/09/2020 01/31/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+iShares TIPS bond ETF (TIP) [ST] S 03/02/2020 03/31/2020 $100,001 - gfedcb
+$250,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+iShares TIPS bond ETF (TIP) [ST] P 11/18/2019 11/30/2019 $100,001 - gfedc
+$250,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 28]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JMP group LLC Common Shares P 03/10/2020 03/31/2020 $1,001 - $15,000 gfedc
+(JMP) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Johnson & Johnson (JNJ) [ST] S 10/21/2019 10/31/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Johnson Controls International plc S 12/06/2017 12/30/2017 $1,001 - $15,000 gfedc
+Ordinary Share (JCI) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Johnson Controls International plc P 08/25/2017 08/30/2017 $1,001 - $15,000 gfedc
+Ordinary Share (JCI) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+JP Morgan Chase & Co. (JPM) [ST] P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+JP Morgan Chase & Co. (JPM) [ST] P 03/20/2020 03/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+JP Morgan Chase & Co. (JPM) [ST] S 07/10/2020 07/31/2020 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+JP Morgan Chase & Co. (JPM) [ST] P 01/01/2020 01/31/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+JP Morgan Chase & Co. (JPM) [ST] S 05/11/2020 05/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+JP Morgan Chase & Co. (JPM) [ST] S 06/04/2021 06/30/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+[[PAGE 29]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+JPMorgan Chase Capital XVI JP S 01/01/2020 01/31/2020 $15,001 - gfedc
+Morgan Alerian MLP ETN (AMJ) $50,000
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+LendingTree, Inc. (TREE) [ST] S 05/05/2021 05/31/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+LendingTree, Inc. (TREE) [ST] S 12/23/2020 12/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+LendingTree, Inc. (TREE) [ST] P 02/13/2020 02/29/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+LendingTree, Inc. (TREE) [ST] P 03/02/2020 03/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+LendingTree, Inc. (TREE) [ST] P 03/03/2020 03/31/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+LendingTree, Inc. (TREE) [ST] P 04/14/2020 04/30/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Li Auto Inc. - American Depositary P 12/08/2020 12/31/2020 $15,001 - gfedc
+Shares (LI) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Li Auto Inc. - American Depositary S 01/07/2021 01/31/2021 $15,001 - gfedc
+Shares (LI) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+[[PAGE 30]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Live Nation Entertainment, Inc. S 02/10/2021 02/28/2021 $15,001 - gfedc
+(LYV) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Live Nation Entertainment, Inc. P 01/21/2021 01/31/2021 $15,001 - gfedc
+(LYV) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Lowe's Companies, Inc. (LOW) S 08/25/2020 08/31/2020 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Lowe's Companies, Inc. (LOW) P 06/15/2020 06/30/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Lowe's Companies, Inc. (LOW) S 01/05/2017 01/30/2017 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+Lyft, Inc. - Class A (LYFT) [ST] S 08/05/2019 08/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Lyft, Inc. - Class A (LYFT) [ST] P 07/08/2019 07/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Mallinckrodt plc Ordinary Shares P 08/25/2017 08/31/2017 $1,001 - $15,000 gfedc
+(MNK) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Mallinckrodt plc Ordinary Shares S 09/05/2017 09/30/2017 $1,001 - $15,000 gfedc
+(MNK) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 31]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Marriott International - Class A P 06/15/2020 06/30/2020 $1,001 - $15,000 gfedc
+(MAR) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Marriott International - Class A S 08/21/2020 08/31/2020 $1,001 - $15,000 gfedc
+(MAR) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Martin Marietta Materials, Inc. P 10/15/2018 10/31/2018 $50,001 - gfedc
+(MLM) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Martin Marietta Materials, Inc. S 11/07/2018 11/30/2018 $50,001 - gfedcb
+(MLM) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Marvell Technology, Inc. (MRVL) P 12/18/2020 12/31/2020 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Marvell Technology, Inc. (MRVL) P 11/19/2020 11/30/2019 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Marvell Technology, Inc. (MRVL) P 05/05/2021 05/31/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Marvell Technology, Inc. (MRVL) P 06/09/2021 06/30/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Marvell Technology, Inc. (MRVL) P 03/01/2021 03/31/2021 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 32]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Marvell Technology, Inc. (MRVL) S 06/04/2021 06/30/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Mastercard Incorporated (MA) S 01/05/2017 01/30/2017 $50,001 - gfedcb
+[ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+McDonald's Corporation (MCD) S 01/29/2020 01/31/2020 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+McDonald's Corporation (MCD) P 01/28/2020 01/31/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Medtronic plc. Ordinary Shares S 01/14/2019 01/31/2019 $1,001 - $15,000 gfedc
+(MDT) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Medtronic plc. Ordinary Shares P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+(MDT) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Merck & Company, Inc. Common P 08/17/2017 08/31/2017 $15,001 - gfedc
+Stock (MRK) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Merck & Company, Inc. Common S 11/18/2019 11/30/2019 $15,001 - gfedcb
+Stock (MRK) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+MetLife, Inc. (MET) [ST] P 01/07/2020 01/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+MetLife, Inc. (MET) [ST] P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+[[PAGE 33]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+MetLife, Inc. (MET) [ST] S 07/25/2018 07/31/2018 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+MetLife, Inc. (MET) [ST] S 02/25/2020 02/29/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+MgM Resorts International P 06/03/2021 06/30/2021 $15,001 - gfedc
+(MgM) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Micron Technology, Inc. (MU) [ST] P 03/29/2019 03/31/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Micron Technology, Inc. (MU) [ST] S 04/08/2019 04/30/2019 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Microsoft Corporation (MSFT) [ST] P 08/17/2017 08/31/2017 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Microsoft Corporation (MSFT) [ST] P 01/09/2020 01/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Microsoft Corporation (MSFT) [ST] P 03/20/2020 03/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Microsoft Corporation (MSFT) [ST] S 06/04/2021 06/30/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+[[PAGE 34]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+New York Community bancorp, S 09/05/2017 09/30/2017 $15,001 - gfedc
+Inc. (NYCb) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+New York Community bancorp, P 08/25/2017 08/31/2017 $15,001 - gfedc
+Inc. (NYCb) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+New York ST DORM ATRV [gS] P 08/17/2017 08/31/2017 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+New York ST DORM ATRV [gS] S 07/24/2018 07/31/2018 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+NextEra Energy, Inc. (NEE) [ST] P 01/07/2019 01/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+NIO Inc. American depositary P 09/02/2020 09/30/2020 $1,001 - $15,000 gfedc
+shares, each representing one Class
+A ordinary share (NIO) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+NIO Inc. American depositary P 10/05/2020 10/31/2020 $15,001 - gfedc
+shares, each representing one Class $50,000
+A ordinary share (NIO) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+NIO Inc. American depositary S 05/20/2021 05/31/2021 $15,001 - gfedcb
+shares, each representing one Class $50,000
+A ordinary share (NIO) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Norwegian Cruise Line Holdings S 02/10/2021 02/28/2021 $15,001 - gfedc
+[[PAGE 35]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+Ltd. Ordinary Shares (NCLH) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Norwegian Cruise Line Holdings P 01/21/2021 01/31/2021 $15,001 - gfedc
+Ltd. Ordinary Shares (NCLH) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] S 06/04/2021 06/30/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] S 05/05/2021 05/31/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] S 03/02/2020 03/31/2020 $100,001 - gfedcb
+$250,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] P 02/13/2020 02/29/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] P 03/02/2020 03/02/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] P 11/15/2019 11/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] P 03/20/2020 03/31/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] P 03/03/2020 03/31/2020 $15,001 - gfedc
+$50,000
+[[PAGE 36]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] P 07/08/2019 07/31/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] S 12/02/2019 12/31/2019 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] P 01/14/2019 01/30/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] S 01/29/2019 01/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+NVIDIA Corporation (NVDA) [ST] P 07/29/2019 07/31/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Oracle Corporation Ordinary S 10/21/2019 10/31/2019 $1,001 - $15,000 gfedcb
+Shares (OCLCF) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Pacific gas & Electric Co. (PCg) S 01/07/2019 01/31/2019 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Pacific gas & Electric Co. (PCg) P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Pacific gas & Electric Co. (PCg) S 12/21/2017 12/31/2017 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+[[PAGE 37]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+PayPal Holdings, Inc. (PYPL) [ST] S 01/05/2017 01/30/2017 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+PayPal Holdings, Inc. (PYPL) [ST] S 06/03/2021 06/30/2021 $50,001 - gfedcb
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+PayPal Holdings, Inc. (PYPL) [ST] S 05/20/2021 05/31/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+PayPal Holdings, Inc. (PYPL) [ST] P 03/02/2021 03/31/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+PayPal Holdings, Inc. (PYPL) [ST] P 03/11/2021 03/31/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Pentair plc. Ordinary Share (PNR) P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Pentair plc. Ordinary Share (PNR) S 09/05/2017 09/30/2017 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Pfizer, Inc. (PFE) [ST] P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Pfizer, Inc. (PFE) [ST] S 04/08/2019 04/30/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 38]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Pinterest, Inc. Class A (PINS) [ST] P 11/03/2020 11/30/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Pinterest, Inc. Class A (PINS) [ST] S 11/16/2020 11/30/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+PPg Industries, Inc. (PPg) [ST] P 03/01/2021 03/31/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+PPg Industries, Inc. (PPg) [ST] S 06/04/2021 06/30/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+PPL Corporation (PPL) [ST] P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+PPL Corporation (PPL) [ST] S 04/30/2018 04/30/2018 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Procter & gamble Company (Pg) S 07/24/2018 07/31/2018 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Procter & gamble Company (Pg) P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+PTC Inc. (PTC) [ST] S 06/03/2021 06/30/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 39]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+PTC Inc. (PTC) [ST] P 03/02/2021 03/31/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+QUALCOMM Incorporated P 03/03/2021 03/31/2021 $50,001 - gfedc
+(QCOM) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+QUALCOMM Incorporated S 06/02/2021 06/30/2021 $50,001 - gfedc
+(QCOM) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+QuantumScape Corporation Class S 02/24/2021 02/28/2021 $15,001 - gfedcb
+A (QS) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+QuantumScape Corporation Class P 02/19/2021 02/28/2021 $15,001 - gfedc
+A (QS) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Real Estate Select Sector SPDR P 06/09/2021 06/30/2021 $50,001 - gfedc
+Fund (XLRE) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Real Estate Select Sector SPDR S 08/16/2021 08/31/2021 $50,001 - gfedc
+Fund (XLRE) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Regeneron Pharmaceuticals, Inc. P 11/05/2018 11/30/2018 $15,001 - gfedc
+(REgN) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Regeneron Pharmaceuticals, Inc. S 11/07/2018 11/30/2018 $15,001 - gfedcb
+(REgN) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 40]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Regeneron Pharmaceuticals, Inc. P 05/02/2019 05/30/2019 $50,001 - gfedc
+(REgN) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Regeneron Pharmaceuticals, Inc. S 09/16/2019 09/30/2019 $50,001 - gfedc
+(REgN) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+RH (RH) [ST] S 04/01/2021 04/30/2021 $50,001 - gfedcb
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+RH (RH) [ST] P 03/01/2021 03/31/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Roblox Corporation Class A S 06/30/2021 06/30/2021 $15,001 - gfedcb
+(RbLX) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Roblox Corporation Class A P 06/21/2021 06/30/2021 $15,001 - gfedc
+(RbLX) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Southwest Airlines Company (LUV) P 03/04/2021 03/31/2021 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Southwest Airlines Company (LUV) S 05/20/2021 05/31/2021 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+SPDR S&P Retail ETF (XRT) [ST] S 01/03/2020 01/31/2020 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Splunk Inc. (SPLK) [ST] S 06/04/2021 06/30/2021 $1,001 - $15,000 gfedc
+[[PAGE 41]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Splunk Inc. (SPLK) [ST] P 06/02/2021 06/30/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Spotify Technology S.A. Ordinary P 03/09/2021 03/31/2021 $1,001 - $15,000 gfedc
+Shares (SPOT) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Spotify Technology S.A. Ordinary P 04/08/2021 04/30/2021 $1,001 - $15,000 gfedc
+Shares (SPOT) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Spotify Technology S.A. Ordinary S 05/05/2021 05/30/2021 $50,001 - gfedc
+Shares (SPOT) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Spotify Technology S.A. Ordinary P 03/01/2021 03/31/2021 $15,001 - gfedc
+Shares (SPOT) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Spotify Technology S.A. Ordinary P 08/26/2021 08/31/2021 $50,001 - gfedc
+Shares (SPOT) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Square, Inc. Class A (SQ) [ST] S 05/20/2021 05/31/2021 $50,001 - gfedcb
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Square, Inc. Class A (SQ) [ST] P 08/20/2019 08/31/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Square, Inc. Class A (SQ) [ST] S 12/02/2019 12/31/2019 $15,001 - gfedcb
+$50,000
+[[PAGE 42]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Square, Inc. Class A (SQ) [ST] P 03/10/2020 03/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Square, Inc. Class A (SQ) [ST] P 03/03/2020 03/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Superior Industries International, S 01/02/2019 01/31/2019 $1,001 - $15,000 gfedc
+Inc. Common Stock (SUP) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Superior Industries International, S 03/29/2019 03/31/2019 $1,001 - $15,000 gfedc
+Inc. Common Stock (SUP) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Superior Industries International, P 10/15/2018 10/30/2018 $50,001 - gfedc
+Inc. Common Stock (SUP) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Superior Industries International, S 12/28/2018 12/31/2018 $15,001 - gfedc
+Inc. Common Stock (SUP) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Superior Industries International, P 12/21/2017 12/31/2017 $1,001 - $15,000 gfedc
+Inc. Common Stock (SUP) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Taiwan Semiconductor P 06/11/2021 06/30/2021 $15,001 - gfedc
+Manufacturing Company Ltd. $50,000
+(TSM) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Target Corporation (TgT) [ST] S 09/05/2017 09/30/2017 $1,001 - $15,000 gfedc
+[[PAGE 43]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Target Corporation (TgT) [ST] P 09/05/2017 09/30/2017 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+TE Connectivity Ltd. New P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+Switzerland Registered Shares
+(TEL) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+TE Connectivity Ltd. New S 01/14/2019 01/30/2019 $1,001 - $15,000 gfedcb
+Switzerland Registered Shares
+(TEL) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Tesla, Inc. (TSLA) [ST] S 04/07/2021 04/30/2021 $50,001 - gfedcb
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Tesla, Inc. (TSLA) [ST] P 03/02/2021 03/31/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Texas Instruments Incorporated S 06/18/2019 06/30/2019 $15,001 - gfedcb
+(TXN) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Texas Instruments Incorporated P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+(TXN) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Texas Instruments Incorporated P 03/05/2019 03/31/2019 $1,001 - $15,000 gfedc
+(TXN) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Texas Instruments Incorporated S 04/08/2019 04/30/2019 $1,001 - $15,000 gfedc
+[[PAGE 44]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+(TXN) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+The bank of New York Mellon P 06/03/2021 06/30/2021 $50,001 - gfedc
+Corporation (bK) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+The Cooper Companies, Inc. (COO) S 01/05/2017 01/30/2017 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+The Priceline group Inc. (PCLN) S 01/05/2017 01/30/2017 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+Time Warner Inc. New (TWX) [ST] S 01/05/2017 01/30/2017 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Charles Schwab Retirement Account
+TJX Companies, Inc. (TJX) [ST] P 06/15/2020 06/30/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+TJX Companies, Inc. (TJX) [ST] S 07/31/2020 07/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Total SE (TOT) [ST] S 09/05/2017 09/30/2017 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Total SE (TOT) [ST] P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+TrueShares Technology, AI & Deep P 09/17/2020 09/30/2020 $1,001 - $15,000 gfedc
+Learning ETF (LRNZ) [ST]
+FILINg STATUS: New
+[[PAGE 45]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+TrueShares Technology, AI & Deep S 10/26/2020 10/31/2020 $1,001 - $15,000 gfedcb
+Learning ETF (LRNZ) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+TrueShares Technology, AI & Deep P 06/03/2021 06/30/2021 $15,001 - gfedc
+Learning ETF (LRNZ) [ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+U.S. global Jets ETF (JETS) [ST] S 01/15/2021 01/31/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+U.S. global Jets ETF (JETS) [ST] P 12/11/2020 12/31/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Uber Technologies, Inc. (UbER) S 05/20/2021 05/31/2021 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Uber Technologies, Inc. (UbER) P 01/13/2021 01/31/2021 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+United Rentals, Inc. (URI) [ST] S 05/05/2021 05/31/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+United Rentals, Inc. (URI) [ST] S 06/04/2021 06/30/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+United Rentals, Inc. (URI) [ST] P 03/20/2020 03/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 46]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+United Rentals, Inc. (URI) [ST] P 05/23/2019 05/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+United Rentals, Inc. (URI) [ST] P 08/21/2019 08/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+United Rentals, Inc. (URI) [ST] P 12/19/2018 12/30/2018 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Vanguard NY Long Term [gS] S 06/28/2018 06/30/2018 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Vanguard NY Long Term [gS] P 08/17/2017 08/31/2017 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Verizon Communications Inc. (VZ) P 08/17/2017 08/31/2017 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Verizon Communications Inc. (VZ) S 06/18/2019 06/30/2019 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Verizon Communications Inc. (VZ) S 06/18/2019 06/30/2019 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Visa Inc. (V) [ST] P 03/02/2020 03/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 47]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Visa Inc. (V) [ST] P 01/29/2020 01/31/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Visa Inc. (V) [ST] P 01/09/2020 01/31/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Visa Inc. (V) [ST] S 06/04/2021 06/30/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Walmart Inc. (WMT) [ST] S 06/18/2019 06/30/2019 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Walmart Inc. (WMT) [ST] S (partial) 03/02/2020 03/31/2020 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Walmart Inc. (WMT) [ST] S 06/18/2019 06/30/2019 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Walmart Inc. (WMT) [ST] P 11/04/2018 11/30/2018 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Walt Disney Company (DIS) [ST] P 11/13/2019 11/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Walt Disney Company (DIS) [ST] S 05/11/2020 05/31/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Waste Management, Inc. (WM) S 06/03/2021 06/30/2021 $50,001 - gfedcb
+[ST] $100,000
+[[PAGE 48]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Waste Management, Inc. (WM) S 03/20/2020 03/31/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Waste Management, Inc. (WM) P 09/05/2017 09/30/2017 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Westchester CNTY NY gO [gS] P 08/17/2017 08/31/2017 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Westchester CNTY NY gO [gS] S 07/24/2018 07/31/2018 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Weyerhaeuser Company (WY) [ST] P 11/08/2018 11/30/2018 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Weyerhaeuser Company (WY) [ST] P 02/25/2019 02/28/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Weyerhaeuser Company (WY) [ST] S 05/08/2019 05/31/2019 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Weyerhaeuser Company (WY) [ST] P 02/21/2019 02/28/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Weyerhaeuser Company (WY) [ST] P 03/02/2021 03/31/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+[[PAGE 49]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Weyerhaeuser Company (WY) [ST] S 08/03/2021 08/31/2021 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Weyerhaeuser Company (WY) [ST] S 06/04/2021 06/30/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Winnebago Industries, Inc. (WgO) S 04/08/2019 04/30/2019 $50,001 - gfedcb
+[ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Winnebago Industries, Inc. (WgO) P 11/18/2018 11/30/2018 $50,001 - gfedc
+[ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+WisdomTree Cloud Computing P 09/17/2020 09/30/2020 $1,001 - $15,000 gfedc
+Fund (WCLD) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+WisdomTree Cloud Computing S 10/26/2020 10/31/2020 $1,001 - $15,000 gfedcb
+Fund (WCLD) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+WisdomTree Cloud Computing P 06/03/2021 06/30/2021 $50,001 - gfedc
+Fund (WCLD) [ST] $100,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Workhorse group, Inc. (WKHS) S 10/05/2020 10/31/2020 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Workhorse group, Inc. (WKHS) P 09/24/2020 09/30/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+[[PAGE 50]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+ZoomInfo Technologies Inc. - Class P 06/15/2020 06/30/2020 $1,001 - $15,000 gfedc
+A (ZI) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+ZoomInfo Technologies Inc. - Class S 07/31/2020 07/31/2020 $1,001 - $15,000 gfedc
+A (ZI) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Zscaler, Inc. (ZS) [ST] S 01/06/2021 01/31/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+Zscaler, Inc. (ZS) [ST] P 12/11/2020 12/31/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Charles Schwab Retirement Account
+Merrill Lynch- Advisor Discretion Account
+LOCATION: US
+DESCRIPTION: Advisor Discretion Account under control of asset manager.
+Merrill Lynch- Advisor Discretion Account
+National Securities- Advisor Discretion Account
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Thomas Suozzi , 09/23/2021

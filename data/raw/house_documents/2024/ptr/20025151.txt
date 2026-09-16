@@ -1,0 +1,116 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Roger Williams
+Status: Member
+State/District:TX25
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 06/30/202205/30/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage Account 8214
+SP Caney Creek Tex Mun Util Dist [CS] P 10/25/202205/30/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage Account 8214
+D: Purchase Bond
+SP Devon Energy Corporation Common
+Stock (DVN) [ST]
+S 05/13/202105/30/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage Account 5612
+SP Eli Lilly and Company Common Stock
+(LLY) [ST]
+P 06/30/202205/30/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage Account 8214
+SP GE Aerospace Common Stock (GE)
+[ST]
+S 02/27/201905/30/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage Account 5612
+SP Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+P 06/30/202205/30/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage Account 8214
+Filing ID #20025151
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP NVIDIA Corporation - Common
+Stock (NVDA) [ST]
+P 06/30/202205/30/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage Account 8214
+SP NVIDIA Corporation - Common
+Stock (NVDA) [ST]
+S 03/01/201905/30/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage Account 5612
+SP Pfizer, Inc. Common Stock (PFE) [ST]S 03/04/202405/30/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage Account 8214
+SP Pfizer, Inc. Common Stock (PFE) [ST]S 03/01/202405/30/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage Account 5612
+SP Pfizer, Inc. Common Stock (PFE) [ST]P 03/01/202405/30/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage Account 8214
+SP Stellantis N.V. Common Shares
+(STLA) [ST]
+P 06/30/202105/30/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage Account 5612
+SP Sunshine Biopharma Inc. - Common
+stock (SBFM) [ST]
+P 06/30/202205/30/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage Account 8214
+SP Truist Financial Corporation
+Common Stock (TFC) [ST]
+P 06/30/202205/30/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage Account 8214
+SP Walt Disney Company (DIS) [ST] S 06/22/202205/30/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage Account 8214
+SP Walt Disney Company (DIS) [ST] P 06/30/202105/30/2024$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Edward Jones Brokerage Account 5612
+SP Walt Disney Company (DIS) [ST] S 07/10/201905/30/2024$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage Account 5612
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Edward Jones Brokerage Account 5612 (Owner: SP)
+L: US
+Edward Jones Brokerage Account 8214 (Owner: SP)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Roger Williams , 06/12/2024

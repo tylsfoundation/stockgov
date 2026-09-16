@@ -1,0 +1,115 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Jared Moskowitz
+Status: Member
+State/District:FL23
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Best Buy Co., Inc. (BBY) [ST] S 02/24/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+DC Brown & Brown, Inc. (BRO) [ST] P 02/21/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Chubb Limited (CB) [ST] P 02/21/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Costco Wholesale Corporation
+(COST) [ST]
+P 02/21/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Dollar General Corporation (DG) [ST]P 02/21/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Hormel Foods Corporation (HRL)
+[ST]
+P 02/21/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Illinois Tool Works Inc. (ITW) [ST] P 02/21/202302/28/2023$1,001 - $15,000
+Filing ID #20022533
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley Active Assets (5)
+DC Intel Corporation (INTC) [ST] S 02/13/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+Intel Corporation (INTC) [ST] S 02/13/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+DC Intel Corporation (INTC) [ST] S 02/13/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+P 02/24/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+NextEra Energy, Inc. (NEE) [ST] P 02/24/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Pepsico, Inc. (PEP) [ST] P 02/24/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Pfizer, Inc. (PFE) [ST] S (partial) 02/24/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+DC PNC Financial Services Group, Inc.
+(PNC) [ST]
+P 02/21/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (6)
+DC PNC Financial Services Group, Inc.
+(PNC) [ST]
+P 02/21/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Public Service Enterprise Group
+Incorporated (PEG) [ST]
+P 02/24/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+S&P Global Inc. (SPGI) [ST] P 02/24/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+DC S&P Global Inc. (SPGI) [ST] P 02/21/202302/28/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (5)
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley Active Assets (1)
+L: US
+Morgan Stanley Active Assets (5) (Owner: DC)
+L: US
+Morgan Stanley Active Assets (6) (Owner: DC)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Jared Moskowitz , 03/10/2023

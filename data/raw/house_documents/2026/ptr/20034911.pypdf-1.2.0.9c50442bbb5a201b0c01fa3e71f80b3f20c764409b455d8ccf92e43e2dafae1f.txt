@@ -1,0 +1,85 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Scott H. Peters
+Status: Member
+State/District:CA50
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Allocate Alpha Fund II LP [OT] P 06/24/202606/30/2026$15,001 - $50,000
+F S: New
+L: US
+D: Pooled Investment Fund
+SP Allocate Premier Access Fund [OT] P 06/24/202606/30/2026$15,001 - $50,000
+F S: New
+L: US
+D: Pooled Investment Fund
+SP Charlotte-Meckle HLTH [GS] P 06/26/202606/30/2026$250,001 -
+$500,000
+F S: New
+SP Dublin CA UNIF SCH DIST [GS] S 06/24/202606/30/2026$100,001 -
+$250,000
+F S: New
+SP Form Energy [OL] P 06/26/202606/30/2026$250,001 -
+$500,000
+F S: New
+S O: Blindspot Ventures Fund I LLC
+L: Weirton, WV, US
+D: Energy Storage
+SP Grapevine-Colleyville TX GO UTX
+[GS]
+S 06/04/202606/30/2026$50,001 -
+$100,000
+F S: New
+Filing ID #20034911
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP New York, NY City COMB TX [GS] P 06/11/202606/30/2026$500,001 -
+$1,000,000
+F S: New
+SP San Juan CA UNI GO UTX [GS] P 06/24/202606/30/2026$50,001 -
+$100,000
+F S: New
+SP Smash Capital Fund II LP [OT] P 06/18/202606/30/2026$100,001 -
+$250,000
+F S: New
+L: US
+D: Pooled Investment Fund
+SP Southwestern Community Coll Educ
+[GS]
+P 06/03/202606/30/2026$500,001 -
+$1,000,000
+F S: New
+SP U.S. Treasury Bill [GS] S (partial) 06/25/202606/30/2026$250,001 -
+$500,000
+F S: New
+SP U.S. Treasury Bill [GS] S (partial) 06/11/202606/30/2026$50,001 -
+$100,000
+F S: New
+SP U.S. Treasury Bills [GS] P 06/01/202606/30/2026$250,001 -
+$500,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Blindspot Ventures Fund I LLC (Owner: SP)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+[[PAGE 3]]
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Scott H. Peters , 07/10/2026

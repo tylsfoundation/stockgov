@@ -1,0 +1,112 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Christopher L. Jacobs
+Status: Member
+State/District:NY27
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+AGNC Investment Corp. (AGNC) [ST] S 10/07/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Amylyx Pharmaceuticals, Inc. (AMLX)
+[ST]
+P 10/12/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Anavex Life Sciences Corp. (AVXL)
+[ST]
+P 10/12/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Bank of America Corporation (BAC)
+[ST]
+P 10/12/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Broadmark Realty Capital Inc.
+(BRMK) [ST]
+S 10/07/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Cassava Sciences, Inc. (SAVA) [ST] P 10/12/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Filing ID #20021989
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Chevron Corporation (CVX) [ST] P 10/12/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Civitas Resources, Inc. (CIVI) [ST] P 10/12/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Expro Group Holdings N.V. (XPRO)
+[ST]
+P 10/12/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Exxon Mobil Corporation (XOM) [ST]P 10/12/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Innovative Industrial Properties, Inc.
+(IIPR) [ST]
+P 10/12/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+IVERIC bio, Inc. (ISEE) [ST] P 10/12/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+JP Morgan Chase & Co. (JPM) [ST] P 10/12/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+New York N Y Go 5.000% 10/01/29
+[GS]
+P 10/18/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > GWK
+Pfizer, Inc. (PFE) [ST] S 10/07/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Piedmont Lithium Inc. (PLL) [ST] P 10/12/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Tellurian Inc. (TELL) [ST] S 10/07/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Vertex Energy, Inc (VTNR) [ST] S 10/07/202211/11/2022 $1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+CL TRUST
+CL TRUST ⇒ LDJ FAM INV LLC
+CL TRUST ⇒ LDJ FAM INV LLC ⇒ GWK
+CL TRUST ⇒ LDJ FAM INV LLC ⇒ Parametric
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Christopher L. Jacobs , 11/16/2022

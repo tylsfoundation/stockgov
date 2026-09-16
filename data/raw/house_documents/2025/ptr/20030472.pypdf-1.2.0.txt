@@ -1,0 +1,315 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Cleo Fields
+Status: Member
+State/District:LA06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 06/05/202506/05/2025$15,001 - $50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 06/25/202506/25/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 06/25/202506/25/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 06/25/202506/25/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 06/09/202506/09/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 06/25/202506/25/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+Filing ID #20030472
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 06/05/202506/05/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 06/09/202506/09/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 06/30/202506/30/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 06/09/202506/09/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE #1
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 06/09/202506/09/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 06/03/202506/03/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 06/03/202506/03/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE #1
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 06/25/202506/25/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 06/30/202506/30/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 06/30/202506/30/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 06/30/202506/30/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 06/30/202506/30/2025$15,001 - $50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 06/25/202506/25/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 06/25/202506/25/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+AT&T Inc. (T) [ST] P 06/30/202506/30/2025$15,001 - $50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Chipotle Mexican Grill, Inc. Common
+Stock (CMG) [ST]
+P 06/03/202506/03/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE IRA
+Cisco Systems, Inc. - Common Stock
+(CSCO) [ST]
+P 06/30/202506/30/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Intel Corporation - Common Stock
+(INTC) [ST]
+S 06/30/202506/30/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+P 06/30/202506/30/2025$15,001 - $50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+McDonald's Corporation Common
+Stock (MCD) [ST]
+P 06/25/202506/25/2025$15,001 - $50,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+P 06/30/202506/30/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 06/03/202506/03/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE #1
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 06/03/202506/03/2025$250,001 -
+$500,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 06/25/202506/25/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 06/30/202506/30/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 06/30/202506/30/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 06/03/202506/03/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 06/03/202506/03/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE #1
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 06/05/202506/05/2025$250,001 -
+$500,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 06/25/202506/25/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 06/09/202506/09/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 06/09/202506/09/2025$15,001 - $50,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 06/26/202506/26/2025$1,000,001 -
+$5,000,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 06/03/202506/03/2025$15,001 - $50,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 06/25/202506/25/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+Palantir Technologies Inc. - Class A
+Common Stock (PLTR) [ST]
+P 06/25/202506/25/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Palantir Technologies Inc. - Class A
+Common Stock (PLTR) [ST]
+P 06/30/202506/30/2025$50,001 -
+$100,000
+F S: New
+S O: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+P 06/25/202506/25/2025$100,001 -
+$250,000
+F S: New
+S O: Morgan Stanley - E*TRADE #2
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC
+Morgan Stanley - E*TRADE #1
+Morgan Stanley - E*TRADE #2
+Morgan Stanley - E*TRADE IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Cleo Fields , 07/01/2025

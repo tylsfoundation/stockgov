@@ -1,0 +1,53 @@
+[[PAGE 1]]
+Filing ID #20020442
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Mark Dr Green
+Status: Member
+State/District: TN07
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Antero Midstream Corporation P 02/07/2022 02/11/2022 $100,001 - gfedc
+(AM) [ST] $250,000
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Antero Midstream Corporation S 02/09/2022 02/11/2022 $1,000,001 - gfedcb
+(AM) [ST] $5,000,000
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Energy Transfer lP Common P 02/09/2022 02/11/2022 $500,001 - gfedc
+units (ET) [ST] $1,000,000
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Energy Transfer lP Common P 02/07/2022 02/11/2022 $250,001 - gfedc
+units (ET) [ST] $500,000
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Enlink Midstream, llC Common P 02/09/2022 02/11/2022 $500,001 - gfedc
+units representing limited $1,000,000
+Partner Interests (ENlC) [ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+KNOT Offshore Partners lP S 02/07/2022 02/11/2022 $250,001 - gfedcb
+Common units representing $500,000
+limited Partner Interests (KNOP)
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+AXA Retirement Account
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Mark Dr Green , 02/14/2022

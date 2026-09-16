@@ -1,0 +1,110 @@
+[[PAGE 1]]
+Filing ID #20018420
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Lois Frankel
+Status: Member
+State/District: FL21
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Alliant Energy Corporation (LNT) P 03/15/2021 03/15/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+American Express Company (AXP) S 02/24/2021 02/24/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+American Express Company (AXP) S (partial) 02/17/2021 02/17/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+bank of Hawaii Corporation (bOH) P 03/15/2021 03/15/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+booz Allen Hamilton Holding S (partial) 02/18/2021 02/18/2021 $1,001 - $15,000 gfedc
+Corporation (bAH) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Cboe Global Markets, Inc. (CbOE) P 02/18/2021 02/18/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOLDING OF: Morgan Stanley IRA - X142
+Cboe Global Markets, Inc. (CbOE) P 02/19/2021 02/19/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Cboe Global Markets, Inc. (CbOE) P 03/01/2021 03/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+EPAM Systems, Inc. (EPAM) [ST] S (partial) 02/18/2021 02/18/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Equifax, Inc. (EFX) [ST] S 02/25/2021 02/25/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Genuine Parts Company (GPC) S 02/19/2021 02/19/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Genuine Parts Company (GPC) S (partial) 02/18/2021 02/18/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Hess Corporation (HES) [ST] S (partial) 03/15/2021 03/15/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Hexcel Corporation (HXL) [ST] P 02/25/2021 02/25/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Hudson Pacific Properties, Inc. P 02/25/2021 02/25/2021 $1,001 - $15,000 gfedc
+(HPP) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Morgan Stanley (MS) [ST] P 02/17/2021 02/17/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Morgan Stanley (MS) [ST] P 03/24/2021 03/24/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Progressive Corporation (PGR) P 03/10/2021 03/10/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+The Travelers Companies, Inc. S (partial) 03/10/2021 03/10/2021 $1,001 - $15,000 gfedc
+(TRV) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+The Travelers Companies, Inc. S (partial) 03/11/2021 03/11/2021 $1,001 - $15,000 gfedc
+(TRV) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Xcel Energy Inc. (XEL) [ST] P 03/15/2021 03/15/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan Stanley IRA - X141
+DESCRIPTION: Managed by MFS Investment MGMT
+Morgan Stanley IRA - X142
+DESCRIPTION: Managed by Anchor Capital Advisors LLC
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 03/26/2021

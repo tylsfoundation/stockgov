@@ -1,0 +1,292 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Greg Landsman
+Status: Member
+State/District:OH01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S 03/27/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Ameriprise Financial, Inc. Common
+Stock (AMP) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP Ameriprise Financial, Inc. Common
+Stock (AMP) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Apple Inc. - Common Stock (AAPL)
+[ST]
+S 03/27/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+Filing ID #20029084
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Apple Inc. - Common Stock (AAPL)
+[ST]
+S 03/27/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Rockefeller Capital Management (2)
+SP Arista Networks, Inc. Common Stock
+(ANET) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP BlackRock, Inc. Common Stock (BLK)
+[ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Bristol-Myers Squibb Company
+Common Stock (BMY) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (2)
+SP Cadence Design Systems, Inc. -
+Common Stock (CDNS) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Cencora, Inc. Common Stock (COR)
+[ST]
+S 03/27/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Costco Wholesale Corporation -
+Common Stock (COST) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP Costco Wholesale Corporation -
+Common Stock (COST) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Costco Wholesale Corporation -
+Common Stock (COST) [ST]
+S 03/27/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Rockefeller Capital Management (2)
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT CrowdStrike Holdings, Inc. - Class A
+Common Stock (CRWD) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP Danaher Corporation Common Stock
+(DHR) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Dollar General Corporation Common
+Stock (DG) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Equinix, Inc. - Common Stock (EQIX)
+[ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Fifth Third Bancorp - Common Stock
+(FITB) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (2)
+SP Home Depot, Inc. (HD) [ST] S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Honeywell International Inc. (HON)
+[ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+S 03/27/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Rockefeller Capital Management (2)
+SP L3Harris Technologies, Inc. Common
+Stock (LHX) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 03/27/202504/04/2025$50,001 -
+$100,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 03/27/202504/04/2025$50,001 -
+$100,000
+F S: New
+S O: Rockefeller Capital Management (2)
+SP NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 03/27/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+SP O'Reilly Automotive, Inc. - Common
+Stock (ORLY) [ST]
+S 03/27/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Parker-Hannifin Corporation
+Common Stock (PH) [ST]
+S 03/27/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Parker-Hannifin Corporation
+Common Stock (PH) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Rockefeller Capital Management (1)
+JT Philip Morris International Inc
+Common Stock (PM) [ST]
+S 03/27/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Rockefeller Capital Management (2)
+JT Procter & Gamble Company (PG) [ST]S 03/27/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Rockefeller Capital Management (2)
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Salesforce, Inc. Common Stock (CRM)
+[ST]
+S 03/27/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+JT Simon Property Group, Inc. Common
+Stock (SPG) [ST]
+S 03/27/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Rockefeller Capital Management (2)
+SP TE Connectivity plc Ordinary Shares
+(TEL) [ST]
+S 03/25/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Thermo Fisher Scientific Inc Common
+Stock (TMO) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP United Rentals, Inc. Common Stock
+(URI) [ST]
+S 03/27/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S 03/27/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Visa Inc. (V) [ST] S 03/27/202504/04/2025$15,001 -
+$50,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Walt Disney Company (DIS) [ST] S 03/27/202504/04/2025$1,001 - $15,000
+F S: New
+S O: Sarah Landsman Traditional IRA
+SP Zoetis Inc. Class A Common StockS 03/27/202504/04/2025$1,001 - $15,000
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(ZTS) [ST]
+F S: New
+S O: Sarah Landsman Traditional IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Rockefeller Capital Management (1) (Owner: JT)
+Rockefeller Capital Management (2) (Owner: JT)
+Sarah Landsman Traditional IRA (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Greg Landsman , 04/08/2025

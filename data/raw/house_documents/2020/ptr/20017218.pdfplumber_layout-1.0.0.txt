@@ -1,0 +1,114 @@
+[[PAGE 1]]
+Filing Id #20017218
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Greg Gianforte
+Status: Member
+State/District: MT00
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT adidas AG Sponsored AdR P 08/04/2020 08/10/2020 $15,001 - gfedc
+(AddYY) [ST] $50,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Alfa-Laval Ab unsponsored AdR S (partial) 08/04/2020 08/10/2020 $15,001 - gfedcb
+(ALFVY) [ST] $50,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Atlas Copco Ab Sponsored AdR S (partial) 08/04/2020 08/10/2020 $15,001 - gfedcb
+repstg Class A (ATLKY) [ST] $50,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT dassault Systemes, S.A. American S (partial) 08/04/2020 08/10/2020 $15,001 - gfedcb
+depositary Shares (dASTY) [ST] $50,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT diageo plc (dEO) [ST] P 08/04/2020 08/10/2020 $15,001 - gfedc
+$50,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT EPIROC AKTIEbOLAG AdR [OT] S (partial) 08/04/2020 08/10/2020 $15,001 - gfedcb
+$50,000
+FILING STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOLdING OF: Harding Loevner International Equity
+LOCATION: SE
+dESCRIPTION: EPOKY EPIROC AKTIEbOLAG AdR
+JT Fanuc Corporation unsponsored S (partial) 08/04/2020 08/10/2020 $15,001 - gfedcb
+AdR (FANuY) [ST] $50,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT HdFC bank Limited (Hdb) [ST] P 08/04/2020 08/10/2020 $15,001 - gfedc
+$50,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT ICICI bank Limited (IbN) [ST] S (partial) 08/04/2020 08/10/2020 $15,001 - gfedcb
+$50,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Infineon Technologies AG S (partial) 08/04/2020 08/10/2020 $50,001 - gfedcb
+(IFNNY) [ST] $100,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT L'Air Liquide Ord American P 08/04/2020 08/10/2020 $15,001 - gfedc
+depositary Shares (AIQuY) [ST] $50,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT L'Air Liquide Ord American P 08/05/2020 08/10/2020 $15,001 - gfedc
+depositary Shares (AIQuY) [ST] $50,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Lukoil Co Sponsored AdR S (partial) 08/04/2020 08/10/2020 $15,001 - gfedc
+(LuKOY) [ST] $50,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Novozymes A/S unsponsored S (partial) 08/04/2020 08/10/2020 $15,001 - gfedcb
+American depositary Receipt $50,000
+(NVZMY) [ST]
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Ping An Insurance (PNGAY) [ST] P 08/04/2020 08/10/2020 $15,001 - gfedc
+$50,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT SGS SA AdR (SGSOY) [ST] S (partial) 08/04/2020 08/10/2020 $15,001 - gfedcb
+$50,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Shionogi & Co Ltd unsponsored P 08/04/2020 08/10/2020 $15,001 - gfedc
+AdR (SGIOY) [ST] $50,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Symrise Ag unsponsored AdR P 08/04/2020 08/10/2020 $15,001 - gfedc
+(SYIEY) [ST] $50,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Sysmex Corporation unsponsored P 08/04/2020 08/10/2020 $15,001 - gfedc
+AdR (SSMXY) [ST] $50,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Taiwan Semiconductor S (partial) 08/04/2020 08/10/2020 $50,001 - gfedcb
+Manufacturing Company Ltd. $100,000
+(TSM) [ST]
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Harding Loevner International Equity (Owner: JT)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Greg Gianforte , 08/18/2020

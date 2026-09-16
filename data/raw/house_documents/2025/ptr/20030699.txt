@@ -1,0 +1,237 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Richard Dean Dr McCormick
+Status: Member
+State/District:GA06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Abbott Laboratories Common Stock
+(ABT) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Air Products and Chemicals, Inc.
+Common Stock (APD) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+American Tower Corporation (AMT)
+[ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+American Water Works Company, Inc.
+Common Stock (AWK) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Analog Devices, Inc. - Common Stock
+(ADI) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Filing ID #20030699
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Automatic Data Processing, Inc. -
+Common Stock (ADP) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Baron Asset Fund Inst Shs (BARIX)
+[OT]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+L: US
+D: Mutual Fund
+Baron Emerging Markets Fd Inst Shs
+(BEXIX) [OT]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+L: US
+D: Mutual Fund
+BlackRock, Inc. Common Stock (BLK)
+[ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Cisco Systems, Inc. - Common Stock
+(CSCO) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Costco Wholesale Corporation -
+Common Stock (COST) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Emerson Electric Company Common
+Stock (EMR) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Fidelity Advisor International Capital
+Appreciation Fund: Class I (FCPIX)
+[OT]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+L: US
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: Mutual Fund
+Fidelity Advisor Total Bond Fund:
+Class I (FEPIX) [OT]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+L: US
+D: Mutual Fund
+Home Depot, Inc. (HD) [ST] P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Illinois Tool Works Inc. Common
+Stock (ITW) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Intercontinental Exchange Inc.
+Common Stock (ICE) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Janus Henderson Flexible Bond Fund
+- I Shares (JFLEX) [OT]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+L: US
+D: Mutual Fund
+Johnson & Johnson Common Stock
+(JNJ) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+L3Harris Technologies, Inc. Common
+Stock (LHX) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+McDonald's Corporation Common
+Stock (MCD) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Medtronic plc. Ordinary Shares
+(MDT) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Neuberger Berman Genesis
+Institutional (NBGIX) [OT]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+L: US
+D: Mutual Fund
+NextEra Energy, Inc. Common Stock
+(NEE) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Nuveen Real Estate Securities Fund Cl
+I (FARCX) [OT]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+L: US
+D: Mutual Fund
+Pepsico, Inc. (PEP) [ST] P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Realty Income Corporation Common
+Stock (O) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Thornburg Strategic Income Fund
+Class 1 Shs (TSIIX) [OT]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+L: US
+D: Mutual Fund
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+Vanguard Mega Cap Growth ETF
+(MGK) [OT]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+L: US
+D: ETF
+Walmart Inc. Common Stock (WMT)
+[ST]
+P 03/15/202304/10/2023$1,001 - $15,000
+F S: New
+S O: Growth Partners Roth IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Growth Partners Roth IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Richard Dean Dr McCormick , 09/17/2025

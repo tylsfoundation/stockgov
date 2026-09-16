@@ -1,0 +1,43 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Scott H. Peters
+Status: Member
+State/District:CA50
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Allocate Alpha Fund II LP [OT] P 11/19/202511/30/2025 $15,001 - $50,000
+F S: New
+L: US
+D: Pooled Investment Fund
+SP Kent Street Group LLC [OI] P 11/20/202511/30/2025 $15,001 - $50,000
+F S: New
+D: Poole Investment Fund/Venture Capital
+SP Motesto CA Waste [GS] P 11/12/202511/30/2025 $100,001 -
+$250,000
+F S: New
+SP Palmdale CA Sch [GS] P 11/19/202511/30/2025 $100,001 -
+$250,000
+F S: New
+SP Sacramento CA WTR UTIL [GS] S 11/03/202511/30/2025 $100,001 -
+$250,000
+F S: New
+SP U.S. Treasury Notes [GS] S (partial) 11/18/202511/30/2025 $500,001 -
+$1,000,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Filing ID #20033588
+[[PAGE 2]]
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Scott H. Peters , 12/11/2025

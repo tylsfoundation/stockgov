@@ -1,0 +1,92 @@
+[[PAGE 1]]
+Filing ID #20019355
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Christopher L. Jacobs
+Status: Member
+State/District: NY27
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+CALIFORNIA ST 5.000% S 06/18/2021 08/20/2021 $15,001 - gfedcb
+03/01/2026 DD 03/18/15 [GS] $50,000
+FILING STATUS: New
+SUbHOLDING OF: CL TRUST > LDJ FAM INV LLC > GWK
+DT Midstream, Inc. (DTM) [ST] E 07/01/2021 08/13/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLDING OF: CL TRUST > LDJ FAM INV LLC > Parametric
+DESCRIPTION: Shares in DT Midstream Inc received following a spin-off of DTE Energy Co.
+MONROE CNTY NY INDL DEV S 01/19/2021 08/20/2021 $15,001 - gfedcb
+CORP R 5.000% 07/01/2025 DD $50,000
+06/24/15 [GS]
+FILING STATUS: New
+SUbHOLDING OF: CL TRUST > LDJ FAM INV LLC > GWK
+NASSAU CNTY NY INTERIM FIN P 02/05/2021 08/20/2021 $50,001 - gfedc
+AUT 4.000% 11/15/2033 DD $100,000
+02/17/21 [GS]
+FILING STATUS: New
+SUbHOLDING OF: CL TRUST > LDJ FAM INV LLC > GWK
+NEW YORK CITY NY P 07/16/2021 08/20/2021 $50,001 - gfedc
+TRANSITIONAL 5.000% $100,000
+07/15/2033 DD 07/22/21 [GS]
+FILING STATUS: New
+SUbHOLDING OF: CL TRUST > LDJ FAM INV LLC > GWK
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+NEW YORK CITY NY S 03/17/2021 08/20/2021 $15,001 - gfedcb
+TRANSITIONAL 5.000% $50,000
+11/01/2025 DD 11/05/15 [GS]
+FILING STATUS: New
+SUbHOLDING OF: CL TRUST > LDJ FAM INV LLC > GWK
+NEW YORK ST DORM AUTH ST P 03/19/2021 08/20/2021 $50,001 - gfedc
+PERSO 5.000% 03/15/2034 DD $100,000
+03/25/21 [GS]
+FILING STATUS: New
+SUbHOLDING OF: CL TRUST > LDJ FAM INV LLC > GWK
+NEW YORK ST THRUWAY AUTH S 07/15/2021 08/20/2021 $15,001 - gfedcb
+5.000% 01/01/2025 DD 02/06/14 $50,000
+[GS]
+FILING STATUS: New
+SUbHOLDING OF: CL TRUST > LDJ FAM INV LLC > GWK
+PORT AUTH OF NEW YORK & P 01/21/2021 08/20/2021 $15,001 - gfedc
+NEW JE 5.000% 07/15/2032 DD $50,000
+02/05/21 [GS]
+FILING STATUS: New
+SUbHOLDING OF: CL TRUST > LDJ FAM INV LLC > GWK
+SALES TAX ASSET RECEIVAbLE P 07/15/2021 08/20/2021 $15,001 - gfedc
+COR 5.000% 10/15/2026 DD $50,000
+10/15/14 [GS]
+FILING STATUS: New
+SUbHOLDING OF: CL TRUST > LDJ FAM INV LLC > GWK
+SAN ANTONIO TX WTR P 06/23/2021 08/20/2021 $15,001 - gfedc
+REVENUE 5.000% 05/15/2033 $50,000
+DD 07/13/21 [GS]
+FILING STATUS: New
+SUbHOLDING OF: CL TRUST > LDJ FAM INV LLC > GWK
+UTAH ST 5.000% 07/01/2030 DD P 02/03/2021 08/20/2021 $50,001 - gfedc
+02/27/20 [GS] $100,000
+FILING STATUS: New
+SUbHOLDING OF: CL TRUST > LDJ FAM INV LLC > GWK
+VIRGINIA ST CLG bLDG AUTH P 02/01/2021 08/20/2021 $50,001 - gfedc
+EDUC 5.000% 02/01/2029 DD $100,000
+12/21/17 [GS]
+FILING STATUS: New
+SUbHOLDING OF: CL TRUST > LDJ FAM INV LLC > GWK
+[[PAGE 3]]
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+CL TRUST
+CL TRUST ⇒ LDJ FAM INV LLC
+CL TRUST ⇒ LDJ FAM INV LLC ⇒ GWK
+CL TRUST ⇒ LDJ FAM INV LLC ⇒ Parametric
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Christopher L. Jacobs , 09/03/2021

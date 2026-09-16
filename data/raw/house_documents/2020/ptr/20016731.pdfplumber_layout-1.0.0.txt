@@ -1,0 +1,36 @@
+[[PAGE 1]]
+Filing ID #20016731
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Robert J. Wittman
+Status: Member
+State/District: VA01
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+becton, Dickinson and Company S 05/22/2020 05/27/2020 $1,001 - $15,000 gfedcb
+(bDX) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Morgan Stanley
+Exxon Mobil Corporation (XOM) P 05/21/2020 05/26/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Morgan Stanley INH IRA
+lowe's Companies, Inc. (lOW) P 05/21/2020 05/26/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Morgan Stanley INH IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Morgan Stanley
+Morgan Stanley INH IRA
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+[[PAGE 2]]
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Robert J. Wittman , 06/08/2020

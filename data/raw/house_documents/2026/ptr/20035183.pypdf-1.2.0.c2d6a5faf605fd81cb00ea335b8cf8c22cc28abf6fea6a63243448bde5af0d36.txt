@@ -1,0 +1,31 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Derek Tran
+Status: Member
+State/District:CA45
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Litecoin (LTC) [CT] S 07/28/202507/21/2026$1,001 - $15,000
+F S: New
+S O: Coinbase cryptocurrency wallet
+C: Filer believes that the value of the coin was <$1,000 when filer initiated trade; when trade settled, value had
+fluctuated to just over $1,000. Filer did not realize that sale was >$1,000 until preparing 2025 FD.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Coinbase cryptocurrency wallet
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Derek Tran , 08/13/2026
+Filing ID #20035183

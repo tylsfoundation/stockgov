@@ -1,0 +1,144 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. April McClain Delaney
+Status: Member
+State/District:MD06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC Bio-Techne Corp - Common Stock
+(TECH) [ST]
+S (partial) 03/26/202604/01/2026$1,001 - $15,000
+F S: New
+DC BJ's Wholesale Club Holdings, Inc.
+Common Stock (BJ) [ST]
+S (partial) 03/04/202604/01/2026$1,001 - $15,000
+F S: New
+DC BJ's Wholesale Club Holdings, Inc.
+Common Stock (BJ) [ST]
+S 03/05/202604/01/2026$1,001 - $15,000
+F S: New
+DC EMCOR Group, Inc. Common Stock
+(EME) [ST]
+P 03/09/202604/01/2026$1,001 - $15,000
+F S: New
+DC EMCOR Group, Inc. Common Stock
+(EME) [ST]
+P 03/03/202604/01/2026$1,001 - $15,000
+F S: New
+DC EMCOR Group, Inc. Common Stock
+(EME) [ST]
+P 03/10/202604/08/2026$1,001 - $15,000
+F S: New
+DC Entegris, Inc. - Common Stock
+(ENTG) [ST]
+P 03/31/202604/01/2026$1,001 - $15,000
+F S: New
+DC Jones Lang LaSalle IncorporatedS (partial) 03/03/202604/01/2026$1,001 - $15,000
+Filing ID #20034299
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Common Stock (JLL) [ST]
+F S: New
+DC Jones Lang LaSalle Incorporated
+Common Stock (JLL) [ST]
+S 03/13/202604/01/2026$1,001 - $15,000
+F S: New
+DC Martin Marietta Materials, Inc.
+Common Stock (MLM) [ST]
+P 03/09/202604/01/2026$1,001 - $15,000
+F S: New
+DC Nasdaq, Inc. - Common Stock
+(NDAQ) [ST]
+P 03/09/202604/01/2026$1,001 - $15,000
+F S: New
+DC Nasdaq, Inc. - Common Stock
+(NDAQ) [ST]
+P 03/03/202604/01/2026$1,001 - $15,000
+F S: New
+DC Nasdaq, Inc. - Common Stock
+(NDAQ) [ST]
+P 03/04/202604/01/2026$1,001 - $15,000
+F S: New
+DC Nasdaq, Inc. - Common Stock
+(NDAQ) [ST]
+P 03/10/202604/01/2026$1,001 - $15,000
+F S: New
+DC Nasdaq, Inc. - Common Stock
+(NDAQ) [ST]
+P 03/31/202604/01/2026$1,001 - $15,000
+F S: New
+DC Nasdaq, Inc. - Common Stock
+(NDAQ) [ST]
+P 03/18/202604/08/2026$1,001 - $15,000
+F S: New
+DC Packaging Corporation of America
+Common Stock (PKG) [ST]
+P 03/20/202604/01/2026$1,001 - $15,000
+F S: New
+DC Packaging Corporation of America
+Common Stock (PKG) [ST]
+P 03/17/202604/01/2026$1,001 - $15,000
+F S: New
+DC Rollins, Inc. Common Stock (ROL)
+[ST]
+P 03/31/202604/01/2026$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+DC Somnigroup International Inc.
+Common Stock (SGI) [ST]
+P 03/31/202604/01/2026$1,001 - $15,000
+F S: New
+DC Somnigroup International Inc.
+Common Stock (SGI) [ST]
+P 03/13/202604/01/2026$1,001 - $15,000
+F S: New
+DC Somnigroup International Inc.
+Common Stock (SGI) [ST]
+P 03/16/202604/01/2026$1,001 - $15,000
+F S: New
+DC Somnigroup International Inc.
+Common Stock (SGI) [ST]
+P 03/09/202604/01/2026$1,001 - $15,000
+F S: New
+DC STERIS plc (STE) [ST] P 03/16/202604/01/2026$1,001 - $15,000
+F S: New
+DC Tractor Supply Company - Common
+Stock (TSCO) [ST]
+P 03/16/202604/01/2026$1,001 - $15,000
+F S: New
+DC Tractor Supply Company - Common
+Stock (TSCO) [ST]
+P 03/04/202604/02/2026$1,001 - $15,000
+F S: New
+DC Tractor Supply Company - Common
+Stock (TSCO) [ST]
+P 03/31/202604/01/2026$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. April McClain Delaney , 04/06/2026

@@ -1,0 +1,163 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. David Trone
+Status: Member
+State/District:MD06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Pepsico, Inc. (PEP) [ST] S 11/01/202303/25/2024$50,001 -
+$100,000
+F S: New
+S O: Insurance Trust 1
+JT US Treasury Bill 01/18/2024 [GS] S 11/02/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 01/18/2024 [GS] P 08/02/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 01/18/2024 [GS] P 09/13/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 01/18/2024 [GS] P 09/27/202303/25/2024$500,001 -
+$1,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 02/22/2024 [GS] P 09/27/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+Filing ID #20024730
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT US Treasury Bill 02/22/2024 [GS] P 08/02/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 02/22/2024 [GS] P 08/25/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 02/22/2024 [GS] S 10/25/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 03/07/2024 [GS] S 11/16/202303/25/2024$500,001 -
+$1,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 03/07/2024 [GS] P 09/06/202303/25/2024$500,001 -
+$1,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 07/20/2023 [GS] P 04/18/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 07/20/2023 [GS] S 07/20/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 08/24/2023 [GS] S 08/24/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 08/24/2023 [GS] P 06/01/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT US Treasury Bill 09/26/2023 [GS] P 06/12/202303/25/2024$500,001 -
+$1,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 09/26/2023 [GS] P 06/01/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 09/26/2023 [GS] S 09/26/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 10/17/2023 [GS] S (partial) 10/02/202303/25/2024$500,001 -
+$1,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 10/17/2023 [GS] S 10/12/202303/25/2024$500,001 -
+$1,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 10/17/2023 [GS] P 06/15/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 11/16/2023 [GS] P 07/05/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 11/16/2023 [GS] P 09/27/202303/25/2024$250,001 -
+$500,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 11/16/2023 [GS] S 10/17/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT US Treasury Bill 12/21/2023 [GS] S 10/31/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 12/21/2023 [GS] P 07/07/202303/25/2024$1,000,001 -
+$5,000,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 12/21/2023 [GS] S (partial) 10/17/202303/25/2024$100,001 -
+$250,000
+F S: New
+S O: JP Morgan Investment Account
+JT US Treasury Bill 12/21/2023 [GS] P 09/27/202303/25/2024$250,001 -
+$500,000
+F S: New
+S O: JP Morgan Investment Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Insurance Trust 1 (Owner: SP)
+JP Morgan Investment Account (Owner: JT)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. David Trone , 05/15/2024

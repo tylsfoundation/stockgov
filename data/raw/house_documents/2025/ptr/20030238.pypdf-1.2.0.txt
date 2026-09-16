@@ -1,0 +1,323 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Rob Bresnahan
+Status: Member
+State/District:PA08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Accenture plc Class A Ordinary
+Shares (ACN) [ST]
+S 04/08/202504/08/2025$15,001 -
+$50,000
+F S: New
+S O: JP Morgan Brokerage Account
+Advanced Micro Devices, Inc. (AMD)
+[ST]
+S 04/08/202504/08/2025$15,001 -
+$50,000
+F S: New
+S O: JP Morgan Brokerage Account
+Agilent Technologies, Inc. Common
+Stock (A) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Airbnb, Inc. - Class A Common Stock
+(ABNB) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S (partial) 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Filing ID #20030238
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Amcor plc Ordinary Shares (AMCR)
+[ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Apple Inc. - Common Stock (AAPL)
+[ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Arista Networks, Inc. Common Stock
+(ANET) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Becton, Dickinson and Company
+Common Stock (BDX) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Best Buy Co., Inc. Common Stock
+(BBY) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Boeing Company (BA) [ST] S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+CSX Corporation (CSX) [ST] S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Deere & Company Common Stock
+(DE) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+DexCom, Inc. - Common Stock
+(DXCM) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Edison International Common StockS 04/08/202504/08/2025$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(EIX) [ST]
+F S: New
+S O: JP Morgan Brokerage Account
+Eli Lilly and Company Common Stock
+(LLY) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Emerson Electric Company Common
+Stock (EMR) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+EOG Resources, Inc. Common Stock
+(EOG) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+FedEx Corporation Common Stock
+(FDX) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Gartner, Inc. Common Stock (IT) [ST]S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+GE HealthCare Technologies Inc. -
+Common Stock (GEHC) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Generac Holdlings Inc. Common
+Stock (GNRC) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+General Mills, Inc. Common Stock
+(GIS) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Home Depot, Inc. (HD) [ST] S 04/08/202504/08/2025$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: JP Morgan Brokerage Account
+HP Inc. Common Stock (HPQ) [ST] S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+IDEXX Laboratories, Inc. - Common
+Stock (IDXX) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Invesco Ltd Common Stock (IVZ)
+[ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Johnson & Johnson Common Stock
+(JNJ) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Kimberly-Clark Corporation Common
+Stock (KMB) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Lennar Corporation Class A Common
+Stock (LEN) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+lululemon athletica inc. - Common
+Stock (LULU) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Mastercard Incorporated Common
+Stock (MA) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+McCormick & Company, Incorporated
+Common Stock (MKC) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: JP Morgan Brokerage Account
+Medtronic plc. Ordinary Shares
+(MDT) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Mettler-Toledo International, Inc.
+Common Stock (MTD) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Norfolk Southern Corporation
+Common Stock (NSC) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Occidental Petroleum Corporation
+Common Stock (OXY) [ST]
+S 04/08/202504/08/2025$15,001 -
+$50,000
+F S: New
+S O: JP Morgan Brokerage Account
+Pfizer, Inc. Common Stock (PFE) [ST]S 04/08/202504/08/2025$15,001 -
+$50,000
+F S: New
+S O: JP Morgan Brokerage Account
+Procter & Gamble Company (PG) [ST]S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+QUALCOMM Incorporated -
+Common Stock (QCOM) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Rockwell Automation, Inc. Common
+Stock (ROK) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Roper Technologies, Inc. (ROP) [ST] S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Synopsys, Inc. - Common Stock
+(SNPS) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Target Corporation Common Stock
+(TGT) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Texas Instruments Incorporated -
+Common Stock (TXN) [ST]
+S 04/08/202504/08/2025$15,001 -
+$50,000
+F S: New
+S O: JP Morgan Brokerage Account
+The Hershey Company Common
+Stock (HSY) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+The Kraft Heinz Company - Common
+Stock (KHC) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Thermo Fisher Scientific Inc Common
+Stock (TMO) [ST]
+S 04/08/202504/08/2025$15,001 -
+$50,000
+F S: New
+S O: JP Morgan Brokerage Account
+Valero Energy Corporation Common
+Stock (VLO) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Zebra Technologies Corporation -
+Class A Common Stock (ZBRA) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+Zoetis Inc. Class A Common Stock
+(ZTS) [ST]
+S 04/08/202504/08/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+JP Morgan Brokerage Account
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Rob Bresnahan , 04/28/2025

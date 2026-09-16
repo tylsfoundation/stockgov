@@ -1,0 +1,252 @@
+[[PAGE 1]]
+Filing Id #20016181
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District: NJ05
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Air Products and Chemicals, Inc. P 02/05/2020 03/06/2020 $1,001 - $15,000 gfedc
+(APd) [ST]
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Air Products and Chemicals, Inc. P 02/04/2020 03/06/2020 $1,001 - $15,000 gfedc
+(APd) [ST]
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Air Products and Chemicals, Inc. P 02/03/2020 03/06/2020 $1,001 - $15,000 gfedc
+(APd) [ST]
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+Amazon.com, Inc. (AMZN) [ST] P 02/26/2020 03/06/2020 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Traditional Inherited IRA
+Apple Inc. (AAPL) [ST] P 02/26/2020 03/06/2020 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Traditional Inherited IRA
+JT Apple Inc. (AAPL) [ST] S (partial) 02/03/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Atlassian Corporation Plc - Class A S (partial) 02/05/2020 03/06/2020 $1,001 - $15,000 gfedcb
+ordinary Shares (TEAM) [ST]
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT boston Scientific Corporation S (partial) 02/27/2020 03/06/2020 $1,001 - $15,000 gfedc
+(bSX) [ST]
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Catalent, Inc. (CTLT) [ST] S (partial) 02/03/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Ecolab Inc. (ECL) [ST] S 02/28/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Estee Lauder Companies, Inc. (EL) S (partial) 02/05/2020 03/06/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Horace Mann Educators P 02/18/2020 03/06/2020 $1,001 - $15,000 gfedc
+Corporation (HMN) [ST]
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Horace Mann Educators P 02/14/2020 03/06/2020 $1,001 - $15,000 gfedc
+Corporation (HMN) [ST]
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Integra LifeSciences Holdings P 02/03/2020 03/06/2020 $1,001 - $15,000 gfedc
+Corporation (IART) [ST]
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Lam Research Corporation (LRCX) P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT LHC Group - common stock S (partial) 02/28/2020 03/06/2020 $1,001 - $15,000 gfedcb
+(LHCG) [ST]
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT MercadoLibre, Inc. (MELI) [ST] S (partial) 02/05/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Microsoft Corporation (MSFT) P 02/13/2020 03/06/2020 $50,001 - gfedc
+[oP] $100,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $170; Expires 02/28/2020
+JT Microsoft Corporation (MSFT) P 02/13/2020 03/06/2020 $100,001 - gfedc
+[oP] $250,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $130; Expires 04/17/2020
+JT Microsoft Corporation (MSFT) P 02/13/2020 03/06/2020 $250,001 - gfedc
+[oP] $500,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $130; Expires 04/17/2020
+JT Microsoft Corporation (MSFT) S 02/13/2020 03/06/2020 $50,001 - gfedc
+[oP] $100,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $170; Expires 07/17/2020
+JT Microsoft Corporation (MSFT) S 02/13/2020 03/06/2020 $250,001 - gfedc
+[oP] $500,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $135; Expires 07/17/2020
+JT Microsoft Corporation (MSFT) S 02/13/2020 03/06/2020 $50,001 - gfedc
+[oP] $100,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $135; Expires 07/17/2020
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Microsoft Corporation (MSFT) P 02/13/2020 03/06/2020 $50,001 - gfedc
+[oP] $100,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $130; Expires 02/21/2020
+JT Microsoft Corporation (MSFT) P 02/13/2020 03/06/2020 $250,001 - gfedc
+[oP] $500,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $130; Expires 02/21/2020
+JT Microsoft Corporation (MSFT) S 02/13/2020 03/06/2020 $100,001 - gfedc
+[oP] $250,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $140; Expires 12/18/2020
+JT Microsoft Corporation (MSFT) S 02/13/2020 03/06/2020 $100,001 - gfedc
+[oP] $250,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $135; Expires 12/18/2020
+JT Microsoft Corporation (MSFT) S 02/13/2020 03/06/2020 $100,001 - gfedc
+[oP] $250,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $135; Expires 12/18/2020
+JT Microsoft Corporation (MSFT) S 02/13/2020 03/06/2020 $250,001 - gfedc
+[oP] $500,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $135; Expires 09/18/2020
+JT Microsoft Corporation (MSFT) P 02/13/2020 03/06/2020 $100,001 - gfedc
+[oP] $250,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $135; Expires 03/20/20
+JT Microsoft Corporation (MSFT) P 02/13/2020 03/06/2020 $100,001 - gfedc
+[oP] $250,000
+FILING STATUS: New
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $135; Expires 03/20/20
+JT Microsoft Corporation (MSFT) P 02/13/2020 03/06/2020 $250,001 - gfedc
+[oP] $500,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $130; Expires 03/20/20
+JT Microsoft Corporation (MSFT) P 02/13/2020 03/06/2020 $100,001 - gfedc
+[oP] $250,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $130; Expires 03/20/20
+JT Microsoft Corporation (MSFT) S 02/13/2020 03/06/2020 $100,001 - gfedc
+[oP] $250,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $135; Expires 06/19/2020
+JT Microsoft Corporation (MSFT) S 02/13/2020 03/06/2020 $100,001 - gfedc
+[oP] $250,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Portfolio Management
+dESCRIPTIoN: Call options; Strike Price $140; Expires 01/15/2021
+Microsoft Corporation (MSFT) P 02/26/2020 03/06/2020 $15,001 - gfedc
+[ST] $50,000
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Traditional Inherited IRA
+JT Netflix, Inc. (NFLX) [ST] S (partial) 02/27/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT NVIdIA Corporation (NVdA) [ST] P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT PACCAR Inc. (PCAR) [ST] S 02/04/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT PACCAR Inc. (PCAR) [ST] S (partial) 02/03/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Paylocity Holding Corporation S (partial) 02/14/2020 03/06/2020 $1,001 - $15,000 gfedcb
+(PCTY) [ST]
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT PayPal Holdings, Inc. (PYPL) [ST] S (partial) 02/27/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Phreesia, Inc. (PHR) [ST] P 02/03/2020 03/06/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Rapid7, Inc. (RPd) [ST] P 02/14/2020 03/06/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Seattle Genetics, Inc. (SGEN) [ST] P 02/18/2020 03/06/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Shionogi & Co Ltd Unsponsored P 02/18/2020 03/06/2020 $1,001 - $15,000 gfedc
+AdR (SGIoY) [ST]
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Shionogi & Co Ltd Unsponsored P 02/14/2020 03/06/2020 $1,001 - $15,000 gfedc
+AdR (SGIoY) [ST]
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT United bankshares, Inc. (UbSI) S 02/03/2020 03/06/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+JT Wright Medical Group N.V. - S 02/03/2020 03/06/2020 $1,001 - $15,000 gfedcb
+ordinary Shares (WMGI) [ST]
+FILING STATUS: New
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHoLdING oF: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan Stanley - Portfolio Management (owner: JT)
+LoCATIoN: US
+Morgan Stanley - Select UMA Account # 1 (owner: JT)
+LoCATIoN: US
+Morgan Stanley - Traditional Inherited IRA
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Josh Gottheimer , 03/16/2020

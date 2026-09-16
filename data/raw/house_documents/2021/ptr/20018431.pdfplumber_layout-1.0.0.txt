@@ -1,0 +1,163 @@
+[[PAGE 1]]
+Filing ID #20018431
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Donald Sternoff Honorable Beyer Jr
+Status: Member
+State/District: VA08
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Amazon.com, Inc. (AMZN) [ST] S 03/18/2021 03/20/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale one unit Amazon.Com Inc; capital gain $1,354
+JT BLF FedFund TDDXX [CS] P 03/18/2021 03/20/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] P 03/01/2021 03/20/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] S 03/03/2021 03/20/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] P 03/15/2021 03/20/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] P 03/11/2021 03/20/2021 $1,001 - $15,000 gfedc
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase Blackrock Liq FDS Fed
+JT Cadence Design Systems, Inc. P 03/03/2021 03/20/2021 $1,001 - $15,000 gfedc
+(CDNS) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 30 units Cadence Design System Inc.
+JT Costco Wholesale Corporation S 03/18/2021 03/20/2021 $1,001 - $15,000 gfedc
+(COST) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sales 20 units Costco Wholesale Corp
+JT Editas Medicine, Inc. (EDIT) [ST] S 03/02/2021 03/20/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 30 units Editas Medicine Inc; $305 capital gain
+JT goldman Sachs group, Inc. (gS) P 03/01/2021 03/20/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 5 units goldman Sachs group
+JT goldman Sachs group, Inc. (gS) P 03/11/2021 03/20/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 10 units goldman Sachs group Inc
+JT goldman Sachs group, Inc. (gS) P 03/18/2021 03/20/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: five units goldman Sachs group Inc
+JT ishares gold Trust (IAU) [ST] S 03/11/2021 03/20/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 275 units ishares gold Trust
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT JP Morgan Chase & Co. (JPM) [ST] P 03/11/2021 03/20/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 20 units JP Morgan Chase & Co
+JT JP Morgan Chase & Co. (JPM) [ST] P 03/01/2021 03/20/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 20 units JP Morgan Chase
+JT JP Morgan Chase & Co. (JPM) [ST] P 03/18/2021 03/20/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 10 units J P Morgan Chase & Co
+JT Kadant Inc (KAI) [ST] P 03/18/2021 03/20/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: eight units Kadant Inc common
+JT Kadant Inc (KAI) [ST] P 03/11/2021 03/20/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 10 units Kadant Inc Common
+JT Maryland St Community [gS] S 03/01/2021 03/20/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: called security 50,000 units Maryland State Community 3.85% 09/01/37
+JT MSCI Inc (MSCI) [ST] S 03/18/2021 03/20/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 15 units MSCI Inc Class A; $1,560 capital gain
+JT Roper Technologies, Inc. (ROP) S 03/11/2021 03/20/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 5 units Roper Teechnologies Inc common
+[[PAGE 4]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Royal Dutch Shell PLC Royal Dutch P 03/02/2021 03/20/2021 $1,001 - $15,000 gfedc
+Shell American Depositary Shares
+(RDS.A) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 230 units Royal Dutch Shell PLC
+JT Royal Dutch Shell PLC Royal Dutch S 03/15/2021 03/20/2021 $1,001 - $15,000 gfedcb
+Shell American Depositary Shares
+(RDS.A) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 230 units Royal Dutch Shell; $395 capital gain
+JT Schlumberger N.V. (SLB) [ST] S 03/15/2021 03/20/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 160 units Schlumberger Ltd
+JT Schlumberger N.V. (SLB) [ST] P 03/01/2021 03/20/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: purchase 160 units Schlumberger Ltd
+JT Splunk Inc. (SPLK) [ST] S 03/03/2021 03/20/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 35 units Splunk Inc. $568 capital gain
+JT TJX Companies, Inc. (TJX) [ST] S 03/11/2021 03/20/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 75 units TJX Companies Inc; $566 capital gain
+JT Verizon Communications Inc. (VZ) S 03/01/2021 03/20/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 35 units Verizon Communications
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+[[PAGE 5]]
+Stocks, Bonds, & Mutual Funds (Owner: JT)
+LOCATION: VA, US
+commentS
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Donald Sternoff Honorable Beyer Jr, 04/01/2021

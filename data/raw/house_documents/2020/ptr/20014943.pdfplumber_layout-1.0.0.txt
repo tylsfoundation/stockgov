@@ -1,0 +1,60 @@
+[[PAGE 1]]
+Filing ID #20014943
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Lloyd K. Smucker
+Status: Member
+State/District: PA11
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Activision blizzard, Inc (ATVI) S (partial) 12/03/2019 12/03/2019 $15,001 - gfedc
+[ST] $50,000
+FILINg STATuS: New
+SubHOLDINg OF: TDAMERITRADE IRA
+Activision blizzard, Inc (ATVI) S (partial) 01/21/2020 01/21/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATuS: New
+SubHOLDINg OF: TDAMERITRADE IRA
+Apple Inc. (AAPL) [ST] S (partial) 07/31/2019 07/31/2019 $15,001 - gfedc
+$50,000
+FILINg STATuS: New
+SubHOLDINg OF: TDAMERITRADE IRA
+Apple Inc. (AAPL) [ST] S (partial) 09/03/2019 09/03/2019 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLDINg OF: TDAMERITRADE IRA
+Apple Inc. (AAPL) [ST] S (partial) 10/14/2019 10/14/2019 $15,001 - gfedc
+$50,000
+FILINg STATuS: New
+SubHOLDINg OF: TDAMERITRADE IRA
+Apple Inc. (AAPL) [ST] S (partial) 10/14/2019 10/14/2019 $15,001 - gfedc
+$50,000
+FILINg STATuS: New
+SubHOLDINg OF: TDAMERITRADE IRA
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Apple Inc. (AAPL) [ST] S (partial) 10/31/2019 10/31/2019 $15,001 - gfedc
+$50,000
+FILINg STATuS: New
+SubHOLDINg OF: TDAMERITRADE IRA
+Apple Inc. (AAPL) [ST] S (partial) 12/02/2019 12/02/2019 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SubHOLDINg OF: TDAMERITRADE IRA
+unitedHealth group Incorporated S (partial) 01/02/2020 01/02/2020 $15,001 - gfedc
+Common Stock (uNH) [ST] $50,000
+FILINg STATuS: New
+SubHOLDINg OF: TDAMERITRADE IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+TDAMERITRADE IRA
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Lloyd K. Smucker , 01/24/2020

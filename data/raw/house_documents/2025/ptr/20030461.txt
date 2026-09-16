@@ -1,0 +1,294 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Gilbert Cisneros
+Status: Member
+State/District:CA31
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+AtriCure, Inc. - Common Stock
+(ATRC) [ST]
+P 05/06/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Boeing Company (BA) [ST] P 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Boston Scientific Corporation
+Common Stock (BSX) [ST]
+S (partial) 05/13/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Centene Corporation Common Stock
+(CNC) [ST]
+S 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+ConAgra Brands, Inc. Common Stock
+(CAG) [ST]
+S 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+ConocoPhillips Common Stock (COP)
+[ST]
+S (partial) 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Filing ID #20030461
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Dayforce, Inc. Common Stock (DAY)
+[ST]
+P 05/13/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Elevance Health, Inc. Common Stock
+(ELV) [ST]
+S 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Eli Lilly and Company Common Stock
+(LLY) [ST]
+S (partial) 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Endava plc American Depositary
+Shares (DAVA) [ST]
+S 05/16/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+ENGIE SA ORD (ENGQF) [ST] P 05/09/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker ENGI FP
+First Watch Restaurant Group, Inc. -
+Common Stock (FWRG) [ST]
+P 05/15/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+GoDaddy Inc. Class A Common Stock
+(GDDY) [ST]
+S (partial) 05/13/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+GoDaddy Inc. Class A Common Stock
+(GDDY) [ST]
+S (partial) 05/28/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Hilton Worldwide Holdings Inc.
+Common Stock (HLT) [ST]
+S 05/07/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Humana Inc. Common Stock (HUM)
+[ST]
+S 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+ICU Medical, Inc. - Common Stock
+(ICUI) [ST]
+S (partial) 05/06/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Ingersoll Rand Inc. Common Stock
+(IR) [ST]
+P 05/13/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Johnson & Johnson Common Stock
+(JNJ) [ST]
+P 05/30/202506/04/2025$15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Kinder Morgan, Inc. Common Stock
+(KMI) [ST]
+P 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+KKR & Co. Inc. Common Stock (KKR)
+[ST]
+P 05/07/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+L3Harris Technologies, Inc. Common
+Stock (LHX) [ST]
+P 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Lennar Corporation Class A Common
+Stock (LEN) [ST]
+P 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Liberty Media Corporation - Series C
+Liberty Formula One Common Stock
+(FWONK) [ST]
+S (partial) 05/28/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Lockheed Martin Corporation
+Common Stock (LMT) [ST]
+S 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Minerals Technologies Inc. Common
+Stock (MTX) [ST]
+P 05/06/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Molina Healthcare Inc Common Stock
+(MOH) [ST]
+S (partial) 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+NeoGenomics, Inc. - Common Stock
+(NEO) [ST]
+P 05/07/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+NINTENDO CO LTD ORD (NTDOF)
+[ST]
+P 05/27/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker 7974 JP
+Northrop Grumman Corporation
+Common Stock (NOC) [ST]
+P 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Okta, Inc. - Class A Common Stock
+(OKTA) [ST]
+P 05/29/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+O'Reilly Automotive, Inc. - Common
+Stock (ORLY) [ST]
+S (partial) 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: 150 Main Street Trust > Bank of America
+Pfizer, Inc. Common Stock (PFE) [ST]P 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Prologis, Inc. Common Stock (PLD)
+[ST]
+S (partial) 05/29/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+PTC Inc. - Common Stock (PTC) [ST] P 05/28/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+PTC Inc. - Common Stock (PTC) [ST] P 05/13/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Resona Holdings Inc Osaka Ordinary
+Shares (RSNHF) [ST]
+S 05/09/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Revvity, Inc. Common Stock (RVTY)
+[ST]
+P 05/28/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Schlumberger N.V. Common Stock
+(SLB) [ST]
+P 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Silicon Laboratories, Inc. - Common
+Stock (SLAB) [ST]
+S 05/06/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Solaris Energy Infrastructure, Inc.
+Class A Common Stock (SEI) [ST]
+P 05/06/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Sumitomo Mitsui Financial Group Inc
+Ordinary Shares (SMFNF) [ST]
+S 05/27/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+U.S. Physical Therapy, Inc. Common
+Stock (USPH) [ST]
+P 05/20/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Utz Brands Inc Class A Common
+Stock (UTZ) [ST]
+P 05/15/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Yum! Brands, Inc. (YUM) [ST] S (partial) 05/30/202506/04/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+150 Main Street Trust
+150 Main Street Trust ⇒ Bank of America
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Gilbert Cisneros , 06/06/2025

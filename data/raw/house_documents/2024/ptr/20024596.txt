@@ -1,0 +1,105 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Virginia Foxx
+Status: Member
+State/District:NC05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Alliance Resource Partners, L.P. -
+Common Units Representing Limited
+Partnership Interests (ARLP) [ST]
+P 02/23/202403/02/2024$1,001 - $15,000
+F S: New
+JT Alliance Resource Partners, L.P. -
+Common Units Representing Limited
+Partnership Interests (ARLP) [ST]
+P 02/26/202403/02/2024$1,001 - $15,000
+F S: New
+JT Alliance Resource Partners, L.P. -
+Common Units Representing Limited
+Partnership Interests (ARLP) [ST]
+P 02/15/202403/02/2024$1,001 - $15,000
+F S: New
+JT Ardmore Shipping Corporation
+Common Stock (ASC) [ST]
+P 02/05/202403/02/2024$1,001 - $15,000
+F S: New
+JT Ardmore Shipping Corporation
+Common Stock (ASC) [ST]
+P 02/15/202403/02/2024$1,001 - $15,000
+F S: New
+JT Ardmore Shipping Corporation
+Common Stock (ASC) [ST]
+P 02/23/202403/02/2024$1,001 - $15,000
+F S: New
+JT Ardmore Shipping Corporation
+Common Stock (ASC) [ST]
+P 02/27/202403/02/2024$1,001 - $15,000
+F S: New
+Filing ID #20024596
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT AT&T Inc. Depositary Shares, each
+representing a 1/1,000th interest in a
+share of 5.000% Perpetual Preferred
+Stock, Series A (T$A) [ST]
+P 02/02/202403/02/2024$1,001 - $15,000
+F S: New
+JT Duke Energy Corporation Depositary
+Shares, each representing a 1/1,000th
+interest in a share of 5.75% Series A
+Cumulative Redeemable Perpetual
+Preferred Stock (DUK$A) [ST]
+S 02/28/202403/02/2024$50,001 -
+$100,000
+F S: New
+JT Energy Transfer LP Common Units
+(ET) [ST]
+P 02/21/202403/02/2024$1,001 - $15,000
+F S: New
+JT FLEX LNG Ltd. Ordinary Shares
+(FLNG) [ST]
+P 02/02/202403/02/2024$1,001 - $15,000
+F S: New
+JT FLEX LNG Ltd. Ordinary Shares
+(FLNG) [ST]
+P 02/07/202402/07/2024$1,001 - $15,000
+F S: New
+JT FLEX LNG Ltd. Ordinary Shares
+(FLNG) [ST]
+P 02/09/202403/02/2024$1,001 - $15,000
+F S: New
+JT FLEX LNG Ltd. Ordinary Shares
+(FLNG) [ST]
+P 02/23/202403/02/2024$1,001 - $15,000
+F S: New
+JT FLEX LNG Ltd. Ordinary Shares
+(FLNG) [ST]
+P 02/26/202403/02/2024$1,001 - $15,000
+F S: New
+JT Hercules Capital, Inc. Common Stock
+(HTGC) [ST]
+P 02/01/202403/02/2024$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+[[PAGE 3]]
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Virginia Foxx , 03/07/2024

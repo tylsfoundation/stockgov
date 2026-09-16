@@ -1,0 +1,104 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Daniel Goldman
+Status: Member
+State/District:NY10
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alabama St Pub Sch & College A
+5.000% Due 02-01-26 [GS]
+S 05/11/202306/02/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman 1997 Trust > AWD, LLC > Breckinridge Capital Advisors, Inc.
+N Y CITY MUN WTR FIN AUTH
+WTR SWR SYS REV 5% 06/15/28-CA
+JD [GS]
+P 05/04/202306/02/2023$250,001 -
+$500,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+N Y ST ENV FACS CORP REV 5%
+06/15/25 JD [GS]
+P 05/17/202306/02/2023$100,001 -
+$250,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+NEW JERSEY (STATE OF) GO 5%
+06/01/24 JD [GS]
+S 05/11/202306/02/2023$500,001 -
+$1,000,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+NEW YORK N Y CITY
+TRANSITIONAL REV 5% 07/15/25 JJ
+[GS]
+P 05/11/202306/02/2023$250,001 -
+$500,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+NEW YORK N Y CITY
+TRANSITIONAL REV 5.0000%
+07/15/27 JJ [GS]
+P 05/03/202306/02/2023$250,001 -
+$500,000
+Filing ID #20023065
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+NEW YORK ST DORM AUTH REVS
+NON REV 5% 10/01/26 AO [GS]
+P 05/12/202306/02/2023$250,001 -
+$500,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+NY ST DORM AUTH ST PERS INC
+REV 5.0000% 03/15/25 MS [GS]
+P 05/16/202306/02/2023$100,001 -
+$250,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+Prosper Tex 5.000% Due 02-15-27
+[GS]
+S (partial) 05/11/202306/02/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > AWD, LLC > Breckinridge Capital Advisors, Inc.
+WEST HEMPSTEAD N Y UN FREE
+SCH GO 5% 06/01/29 JD [GS]
+P 05/24/202306/02/2023$100,001 -
+$250,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Daniel Goldman 1997 Trust
+Daniel Goldman 1997 Trust ⇒ AWD, LLC
+L: US
+Daniel Goldman 1997 Trust ⇒ AWD, LLC ⇒ Breckinridge Capital Advisors, Inc.
+L: US
+Daniel Goldman Grandchildren 1986 Trust
+Daniel Goldman Grandchildren 1986 Trust ⇒ MUNI ESG
+L: US
+C
+I P O
+Yes No
+C S
+[[PAGE 3]]
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Daniel Goldman , 06/15/2023

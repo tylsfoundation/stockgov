@@ -1,0 +1,736 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. John James
+Status: Member
+State/District:MI10
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Abbott Laboratories Common Stock
+(ABT) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+AbbVie Inc. Common Stock (ABBV)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Advanced Micro Devices, Inc. (AMD)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Air Products and Chemicals, Inc.
+Common Stock (APD) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Filing ID #20025799
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S (partial) 08/28/202409/04/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Ameren Corporation Common Stock
+(AEE) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+American Electric Power Company,
+Inc. (AEP) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Analog Devices, Inc. - Common Stock
+(ADI) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Apple Inc. - Common Stock (AAPL)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Applied Materials, Inc. - Common
+Stock (AMAT) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Aptiv PLC Ordinary Shares (APTV)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+AT&T Inc. (T) [ST] S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Automatic Data Processing, Inc. -
+Common Stock (ADP) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+AvalonBay Communities, Inc.
+Common Stock (AVB) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Avantor, Inc. Common Stock (AVTR)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Avery Dennison Corporation
+Common Stock (AVY) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Bank of America Corporation
+Common Stock (BAC) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Becton, Dickinson and Company
+Common Stock (BDX) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+BlackRock, Inc. Common Stock (BLK)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Blackstone Inc. Common Stock (BX)
+[ST]
+S 09/04/202409/05/2024$985.47
+F S: New
+S O: John A. James Children’s Trust
+Booz Allen Hamilton Holding
+Corporation Common Stock (BAH)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+BP p.l.c. Common Stock (BP) [ST] S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Cardinal Health, Inc. Common Stock
+(CAH) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+CDW Corporation - Common Stock
+(CDW) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Chevron Corporation Common Stock
+(CVX) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Chubb Limited Common Stock (CB)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Ciena Corporation (CIEN) [ST] S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Cisco Systems, Inc. - Common Stock
+(CSCO) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+CME Group Inc. - Class A Common
+Stock (CME) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Coca-Cola Company (KO) [ST] S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Cognizant Technology Solutions
+Corporation - Class A Common Stock
+(CTSH) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Comcast Corporation - Class A
+Common Stock (CMCSA) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+ConocoPhillips Common Stock (COP)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Corteva, Inc. Common Stock (CTVA)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Crown Castle Inc. Common Stock
+(CCI) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Cummins Inc. Common Stock (CMI)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Diageo plc Common Stock (DEO) [ST]S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Discover Financial Services Common
+Stock (DFS) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Dollar Tree, Inc. - Common Stock
+(DLTR) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Dun & Bradstreet Holdings, Inc.
+Common Stock (DNB) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+eBay Inc. - Common Stock (EBAY)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Electronic Arts Inc. - Common Stock
+(EA) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Elevance Health, Inc. Common Stock
+(ELV) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Entergy Corporation Common Stock
+(ETR) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+EOG Resources, Inc. Common Stock
+(EOG) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Exxon Mobil Corporation CommonS 09/04/202409/05/2024$1,001 - $15,000
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Stock (XOM) [ST]
+F S: New
+S O: John A. James Children’s Trust
+FNF Group of Fidelity National
+Financial, Inc. Common Stock (FNF)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Fortive Corporation Common Stock
+(FTV) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+General Mills, Inc. Common Stock
+(GIS) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Genuine Parts Company Common
+Stock (GPC) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Home Depot, Inc. (HD) [ST] S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Honeywell International Inc. (HON)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Humana Inc. Common Stock (HUM)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+ICON plc - Ordinary Shares (ICLR)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Illinois Tool Works Inc. CommonS 09/04/202409/05/2024$1,001 - $15,000
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Stock (ITW) [ST]
+F S: New
+S O: John A. James Children’s Trust
+Intercontinental Exchange Inc.
+Common Stock (ICE) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+International Business Machines
+Corporation Common Stock (IBM)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Johnson & Johnson Common Stock
+(JNJ) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+KLA Corporation - Common Stock
+(KLAC) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Lam Research Corporation - Common
+Stock (LRCX) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Linde plc - Ordinary Shares (LIN)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Lockheed Martin Corporation
+Common Stock (LMT) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Marsh & McLennan Companies, Inc.
+Common Stock (MMC) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Marvell Technology, Inc. - Common
+Stock (MRVL) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+McDonald's Corporation Common
+Stock (MCD) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Medtronic plc. Ordinary Shares
+(MDT) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Microchip Technology Incorporated -
+Common Stock (MCHP) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Micron Technology, Inc. - Common
+Stock (MU) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 09/04/202409/05/2024$15,001 -
+$50,000
+F S: New
+S O: John A. James Children’s Trust
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Mondelez International, Inc. - Class A
+Common Stock (MDLZ) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Morgan Stanley Common Stock (MS)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+NextEra Energy, Inc. Common Stock
+(NEE) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Northrop Grumman Corporation
+Common Stock (NOC) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Novo Nordisk A/S Common Stock
+(NVO) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Otis Worldwide Corporation Common
+Stock (OTIS) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Packaging Corporation of America
+Common Stock (PKG) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Parker-Hannifin Corporation
+Common Stock (PH) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Pepsico, Inc. (PEP) [ST] S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+PNC Financial Services Group, Inc.
+(PNC) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+PPG Industries, Inc. Common Stock
+(PPG) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Procter & Gamble Company (PG) [ST]S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Prologis, Inc. Common Stock (PLD)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Public Service Enterprise Group
+Incorporated Common Stock (PEG)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Public Storage Common Stock (PSA)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Reinsurance Group of America,
+Incorporated Common Stock (RGA)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Ross Stores, Inc. - Common Stock
+(ROST) [ST]
+S (partial) 08/28/202409/04/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+[[PAGE 12]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+RTX Corporation Common Stock
+(RTX) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Sanofi - American Depositary Shares
+(SNY) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Shell PLC American Depositary
+Shares (SHEL) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Skechers U.S.A., Inc. Common Stock
+(SKX) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Sony Group Corporation American
+Depositary Shares (SONY) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Southern Company (SO) [ST] S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Tenet Healthcare Corporation
+Common Stock (THC) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Texas Instruments Incorporated -
+Common Stock (TXN) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+The Bank of New York Mellon
+Corporation Common Stock (BK) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+[[PAGE 13]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Thermo Fisher Scientific Inc Common
+Stock (TMO) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+TJX Companies, Inc. (TJX) [ST] S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+TJX Companies, Inc. (TJX) [ST] P 04/25/202408/27/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+TKO Group Holdings, Inc. Class A
+Common Stock (TKO) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Trane Technologies plc (TT) [ST] S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+P 08/28/202409/04/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Union Pacific Corporation Common
+Stock (UNP) [ST]
+S 09/04/202409/05/2025$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+United Parcel Service, Inc. Common
+Stock (UPS) [ST]
+S 08/28/202409/04/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+[[PAGE 14]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: John A. James Children’s Trust
+Valero Energy Corporation Common
+Stock (VLO) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Visa Inc. (V) [ST] S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Walmart Inc. Common Stock (WMT)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Walt Disney Company (DIS) [ST] S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Waste Management, Inc. Common
+Stock (WM) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+WEC Energy Group, Inc. Common
+Stock (WEC) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Wells Fargo & Company Common
+Stock (WFC) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Westinghouse Air Brake Technologies
+Corporation Common Stock (WAB)
+[ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+F S: New
+S O: John A. James Children’s Trust
+Zebra Technologies Corporation -
+Class A Common Stock (ZBRA) [ST]
+S 09/04/202409/05/2024$1,001 - $15,000
+[[PAGE 15]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: John A. James Children’s Trust
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+John A. James Children’s Trust
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. John James , 09/06/2024

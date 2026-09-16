@@ -1,0 +1,53 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Thomas H. Kean Jr
+Status: Member
+State/District:NJ07
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Amcor plc Ordinary Shares (AMCR)
+[ST]
+P 05/14/202606/02/2026$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Becton, Dickinson and Company
+Common Stock (BDX) [ST]
+S 05/21/202606/02/2026$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Check Point Software Technologies
+Ltd. - Ordinary Shares (CHKP) [ST]
+S (partial) 06/01/202606/02/2026$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+EQT Corporation Common Stock
+(EQT) [ST]
+P 06/01/202606/02/2026$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+U.S. Treasury Note [GS] P 05/04/202606/02/2026$50,001 -
+$100,000
+F S: New
+S O: Kean Family Partnership
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Filing ID #20034783
+[[PAGE 2]]
+Kean Family Partnership (33% Interest)
+L: US
+C
+Transactions are initiated and made by third party advisors with no input from Rep. Kean.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Thomas H. Kean Jr, 06/18/2026

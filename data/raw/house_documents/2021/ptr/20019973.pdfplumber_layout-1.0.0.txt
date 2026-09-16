@@ -1,0 +1,109 @@
+[[PAGE 1]]
+Filing Id #20019973
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Peter Welch
+Status: Member
+State/District: VT00
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Agilent Technologies, Inc. (A) [ST] S 11/18/2021 11/18/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+Autodesk [CS] S 11/18/2021 11/18/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+dESCRIPTION: 3.6% due 9/15/2022
+Cerner Corporation (CERN) [ST] S 11/18/2021 11/18/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+Church & dwight Company, Inc. S 11/18/2021 11/18/2021 $15,001 - gfedcb
+(CHd) [ST] $50,000
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+Cisco Systems, Inc. (CSCO) [ST] S 11/18/2021 11/18/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+Cloetta Ab [PS] S 09/02/2021 09/02/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+LOCATION: US
+dESCRIPTION: Cloetta Ab, CLOEF
+general Electric Company (gE) S (partial) 11/18/2021 11/18/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+general Electric Company (gE) S 11/26/2021 11/30/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+International business Machines S 11/26/2021 11/30/2021 $1,001 - $15,000 gfedc
+Corporation (IbM) [ST]
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+Kubota Corporation (KUbTY) [ST] S 11/18/2021 11/18/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+Kyocera Corp Ordinary Shares S 11/18/2021 11/18/2021 $1,001 - $15,000 gfedcb
+(KYOCF) [ST]
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+Mitek Systems, Inc. (MITK) [ST] S 11/18/2021 11/18/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+PayPal Holdings, Inc. [CS] S 11/18/2021 11/18/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+dESCRIPTION: 2.4% due 10/1/2024
+Qualcomm [CS] S 11/18/2021 11/18/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+dESCRIPTION: 3% due 5.20.22
+SwedenCare Ab [OT] S 11/19/2021 11/19/2021 $15,001 - gfedcb
+$50,000
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+LOCATION: SE
+dESCRIPTION: Location: US description: Traded on Stockholm Stock Exchange
+Tennant Company (TNC) [ST] S 11/18/2021 11/18/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+U.S. bancorp (USb) [ST] S 11/18/2021 11/18/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+Unilever NV (UN) [ST] S 11/18/2021 11/18/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+Union Pacific Corporation (UNP) S 11/26/2021 11/30/2021 $15,001 - gfedcb
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+Vaisala Oy Ordinary Shares -A- S 11/18/2021 11/18/2021 $15,001 - gfedcb
+(VAIAF) [ST] $50,000
+FILINg STATUS: New
+SUbHOLdINg OF: Welch Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Welch Account
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Peter Welch , 12/17/2021

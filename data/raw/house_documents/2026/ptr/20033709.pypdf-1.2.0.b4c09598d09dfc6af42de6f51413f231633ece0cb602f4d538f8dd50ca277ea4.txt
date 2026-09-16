@@ -1,0 +1,39 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Jefferson Shreve
+Status: Member
+State/District:IN06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JP Morgan 3-year auto callable buffer
+note [CS]
+P 12/30/202512/30/2025$5,000,001 -
+$25,000,000
+F S: New
+S O: Advisory Account holding Structured Notes
+D: Structured Note
+JP Morgan 3-year one-time callable
+barrier note [CS]
+P 12/30/202512/30/2025$5,000,001 -
+$25,000,000
+F S: New
+S O: Advisory Account holding Structured Notes
+D: Structured Note
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Advisory Account holding Structured Notes
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Jefferson Shreve , 01/02/2026
+Filing ID #20033709

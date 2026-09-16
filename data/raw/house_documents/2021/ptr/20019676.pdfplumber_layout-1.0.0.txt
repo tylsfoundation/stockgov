@@ -1,0 +1,36 @@
+[[PAGE 1]]
+Filing ID #20019676
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Michael Patrick Guest
+Status: Member
+State/District: MS03
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP bP p.l.c. (bP) [ST] S 01/22/2021 10/22/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLDING OF: KINV - CP
+SP Exxon Mobil Corporation (XOM) P 01/22/2021 10/22/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLDING OF: KINV - CP
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+KINV - CP (Owner: SP)
+LOCATION: US
+commentS
+On October 22nd, 2021, I became aware of a stock transaction made by a family trust. This transaction occurred on January 22, 2021.
+I do not have a decision-making role in the trust; but my wife and sons are beneficiaries, so I am bound to report certain details. On
+October 25th, 2021, I contacted the Committee on Ethics to note this oversight and ensure correct reporting. I reported the
+transaction to the Clerk of the House on November 3, 2021, and paid the statutory remedy of a $200 late fee.
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+[[PAGE 2]]
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Michael Patrick Guest , 11/03/2021

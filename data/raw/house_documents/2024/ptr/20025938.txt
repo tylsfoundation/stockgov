@@ -1,0 +1,51 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Jonathan Jackson
+Status: Member
+State/District:IL01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Aramark Common Stock (ARMK)
+[ST]
+P 09/19/202410/01/2024$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+JT General Dynamics Corporation
+Common Stock (GD) [ST]
+P 09/24/202410/01/2024$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+JT Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S 09/24/202410/01/2024$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+JT The AES Corporation Common Stock
+(AES) [ST]
+S 09/19/202410/01/2024$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Morgan Stanley Trust Account (Owner: JT)
+D: 083057
+I P O
+Filing ID #20025938
+[[PAGE 2]]
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Jonathan Jackson , 10/11/2024

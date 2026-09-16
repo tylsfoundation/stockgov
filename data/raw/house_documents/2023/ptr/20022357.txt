@@ -1,0 +1,70 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Lois Frankel
+Status: Member
+State/District:FL22
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+P 01/11/202302/02/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Diageo plc (DEO) [ST] P 01/05/202302/02/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Diageo plc (DEO) [ST] P 01/04/202302/02/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Fluor Corporation (FLR) [ST] S (partial) 01/05/202302/02/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Hudson Pacific Properties, Inc. (HPP)
+[ST]
+S 01/05/202302/02/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Johnson Controls International plc
+Ordinary Share (JCI) [ST]
+P 01/11/202302/02/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Northrop Grumman CorporationS (partial) 01/04/202302/02/2023$1,001 - $15,000
+Filing ID #20022357
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(NOC) [ST]
+F S: New
+S O: Morgan Stanley IRA - X141
+Sherwin-Williams Company (SHW)
+[ST]
+P 01/11/202302/02/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley IRA - X141
+D: Managed by MFS Investment MGMT
+Morgan Stanley IRA - X142
+D: Managed by Anchor Capital Advisors LLC
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 02/03/2023

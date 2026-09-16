@@ -1,0 +1,84 @@
+[[PAGE 1]]
+Filing ID #20016607
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Kevin Hern
+Status: Member
+State/District: oK01
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Adobe Inc. (ADbE) [sT] P 04/09/2020 04/10/2020 $1,001 - $15,000 gfedc
+FILINg sTATus: New
+subHoLDINg oF: Kevin Hern Insurance Trust
+JT American Tower Corporation P 04/09/2020 04/10/2020 $1,001 - $15,000 gfedc
+(AMT) [sT]
+FILINg sTATus: New
+subHoLDINg oF: Kevin Hern Insurance Trust
+JT becton, Dickinson and Company P 04/09/2020 04/10/2020 $1,001 - $15,000 gfedc
+(bDX) [sT]
+FILINg sTATus: New
+subHoLDINg oF: Kevin Hern Insurance Trust
+JT boeing Company (bA) [sT] P 04/09/2020 04/10/2020 $1,001 - $15,000 gfedc
+FILINg sTATus: New
+subHoLDINg oF: Kevin Hern Insurance Trust
+JT Danaher Corporation (DHR) [sT] P 04/09/2020 04/10/2020 $1,001 - $15,000 gfedc
+FILINg sTATus: New
+subHoLDINg oF: Kevin Hern Insurance Trust
+JT Ecolab Inc. (ECL) [sT] P 04/09/2020 04/10/2020 $1,001 - $15,000 gfedc
+FILINg sTATus: New
+subHoLDINg oF: Kevin Hern Insurance Trust
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT JNL/FAMCo Flex Core Coverd s 04/24/2020 04/25/2020 $50,001 - gfedc
+Call Fund [VA] $100,000
+FILINg sTATus: New
+subHoLDINg oF: Jackson National EA
+DEsCRIPTIoN: Replaced FAMCo with JPMorgan Hedged EQ
+JT JNL/FAMCo Flex Core Covered s 04/24/2020 04/25/2020 $50,001 - gfedc
+Call Fund [VA] $100,000
+FILINg sTATus: New
+subHoLDINg oF: Hern Family Revocable Trust > Jackson National EA
+DEsCRIPTIoN: Replaced FAMCo flex core with JPMorgan Hedged Equity
+JT JNL/JPMorgan Hedged Equity P 02/24/2020 04/25/2020 $50,001 - gfedc
+[VA] $100,000
+FILINg sTATus: New
+subHoLDINg oF: Hern Family Revocable Trust > Jackson National EA
+DEsCRIPTIoN: JPM Hedged Eq replaced FAMCo Flex Core
+JT JNL/JPMorgan Hedged Equity P 04/24/2020 04/25/2020 $50,001 - gfedc
+[VA] $100,000
+FILINg sTATus: New
+subHoLDINg oF: Jackson National EA
+DEsCRIPTIoN: JPM Hedged Eq replaced FAMCo Flex Core
+JT Linde plc ordinary share (LIN) P 04/09/2020 04/10/2020 $1,001 - $15,000 gfedc
+[sT]
+FILINg sTATus: New
+subHoLDINg oF: Kevin Hern Insurance Trust
+JT Microsoft Corporation (MsFT) P 04/09/2020 04/10/2020 $1,001 - $15,000 gfedc
+[sT]
+FILINg sTATus: New
+subHoLDINg oF: Kevin Hern Insurance Trust
+JT Thermo Fisher scientific Inc P 04/09/2020 04/10/2020 $1,001 - $15,000 gfedc
+(TMo) [sT]
+FILINg sTATus: New
+subHoLDINg oF: Kevin Hern Insurance Trust
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Hern Family Revocable Trust (100% Interest) (owner: JT)
+DEsCRIPTIoN: Family Revocable Trust
+[[PAGE 3]]
+Hern Family Revocable Trust ⇒ Jackson National EA (owner: JT)
+Jackson National EA (owner: JT)
+Kevin Hern Insurance Trust (owner: JT)
+DEsCRIPTIoN: iLIT
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Kevin Hern , 05/15/2020

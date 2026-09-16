@@ -1,0 +1,100 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. April McClain Delaney
+Status: Member
+State/District:MD06
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+DC Bio-Techne Corp - Common Stock
+(TECH) [ST]
+S (partial) 08/01/202509/01/2025$1,001 - $15,000
+F S: New
+DC BJ's Wholesale Club Holdings, Inc.
+Common Stock (BJ) [ST]
+P 08/25/202509/01/2025$1,001 - $15,000
+F S: New
+DC Clean Harbors, Inc. Common Stock
+(CLH) [ST]
+S (partial) 08/07/202509/01/2025$1,001 - $15,000
+F S: New
+DC Core & Main, Inc. Class A Common
+Stock (CNM) [ST]
+S (partial) 08/04/202509/08/2025$15,001 -
+$50,000
+F S: New
+DC Core & Main, Inc. Class A Common
+Stock (CNM) [ST]
+S (partial) 08/11/202509/01/2025$15,001 -
+$50,000
+F S: New
+DC Dayforce, Inc. Common Stock (DAY)
+[ST]
+S (partial) 08/19/202509/01/2025$15,001 -
+$50,000
+F S: New
+DC IDEXX Laboratories, Inc. - Common
+Stock (IDXX) [ST]
+S (partial) 08/07/202509/01/2025$1,001 - $15,000
+F S: New
+DC IDEXX Laboratories, Inc. - CommonS (partial) 08/01/202509/01/2025$1,001 - $15,000
+Filing ID #20031013
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Stock (IDXX) [ST]
+F S: New
+DC Jones Lang LaSalle Incorporated
+Common Stock (JLL) [ST]
+P 08/07/202509/01/2025$1,001 - $15,000
+F S: New
+DC Markel Group Inc. Common Stock
+(MKL) [ST]
+P 08/07/202509/01/2025$1,001 - $15,000
+F S: New
+DC Markel Group Inc. Common Stock
+(MKL) [ST]
+P 08/01/202509/01/2025$15,001 -
+$50,000
+F S: New
+DC Markel Group Inc. Common Stock
+(MKL) [ST]
+P 08/21/202509/01/2025$15,001 -
+$50,000
+F S: New
+DC Martin Marietta Materials, Inc.
+Common Stock (MLM) [ST]
+S (partial) 08/01/202509/01/2025$1,001 - $15,000
+F S: New
+DC Morningstar, Inc. - Common Stock
+(MORN) [ST]
+P 08/02/202509/01/2025$15,001 -
+$50,000
+F S: New
+DC PTC Inc. - Common Stock (PTC) [ST] P 08/01/202509/01/2025$15,001 -
+$50,000
+F S: New
+DC Viking Holdings Ltd Ordinary Shares
+(VIK) [ST]
+S (partial) 08/13/202509/02/2025$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+[[PAGE 3]]
+Digitally Signed: Hon. April McClain Delaney , 09/02/2025

@@ -1,0 +1,209 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Adam Smith
+Status: Member
+State/District:WA09
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP ABB LTD SPONS ADR (ABBNY) [ST] S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP Alaska Air Group, Inc. Common Stock
+(ALK) [ST]
+S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP Apple Inc. - Common Stock (AAPL)
+[ST]
+S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+Filing ID #20030868
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP Citigroup, Inc. Common Stock (C)
+[ST]
+S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP CVS Health Corporation Common
+Stock (CVS) [ST]
+S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP Deere & Company Common Stock
+(DE) [ST]
+S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP Newmont Corporation (NEM) [ST] S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP PACCAR Inc. - Common Stock
+(PCAR) [ST]
+S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP Procter & Gamble Company (PG) [ST]S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP Republic Services, Inc. Common
+Stock (RSG) [ST]
+S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP Tesla, Inc. - Common Stock (TSLA)
+[ST]
+S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP Union Pacific Corporation Common
+Stock (UNP) [ST]
+S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP United Parcel Service, Inc. Common
+Stock (UPS) [ST]
+S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP Walt Disney Company (DIS) [ST] S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+SP Weyerhaeuser Company Common
+Stock (WY) [ST]
+S 08/08/202508/08/2025$1,001 - $15,000
+F S: New
+S O: Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith
+Beneficiary
+C: This stock was part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021.
+Spouse has chosen to divest of all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no
+capital gains on this sale.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Baird Trust Company TTEE FBO/Inherited Beneficiary IRA/John Eldridge Deceased IRA/Sara Smith Beneficiary (Owner: SP)
+D: Beneficiary IRA
+[[PAGE 5]]
+C
+These stocks were part of the Inherited Beneficiary IRA spouse received upon the death of her father in 2021. Spouse has chosen to divest of
+all the stocks contained within this IRA. As this is an Inherited Beneficiary IRA, there are no capital gains on the sale of securities contained
+within this IRA.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Adam Smith , 08/08/2025

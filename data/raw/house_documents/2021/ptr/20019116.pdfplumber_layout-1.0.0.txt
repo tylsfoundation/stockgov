@@ -1,0 +1,36 @@
+[[PAGE 1]]
+Filing ID #20019116
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. William R. Keating
+Status: Member
+State/District: MA09
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Adobe Inc. (ADBE) [ST] P 06/10/2021 07/19/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+lOWES COS INC NOTE CAll P 06/29/2021 07/19/2021 $15,001 - gfedc
+MAKE WHOlE 3.10000% $50,000
+05/03/2027 [CS]
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+DESCRIPTION: 548661DP9
+VeriSign, Inc. (VRSN) [ST] S 06/10/2021 07/19/2021 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+SuBHOlDINg OF: Bill's IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Bill's IRA
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+[[PAGE 2]]
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. William R. Keating , 07/20/2021

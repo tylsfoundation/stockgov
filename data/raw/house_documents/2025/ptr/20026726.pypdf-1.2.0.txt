@@ -1,0 +1,361 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Gilbert Cisneros
+Status: Member
+State/District:CA31
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Agios Pharmaceuticals, Inc. -
+Common Stock (AGIO) [ST]
+P 01/29/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Airbnb, Inc. - Class A Common Stock
+(ABNB) [ST]
+S 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+APi Group Corporation Common
+Stock (APG) [ST]
+P 01/07/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Boeing Company (BA) [ST] S (partial) 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+S (partial) 01/30/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Broadcom Inc. - Common Stock
+(AVGO) [OP]
+P 01/29/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Pershing Advisor Solutions LLC Brokerage
+D: Put option, strike price $215, exp. Feb. 21, 2025.
+Filing ID #20026726
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+CACI International, Inc. Class A
+Common Stock (CACI) [ST]
+P 01/31/202502/06/2025$15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Wells Fargo Advisors
+CarMax Inc (KMX) [ST] P 01/13/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Constellation Brands, Inc. Common
+Stock (STZ) [OP]
+P 01/13/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Pershing Advisor Solutions LLC Brokerage
+D: Put option, strike price $205, exp. Jan. 17, 2025.
+Crinetics Pharmaceuticals, Inc. -
+Common Stock (CRNX) [ST]
+P 01/29/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Crown Castle Inc. Common Stock
+(CCI) [ST]
+P 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+CVS Health Corporation Common
+Stock (CVS) [ST]
+P 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+DENTSPLY SIRONA Inc. - Common
+Stock (XRAY) [ST]
+S (partial) 01/07/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+DENTSPLY SIRONA Inc. - Common
+Stock (XRAY) [ST]
+S 01/08/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Dollar General Corporation Common
+Stock (DG) [ST]
+S 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Dominion Energy, Inc. Common Stock
+(D) [ST]
+S 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Edison International Common Stock
+(EIX) [ST]
+S (partial) 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Ferguson Enterprises Inc. Common
+Stock (FERG) [ST]
+P 01/07/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Ford Motor Company Common Stock
+(F) [ST]
+P 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Fortive Corporation Common Stock
+(FTV) [ST]
+P 01/07/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+GoDaddy Inc. Class A Common Stock
+(GDDY) [ST]
+S (partial) 01/07/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Hawaiian Electric Industries, Inc.
+Common Stock (HE) [ST]
+P 01/31/202502/06/2025$50,001 -
+$100,000
+F S: New
+S O: 150 Main Street Trust > Wells Fargo Advisors
+ICF International, Inc. - Common
+Stock (ICFI) [ST]
+S (partial) 02/03/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Intapp, Inc. - Common Stock (INTA)
+[ST]
+S (partial) 01/22/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Intuitive Surgical, Inc. - Common
+Stock (ISRG) [ST]
+P 01/30/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Johnson & Johnson Common Stock
+(JNJ) [ST]
+S (partial) 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Kellanova Common Stock (K) [ST] P 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+KLA Corporation - Common Stock
+(KLAC) [ST]
+S (partial) 01/13/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Lam Research Corporation - Common
+Stock (LRCX) [ST]
+S (partial) 01/28/202502/06/2025$15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Lantheus Holdings, Inc. - Common
+Stock (LNTH) [ST]
+P 01/28/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Lantheus Holdings, Inc. - Common
+Stock (LNTH) [ST]
+P 01/13/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Lantheus Holdings, Inc. - Common
+Stock (LNTH) [ST]
+P 01/07/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Lantheus Holdings, Inc. - Common
+Stock (LNTH) [ST]
+P 01/08/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+McKesson Corporation Common
+Stock (MCK) [ST]
+S 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Mondelez International, Inc. - Class A
+Common Stock (MDLZ) [ST]
+S (partial) 01/24/202502/07/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Pacific Gas & Electric Co. Common
+Stock (PCG) [ST]
+S (partial) 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Palantir Technologies Inc. - Class A
+Common Stock (PLTR) [ST]
+P 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+PAR Technology Corporation
+Common Stock (PAR) [ST]
+P 01/22/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Paragon 28, Inc. Common Stock
+(FNA) [ST]
+P 01/29/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Pfizer, Inc. Common Stock (PFE) [ST]S (partial) 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Quest Diagnostics IncorporatedS (partial) 01/24/202502/06/2025$1,001 - $15,000
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Common Stock (DGX) [ST]
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Southwest Airlines Company
+Common Stock (LUV) [ST]
+P 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+SpringWorks Therapeutics, Inc. -
+common stock (SWTX) [ST]
+P 01/29/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+TENCENT HLDIGS LTD (TCTZF)
+[ST]
+S 01/09/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+The Cigna Group Common Stock (CI)
+[ST]
+S (partial) 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+The J.M. Smucker Company Common
+Stock (SJM) [ST]
+S 01/24/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+U.S. Physical Therapy, Inc. Common
+Stock (USPH) [ST]
+P 01/29/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+U.S. Treasury Bills [GS] S 01/31/202502/06/2025$250,001 -
+$500,000
+F S: New
+S O: 150 Main Street Trust > Wells Fargo Advisors
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 01/24/202502/06/2025$15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Walgreens Boots Alliance, Inc. -P 01/24/202502/06/2025$1,001 - $15,000
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Common Stock (WBA) [ST]
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Westinghouse Air Brake Technologies
+Corporation Common Stock (WAB)
+[ST]
+S (partial) 01/13/202502/06/2025$15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Westinghouse Air Brake Technologies
+Corporation Common Stock (WAB)
+[ST]
+S (partial) 01/07/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Willis Towers Watson Public Limited
+Company - Ordinary Shares (WTW)
+[ST]
+P 01/28/202502/06/2025$1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Willis Towers Watson Public Limited
+Company - Ordinary Shares (WTW)
+[ST]
+P 01/13/202502/06/2025$15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+150 Main Street Trust
+150 Main Street Trust ⇒ Bank of America
+L: US
+150 Main Street Trust ⇒ Pershing Advisor Solutions LLC Brokerage
+L: US
+150 Main Street Trust ⇒ Wells Fargo Advisors
+L: US
+I P O
+Yes No
+[[PAGE 8]]
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Gilbert Cisneros , 02/11/2025

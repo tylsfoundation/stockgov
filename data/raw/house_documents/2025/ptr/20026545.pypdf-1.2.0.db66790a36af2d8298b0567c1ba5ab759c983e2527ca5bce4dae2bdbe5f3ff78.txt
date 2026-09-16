@@ -1,0 +1,50 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Jonathan Jackson
+Status: Member
+State/District:IL01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT General Dynamics Corporation
+Common Stock (GD) [ST]
+S 12/16/202401/09/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+JT Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+P 12/09/202401/09/2025$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Trust Account
+JT O'Reilly Automotive, Inc. - Common
+Stock (ORLY) [ST]
+P 12/16/202401/09/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+JT TIM S.A. American Depositary Shares
+(TIMB) [ST]
+S 12/09/202401/09/2025$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Morgan Stanley Trust Account (Owner: JT)
+D: 083057
+I P O
+Filing ID #20026545
+[[PAGE 2]]
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Jonathan Jackson , 01/16/2025

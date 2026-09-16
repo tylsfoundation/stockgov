@@ -1,0 +1,54 @@
+[[PAGE 1]]
+Filing Id #20016655
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Steve Cohen
+Status: Member
+State/District: TN09
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+aT&T Inc. (T) [ST] S 04/17/2020 05/22/2020 $1,001 - $15,000 gfedcb
+FILINg STaTUS: New
+SUbHoLdINg oF: Stephens advantage account
+autoZone, Inc. (aZo) [ST] S 04/17/2020 05/22/2020 $1,001 - $15,000 gfedcb
+FILINg STaTUS: New
+SUbHoLdINg oF: Stephens advantage account
+boeing Company (ba) [ST] S 04/17/2020 05/22/2020 $1,001 - $15,000 gfedcb
+FILINg STaTUS: New
+SUbHoLdINg oF: Stephens advantage account
+Comcast Corporation - Class a S 04/17/2020 05/22/2020 $1,001 - $15,000 gfedcb
+(CMCSa) [ST]
+FILINg STaTUS: New
+SUbHoLdINg oF: Stephens advantage account
+FedEx Corporation (FdX) [ST] S 04/17/2020 05/22/2020 $1,001 - $15,000 gfedcb
+FILINg STaTUS: New
+SUbHoLdINg oF: Stephens advantage account
+Marriott International - Class a S 04/17/2020 05/22/2020 $1,001 - $15,000 gfedcb
+(MaR) [ST]
+FILINg STaTUS: New
+SUbHoLdINg oF: Stephens advantage account
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Mid-america apartment S 04/17/2020 05/22/2020 $1,001 - $15,000 gfedcb
+Communities, Inc. (Maa) [ST]
+FILINg STaTUS: New
+SUbHoLdINg oF: Stephens advantage account
+Pepsico, Inc. (PEP) [ST] S 04/17/2020 05/22/2020 $1,001 - $15,000 gfedcb
+FILINg STaTUS: New
+SUbHoLdINg oF: Stephens advantage account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Stephens advantage account
+LoCaTIoN: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Steve Cohen , 05/22/2020

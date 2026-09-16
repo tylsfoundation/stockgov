@@ -1,0 +1,604 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Bruce Westerman
+Status: Member
+State/District:AR04
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Abbott Laboratories Common Stock
+(ABT) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+adidas AG Sponsored ADR (ADDYY)
+[ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Adobe Inc. - Common Stock (ADBE)
+[ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+American Express Company Common
+Stock (AXP) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Filing ID #20030332
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Anheuser-Busch Inbev SA Sponsored
+ADR (BUD) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Apple Inc. - Common Stock (AAPL)
+[ST]
+S 04/21/202504/28/2025$15,001 -
+$50,000
+F S: New
+S O: Fisher IRA
+ASML Holding N.V. - New York
+Registry Shares (ASML) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Assa Abloy AB Unsponsored ADR
+(ASAZY) [ST]
+P 04/08/202504/21/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Assa Abloy AB Unsponsored ADR
+(ASAZY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+AstraZeneca PLC - American
+Depositary Shares (AZN) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Bank of America Corporation
+Common Stock (BAC) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Barclays PLC Common Stock (BCS)
+[ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+BHP Group Limited American
+Depositary Shares (BHP) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Boeing Company (BA) [ST] P 04/08/202504/21/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Boeing Company (BA) [ST] S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Boston Scientific Corporation
+Common Stock (BSX) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+BP p.l.c. Common Stock (BP) [ST] S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Canadian Natural Resources Limited
+Common Stock (CNQ) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Caterpillar, Inc. Common Stock (CAT)
+[ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Caterpillar, Inc. Common Stock (CAT)
+[ST]
+P 04/08/202504/21/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Charles Schwab Corporation (SCHW)
+[ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Chevron Corporation Common Stock
+(CVX) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Fisher IRA
+Citigroup, Inc. Common Stock (C)
+[ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Compagnie Financiere Richemont
+Unsponsored ADR (CFRUY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+ConocoPhillips Common Stock (COP)
+[ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Costco Wholesale Corporation -
+Common Stock (COST) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Credit Agricole SA Unsponsored ADR
+(CRARY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Crown Castle Inc. Common Stock
+(CCI) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+CSX Corporation (CSX) [ST] P 04/08/202504/21/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+CSX Corporation (CSX) [ST] S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Cummins Inc. Common Stock (CMI)
+[ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Fisher IRA
+Danaher Corporation Common Stock
+(DHR) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Deere & Company Common Stock
+(DE) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Deere & Company Common Stock
+(DE) [ST]
+P 04/08/202504/21/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Deutsche Bank AG Common Stock
+(DB) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Deutsche Telekom AG (DTEGY) [ST] S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+DSV A/S Unsponsored ADR (DSDVY)
+[ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Edwards Lifesciences Corporation
+Common Stock (EW) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Eli Lilly and Company Common Stock
+(LLY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Emerson Electric Company Common
+Stock (EMR) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Exxon Mobil Corporation Common
+Stock (XOM) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Fanuc Corporation Unsponsored ADR
+(FANUY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Freeport-McMoRan, Inc. Common
+Stock (FCX) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Goldman Sachs Group, Inc. (GS) [ST] S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+GSK plc American Depositary Shares
+(GSK) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Home Depot, Inc. (HD) [ST] S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Hong Kong Exchanges & Clearing Ltd
+Unsponsored ADR (HKXCY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+HSBC Holdings, plc. Common Stock
+(HSBC) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Illinois Tool Works Inc. Common
+Stock (ITW) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Illinois Tool Works Inc. Common
+Stock (ITW) [ST]
+P 04/08/202504/21/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Intesa Sanpaolo S.P.A. Sponsored
+ADR (ISNPY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Intuitive Surgical, Inc. - Common
+Stock (ISRG) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Johnson & Johnson Common Stock
+(JNJ) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Johnson Controls International plc
+Ordinary Share (JCI) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+LVMH Moet Hennessy Louis Vuitton
+Unsponsored American Depositary
+Receipt (LVMUY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Mastercard Incorporated Common
+Stock (MA) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 04/21/202504/28/2025$15,001 -
+$50,000
+F S: New
+S O: Fisher IRA
+MITSUBISHI HVY IND U/ADR
+(MHVIY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Mitsubishi UFJ Financial Group, Inc.
+Common Stock (MUFG) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Morgan Stanley Common Stock (MS)
+[ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Murata Manufacturing Co Ltd
+Unsponsored ADR (MRAAY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+NatWest Group plc American
+Depositary Shares, (NWG) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Nestle SA Sponsored ADR
+representing Registered Shares Series
+B (NSRGY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Netflix, Inc. - Common Stock (NFLX)
+[ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+NORDEA BANK ABP SP/ADR
+(NRDBY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 04/21/202504/28/2025$15,001 -
+$50,000
+F S: New
+S O: Fisher IRA
+Oracle Corporation Common Stock
+(ORCL) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Pepsico, Inc. (PEP) [ST] S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Pfizer, Inc. Common Stock (PFE) [ST]S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Procter & Gamble Company (PG) [ST]S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Rio Tinto Plc Common Stock (RIO)
+[ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+ROCHE HOLDING LTD S/ADR
+(RHHBY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+RTX Corporation Common Stock
+(RTX) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+RTX Corporation Common StockP 04/08/202504/21/2025$1,001 - $15,000
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(RTX) [ST]
+F S: New
+S O: Fisher IRA
+Safran S.A. Unsponsored ADR
+(SAFRY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Salesforce, Inc. Common Stock (CRM)
+[ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+SAP SE ADS (SAP) [ST] S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+ServiceNow, Inc. Common Stock
+(NOW) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Shell PLC American Depositary
+Shares (SHEL) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Siemens AG American Depositary
+Shares (SIEGY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Societe Generale France Sponsored
+ADR (SCGLY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Sony Group Corporation American
+Depositary Shares (SONY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Spotify Technology S.A. Ordinary
+Shares (SPOT) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Fisher IRA
+Starbucks Corporation - Common
+Stock (SBUX) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Suncor Energy Inc. Common Stock
+(SU) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Thermo Fisher Scientific Inc Common
+Stock (TMO) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Tokyo Electron Ltd Unsponsored
+ADR (TOELY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Toyota Motor Corporation Common
+Stock (TM) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+UBS Group AG Registered Ordinary
+Shares (UBS) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+UNICREDITO SPA UNSP/ADR
+(UNCRY) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Unilever PLC Common Stock (UL)S 04/21/202504/28/2025$1,001 - $15,000
+[[PAGE 12]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+[ST]
+F S: New
+S O: Fisher IRA
+Union Pacific Corporation Common
+Stock (UNP) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Vinci SA ADR (VCISY) [ST] S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Visa Inc. (V) [ST] S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+Walmart Inc. Common Stock (WMT)
+[ST]
+S 04/21/202504/28/2025$1,001 - $15,000
+F S: New
+S O: Fisher IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Fisher IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Bruce Westerman , 05/12/2025

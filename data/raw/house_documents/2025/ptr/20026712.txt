@@ -1,0 +1,92 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Byron Donalds
+Status: Member
+State/District:FL19
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+First Citizens BancShares, Inc. - Class
+A Common Stock (FCNCA) [ST]
+P 01/21/202501/30/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP First Citizens BancShares, Inc. - Class
+A Common Stock (FCNCA) [ST]
+P 01/21/202501/30/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+First Citizens BancShares, Inc. - Class
+A Common Stock (FCNCA) [ST]
+P 01/16/202501/30/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+GoDaddy Inc. Class A Common Stock
+(GDDY) [ST]
+P 01/16/202501/30/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP GoDaddy Inc. Class A Common Stock
+(GDDY) [ST]
+P 01/16/202501/30/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP GoDaddy Inc. Class A Common Stock
+(GDDY) [ST]
+P 01/21/202501/30/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Filing ID #20026712
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+GoDaddy Inc. Class A Common Stock
+(GDDY) [ST]
+P 01/21/202501/30/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S 01/16/202501/30/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S 01/16/202501/30/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP RLI Corp. Common Stock (RLI) [ST] S (partial) 01/16/202501/30/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP RLI Corp. Common Stock (RLI) [ST] S 01/21/202501/30/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+RLI Corp. Common Stock (RLI) [ST] S (partial) 01/16/202501/30/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+RLI Corp. Common Stock (RLI) [ST] S 01/16/202501/30/2025$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Moran Wealth IRA
+Moran Wealth IRA (Owner: SP)
+I P O
+Yes No
+[[PAGE 3]]
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Byron Donalds , 02/10/2025

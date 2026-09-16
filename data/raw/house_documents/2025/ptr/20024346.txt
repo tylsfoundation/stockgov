@@ -1,0 +1,802 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Rob Bresnahan
+Status: Member
+State/District:PA08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT AAON, Inc. - Common Stock (AAON)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT AAON, Inc. - Common Stock (AAON)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Adobe Inc. - Common Stock (ADBE)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Advanced Drainage Systems, Inc.
+Common Stock (WMS) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Advanced Micro Devices, Inc. (AMD)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+Filing ID #20024346
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alibaba Group Holding Limited
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+P 01/29/202501/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Alibaba Group Holding Limited
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+P 01/29/202501/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Alibaba Group Holding Limited
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+P 01/30/202501/30/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Alibaba Group Holding Limited
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+P 01/29/202501/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S 01/21/202501/21/2025 $50,001 -
+$100,000
+F S: New
+S O: LPL Account I
+JT Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT ANSYS, Inc. - Common Stock (ANSS)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT AppFolio, Inc. - Class A Common
+Stock (APPF) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Joint Ownership LPL Account
+JT Arista Networks, Inc. Common Stock
+(ANET) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+Atlassian Corporation - Class A
+Common Stock (TEAM) [ST]
+P 01/28/202501/28/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Atlassian Corporation - Class A
+Common Stock (TEAM) [ST]
+P 01/28/202501/28/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Atlassian Corporation - Class A
+Common Stock (TEAM) [ST]
+P 01/28/202501/28/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+JT Axon Enterprise, Inc. - Common Stock
+(AXON) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [OP]
+S 01/15/202501/15/2025 $15,001 -
+$50,000
+F S: New
+S O: LPL Account I
+D: C 380.00
+Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+S 01/15/202501/15/2025 $15,001 -
+$50,000
+F S: New
+S O: LPL Account I
+JT Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [OP]
+P 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+D: CALL BERKSHIRE CL B NEW $300 EXP 01/17/25 CLASS B
+JT Berkshire Hathaway Inc. NewP 01/13/202501/13/2025 $15,001 -
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Common Stock (BRK.B) [ST] $50,000
+F S: New
+S O: Joint Ownership LPL Account
+Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [OP]
+P 01/15/202501/15/2025 $50,001 -
+$100,000
+F S: New
+S O: LPL Account I
+D: EXP 01/17/25 CLASS B C 300.00
+JT Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+S 01/13/202501/13/2025 $15,001 -
+$50,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+P 01/13/202501/10/2025$15,001 -
+$50,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [OP]
+P 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+D: CALL BERKSHIRE CL B NEW $300 EXP 01/17/25 CLASS B
+JT Berry Global Group, Inc. Common
+Stock (BERY) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Boeing Company (BA) [ST] S 01/13/202501/13/2025 $15,001 -
+$50,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Booz Allen Hamilton Holding
+Corporation Common Stock (BAH)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+S 01/28/202501/28/2025$1,001 - $15,000
+F S: New
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: JP Morgan Brokerage Account #2
+JT Broadridge Financial Solutions, Inc.
+Common Stock (BR) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Brown & Brown, Inc. Common Stock
+(BRO) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Cadence Design Systems, Inc. -
+Common Stock (CDNS) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT CDW Corporation - Common Stock
+(CDW) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Celsius Holdings, Inc. (CELH) [ST] S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Chevron Corporation Common Stock
+(CVX) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Chipotle Mexican Grill, Inc. Common
+Stock (CMG) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Churchill Downs, Incorporated -
+Common Stock (CHDN) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Clean Harbors, Inc. Common Stock
+(CLH) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Coca-Cola Company (KO) [ST] S 01/21/202501/21/2025 $1,001 - $15,000
+F S: New
+S O: Kuharchik 401k
+JT Comfort Systems USA, Inc. Common
+Stock (FIX) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+Credo Technology Group Holding Ltd
+- Ordinary Shares (CRDO) [ST]
+S 01/29/202501/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Credo Technology Group Holding Ltd
+- Ordinary Shares (CRDO) [ST]
+S 01/29/202501/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Credo Technology Group Holding Ltd
+- Ordinary Shares (CRDO) [ST]
+S 01/29/202501/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+CrowdStrike Holdings, Inc. - Class A
+Common Stock (CRWD) [ST]
+P 01/28/202501/28/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+CrowdStrike Holdings, Inc. - Class A
+Common Stock (CRWD) [ST]
+P 01/28/202501/28/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+JT CrowdStrike Holdings, Inc. - Class A
+Common Stock (CRWD) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+CrowdStrike Holdings, Inc. - Class A
+Common Stock (CRWD) [ST]
+P 01/28/202501/28/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Darden Restaurants, Inc. Common
+Stock (DRI) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Deckers Outdoor Corporation (DECK)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Dropbox, Inc. - Class A Common
+Stock (DBX) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT e.l.f. Beauty, Inc. Common Stock
+(ELF) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Elevance Health, Inc. Common Stock
+(ELV) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT EMCOR Group, Inc. Common Stock
+(EME) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Fortinet, Inc. - Common Stock (FTNT)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT GoDaddy Inc. Class A Common Stock
+(GDDY) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Graphic Packaging Holding Company
+(GPK) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT HealthEquity, Inc. - Common Stock
+(HQY) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Heico Corporation Common Stock
+(HEI) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Heico Corporation Common Stock
+(HEI) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Ingersoll Rand Inc. Common Stock
+(IR) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Installed Building Products, Inc.
+Common Stock (IBP) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+Intel Corporation - Common Stock
+(INTC) [ST]
+P 02/03/202502/03/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Intel Corporation - Common Stock
+(INTC) [ST]
+P 02/03/202502/03/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Intel Corporation - Common Stock
+(INTC) [ST]
+P 02/03/202502/03/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+JT Intercontinental Exchange Inc.
+Common Stock (ICE) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Intuit Inc. - Common Stock (INTU)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+Lam Research Corporation - Common
+Stock (LRCX) [ST]
+P 01/16/202501/16/2025 $1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+JT Lamb Weston Holdings, Inc. Common
+Stock (LW) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Linde plc - Ordinary Shares (LIN)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+Lowe's Companies, Inc. Common
+Stock (LOW) [ST]
+S 02/07/202502/07/2025$15,001 -
+$50,000
+F S: New
+S O: LPL Account I
+JT lululemon athletica inc. - Common
+Stock (LULU) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Manhattan Associates, Inc. - Common
+Stock (MANH) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+Manhattan Associates, Inc. - Common
+Stock (MANH) [ST]
+S 01/29/202501/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Manhattan Associates, Inc. - Common
+Stock (MANH) [ST]
+S 01/29/202502/11/2025 $1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Manhattan Associates, Inc. - Common
+Stock (MANH) [ST]
+S 01/29/202501/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+JT Mastercard Incorporated Common
+Stock (MA) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Medpace Holdings, Inc. - Common
+Stock (MEDP) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+S 01/29/202501/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+S 01/29/202501/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+JT Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 01/30/202502/11/2025 $1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 01/30/202502/11/2025 $1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+JT Molina Healthcare Inc Common Stock
+(MOH) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Monolithic Power Systems, Inc. -
+Common Stock (MPWR) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT MSCI Inc. Common Stock (MSCI)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Netflix, Inc. - Common Stock (NFLX)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Nutanix, Inc. - Class A Common Stock
+(NTNX) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S (partial) 01/28/202502/11/2025 $1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 01/29/202501/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 01/29/202501/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+JT NVR, Inc. Common Stock (NVR) [ST] S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT PACCAR Inc. - Common Stock
+(PCAR) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Palo Alto Networks, Inc. (PANW) [ST]S 01/13/202501/13/2025 $1,001 - $15,000
+[[PAGE 12]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Joint Ownership LPL Account
+JT Paychex, Inc. - Common Stock (PAYX)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Paylocity Holding Corporation -
+Common Stock (PCTY) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Performance Food Group Company
+Common Stock (PFGC) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Pure Storage, Inc. Class A Common
+Stock (PSTG) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Quanta Services, Inc. Common Stock
+(PWR) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT ResMed Inc. Common Stock (RMD)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+Robinhood Markets, Inc. - Class A
+Common Stock (HOOD) [ST]
+S 01/29/202501/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Robinhood Markets, Inc. - Class A
+Common Stock (HOOD) [ST]
+S 01/29/202501/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Robinhood Markets, Inc. - Class A
+Common Stock (HOOD) [ST]
+S 01/29/202501/29/2025$1,001 - $15,000
+[[PAGE 13]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: JP Morgan Brokerage Account #2
+JT Royal Caribbean Cruises Ltd.
+Common Stock (RCL) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Saia, Inc. - Common Stock (SAIA)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+Salesforce, Inc. Common Stock (CRM)
+[ST]
+S 01/21/202501/21/2025 $15,001 -
+$50,000
+F S: New
+S O: LPL Account I
+JT Salesforce, Inc. Common Stock (CRM)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT SBA Communications Corporation -
+Class A Common Stock (SBAC) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT ServiceNow, Inc. Common Stock
+(NOW) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+ServiceNow, Inc. Common Stock
+(NOW) [ST]
+P 02/03/202502/03/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+ServiceNow, Inc. Common Stock
+(NOW) [ST]
+P 02/03/202502/03/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+JT Super Micro Computer, Inc. -
+Common Stock (SMCI) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+[[PAGE 14]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Joint Ownership LPL Account
+JT Synopsys, Inc. - Common Stock
+(SNPS) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+Take-Two Interactive Software, Inc. -
+Common Stock (TTWO) [ST]
+P 02/03/202502/03/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Take-Two Interactive Software, Inc. -
+Common Stock (TTWO) [ST]
+P 02/03/202502/03/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Take-Two Interactive Software, Inc. -
+Common Stock (TTWO) [ST]
+P 02/03/202502/03/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+JT The Cigna Group Common Stock (CI)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT T-Mobile US, Inc. (TMUS) [ST] S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT Transdigm Group Incorporated
+Common Stock (TDG) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT United Rentals, Inc. Common Stock
+(URI) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+[[PAGE 15]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Joint Ownership LPL Account
+JT Walt Disney Company (DIS) [ST] S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+Walt Disney Company (DIS) [ST] S 01/21/202501/21/2025 $15,001 -
+$50,000
+F S: New
+S O: LPL Account I
+JT Westinghouse Air Brake Technologies
+Corporation Common Stock (WAB)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+JT WillScot Holdings Corporation - Class
+A Common Stock (WSC) [ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+Zoom Communications, Inc. - Class A
+Common Stock (ZM) [ST]
+P 01/28/202501/28/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Zoom Communications, Inc. - Class A
+Common Stock (ZM) [ST]
+P 01/28/202501/28/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Zoom Communications, Inc. - Class A
+Common Stock (ZM) [ST]
+P 01/28/202501/28/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+JT Zscaler, Inc. - Common Stock (ZS)
+[ST]
+S 01/13/202501/13/2025 $1,001 - $15,000
+F S: New
+S O: Joint Ownership LPL Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+[[PAGE 16]]
+I V D
+Joint Ownership LPL Account (Owner: JT)
+L: US
+D: JTTEN account
+JP Morgan Brokerage Account #2
+L: US
+Kuharchik 401k
+LPL Account I
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Rob Bresnahan , 02/13/2025

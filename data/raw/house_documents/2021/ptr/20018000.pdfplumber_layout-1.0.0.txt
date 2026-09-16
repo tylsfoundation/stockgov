@@ -1,0 +1,45 @@
+[[PAGE 1]]
+Filing ID #20018000
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District: CA47
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP Alibaba group Holding Limited S 12/28/2020 01/09/2021 $669.27 gfedc
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Beneficiary IRA
+SP Fidelity National Information S (partial) 12/23/2020 01/09/2021 $268.96 gfedc
+Services, Inc. (FIS) [ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Beneficiary IRA
+SP Fidelity National Information S (partial) 12/23/2020 01/09/2021 $134.47 gfedc
+Services, Inc. (FIS) [ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Beneficiary IRA
+SP Juniper Industrial Holdings, Inc. P 01/08/2021 01/09/2021 $45.46 gfedc
+Class A (JIH) [ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Beneficiary IRA
+SP Zimmer Biomet Holdings [CS] S (partial) 12/31/2020 01/09/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: Neuberger Berman - Beneficiary IRA
+DESCRIPTION: This was a call of a bond. Maturity date is 3/19/21
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+[[PAGE 2]]
+aSSet claSS DetailS
+Neuberger Berman - Beneficiary IRA (Owner: SP)
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Alan S. Lowenthal , 01/09/2021

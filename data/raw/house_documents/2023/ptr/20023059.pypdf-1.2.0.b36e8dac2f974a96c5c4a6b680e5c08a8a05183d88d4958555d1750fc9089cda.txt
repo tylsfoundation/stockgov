@@ -1,0 +1,82 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Virginia Foxx
+Status: Member
+State/District:NC05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Alliance Resource Partners, L.P. -
+Common Units Representing Limited
+Partnership Interests (ARLP) [ST]
+P 05/08/202306/01/2023$1,001 - $15,000
+F S: New
+JT Alliance Resource Partners, L.P. -
+Common Units Representing Limited
+Partnership Interests (ARLP) [ST]
+P 05/10/202306/01/2023$1,001 - $15,000
+F S: New
+JT Alliance Resource Partners, L.P. -
+Common Units Representing Limited
+Partnership Interests (ARLP) [ST]
+P 05/16/202306/01/2023$1,001 - $15,000
+F S: New
+JT Altria Group, Inc. (MO) [ST] P 05/01/202306/01/2023$1,001 - $15,000
+F S: New
+JT AT&T Inc. Depositary Shares, each
+representing a 1/1,000th interest in a
+share of 5.000% Perpetual Preferred
+Stock, Series A (T$A) [ST]
+P 05/02/202306/01/2023$1,001 - $15,000
+F S: New
+JT Cross Timbers Royalty Trust (CRT)
+[ST]
+P 05/17/202306/01/2023$1,001 - $15,000
+F S: New
+JT Cross Timbers Royalty Trust (CRT)
+[ST]
+P 05/01/202306/01/2023$1,001 - $15,000
+Filing ID #20023059
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+JT FLEX LNG Ltd. Ordinary Shares
+(FLNG) [ST]
+P 05/16/202306/01/2023$1,001 - $15,000
+F S: New
+JT Green Plains Partners LP - Common
+Units (GPP) [ST]
+P 05/17/202306/01/2023$1,001 - $15,000
+F S: New
+JT Sisecam Resources LP Common Units
+representing limited partner interests
+(SIRE) [ST]
+S 05/26/202306/01/2023$50,001 -
+$100,000
+F S: New
+D: Distribution as a result of merger and delisting.
+JT Sisecam Resources LP Common Units
+representing limited partner interests
+(SIRE) [ST]
+P 05/19/202306/01/2023$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Virginia Foxx , 06/02/2023

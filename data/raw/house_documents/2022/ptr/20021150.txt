@@ -1,0 +1,65 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Robert J. Wittman
+Status: Member
+State/District:VA01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Duke Realty Corporation (DRE) [ST] S (partial) 05/10/202205/12/2022$1,001 - $15,000
+F S: New
+ISHA Curr Hedged MSCI EAFE [AB] P 05/10/202205/12/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+Ishares 0-5 HY Corp [AB] P 05/10/202205/12/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+Ishares Core MSCI EAFE ETF [AB] S (partial) 05/10/202205/12/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+Ishares Core MSCI Europe [AB] S 05/10/202205/12/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+Ishares MSCI EAFE Grwth EF [AB] S 05/10/202205/12/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+JPMorgan Betabuilders Canada [AB] P 05/10/202205/12/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+Filing ID #20021150
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JPMorgan Equity Premium Inco [AB]P 05/10/202205/10/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+SPDR Blackstone Senior Loan [AB] P 05/10/202205/12/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+Starbucks Corporation (SBUX) [ST] S 05/10/202205/12/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+Vanguard Total Bond Market [AB] S 05/10/202205/12/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley INH IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Robert J. Wittman , 06/04/2022

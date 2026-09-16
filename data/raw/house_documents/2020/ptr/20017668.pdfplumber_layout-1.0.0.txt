@@ -1,0 +1,104 @@
+[[PAGE 1]]
+Filing Id #20017668
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Greg Gianforte
+Status: Member
+State/District: MT00
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Amedisys Inc (AMEd) [ST] S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedcb
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT ANSYS, Inc. (ANSS) [ST] S (partial) 10/13/2020 10/19/2020 $15,001 - gfedcb
+$50,000
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT bio-Techne Corp (TECH) [ST] S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedcb
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT Chemed Corp (CHE) [ST] S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedcb
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT Cognex Corporation (CGNX) [ST] S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedcb
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT CoStar Group, Inc. (CSGP) [ST] S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedcb
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT dorman Products, Inc. (dORM) S 10/15/2020 10/19/2020 $100,001 - gfedcb
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedcb
+[ST] $250,000
+FIlING STATUS: New
+SUbHOldING OF: Newsouth Small Cap Equities
+JT Fastenal Company (FAST) [ST] S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedcb
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT Grand Canyon Education, Inc. S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedcb
+(lOPE) [ST]
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT Guidewire Software, Inc. (GWRE) P 10/28/2020 11/03/2020 $100,001 - gfedc
+[ST] $250,000
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT Jack Henry & Associates, Inc. S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedc
+(JKHY) [ST]
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT lennox International, Inc. (lII) S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT Neogen Corporation (NEOG) [ST] S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedcb
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT Paycom Software, Inc. (PAYC) [ST] S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedcb
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT Paylocity Holding Corporation S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedcb
+(PCTY) [ST]
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT Pegasystems Inc. (PEGA) [ST] S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedcb
+FIlING STATUS: New
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT Proto labs, Inc. Common stock S (partial) 10/28/2020 11/03/2020 $100,001 - gfedcb
+(PRlb) [ST] $250,000
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT Ritchie bros. Auctioneers S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedcb
+Incorporated (RbA) [ST]
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT Rollins, Inc. (ROl) [ST] S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedcb
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT Teladoc Health, Inc. (TdOC) [ST] S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedcb
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+JT Verisk Analytics, Inc. (VRSK) [ST] S (partial) 10/13/2020 10/19/2020 $1,001 - $15,000 gfedcb
+FIlING STATUS: New
+SUbHOldING OF: Riverbridge Managed Account - Small Cap US Equities
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Newsouth Small Cap Equities (Owner: JT)
+Riverbridge Managed Account - Small Cap US Equities (Owner: JT)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Greg Gianforte , 11/09/2020

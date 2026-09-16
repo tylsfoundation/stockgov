@@ -1,0 +1,310 @@
+[[PAGE 1]]
+Filing ID #20019040
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Tom Malinowski
+Status: Member
+State/District: NJ07
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+BellRing Brands, Inc. Class A P 10/21/2019 11/01/2019 $15,001 - gfedc
+(BRBR) [ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+BellRing Brands, Inc. Class A S 12/13/2019 01/01/2019 $1,001 - gfedc
+(BRBR) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+2000076246 Blackline, Inc. (Bl) [ST] P 07/02/2019 08/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+2000076394 Blackline, Inc. (Bl) [ST] P 01/13/2021 03/01/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: Amended
+DESCRIPTION: Covered Short
+2000076270 Blackline, Inc. (Bl) [ST] S 02/12/2021 03/01/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: Amended
+DESCRIPTION: Covered Short
+Carnival Corporation (CCl) P 01/31/2019 02/01/2019 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Carnival Corporation (CCl) S 02/04/2019 03/01/2019 $15,001 - gfedcb
+[ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+2000076259 Castlight Health, Inc. Class B S 11/25/2019 12/01/2019 $1,001 - gfedc
+(CSlT) [ST] $15,000
+FIlINg STATuS: Amended
+Dave & Buster's Entertainment, P 04/03/2019 05/01/2019 $1,001 - gfedc
+Inc. (PlAY) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Dave & Buster's Entertainment, S 08/07/2019 09/01/2019 $15,001 - gfedcb
+Inc. (PlAY) [ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Domo, Inc. - Class B (DOMO) S 03/18/2019 04/01/2019 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short. Represents four separate transactions closing the short position all occurring on the same
+date.
+Domo, Inc. - Class B (DOMO) S 03/04/2019 04/01/2019 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Enterprise Products Partners S 01/13/2020 02/01/2020 $15,001 - gfedc
+l.P. (EPD) [ST] $50,000
+FIlINg STATuS: New
+Equinix, Inc. (EQIX) [ST] S 07/30/2019 08/01/2019 $1,001 - gfedcb
+$15,000
+FIlINg STATuS: New
+2000076218 Equinix, Inc. (EQIX) [ST] P 01/28/2019 02/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+2000076225 Equinix, Inc. (EQIX) [ST] P 02/27/2019 03/01/2019 $1,001 - gfedc
+$15,000
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: Amended
+2000076327 Equinix, Inc. (EQIX) [ST] S 03/30/2020 04/01/2020 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: Amended
+2000076360 Equinix, Inc. (EQIX) [ST] S 02/18/2020 03/01/2020 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: Amended
+Equinix, Inc. (EQIX) [ST] S 06/17/2019 07/01/2019 $1,001 - gfedcb
+$15,000
+FIlINg STATuS: New
+Equinix, Inc. (EQIX) [ST] P 07/26/2019 08/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+Everbridge, Inc. (EVBg) [ST] S 03/22/2019 04/01/2019 $1,001 - gfedcb
+$15,000
+FIlINg STATuS: New
+Everbridge, Inc. (EVBg) [ST] S 01/22/2020 02/01/2020 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+Federal Realty Investment P 07/22/2019 01/18/2019 $1,001 - gfedc
+Trust (FRT) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Federal Realty Investment P 01/18/2019 02/01/2019 $15,001 - gfedc
+Trust (FRT) [ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Federal Realty Investment S 10/25/2019 11/01/2019 $1,001 - gfedc
+Trust (FRT) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Federal Realty Investment S 10/25/2019 11/01/2019 $15,001 - gfedc
+Trust (FRT) [ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Five9, Inc. (FIVN) [ST] S 01/23/2020 02/01/2020 $1,001 - gfedcb
+$15,000
+FIlINg STATuS: New
+Flexion Therapeutics, Inc. S 05/05/2020 06/01/2020 $1,001 - gfedc
+(FlXN) [ST] $15,000
+FIlINg STATuS: New
+Flexion Therapeutics, Inc. S 05/07/2020 06/01/2020 $1,001 - gfedc
+(FlXN) [ST] $15,000
+FIlINg STATuS: New
+Flexion Therapeutics, Inc. S 05/08/2020 06/01/2020 $1,001 - gfedc
+(FlXN) [ST] $15,000
+FIlINg STATuS: New
+2000076325 Flexion Therapeutics, Inc. S 04/27/2020 06/01/2020 $1,001 - gfedc
+(FlXN) [ST] $15,000
+FIlINg STATuS: Amended
+2000076233 Instructure, Inc. (INST) [ST] S 04/16/2019 05/01/2019 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: Amended
+Kellogg Company (K) [ST] P 11/26/2019 12/01/2019 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Kellogg Company (K) [ST] S 11/29/2019 12/01/2019 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Macerich Company (MAC) [ST] S 05/29/2019 06/01/2019 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Merck & Company, Inc. P 08/24/2020 09/01/2020 $15,001 - gfedc
+Common Stock (MRK) [ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+2000076285 Merck & Company, Inc. S 11/04/2020 12/01/2020 $15,001 - gfedc
+Common Stock (MRK) [ST] $50,000
+FIlINg STATuS: Amended
+MicroStrategy Incorporated - P 07/09/2019 08/01/2019 $1,001 - gfedc
+Class A (MSTR) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+MicroStrategy Incorporated - S 08/14/2019 09/01/2019 $1,001 - gfedc
+Class A (MSTR) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+MiMedx group, Inc (MDXg) S 05/30/2019 06/01/2019 $15,001 - gfedcb
+[ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short. Represents six separate transactions closing the short position all occurring on the same
+date.
+2000076215 Navigator Holdings ltd. P 01/03/2019 02/01/2019 $1,001 - gfedc
+Ordinary Shares (NVgS) [ST] $15,000
+FIlINg STATuS: Deleted
+Norwegian Cruise line S 01/31/2019 02/01/2019 $1,001 - gfedcb
+Holdings ltd. Ordinary Shares $15,000
+(NClH) [ST]
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Peloton Interactive, Inc. P 10/22/2019 11/01/2019 $1,001 - gfedc
+(PTON) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Peloton Interactive, Inc. P 09/27/2019 10/01/2019 $15,001 - gfedc
+(PTON) [ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Peloton Interactive, Inc. S 11/19/2019 12/01/2019 $15,001 - gfedc
+(PTON) [ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Pool Corporation (POOl) [ST] P 07/18/2019 08/01/2019 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Pool Corporation (POOl) [ST] S 10/15/2019 11/01/2019 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Post Holdings, Inc. (POST) P 10/25/2019 11/01/2019 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Post Holdings, Inc. (POST) S 10/29/2019 11/01/2019 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+2000076361 Power Solutions International, P 12/30/2019 01/01/2020 $1,001 - gfedc
+Inc. (PSIX) [ST] $15,000
+FIlINg STATuS: Amended
+2000076220 Red Hat, Inc. (RHT) [ST] S 01/04/2019 03/01/2019 $50,001 - gfedcb
+$100,000
+FIlINg STATuS: Amended
+DESCRIPTION: Represents two separate transactions closing the position both occurring on the same date.
+Regency Centers Corporation S 11/26/2019 12/01/2019 $15,001 - gfedc
+(REg) [ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Restaurant Brands P 04/30/2019 05/01/2019 $1,001 - gfedc
+International Inc. Common $15,000
+Shares (QSR) [ST]
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Restaurant Brands S 10/28/2019 11/01/2019 $1,001 - gfedc
+International Inc. Common $15,000
+Shares (QSR) [ST]
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Restaurant Brands S 10/02/2019 11/01/2019 $15,001 - gfedc
+International Inc. Common $50,000
+Shares (QSR) [ST]
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Simon Property group, Inc. S 01/18/2019 02/01/2019 $1,001 - gfedc
+(SPg) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short. Represents two separate transactions closing the position both occurring on the same
+date.
+Tabula Rasa HealthCare, Inc. P 11/07/2019 12/01/2019 $1,001 - gfedc
+(TRHC) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Tabula Rasa HealthCare, Inc. S 11/08/2019 12/01/2019 $1,001 - gfedc
+(TRHC) [ST] $15,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Tanger Factory Outlet Centers, S 05/31/2019 06/01/2019 $15,001 - gfedcb
+Inc. (SKT) [ST] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short. Represents four separate transactions closing the short position all occurring on the same
+date.
+Tesla, Inc. (TSlA) [ST] P 04/23/2019 05/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Tesla, Inc. (TSlA) [ST] P 04/04/2019 05/01/2019 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Tesla, Inc. (TSlA) [ST] S 05/03/2019 06/01/2019 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+Viomi Technology Co., ltd - S 03/29/2019 04/01/2019 $1,001 - gfedc
+American Depositary Shares $15,000
+[[PAGE 8]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+(VIOT) [ST]
+FIlINg STATuS: New
+DESCRIPTION: Covered Short. Represents three separate transactions closing the short position all occurring on the
+same date.
+Zuora, Inc. Class A (ZuO) [ST] S 12/13/2019 01/01/2020 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+DESCRIPTION: Covered Short
+2000076228 Zuora, Inc. Class A (ZuO) [ST] P 03/22/2019 04/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+2000076249 Zuora, Inc. Class A (ZuO) [ST] S 07/25/2019 08/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+2000076257 Zuora, Inc. Class A (ZuO) [ST] P 11/14/2019 12/01/2019 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Deleted
+2000076241 Zuora, Inc. Class A (ZuO) [ST] P 06/14/2019 07/01/2019 $15,001 - gfedc
+$50,000
+FIlINg STATuS: Deleted
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+COmmeNTS
+To provide additional clarity on transactions involving short sales, the initial sale of stock was marked as a "purchase" and the
+subsequent purchase was marked as a "sale," given the counterintuitive nature of short sales and the goal of providing full
+transparency. All such transactions have been described in the comments as a "Covered Short" to distinguish them from any other
+type of transaction.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Tom Malinowski , 07/09/2021

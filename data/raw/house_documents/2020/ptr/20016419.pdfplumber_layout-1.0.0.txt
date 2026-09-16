@@ -1,0 +1,82 @@
+[[PAGE 1]]
+Filing ID #20016419
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Kevin Hern
+Status: Member
+State/District: oK01
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT accenture plc Class a ordinary P 03/26/2020 03/27/2020 $100,001 - gfedc
+shares (aCN) [sT] $250,000
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Revocable Trust
+JT amazon.com, Inc. (aMZN) [sT] P 03/26/2020 03/27/2020 $100,001 - gfedc
+$250,000
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Revocable Trust
+JT Home Depot, Inc. (HD) [sT] P 03/26/2020 03/27/2020 $100,001 - gfedc
+$250,000
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Revocable Trust
+JT Magellan Midstream Partners l.P. P 03/26/2020 03/27/2020 $100,001 - gfedc
+limited Partnership (MMP) [sT] $250,000
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Revocable Trust
+JT Magellan Midstream Partners l.P. P 03/26/2020 03/27/2020 $15,001 - gfedc
+limited Partnership (MMP) [sT] $50,000
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Foundation
+JT Microsoft Corporation (MsFT) P 03/26/2020 03/27/2020 $250,001 - gfedc
+[sT] $500,000
+FIlINg sTaTus: New
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+subHolDINg oF: Hern Family Revocable Trust
+JT MoRgaN sTaNlEY FIN llC P 03/26/2020 03/27/2020 $100,001 - gfedc
+MTN ZERo CPN [Cs] $250,000
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Revocable Trust
+DEsCRIPTIoN: Purchase of Morgan stanley 5 yr Note CusIP: 61770FuV6
+JT oNEoK, Inc. (oKE) [sT] P 03/26/2020 03/27/2020 $15,001 - gfedc
+$50,000
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Foundation
+JT Texas Instruments Incorporated P 03/26/2020 03/27/2020 $100,001 - gfedc
+(TXN) [sT] $250,000
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Revocable Trust
+JT Williams Companies, Inc. (WMb) P 03/27/2020 03/27/2020 $15,001 - gfedc
+[sT] $50,000
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Foundation
+JT Williams Companies, Inc. (WMb) P 03/26/2020 03/27/2020 $100,001 - gfedc
+[sT] $250,000
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Revocable Trust
+JT WPX Energy, Inc. (WPX) [sT] P 03/26/2020 03/27/2020 $100,001 - gfedc
+$250,000
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Revocable Trust
+JT WPX Energy, Inc. (WPX) [sT] P 03/26/2020 03/27/2020 $15,001 - gfedc
+$50,000
+FIlINg sTaTus: New
+subHolDINg oF: Hern Family Foundation
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Hern Family Foundation (100% Interest) (owner: JT)
+Hern Family Revocable Trust (100% Interest) (owner: JT)
+DEsCRIPTIoN: Family Revocable Trust
+[[PAGE 3]]
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Kevin Hern , 04/16/2020

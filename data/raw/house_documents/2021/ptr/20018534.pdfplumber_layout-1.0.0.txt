@@ -1,0 +1,274 @@
+[[PAGE 1]]
+Filing Id #20018534
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District: NJ05
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT adidas AG Sponsored AdR S 03/05/2021 04/07/2021 $1,001 - $15,000 gfedcb
+(AddYY) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Airbnb, Inc. - Class A (AbNb) [ST] S 03/16/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Align Technology, Inc. (ALGN) P 03/15/2021 04/07/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Allegiant Travel Company (ALGT) S (partial) 03/08/2021 04/07/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Alphabet Inc. - Class C Capital P 03/16/2021 04/07/2021 $1,001 - $15,000 gfedc
+Stock (GOOG) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Apple Inc. (AAPL) [ST] S (partial) 03/22/2021 04/07/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Apple Inc. (AAPL) [ST] S (partial) 03/15/2021 04/07/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT ASML Holding N.V. - New York S (partial) 03/15/2021 04/07/2021 $1,001 - $15,000 gfedcb
+Registry Shares (ASML) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT ASML Holding N.V. - New York S (partial) 03/22/2021 04/07/2021 $1,001 - $15,000 gfedcb
+Registry Shares (ASML) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT bHP Group Limited American P 03/05/2021 04/07/2021 $1,001 - $15,000 gfedc
+depositary Shares (bHP) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT bHP Group Limited American P 03/08/2021 04/07/2021 $1,001 - $15,000 gfedc
+depositary Shares (bHP) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT CACI International, Inc. Class A S 03/31/2021 04/07/2021 $1,001 - $15,000 gfedcb
+(CACI) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Carvana Co. Class A (CVNA) [ST] P 03/12/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Charles Schwab Corporation P 03/17/2021 04/07/2021 $1,001 - $15,000 gfedc
+(SCHW) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT deere & Company (dE) [ST] P 03/16/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT deere & Company (dE) [ST] P 03/15/2021 04/07/2021 $1,001 - $15,000 gfedc
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT devon Energy Corporation (dVN) S (partial) 03/04/2021 04/07/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT discovery, Inc. - Series A (dISCA) P 03/31/2021 04/07/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT dominion Energy, Inc. (d) [ST] P 03/08/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Elastic N.V. Ordinary Shares S 03/15/2021 04/07/2021 $1,001 - $15,000 gfedc
+(ESTC) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Enphase Energy, Inc. (ENPH) [ST] S (partial) 03/15/2021 04/07/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Enphase Energy, Inc. (ENPH) [ST] P 03/22/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Estee Lauder Companies, Inc. (EL) P 03/23/2021 04/07/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Etsy, Inc. (ETSY) [ST] P 03/15/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT FedEx Corporation (FdX) [ST] P 03/22/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Freeport-McMoRan, Inc. (FCX) P 03/15/2021 04/07/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT HCA Healthcare, Inc. (HCA) [ST] P 03/16/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Home depot, Inc. (Hd) [ST] S 03/01/2021 04/07/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Lam Research Corporation (LRCX) S (partial) 03/31/2021 04/07/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT lululemon athletica inc. (LULU) S (partial) 03/15/2021 04/07/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Magnolia Oil & Gas Corporation P 03/04/2021 04/07/2021 $1,001 - $15,000 gfedc
+Class A (MGY) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Magnolia Oil & Gas Corporation P 03/31/2021 04/07/2021 $1,001 - $15,000 gfedc
+Class A (MGY) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT MarketAxess Holdings, Inc. S (partial) 03/31/2021 04/07/2021 $1,001 - $15,000 gfedcb
+(MKTX) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT MarketAxess Holdings, Inc. S (partial) 03/17/2021 04/07/2021 $1,001 - $15,000 gfedcb
+(MKTX) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT MarketAxess Holdings, Inc. S (partial) 03/15/2021 04/07/2021 $1,001 - $15,000 gfedcb
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedcb
+(MKTX) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT McKesson Corporation (MCK) [ST] P 03/23/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT MercadoLibre, Inc. (MELI) [ST] S (partial) 03/16/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Moderna, Inc. (MRNA) [ST] S (partial) 03/15/2021 04/07/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Mongodb, Inc. - Class A (Mdb) S 03/16/2021 04/07/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Morgan Stanley (MS) [ST] P 03/17/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Norfolk Southern Corporation P 03/23/2021 04/07/2021 $1,001 - $15,000 gfedc
+(NSC) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT NVIdIA Corporation (NVdA) [ST] S (partial) 03/17/2021 04/07/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT NVIdIA Corporation (NVdA) [ST] S (partial) 03/15/2021 04/07/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT QUALCOMM Incorporated S (partial) 03/15/2021 04/07/2021 $1,001 - $15,000 gfedc
+(QCOM) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Rogers Corporation (ROG) [ST] S 03/09/2021 04/07/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Roku, Inc. - Class A (ROKU) [ST] P 03/15/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT S&P Global Inc. (SPGI) [ST] S 03/11/2021 04/07/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT ServiceNow, Inc. (NOW) [ST] S 03/17/2021 04/07/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Shopify Inc. Class A Subordinate S 03/16/2021 04/07/2021 $1,001 - $15,000 gfedcb
+Voting Shares (SHOP) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Snap Inc. Class A (SNAP) [ST] S (partial) 03/31/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Square, Inc. Class A (SQ) [ST] S (partial) 03/15/2021 04/07/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT SS&C Technologies Holdings, Inc. P 03/22/2021 04/07/2021 $1,001 - $15,000 gfedc
+(SSNC) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT SVb Financial Group (SIVb) [ST] P 03/15/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Synopsys, Inc. (SNPS) [ST] S (partial) 03/15/2021 04/07/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Tapestry, Inc. (TPR) [ST] P 03/17/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Tesla, Inc. (TSLA) [ST] S (partial) 03/22/2021 04/07/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Tesla, Inc. (TSLA) [ST] S (partial) 03/15/2021 04/07/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Tesla, Inc. (TSLA) [ST] S (partial) 03/10/2021 04/07/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT The blackstone Group Inc. Class A P 03/22/2021 04/07/2021 $1,001 - $15,000 gfedc
+(bX) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Twilio Inc. Class A (TWLO) [ST] S 03/16/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Twitter, Inc. (TWTR) [ST] P 03/16/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Veeva Systems Inc. Class A (VEEV) S 03/04/2021 04/07/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Wayfair Inc. Class A (W) [ST] P 03/12/2021 04/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Zillow Group, Inc. - Class C Capital S (partial) 03/12/2021 04/07/2021 $1,001 - $15,000 gfedc
+Stock (Z) [ST]
+[[PAGE 8]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 04/21/2021

@@ -1,0 +1,89 @@
+[[PAGE 1]]
+Filing ID #20018346
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Scott H. Peters
+Status: Member
+State/District: CA52
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Anaheim CA Elec util [gS] S 02/10/2021 02/28/2021 $100,001 - gfedc
+$250,000
+FIlINg STATuS: New
+SP Bay Area Toll RV TOll Tran [gS] S (partial) 02/10/2021 02/28/2021 $100,001 - gfedcb
+$250,000
+FIlINg STATuS: New
+SP CA Infra & Dev Bk Comb util [gS] S (partial) 02/16/2021 02/28/2021 $100,001 - gfedcb
+$250,000
+FIlINg STATuS: New
+SP CA State Dept. Water Resources S (partial) 02/10/2021 02/28/2021 $50,001 - gfedcb
+[gS] $100,000
+FIlINg STATuS: New
+SP CA State univ Pub Educ [gS] S (partial) 02/10/2021 02/28/2021 $50,001 - gfedcb
+$100,000
+FIlINg STATuS: New
+SP Coast CCD CA Coll Educ [gS] S 02/10/2021 02/28/2021 $50,001 - gfedcb
+$100,000
+FIlINg STATuS: New
+SP Dublin San Ramon, CA Wtr util S (partial) 02/01/2021 02/28/2021 $50,001 - gfedc
+[gS] $100,000
+FIlINg STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP grossmont CA Impt Sch [gS] S 02/16/2021 02/28/2021 $100,001 - gfedcb
+$250,000
+FIlINg STATuS: New
+SP los Angeles Cnty, CA MT Excise S 02/10/2021 02/28/2021 $100,001 - gfedcb
+Tax [gS] $250,000
+FIlINg STATuS: New
+SP Mount San Jacinto Coll Educ [gS] S 02/10/2021 02/28/2021 $100,001 - gfedcb
+$250,000
+FIlINg STATuS: New
+SP Rancho CA WTR FA DIST COMB S 02/16/2021 02/28/2021 $100,001 - gfedcb
+uTIl [gS] $250,000
+FIlINg STATuS: New
+SP San Bruno, CA Swr util [gS] S 02/10/2021 02/28/2021 $50,001 - gfedcb
+$100,000
+FIlINg STATuS: New
+SP San Diego CA Wtr util [gS] P 02/11/2021 02/28/2021 $100,001 - gfedc
+$250,000
+FIlINg STATuS: New
+SP San Diego CA Wtr util [gS] S 02/16/2021 02/28/2021 $100,001 - gfedc
+$250,000
+FIlINg STATuS: New
+SP San Francisco CA City/Cnty VP S 02/10/2021 02/28/2021 $100,001 - gfedcb
+[gS] $250,000
+FIlINg STATuS: New
+SP San Francisco, CA City/Cty Impt S 02/16/2021 02/28/2021 $100,001 - gfedcb
+[gS] $250,000
+FIlINg STATuS: New
+SP San Francisco, CA FINl SCH [gS] S 02/16/2021 02/28/2021 $100,001 - gfedcb
+$250,000
+FIlINg STATuS: New
+SP Santa Clara CA uSD Impt Sch [gS] S 02/16/2021 02/28/2021 $100,001 - gfedcb
+$250,000
+FIlINg STATuS: New
+SP Silicon Vy Cln Wtr util [gS] S 02/16/2021 02/28/2021 $100,001 - gfedcb
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedcb
+$250,000
+FIlINg STATuS: New
+SP univ CA Pub Ed [gS] S 02/16/2021 02/28/2021 $100,001 - gfedcb
+$250,000
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Scott H. Peters , 03/11/2021

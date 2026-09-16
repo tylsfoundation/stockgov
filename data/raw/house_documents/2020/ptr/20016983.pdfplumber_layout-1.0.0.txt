@@ -1,0 +1,118 @@
+[[PAGE 1]]
+Filing ID #20016983
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Kevin Hern
+Status: Member
+State/District: OK01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT AST ACADEMIC STRATEgIES E 06/09/2020 06/10/2020 $250,001 - gfedc
+ASSET AllOC PORT [VA] $500,000
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust > Prudential Premier Retirement B Series
+DESCRIPTION: surrender Prudential VA and 1035 exchange to Jackson VA
+JT AST BlACKROCK glOBAl E 06/09/2020 06/10/2020 $250,001 - gfedc
+STRATEgIES PORT [VA] $500,000
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust > Prudential Premier Retirement B Series
+DESCRIPTION: Surrender of Prudential VA and 1035 Exchange into Jackson National VA
+JT AST gOlDMAN SACHS MulTI- E 06/09/2020 06/10/2020 $250,001 - gfedc
+ASSET [VA] $500,000
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust > Prudential Premier Retirement B Series
+DESCRIPTION: Surrender of Prudential VA and 1035 exchange into Jackson National VA
+JT AST PRuDENTIAl gROWTH E 06/09/2020 06/10/2020 $250,001 - gfedc
+AllOCATION [VA] $500,000
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust > Prudential Premier Retirement B Series
+DESCRIPTION: Surrender Prudential VA and 1035 exchange into Jackson National VA
+JT Exxon Mobil Corporation (XOM) P 06/10/2020 06/11/2020 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT JNl ISHARES TACTICAl P 06/11/2020 06/12/2020 $100,001 - gfedc
+gROWTH [VA] $250,000
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust > Jackson National EA
+DESCRIPTION: From Prudential 1035 exchange
+JT JNl/FIRST STATE glOBAl P 06/11/2020 06/12/2020 $50,001 - gfedc
+INFRASTRuCTuRE [VA] $100,000
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust > Jackson National EA
+DESCRIPTION: From Prudential 1035 exchange
+JT JNl/FRANKlIN TEMP P 06/11/2020 06/12/2020 $50,001 - gfedc
+glBlMulTIBOND [VA] $100,000
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust > Jackson National EA
+DESCRIPTION: From Prudential 1035 exchange
+JT JNl/gS DIVIDEND INC & gR P 06/11/2020 06/12/2020 $100,001 - gfedc
+[VA] $250,000
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust > Jackson National EA
+DESCRIPTION: From Prudential 1035 exchange
+JT JNl/JPMORgAN HEDgED P 06/11/2020 06/12/2020 $50,001 - gfedc
+EQuITY [VA] $100,000
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust > Jackson National EA
+DESCRIPTION: From Prudential 1035 exchange
+JT JNl/MC INFO TECH SECTOR P 06/11/2020 06/12/2020 $50,001 - gfedc
+[VA] $100,000
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust > Jackson National EA
+DESCRIPTION: From Prudential 1035 exchange
+JT JNl/MEllON EQuITY INCOME P 06/11/2020 06/12/2020 $100,001 - gfedc
+[VA] $250,000
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust > Jackson National EA
+DESCRIPTION: From Prudential 1035 exchange
+JT JNl/MEllON NASDAQ 100 P 06/11/2020 06/12/2020 $100,001 - gfedc
+INDEX [VA] $250,000
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust > Jackson National EA
+DESCRIPTION: From Prudential 1035 exchange
+JT JNl/MEllON S&P 400 MIDCAP P 06/11/2020 06/12/2020 $100,001 - gfedc
+INDEX [VA] $250,000
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust > Jackson National EA
+DESCRIPTION: From Prudential 1035 exchange
+JT JNl/PIMCO INVESTMENT P 06/11/2020 06/12/2020 $50,001 - gfedc
+gRADE CREDIT BOND [VA] $100,000
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust > Jackson National EA
+DESCRIPTION: From Prudential 1035 exchange
+JT Microsoft Corporation (MSFT) [ST] P 06/11/2020 06/12/2020 $1,001 - gfedc
+$15,000
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT Williams Companies, Inc. (WMB) P 06/29/2020 06/30/2020 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: New
+SuBHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+DESCRIPTION: Family Revocable Trust
+Hern Family Revocable Trust ⇒ Jackson National EA (Owner: JT)
+Hern Family Revocable Trust ⇒ Prudential Premier Retirement B Series (Owner: JT)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 07/20/2020

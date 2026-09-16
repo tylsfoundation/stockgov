@@ -1,0 +1,578 @@
+[[PAGE 1]]
+Filing Id #20016366
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Greg Gianforte
+Status: Member
+State/District: MT00
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT a.P. Moller-Maersk a/S P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+unsponsored american depository
+Receipt (aMKbY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT ab Electrolux Class b american P 03/19/2020 03/23/2020 $1,001 - $15,000 gfedc
+depositary Receipts (EluXY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT abN aMRO baNK N V P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+aMSTERdaM bRaNCH uNSPON
+adR [OT]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+lOCaTION: Nl
+dESCRIPTION: aaVMY abN aMRO baNK N V aMSTERdaM bRaNCH uNSPON adR
+JT adecco Sa unsponsored adR P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+(aHEXY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT ageas Sponsored adR (aGESY) P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT anheuser-busch Inbev Sa P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+Sponsored adR (bud) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT astellas Pharma Inc unsponsored P 03/18/2020 03/23/2020 $15,001 - gfedc
+adR (alPMY) [ST] $50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT atlantia SPa unsponsored adR P 03/19/2020 03/23/2020 $1,001 - $15,000 gfedc
+(aTaSY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT atlantia SPa unsponsored adR P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+(aTaSY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT australia and New Zealand banking P 03/18/2020 03/23/2020 $15,001 - gfedc
+Group limited (aNZbY) [ST] $50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT aVIVa PlC adR [OT] P 03/18/2020 03/23/2020 $15,001 - gfedc
+$50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+lOCaTION: Gb
+dESCRIPTION: aVVIY aVIVa PlC adR
+JT barclays PlC (bCS) [ST] P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT bOC Hong Kong (bHKlY) [ST] P 03/18/2020 03/23/2020 $15,001 - gfedc
+$50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT brenntag aG, Muehleim/Ruhr P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+unsponsored american depository
+Receipt (bNTGY) [ST]
+FIlING STaTuS: New
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT british american Tobacco P 03/18/2020 03/23/2020 $15,001 - gfedc
+Industries, p.l.c. Common Stock $50,000
+adR (bTI) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT british land Co Sponsored adR P 03/18/2020 03/23/2020 $15,001 - gfedc
+(bTlCY) [ST] $50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT burberry Group Plc Sponsored P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+adR (buRbY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Canon, Inc. american depositary P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+Shares (CaJ) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Carrefour S a (CRRFY) [ST] P 03/19/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Coca Cola amatil limited P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+Sponsored adR (CClaY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Commerzbank Junge Shs american P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+depositary Shares (CRZbY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Commonwealth bank Of australia P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+Sponsored adR (CMWaY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT COVESTRO aG SPONSOREd adR P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+[OT]
+FIlING STaTuS: New
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+lOCaTION: dE
+dESCRIPTION: COVTY COVESTRO aG SPONSOREd adR
+JT Credit Suisse Group american P 03/18/2020 03/23/2020 $15,001 - gfedc
+depositary Shares (CS) [ST] $50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT daiwa House Ind ltd american P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+depositary Shares (dWaHY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT daNSKE baNK a/S bEaRER SHS P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+SPON adR [OT]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+lOCaTION: dK
+dESCRIPTION: dNKEY daNSKE baNK a/S bEaRER SHS SPON adR
+JT denso Corp ltd Ord american P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+depositary Shares (dNZOY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT deutsche bank aG (db) [ST] P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT deutsche Post aG Sponsored adR P 03/18/2020 03/23/2020 $15,001 - gfedc
+(dPSGY) [ST] $50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT dEuTSCHE WOHNEN SE P 03/18/2020 03/23/2020 $15,001 - gfedc
+uNSPON adR [OT] $50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+lOCaTION: dE
+dESCRIPTION: dTCWY dEuTSCHE WOHNEN SE uNSPON adR
+JT diageo plc (dEO) [ST] P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT dSV a/S unsponsored adR P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+(dSdVY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Enagas sa unsponsored adR P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+(ENGGY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Ericsson - american depositary P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+Shares each representing 1
+underlying Class b share (ERIC)
+[ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Fuchs Petrolub SE unsponsored P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+american depository
+ReceiptRepresenting Preferenced
+Shares (FuPbY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT GEa Group ag Sponsored adR P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+(GEaGY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT GlaxoSmithKline PlC (GSK) [ST] P 03/18/2020 03/23/2020 $50,001 - gfedc
+$100,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT H lundbeck a/S Sponsored adR P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+(HluYY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Hannover Rueckversicherung SE P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+american depositary Shares
+(HVRRY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT HeidelbergCement ag P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+unsponsored adR (HdElY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Hennes & Mauritz ab unsponsored P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+adR (HNNMY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Hexagon ab american depositary P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+Shares (HXGbY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Honda Motor Company, ltd. P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+(HMC) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT HSbC Holdings, plc. (HSbC) [ST] P 03/18/2020 03/23/2020 $15,001 - gfedc
+$50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Iberdrola Sa Sponsored adR P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+(IbdRY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Imperial brands PlC (IMbbY) [ST] P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT ING Group, N.V. (ING) [ST] P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Intercontinental Hotels Group P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+american depositary Shares (IHG)
+[ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT J Sainsbury Plc Sponsored adR P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+NEW (JSaIY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT James Hardie Industries plc P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+american depositary Shares (JHX)
+[ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Japan airlines ltd unsponsored P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+adR (JaPSY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Japan Tobacco unsponsored P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+american depository Receipt
+(JaPaY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Julius baer Group ltd P 03/18/2020 03/23/2020 $15,001 - gfedc
+unsponsored adR (JbaXY) [ST] $50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Kering unsponsored adR (PPRuY) P 03/19/2020 03/23/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Kingfisher plc Sponsored american P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+depositary Receipt (KGFHY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT KNORR bREMSE aG uNSPON P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+adR [OT]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+lOCaTION: dE
+dESCRIPTION: KNRRY KNORR bREMSE aG uNSPON adR
+JT Koninklijke Vopak NV Rotterdam P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+unsponsored adR (VOPKY) [ST]
+[[PAGE 8]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT lloyds banking Group Plc P 03/18/2020 03/23/2020 $15,001 - gfedc
+american depositary Shares (lYG) $50,000
+[ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT lONdON STOCK EXCHaNG P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+GROuP adR [OT]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+lOCaTION: Gb
+dESCRIPTION: lNSTY lONdON STOCK EXCHaNG GROuP adR
+JT Mazda Motor Corp unsponsored P 03/18/2020 03/23/2020 $15,001 - gfedc
+adR (MZdaY) [ST] $50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Mediobanca - banca di Credito P 03/19/2020 03/23/2020 $1,001 - $15,000 gfedc
+Finanziario SPa unsponsored adR
+(MdIbY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Micro Focus Intl PlC adS each P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+representing One Ord Sh (MFGP)
+[ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Mitsubishi Estate Co ltd american P 03/18/2020 03/23/2020 $15,001 - gfedc
+depositary Shares (MITEY) [ST] $50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Mizuho Financial Group, Inc. P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+Sponosred adR (MFG) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT National Grid Transco, PlC P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+National Grid PlC (NGG) [ST]
+[[PAGE 9]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Neste Oil OYJ unsponsored adR P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+(NTOIY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Nikon Corp american depositary P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+Shares (NINOY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Nissan Motor Co., ltd. american P 03/18/2020 03/23/2020 $15,001 - gfedc
+depositary Shares (NSaNY) [ST] $50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT NN GROuP NV [OT] P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+lOCaTION: Nl
+dESCRIPTION: NNGRY NN GROuP NV
+JT Nokia Corporation Sponsored P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+american depositary Shares (NOK)
+[ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT NORdEa baNK abP SPON adR P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+[OT]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+lOCaTION: FI
+dESCRIPTION: NRdbY NORdEa baNK abP SPON adR
+JT Novartis aG (NVS) [ST] P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Novozymes a/S unsponsored P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+american depositary Receipt
+(NVZMY) [ST]
+FIlING STaTuS: New
+[[PAGE 10]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT ORSTEd a/S adR [OT] P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+lOCaTION: dK
+dESCRIPTION: dNNGY ORSTEd a/S adR
+JT Paddy Power plc unsponsored adR P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+(PdYPY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+dESCRIPTION: FluTTER ENTERTaINMEN PlC adR
+JT Panasonic Corporation (PCRFY) P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT PaNdORa a S SPON adR [OT] P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+lOCaTION: dK
+dESCRIPTION: PaNdY PaNdORa a S SPON adR
+JT Pearson, Plc (PSO) [ST] P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT PROSuS N V SPON adR [OT] P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+lOCaTION: Nl
+dESCRIPTION: PROSY PROSuS N V SPON adR
+JT Publicis Groupe S.a. (PubGY) [ST] P 03/19/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Red Electrica Corporacion Sa P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+unsponsored adR (RdEIY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+[[PAGE 11]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Renault S.a. unsponsored P 03/19/2020 03/23/2020 $1,001 - $15,000 gfedc
+american depository Receipt
+(RNlSY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Repsol S.a. Sponsored adR P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+(REPYY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Royal bank of Scotland Group Plc P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+New (RbS) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Royal dutch Shell PlC Royal dutch P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+Shell american depositary Shares
+(RdS.a) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Royal KPN N.V. (KKPNY) [ST] P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Rwe ag Ord bearer dm5 american P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+depository Receipt (RWEOY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Sanofi - american depositary P 03/19/2020 03/23/2020 $1,001 - $15,000 gfedc
+Shares (SNY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Seven & I Holdings Co ltd P 03/18/2020 03/23/2020 $15,001 - gfedc
+unsponsored adR (SVNdY) [ST] $50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT SHIMaNO INC adR [OT] P 03/18/2020 03/23/2020 $15,001 - gfedc
+$50,000
+FIlING STaTuS: New
+[[PAGE 12]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+lOCaTION: JP
+dESCRIPTION: SMNNY SHIMaNO INC adR
+JT SIEMENS HEalTHINEERS P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+uNSPON adR [OT]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+lOCaTION: dE
+dESCRIPTION: SMMNY SIEMENS HEalTHINEERS uNSPON adR
+JT SIKa aG american depositary P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+Share (SXYaY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Skandinaviska Enskilda banken ab P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+Sponsored adR (SKVKY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Societe Generale France Sponsored P 03/19/2020 03/23/2020 $1,001 - $15,000 gfedc
+adR (SCGlY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Sonova Holding aG unsponsored P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+adR (SONVY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Suez Environnement Suez P 03/19/2020 03/23/2020 $1,001 - $15,000 gfedc
+Environnement Co Sa
+unsponsored adR (SZEVY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Svenska Handelsbanken P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+unsponsored adR representing a
+Shares (SVNlY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Swatch Group ag (SWGaY) [ST] P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+[[PAGE 13]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Swedbank ab Sponsored adR P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+(SWdbY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Swedish Match ab Frueher P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+Svenska Taendsticks ab
+unsponsored adR (SWMaY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Swire Pacific ltd Sponsored adR P 03/18/2020 03/23/2020 $15,001 - gfedc
+representing 1 Class a Share $50,000
+(SWRaY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT TElECOM ITalIa SPa N SPON P 03/19/2020 03/23/2020 $1,001 - $15,000 gfedc
+adR REPSTG ORd SHS [OT]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+lOCaTION: IT
+dESCRIPTION: TIIaY TElECOM ITalIa SPa N SPON adR REPSTG ORd SHS
+JT Telefonica Sa (TEF) [ST] P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT TeliaSonera ab unsponsored adR P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+(TlSNY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Temenos Group aG SPONSOREd P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+adR (TMSNY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Terna Rete Elettrica Nazionale SPa P 03/19/2020 03/23/2020 $1,001 - $15,000 gfedc
+unsponsored american depository
+Receipt (TEZNY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+[[PAGE 14]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Tesco Plc Ord american depositary P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+Shares (TSCdY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Total S.a. (TOT) [ST] P 03/19/2020 03/23/2020 $1,001 - $15,000 gfedc
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Toyota Motor Corporation (TM) P 03/18/2020 03/23/2020 $15,001 - gfedc
+[ST] $50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT ubS Group aG Registered Ordinary P 03/18/2020 03/23/2020 $15,001 - gfedc
+Shares (ubS) [ST] $50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Vodafone Group Plc - american P 03/18/2020 03/23/2020 $15,001 - gfedc
+depositary Shares each $50,000
+representing ten Ordinary Shares
+(VOd) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Wesfarmers ltd unsponsored adR P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+New (WFaFY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Westpac banking Corporation P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+(WbK) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT Wirecard ag, berlin unsponsored P 03/18/2020 03/23/2020 $1,001 - $15,000 gfedc
+adR (WCaGY) [ST]
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+JT WM Morrison Supermarkets Plc P 03/18/2020 03/23/2020 $15,001 - gfedc
+unsponsored adR (MRWSY) [ST] $50,000
+FIlING STaTuS: New
+SubHOldING OF: TWP Parametric Core Int'l Equity Fund
+[[PAGE 15]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+TWP Parametric Core Int'l Equity Fund (Owner: JT)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Greg Gianforte , 04/07/2020

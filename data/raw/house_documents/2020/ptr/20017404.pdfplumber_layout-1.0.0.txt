@@ -1,0 +1,62 @@
+[[PAGE 1]]
+Filing ID #20017404
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Dwight Evans
+Status: Member
+State/District: PA03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Alexandria Real Estate Equities, P 07/27/2020 09/14/2020 $1,001 - $15,000 gfedc
+Inc. (ARE) [ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+American Tower Corporation P 07/28/2020 09/14/2020 $1,001 - $15,000 gfedc
+(AMT) [ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+AT&T Inc. (T) [ST] S 07/28/2020 09/14/2020 $1,001 - $15,000 gfedc
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+berkshire Hathaway Inc. New S 07/27/2020 09/14/2020 $1,001 - $15,000 gfedc
+(bRK.b) [ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+Diageo plc (DEO) [ST] S 07/27/2020 09/14/2020 $1,001 - $15,000 gfedc
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+Microsoft Corporation (MSFT) S (partial) 09/04/2020 09/14/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Tesla, Inc. (TSlA) [ST] P 09/04/2020 09/14/2020 $1,001 - $15,000 gfedc
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+The Carlyle group Inc. (Cg) [ST] P 09/04/2020 09/14/2020 $1,001 - $15,000 gfedc
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+Williams Companies, Inc. (WMb) P 07/28/2020 09/14/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+Williams Companies, Inc. (WMb) P 07/27/2020 09/14/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATUS: New
+SUbHOlDINg OF: PROEQUITIES
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+PROEQUITIES
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dwight Evans , 09/21/2020

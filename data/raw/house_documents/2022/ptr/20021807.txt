@@ -1,0 +1,91 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Robert J. Wittman
+Status: Member
+State/District:VA01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Comcast Corporation - Class A
+(CMCSA) [ST]
+S 09/15/202209/19/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley
+Energy Sel Sect SPDR FD [OT] P 09/27/202209/29/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+L: US
+D: Mutual Fund
+Franklin FTSE UK ETF [OT] S 09/27/202209/29/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+L: US
+D: Mutual Fund
+Global X US INF DEV ETF [OT] S 09/27/202109/29/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+L: US
+D: Mutual Fund
+International Flavors & Fragrances,
+Inc. (IFF) [ST]
+S (partial) 09/15/202209/19/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley
+Filing ID #20021807
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Ishares 0-5 HY Corp [OT] P 09/27/202209/29/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+L: US
+D: Mutual Fund
+Ishares Core MSCI EAFE ETF [OT] S (partial) 09/27/202209/29/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+L: US
+D: Mutual Fund
+Ishares US Technology ETF [OT] S (partial) 09/27/202209/29/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+L: US
+D: Mutual Fund
+JPM Nasdaq Equity Premium [OT] P 09/27/202209/29/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+L: US
+D: Mutual Fund
+Mastercard Incorporated (MA) [ST] S (partial) 09/15/202209/19/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley
+SPDR S&P 500 ETF Trust [OT] P 09/15/202209/19/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley
+L: US
+D: Mutual Fund
+Westrock Company (WRK) [ST] S 09/27/202209/29/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+[[PAGE 3]]
+Morgan Stanley
+Morgan Stanley INH IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Robert J. Wittman , 10/05/2022

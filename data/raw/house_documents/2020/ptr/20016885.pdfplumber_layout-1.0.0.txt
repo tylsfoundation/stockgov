@@ -1,0 +1,61 @@
+[[PAGE 1]]
+Filing ID #20016885
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Donald Sternoff Beyer Jr
+Status: Member
+State/District: VA08
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT ASML Holding N.V. - New York P 06/24/2020 07/03/2020 $1,001 - $15,000 gfedc
+Registry Shares (ASML) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 10 units ASML Holdings NV
+JT BLF FedFund TDDXX [CS] S 06/02/2020 07/03/2020 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale Blackrock Liq FDS FedFund-In
+JT BLF FedFund TDDXX [CS] P 06/24/2020 07/03/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase Blackrock Liq FDS FedFund-In
+JT BLF FedFund TDDXX [CS] P 06/01/2020 07/03/2020 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase Blackrock Liq FDS FedFund-In
+JT FLIR Systems, Inc. (FLIR) [ST] S 06/24/2020 07/03/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 150 units Flir Systems Inc.
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Twin Rivers CA V-A 06/01/41 S 06/01/2020 07/03/2020 $15,001 - gfedc
+[gS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: "Called Security"
+JT Wise County VA V-A 1.875% P 06/01/2020 07/03/2020 $15,001 - gfedc
+11/01/40 [gS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 25,000 units Wise County Virginia V-A 1.875% 11/01/40
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Stocks, Bonds, & Mutual Funds (Owner: JT)
+LOCATION: VA, US
+COmmeNTS
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Donald Sternoff Beyer Jr, 07/03/2020

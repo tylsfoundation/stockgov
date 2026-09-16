@@ -1,0 +1,40 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Michael Patrick Guest
+Status: Member
+State/District:MS03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Warner Bros. Discovery, Inc. - Series
+A (WBD) [ST]
+E 04/11/202204/13/2022$1,001 - $15,000
+F S: New
+S O: KINV-LPL
+D: Shares of Warner Bros Discovery (WBD) received following spinoff from AT&T (T).
+SP Warner Bros. Discovery, Inc. - Series
+A (WBD) [ST]
+E 04/11/202204/13/2022$1,001 - $15,000
+F S: New
+S O: Trust-KF
+D: Shares of Warner Bros Discovery (WBD) received following spinoff from AT&T (T).
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+KINV-LPL (Owner: SP)
+L: US
+Trust-KF (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Filing ID #20020792
+[[PAGE 2]]
+Digitally Signed: Hon. Michael Patrick Guest , 05/02/2022

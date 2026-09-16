@@ -1,0 +1,123 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Marjorie Taylor Greene
+Status: Member
+State/District:GA14
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Advanced Micro Devices, Inc. (AMD)
+[ST]
+P 05/14/202505/15/2025$1,001 - $15,000
+F S: New
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+P 05/14/202505/15/2025$1,001 - $15,000
+F S: New
+Amgen Inc. - Common Stock (AMGN)
+[ST]
+P 05/14/202505/15/2025$1,001 - $15,000
+F S: New
+Blackstone Inc. Common Stock (BX)
+[ST]
+P 05/14/202505/15/2025$1,001 - $15,000
+F S: New
+Cardinal Health, Inc. Common Stock
+(CAH) [ST]
+P 05/14/202505/15/2025$1,001 - $15,000
+F S: New
+Chevron Corporation Common Stock
+(CVX) [ST]
+P 05/14/202505/15/2025$1,001 - $15,000
+F S: New
+Corning Incorporated Common Stock
+(GLW) [ST]
+P 05/14/202505/15/2025$1,001 - $15,000
+F S: New
+Dollar General Corporation CommonP 05/14/202505/15/2025$1,001 - $15,000
+Filing ID #20030389
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Stock (DG) [ST]
+F S: New
+Eli Lilly and Company Common Stock
+(LLY) [ST]
+P 05/14/202505/15/2025$1,001 - $15,000
+F S: New
+Impinj, Inc. - Common Stock (PI)
+[ST]
+P 05/14/202505/15/2025$1,001 - $15,000
+F S: New
+MercadoLibre, Inc. - Common Stock
+(MELI) [ST]
+P 05/14/202505/15/2025$15,001 -
+$50,000
+F S: New
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+P 05/14/202505/15/2025$1,001 - $15,000
+F S: New
+Morgan Stanley Common Stock (MS)
+[ST]
+P 05/14/202505/15/2025$1,001 - $15,000
+F S: New
+Netflix, Inc. - Common Stock (NFLX)
+[ST]
+P 05/14/202505/15/2025$1,001 - $15,000
+F S: New
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 05/14/202505/15/2025$1,001 - $15,000
+F S: New
+ServiceNow, Inc. Common Stock
+(NOW) [ST]
+P 05/14/202505/15/2025$1,001 - $15,000
+F S: New
+Tesla, Inc. - Common Stock (TSLA)
+[ST]
+P 05/14/202505/15/2025$1,001 - $15,000
+F S: New
+The Hershey Company Common
+Stock (HSY) [ST]
+P 05/14/202505/15/2025$1,001 - $15,000
+F S: New
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 05/14/202505/15/2025$15,001 -
+$50,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 05/16/202505/19/2025$1,001 - $15,000
+F S: New
+US Treasury Bill [GS] P 05/16/202505/19/2025$100,001 -
+$250,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Marjorie Taylor Greene , 05/19/2025

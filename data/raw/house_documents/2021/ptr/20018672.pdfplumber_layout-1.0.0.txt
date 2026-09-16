@@ -1,0 +1,94 @@
+[[PAGE 1]]
+Filing ID #20018672
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Pete Sessions
+Status: Member
+State/District: TX32
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP American Tower Corporation P 04/12/2021 04/12/2021 $1,001 - $15,000 gfedc
+(AMT) [ST]
+FILING STATuS: New
+SuBHOLDING OF: Trust One
+DESCRIPTION: 20 shares
+Ares Capital Corporation - Closed P 04/20/2021 04/20/2021 $1,001 - $15,000 gfedc
+End Fund (ARCC) [ST]
+FILING STATuS: New
+DESCRIPTION: 250 shares
+AT&T Inc. (T) [ST] P 04/20/2021 04/20/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+DESCRIPTION: 200 shares
+C3.ai, Inc. Class A (AI) [ST] P 04/19/2021 04/19/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+DESCRIPTION: 5 shares
+SP Coca-Cola Company (KO) [ST] P 04/19/2021 04/19/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SuBHOLDING OF: Trust One
+DESCRIPTION: 75 shares
+Crown Castle International Corp. P 05/03/2021 05/03/2021 $1,001 - $15,000 gfedc
+(CCI) [ST]
+FILING STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTION: 50 shares
+SP International Business Machines P 04/30/3031 04/30/2021 $1,001 - $15,000 gfedc
+Corporation (IBM) [ST]
+FILING STATuS: New
+DESCRIPTION: 35 shares
+Lowe's Companies, Inc. (LOW) P 02/09/2021 02/09/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+DESCRIPTION: 30 shares
+Lowe's Companies, Inc. (LOW) P 04/14/2021 04/14/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+DESCRIPTION: 25 shares
+Lowe's Companies, Inc. (LOW) P 04/26/2021 04/26/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+DESCRIPTION: 50 shares
+Microsoft Corporation (MSFT) P 05/03/2021 05/03/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+DESCRIPTION: 50 shares
+SP NIO Inc. American depositary P 01/20/2021 01/20/2021 $1,001 - $15,000 gfedc
+shares, each representing one Class
+A ordinary share (NIO) [ST]
+FILING STATuS: New
+SuBHOLDING OF: IRA Two
+DESCRIPTION: 10 shares
+SP Salesforce.com Inc (CRM) [ST] P 04/19/2021 04/19/2021 $1,001 - $15,000 gfedc
+FILING STATuS: New
+DESCRIPTION: 5 shares
+SP Taiwan Semiconductor P 03/10/2021 03/10/2021 $1,001 - $15,000 gfedc
+Manufacturing Company Ltd.
+(TSM) [ST]
+FILING STATuS: New
+SuBHOLDING OF: Trust One
+DESCRIPTION: 30 shares
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+TOBACCO SETTLEMENT FING P 02/03/2021 02/03/2021 $250,001 - gfedc
+CORP VA SER A1 TAXABLE $500,000
+SENIOR B/E CPN 6.706% [CS]
+FILING STATuS: New
+DESCRIPTION: TOBACCO SETTLEMENT FING CORP VA SER A1 TAXABLE SENIOR B/E CPN 6.706%
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+IRA Two (Owner: SP)
+Trust One (100% Interest) (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Pete Sessions , 05/03/2021

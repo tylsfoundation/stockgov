@@ -1,0 +1,81 @@
+[[PAGE 1]]
+Filing ID #20016840
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District: CA47
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP Fidelity Blue Chip growth [OT] E 04/18/2020 06/01/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Weber Asset Management- Beneficiary IRA, Fidelity Mutual Funds
+LOCATION: US
+DESCRIPTION: My father passed away, and I inherited this IRA.
+SP Fidelity Contrafund [OT] E 04/18/2020 06/01/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Weber Asset Management- Beneficiary IRA, Fidelity Mutual Funds
+LOCATION: US
+DESCRIPTION: My father passed away, and I inherited this IRA.
+SP Fidelity Focused Stock [OT] E 04/18/2020 06/01/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Weber Asset Management- Beneficiary IRA, Fidelity Mutual Funds
+LOCATION: US
+DESCRIPTION: My father passed away, and I inherited this IRA.
+SP Fidelity Large Cap Value Enhanced E 04/18/2020 06/01/2020 $1,001 - $15,000 gfedc
+Index [OT]
+FILINg STATUS: New
+SUBHOLDINg OF: Weber Asset Management- Beneficiary IRA, Fidelity Mutual Funds
+LOCATION: US
+DESCRIPTION: My father passed away, and I inherited this IRA.
+SP Fidelity Select Communication E 04/18/2020 06/01/2020 $1,001 - $15,000 gfedc
+Services [OT]
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILINg STATUS: New
+SUBHOLDINg OF: Weber Asset Management- Beneficiary IRA, Fidelity Mutual Funds
+LOCATION: US
+DESCRIPTION: My father passed away, and I inherited this IRA.
+SP Fidelity Select Consumer E 04/18/2020 06/01/2020 $1,001 - $15,000 gfedc
+Discretion [OT]
+FILINg STATUS: New
+SUBHOLDINg OF: Weber Asset Management- Beneficiary IRA, Fidelity Mutual Funds
+LOCATION: US
+DESCRIPTION: My father passed away, and I inherited this IRA.
+SP Fidelity Select Financial Services E 04/18/2020 06/01/2020 $1,001 - $15,000 gfedc
+[OT]
+FILINg STATUS: New
+SUBHOLDINg OF: Weber Asset Management- Beneficiary IRA, Fidelity Mutual Funds
+LOCATION: US
+DESCRIPTION: My father passed away, and I inherited this IRA.
+SP Fidelity Select Health Care [OT] E 04/18/2020 06/01/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Weber Asset Management- Beneficiary IRA, Fidelity Mutual Funds
+LOCATION: US
+DESCRIPTION: My father passed away, and I inherited this IRA.
+SP Fidelity Select Industrials [OT] E 04/18/2020 06/01/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Weber Asset Management- Beneficiary IRA, Fidelity Mutual Funds
+LOCATION: US
+DESCRIPTION: My father passed away, and I inherited this IRA.
+SP Fidelity Select Technology [OT] E 04/18/2020 06/01/2020 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Weber Asset Management- Beneficiary IRA, Fidelity Mutual Funds
+LOCATION: US
+DESCRIPTION: My father passed away, and I inherited this IRA.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Weber Asset Management- Beneficiary IRA, Fidelity Mutual Funds (Owner: SP)
+[[PAGE 3]]
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Alan S. Lowenthal , 06/25/2020

@@ -1,0 +1,38 @@
+[[PAGE 1]]
+Filing ID #20020587
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Ron Estes
+Status: Member
+State/District: KS04
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Chevron Corporation (CVX) [ST] P 02/10/2022 02/10/2022 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Honeywell International Inc. P 03/04/2022 03/04/2022 $15,001 - gfedc
+(HON) [ST] $50,000
+FIlINg STATuS: New
+Marvell Technology, Inc. (MRVl) P 02/10/2022 02/10/2022 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Spirit Aerosystems Holdings, Inc. P 03/04/2022 03/04/2022 $1,001 - $15,000 gfedc
+(SPR) [ST]
+FIlINg STATuS: New
+Verizon Communications Inc. (VZ) P 02/16/2022 02/16/2022 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Wells Fargo & Company (WFC) P 02/16/2022 02/16/2022 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 2]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Ron Estes , 03/09/2022

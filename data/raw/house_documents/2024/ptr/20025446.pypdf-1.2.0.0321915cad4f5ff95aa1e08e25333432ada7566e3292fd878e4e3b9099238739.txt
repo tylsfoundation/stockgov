@@ -1,0 +1,37 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Michael A. Collins
+Status: Member
+State/District:GA10
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Aerodrome [CT] P 06/22/202406/22/2204$1,001 - $15,000
+F S: New
+Aerodrome [CT] S 06/23/202406/23/2024$1,001 - $15,000
+F S: New
+Aerodrome [CT] P 07/06/202407/06/2024$15,001 -
+$50,000
+F S: New
+The Graph [CT] P 07/06/202407/13/2024$1,001 - $15,000
+F S: New
+The Graph [CT] S 06/24/202406/24/2024$1,001 - $15,000
+F S: New
+Velodrome [CT] S 06/24/202406/24/2024$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+Filing ID #20025446
+[[PAGE 2]]
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Michael A. Collins , 07/11/2024

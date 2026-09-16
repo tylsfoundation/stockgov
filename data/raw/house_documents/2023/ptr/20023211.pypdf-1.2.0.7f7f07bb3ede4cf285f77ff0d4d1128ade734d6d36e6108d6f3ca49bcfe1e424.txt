@@ -1,0 +1,76 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Pete Sessions
+Status: Member
+State/District:TX17
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP American Tower Corporation (AMT)
+[ST]
+S 06/15/202306/26/2023$1,001 - $15,000
+F S: New
+S O: Trust One
+D: UBS Trust 50
+SP Discover Financial Services (DFS)
+[ST]
+S 06/15/202306/26/2023$15,001 -
+$50,000
+F S: New
+S O: Trust One
+D: UBS Trust 350
+SP lululemon athletica inc. (LULU) [ST] S 06/15/202306/26/2023$15,001 -
+$50,000
+F S: New
+S O: Trust One
+D: UBS Trust 50
+SP Medtronic plc. Ordinary Shares
+(MDT) [ST]
+S 06/15/202306/26/2023$15,001 -
+$50,000
+F S: New
+S O: Trust One
+D: UBS Trust 300
+SP NVIDIA Corporation (NVDA) [ST] P 06/23/202306/26/2023$424.53
+F S: New
+S O: IRA One
+D: CS ROTH 1 share
+Filing ID #20023211
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP US Treasury BILL 12/21/2023
+912797FV4 [GS]
+P 06/23/202306/26/2023$50,001 -
+$100,000
+F S: New
+S O: SEP 2
+D: CS SEP 912797FV4
+US Treasury Bill 912797HA8 [GS] P 06/23/202306/26/2023$1,001 - $15,000
+F S: New
+S O: ET IRA
+D: US Treasury Bill 912797HA8 @ $98.5096
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+ET IRA
+IRA One (Owner: SP)
+SEP 2 (Owner: SP)
+Trust One (100% Interest) (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Pete Sessions , 06/26/2023

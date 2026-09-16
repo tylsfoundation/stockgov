@@ -1,0 +1,58 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Jonathan Jackson
+Status: Member
+State/District:IL01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Alphabet Inc. - Class A (GOOGL) [ST]P 06/07/202307/07/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+JT Deere & Company (DE) [ST] S 06/23/202307/07/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+JT Estee Lauder Companies, Inc. (EL)
+[ST]
+S 06/07/202307/07/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+JT Marriott International - Class A
+(MAR) [ST]
+P 06/06/202307/07/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+JT Regeneron Pharmaceuticals, Inc.
+(REGN) [ST]
+P 06/23/202307/07/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+JT Salesforce, Inc. (CRM) [ST] P 06/09/202307/07/2023$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley Trust Account
+Filing ID #20023262
+[[PAGE 2]]
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley Trust Account (Owner: JT)
+D: 083057
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Jonathan Jackson , 07/07/2023

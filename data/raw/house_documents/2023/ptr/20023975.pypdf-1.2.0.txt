@@ -1,0 +1,88 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Pete Sessions
+Status: Member
+State/District:TX17
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+AT&T Inc. (T) [ST] S 10/31/202311/08/2023$15,001 - $50,000
+F S: New
+S O: HT IRA
+D: Sold 1321 loss
+BlackRock Utility, Infrastructure &
+Power Opportunities Trust (BUI) [ST]
+S 10/31/202311/08/2023$250,001 -
+$500,000
+F S: New
+S O: HT IRA
+D: Sold 17,494.659 loss
+BP p.l.c. (BP) [ST] S 10/31/202311/08/2023$15,001 - $50,000
+F S: New
+S O: HT IRA
+D: Sold 436.637 loss
+Energy Transfer LP Common Units
+(ET) [ST]
+S 10/31/202311/08/2023$15,001 - $50,000
+F S: New
+S O: HT IRA
+D: Sold 2682 loss
+Lockheed Martin Corporation (LMT)
+[ST]
+S 10/31/202311/08/2023$100,001 -
+$250,000
+F S: New
+S O: HT IRA
+D: Sold 233 gain
+McDonald's Corporation (MCD) [ST] S 10/31/202311/08/2023$100,001 -
+Filing ID #20023975
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+$250,000
+F S: New
+S O: HT IRA
+D: Sold 476 gain
+Procter & Gamble Company (PG) [ST]S 10/31/202311/08/2023$100,001 -
+$250,000
+F S: New
+S O: HT IRA
+D: Sold 740 gain
+Snowflake Inc. Class A (SNOW) [ST] S 10/31/202311/08/2023$15,001 - $50,000
+F S: New
+S O: HT IRA
+D: Sold 289 loss
+US TREAS BILLS 0.000 04/25/24
+[GS]
+P 11/01/202311/08/2023$500,001 -
+$1,000,000
+F S: New
+S O: HT IRA
+D: purchase 779,631.69 YTM 5.450%
+Warner Bros. Discovery, Inc. - Series
+A (WBD) [ST]
+S 10/31/202311/08/2023$1,001 - $15,000
+F S: New
+S O: HT IRA
+D: Sold 319 loss
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+HT IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Pete Sessions , 11/07/2023

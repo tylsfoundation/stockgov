@@ -1,0 +1,152 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Jared Moskowitz
+Status: Member
+State/District:FL23
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Abbott Laboratories Common Stock
+(ABT) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Allstate Corporation (ALL) [ST] S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Chubb Limited Common Stock (CB)
+[ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Filing ID #20025680
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Comcast Corporation - Class A
+Common Stock (CMCSA) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+FactSet Research Systems Inc.
+Common Stock (FDS) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Lowe's Companies, Inc. Common
+Stock (LOW) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Mastercard Incorporated Common
+Stock (MA) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Mondelez International, Inc. - Class A
+Common Stock (MDLZ) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Northrop Grumman Corporation
+Common Stock (NOC) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Oracle Corporation Common Stock
+(ORCL) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+PNC Financial Services Group, Inc.
+(PNC) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Sherwin-Williams Company (SHW)
+[ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Sherwin-Williams Company (SHW)
+[ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Snap-On Incorporated Common
+Stock (SNA) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Southern Company (SO) [ST] P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Toronto Dominion Bank (TD) [ST] S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Waste Management, Inc. Common
+Stock (WM) [ST]
+P 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+WEC Energy Group, Inc. Common
+Stock (WEC) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+Zoetis Inc. Class A Common Stock
+(ZTS) [ST]
+S 07/05/202407/31/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley Active Assets (1)
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Morgan Stanley Active Assets (1)
+L: US
+[[PAGE 4]]
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Jared Moskowitz , 08/19/2024

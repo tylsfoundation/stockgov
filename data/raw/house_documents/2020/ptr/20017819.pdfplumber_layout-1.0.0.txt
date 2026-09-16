@@ -1,0 +1,68 @@
+[[PAGE 1]]
+Filing ID #20017819
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Joseph D. Morelle
+Status: Member
+State/District: NY25
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT AbbVie Inc. (ABBV) [ST] S 11/20/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+JT Allergan plc Ordinary Shares E 05/11/2020 11/27/2020 $1,001 - $15,000 gfedc
+(AgN) [ST]
+FIlINg STATuS: New
+DESCRIPTION: ABBVIE, Inc. (ABBV) acquired the shares of AllERgAN (AgN). AgN shareholders received 0.866 shares of
+ABBV in exchange for each share of AgN.
+JT Alphabet Inc. - Class A (gOOgl) S 11/20/2020 11/27/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+JT Amazon.com, Inc. (AMZN) [ST] S 11/20/2020 11/27/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+JT Apple Inc. (AAPl) [ST] S 11/20/2020 11/27/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+JT Brookfield Infrastructure Partners S 11/20/2020 11/27/2020 $1,001 - $15,000 gfedcb
+lP limited Partnership units (BIP)
+[ST]
+FIlINg STATuS: New
+JT Financial Institutions, Inc. (FISI) S 11/20/2020 11/27/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Intel Corporation (INTC) [ST] S 11/20/2020 11/27/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+JT Metlife, Inc. (MET) [ST] S 11/20/2020 11/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+JT Microsoft Corporation (MSFT) S 11/20/2020 11/27/2020 $15,001 - gfedcb
+[ST] $50,000
+FIlINg STATuS: New
+JT Phillips 66 (PSX) [ST] S 11/20/2020 11/27/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+JT Procter & gamble Company (Pg) S 11/20/2020 11/27/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+JT Prudential Financial, Inc. (PRu) S 11/20/2020 11/27/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+JT Softbank Corp unsponsored ADR S 11/20/2020 11/27/2020 $1,001 - $15,000 gfedcb
+(SFTBY) [ST]
+FIlINg STATuS: New
+JT united Rentals, Inc. (uRI) [ST] S 11/20/2020 11/27/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+JT unitedHealth group Incorporated S 11/20/2020 11/27/2020 $15,001 - gfedcb
+Common Stock (uNH) [ST] $50,000
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Joseph D. Morelle , 12/09/2020

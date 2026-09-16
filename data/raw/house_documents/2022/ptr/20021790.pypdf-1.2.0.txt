@@ -1,0 +1,157 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Virginia Foxx
+Status: Member
+State/District:NC05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Alcoa Corporation (AA) [ST] P 09/01/202209/01/2022$1,001 - $15,000
+F S: New
+JT Alcoa Corporation (AA) [ST] S 09/28/202209/28/2022$15,001 -
+$50,000
+F S: New
+JT Apollo Asset Management, Inc.
+6.375% Series A Preferred Stock
+(AAM$A) [ST]
+P 09/16/202209/16/2022$1,001 - $15,000
+F S: New
+JT Apollo Asset Management, Inc.
+6.375% Series A Preferred Stock
+(AAM$A) [ST]
+P 09/23/202209/23/2022$1,001 - $15,000
+F S: New
+JT CF Industries Holdings, Inc. (CF)
+[ST]
+P 09/01/202209/01/2022$15,001 -
+$50,000
+F S: New
+JT CF Industries Holdings, Inc. (CF)
+[ST]
+P 09/07/202209/07/2022$1,001 - $15,000
+F S: New
+JT CF Industries Holdings, Inc. (CF)
+[ST]
+P 09/12/202209/12/2022$1,001 - $15,000
+F S: New
+Filing ID #20021790
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT CF Industries Holdings, Inc. (CF)
+[ST]
+P 09/16/202209/16/2022$1,001 - $15,000
+F S: New
+JT Duke Energy Corporation Depositary
+Shares, each representing a 1/1,000th
+interest in a share of 5.75% Series A
+Cumulative Redeemable Perpetual
+Preferred Stock (DUK$A) [ST]
+P 09/19/202209/19/2022$1,001 - $15,000
+F S: New
+JT Golden Ocean Group Limited (GOGL)
+[ST]
+S 09/29/202209/29/2022$15,001 -
+$50,000
+F S: New
+JT Golden Ocean Group Limited (GOGL)
+[ST]
+P 09/15/202209/15/2022$1,001 - $15,000
+F S: New
+JT Green Plains Partners LP - Common
+Units (GPP) [ST]
+P 09/01/202209/01/2022$1,001 - $15,000
+F S: New
+JT Green Plains Partners LP - Common
+Units (GPP) [ST]
+P 09/29/202209/29/2020$1,001 - $15,000
+F S: New
+JT Green Plains Partners LP - Common
+Units (GPP) [ST]
+P 09/23/202209/23/2022$1,001 - $15,000
+F S: New
+JT Ingles Markets, Incorporated - Class
+A (IMKTA) [ST]
+S 09/30/202209/30/2022$15,001 -
+$50,000
+F S: New
+JT National Fuel Gas Company (NFG)
+[ST]
+P 09/07/202209/07/2022$1,001 - $15,000
+F S: New
+JT National Fuel Gas Company (NFG)
+[ST]
+S 09/30/202209/30/2022$15,001 -
+$50,000
+F S: New
+JT National Health Investors, Inc. (NHI)
+[ST]
+S 09/01/202209/01/2022$50,001 -
+$100,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+JT Newtek Business Services Corp.
+(NEWT) [ST]
+S 09/27/202209/27/2022$15,001 -
+$50,000
+F S: New
+JT Newtek Business Services Corp.
+(NEWT) [ST]
+P 09/01/202209/01/2022$1,001 - $15,000
+F S: New
+JT Newtek Business Services Corp.
+(NEWT) [ST]
+P 09/06/202209/06/2022$1,001 - $15,000
+F S: New
+JT Newtek Business Services Corp.
+(NEWT) [ST]
+P 09/19/220209/19/2022$1,001 - $15,000
+F S: New
+JT Newtek Business Services Corp.
+(NEWT) [ST]
+P 09/20/202209/20/2022$1,001 - $15,000
+F S: New
+JT Nucor Corporation (NUE) [ST] P 09/14/202209/14/2022$50,001 -
+$100,000
+F S: New
+JT San Juan Basin Royalty Trust (SJT)
+[ST]
+P 09/01/202209/01/2022$1,001 - $15,000
+F S: New
+JT San Juan Basin Royalty Trust (SJT)
+[ST]
+S 09/26/202209/26/2020$15,001 -
+$50,000
+F S: New
+JT USD Partners LP Common Units
+representing limited partner interest
+(USDP) [ST]
+P 09/16/202209/16/2022$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+[[PAGE 4]]
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Virginia Foxx , 10/12/2022

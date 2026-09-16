@@ -1,0 +1,103 @@
+[[PAGE 1]]
+Filing ID #20018752
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Donald Sternoff Honorable Beyer Jr
+Status: Member
+State/District: VA08
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT BLF FedFund TDDXX [CS] S 05/13/2021 05/16/2021 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] P 05/11/2021 05/16/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] P 05/07/2021 05/16/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] S 05/06/2021 05/16/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] S 05/04/2021 05/16/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] S 05/04/2021 05/16/2021 $1,001 - $15,000 gfedc
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] S 05/25/2021 06/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep sale of Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS] P 05/17/2021 06/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sweep purchase of Blackrock Liq FDS Fed
+JT FIVERR Intl Ltd Ord [PS] S 05/11/2021 05/16/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+LOCATION: US
+DESCRIPTION: sale of 10 units FIVERR Intl Ord
+JT Franco-Nevada Corporation (FNV) P 05/06/2021 05/16/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 30 units Franco-Nevada Corp
+JT Illumina, Inc. (ILMN) [ST] S 05/06/2021 05/16/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 5 units Illumina Inc
+JT London Stock Exchange Group plc S 05/17/2021 06/07/2021 $1,001 - $15,000 gfedc
+Ordinary Shares (LDNXF) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 80 units London Stock Exchange Ordinary
+JT Morgan Stanley (MS) [ST] P 05/13/2021 05/16/2021 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 15,000 units Morgan Stanley Fr Var 05/04/2027
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Nasdaq, Inc. (NDAQ) [ST] P 05/06/2021 05/16/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 15 units NASDAQ Inc
+JT Teladoc Health, Inc. (TDOC) [ST] S 05/07/2021 05/16/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 30 units Teladoc Health Inc common
+JT VGP N.V. NPV Common [PS] P 05/25/2021 06/07/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Stocks, Bonds, & Mutual Funds
+LOCATION: BE
+DESCRIPTION: 10 units VGP N.V. NPV common
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Stocks, Bonds, & Mutual Funds (Owner: JT)
+LOCATION: VA, US
+COmmeNTS
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Donald Sternoff Honorable Beyer Jr, 06/07/2021

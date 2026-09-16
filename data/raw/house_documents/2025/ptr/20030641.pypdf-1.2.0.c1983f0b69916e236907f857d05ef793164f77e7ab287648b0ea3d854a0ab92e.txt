@@ -1,0 +1,80 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Brandon Gill
+Status: Member
+State/District:TX26
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+BTC [CT] P 06/20/202506/20/2025$500,001 -
+$1,000,000
+F S: New
+BTC [CT] P 06/23/202506/23/2025$100,001 -
+$250,000
+F S: New
+BTC [CT] P 07/08/202507/08/2025$100,001 -
+$250,000
+F S: New
+DIA ETF [OT] S 06/20/202506/20/2025$100,001 -
+$250,000
+F S: New
+L: US
+D: DIA ETF
+DIA ETF [OT] P 06/23/202506/23/2025$1,001 - $15,000
+F S: New
+L: US
+D: DIA ETF
+QQQ ETF [OT] P 06/23/202506/23/2025$1,001 - $15,000
+F S: New
+L: US
+D: QQQ ETF
+Filing ID #20030641
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+QQQ ETF [OT] S 06/20/202506/20/2025$100,001 -
+$250,000
+F S: New
+L: US
+D: QQQ ETF
+QQQ ETF [OT] P 07/07/202507/07/2025$1,001 - $15,000
+F S: New
+L: US
+D: QQQ ETF
+QQQ ETF [OT] P 07/07/202507/07/2025$1,001 - $15,000
+F S: New
+L: US
+D: QQQ ETF
+RSP ETF [OT] P 06/23/202506/23/2025$1,001 - $15,000
+F S: New
+L: US
+D: RSP ETF
+RSP ETF [OT] S 06/20/202506/20/2025$100,001 -
+$250,000
+F S: New
+L: US
+D: RSP ETF
+TOIXX [GS] S 06/23/202506/23/2025$1,001 - $15,000
+F S: New
+TTTXX [GS] S 06/23/202506/23/2025$15,001 - $50,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+[[PAGE 3]]
+Digitally Signed: Hon. Brandon Gill , 07/10/2025

@@ -1,0 +1,134 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Dan Newhouse
+Status: Member
+State/District:WA04
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S (partial) 12/11/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Blackstone Inc. Common Stock (BX)
+[ST]
+P 12/11/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage
+SP Broadcom Inc. - Common Stock
+(AVGO) [ST]
+S (partial) 12/11/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Broadridge Financial Solutions, Inc.
+Common Stock (BR) [ST]
+P 12/31/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Brown & Brown, Inc. Common Stock
+(BRO) [ST]
+S 12/11/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Charles Schwab Corporation (SCHW)
+[ST]
+P 12/11/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+Filing ID #20033654
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Dollar General Corporation Common
+Stock (DG) [ST]
+S 12/11/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP lululemon athletica inc. - Common
+Stock (LULU) [ST]
+P 12/11/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage
+SP Magna International, Inc. Common
+Stock (MGA) [ST]
+S (partial) 12/11/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP NXP Semiconductors N.V. - Common
+Stock (NXPI) [ST]
+P 12/11/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones Brokerage
+SP Palo Alto Networks, Inc. (PANW) [ST]P 12/11/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Royal Caribbean Cruises Ltd.
+Common Stock (RCL) [ST]
+P 12/31/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Starbucks Corporation - Common
+Stock (SBUX) [ST]
+S 12/11/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Synopsys, Inc. - Common Stock
+(SNPS) [ST]
+P 12/31/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Tennessee Gas Pipeline Co Debenture
+[CS]
+P 12/31/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+D: Corporate Bond
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Textron Inc. Common Stock (TXT)
+[ST]
+P 12/11/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP T-Mobile US, Inc. (TMUS) [ST] P 12/11/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Truist Financial Corporation Common
+Stock (TFC) [ST]
+S 12/11/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Ulta Beauty, Inc. - Common Stock
+(ULTA) [ST]
+S (partial) 12/11/202501/02/2026$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Edward Jones Brokerage (Owner: SP)
+Edward Jones IRA (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dan Newhouse , 01/15/2026

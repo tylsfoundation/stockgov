@@ -1,0 +1,1097 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Gilbert Cisneros
+Status: Member
+State/District:CA31
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Abbott Laboratories Common Stock
+(ABT) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Advanced Micro Devices, Inc. (AMD)
+[ST]
+P 11/18/202512/12/2025 $15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Alexandria Real Estate Equities, Inc.
+Common Stock (ARE) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Alibaba Group Holding Limited
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+P 11/19/202512/12/2025 $15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+ALIBABA GROUP HOLDING LTD
+(BABAF) [ST]
+P 11/19/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker 9988HK
+Alkami Technology, Inc. - Common
+Stock (ALKT) [ST]
+P 11/13/202512/12/2025 $1,001 - $15,000
+Filing ID #20033619
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Allianz SE ADS (AZSEY) [ST] P 11/19/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker ALV GR
+Alphabet Inc. - Class A Common Stock
+(GOOGL) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Alphabet Inc. - Class A Common Stock
+(GOOGL) [ST]
+S (partial) 11/26/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 11/18/202512/12/2025 $15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Amcor plc Ordinary Shares (AMCR)
+[ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Amdocs Limited - Ordinary Shares
+(DOX) [ST]
+S (partial) 11/12/202512/12/2025 $15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Apollo Global Management, Inc.
+(APO) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Applovin Corporation - Class A
+Common Stock (APP) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Arista Networks, Inc. Common Stock
+(ANET) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+AstraZeneca PLC - American
+Depositary Shares (AZN) [ST]
+P 11/19/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker AZN LN
+AutoZone, Inc. Common Stock (AZO)
+[ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Barclays Plc Ord Ordinary Shares
+(BCLYF) [ST]
+P 11/19/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker BARC LN
+Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+BioCryst Pharmaceuticals, Inc. -
+Common Stock (BCRX) [ST]
+P 11/13/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Block, Inc. Class A Common Stock,
+(SQ) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Bloom Energy Corporation Class A
+Common Stock (BE) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Boeing Company (BA) [ST] S (partial) 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Booking Holdings Inc. - Common
+Stock (BKNG) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Boston Scientific Corporation
+Common Stock (BSX) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Bristol-Myers Squibb Company
+Common Stock (BMY) [ST]
+P 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Brown & Brown, Inc. Common Stock
+(BRO) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+BXP, Inc. Common Stock (BXP) [ST] P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+BYD Company Ltd H Shares (BYDDF)
+[ST]
+S 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Cameco Corporation Common StockP 11/18/202512/12/2025 $1,001 - $15,000
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(CCJ) [ST]
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Canadian Pacific Kansas City Limited
+Common Shares (CP) [ST]
+P 11/12/202512/12/2025 $15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Canadian Pacific Kansas City Limited
+Common Shares (CP) [ST]
+P 11/17/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Caterpillar, Inc. Common Stock (CAT)
+[ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Cboe Global Markets, Inc. (CBOE)
+[ST]
+P 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Chevron Corporation Common Stock
+(CVX) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Chipotle Mexican Grill, Inc. Common
+Stock (CMG) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Clorox Company (CLX) [ST] S 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Cloudflare, Inc. Class A Common
+Stock (NET) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Coinbase Global, Inc. - Class A
+Common Stock (COIN) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Comcast Corporation - Class A
+Common Stock (CMCSA) [ST]
+S (partial) 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Comcast Corporation - Class A
+Common Stock (CMCSA) [ST]
+S (partial) 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+ConAgra Brands, Inc. Common Stock
+(CAG) [ST]
+P 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Constellation Brands, Inc. Common
+Stock (STZ) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Coterra Energy Inc. Common Stock
+(CTRA) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+CSW Industrials, Inc. Common Stock
+(CSW) [ST]
+P 11/06/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+CSW Industrials, Inc. Common Stock
+(CSW) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D.R. Horton, Inc. Common Stock
+(DHI) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+DBS GROUP HLDGS LTD ORD
+(DBSDF) [ST]
+P 11/20/202512/12/2025 $1,001 - $15,000
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Deckers Outdoor Corporation (DECK)
+[ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+DoorDash, Inc. - Common Stock
+(DASH) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+DoorDash, Inc. - Common Stock
+(DASH) [ST]
+P 11/17/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Dow Inc. Common Stock (DOW) [ST] P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+DuPont de Nemours, Inc. Common
+Stock (DD) [ST]
+S 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Eaton Corporation, PLC Ordinary
+Shares (ETN) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Eli Lilly and Company Common Stock
+(LLY) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Everest Group, Ltd. Common Stock
+(EG) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Expand Energy Corporation -
+Common Stock (EXE) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: 150 Main Street Trust > Bank of America
+FactSet Research Systems Inc.
+Common Stock (FDS) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Ferrari N.V. Common Shares (RACE)
+[ST]
+P 11/19/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Fidelity National Information
+Services, Inc. Common Stock (FIS)
+[ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+First Watch Restaurant Group, Inc. -
+Common Stock (FWRG) [ST]
+P 11/26/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Fiserv, Inc. - Common Stock (FISV)
+[ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Fiserv, Inc. - Common Stock (FISV)
+[ST]
+P 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Freeport-McMoRan, Inc. Common
+Stock (FCX) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+GE Vernova Inc. Common Stock
+(GEV) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Global Payments Inc. Common Stock
+(GPN) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Halliburton Company Common Stock
+(HAL) [ST]
+P 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+HERMES INTL SA (HESAF) [ST] P 11/19/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker RMS FP
+Home Depot, Inc. (HD) [ST] P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Honeywell International Inc. (HON)
+[ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Humana Inc. Common Stock (HUM)
+[ST]
+S 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Iberdrola SA Bilbao Ordinary Shares
+(IBDSF) [ST]
+P 11/19/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker IBESM
+Intapp, Inc. - Common Stock (INTA)
+[ST]
+S (partial) 11/13/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Intel Corporation - Common Stock
+(INTC) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+International Business MachinesP 11/18/202512/12/2025 $1,001 - $15,000
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Corporation Common Stock (IBM)
+[ST]
+F S: New
+S O: 150 Main Street Trust > Bank of America
+International Business Machines
+Corporation Common Stock (IBM)
+[ST]
+P 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+International Flavors & Fragrances,
+Inc. Common Stock (IFF) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+International Paper Company
+Common Stock (IP) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Intuitive Surgical, Inc. - Common
+Stock (ISRG) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+ITT Inc. Common Stock (ITT) [ST] S (partial) 11/06/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Jack Henry & Associates, Inc. -
+Common Stock (JKHY) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Jack Henry & Associates, Inc. -
+Common Stock (JKHY) [ST]
+P 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+JP Morgan Chase & Co. Common
+Stock (JPM) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Kenvue Inc. Common Stock (KVUE)
+[ST]
+P 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Kimberly-Clark Corporation Common
+Stock (KMB) [ST]
+S 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+KKR & Co. Inc. Common Stock (KKR)
+[ST]
+S 11/07/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+LandBridge Company LLC Class A
+Shares Representing Limited Liability
+Company Interests (LB) [ST]
+P 11/20/202512/12/2025 $50,001 -
+$100,000
+F S: New
+S O: 150 Main Street Trust > Wells Fargo Advisors
+LandBridge Company LLC Class A
+Shares Representing Limited Liability
+Company Interests (LB) [ST]
+P 11/21/202512/12/2025 $15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Wells Fargo Advisors
+Legence Corp. - Class A Common
+stock (LGN) [ST]
+P 11/24/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Lennar Corporation Class A Common
+Stock (LEN) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Lockheed Martin Corporation
+Common Stock (LMT) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+lululemon athletica inc. - Common
+Stock (LULU) [ST]
+P 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+[[PAGE 12]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: 150 Main Street Trust > Bank of America
+M&T Bank Corporation Common
+Stock (MTB) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+MACOM Technology Solutions
+Holdings, Inc. - Common Stock
+(MTSI) [ST]
+S (partial) 11/13/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Mastercard Incorporated Common
+Stock (MA) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+McKesson Corporation Common
+Stock (MCK) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+MercadoLibre, Inc. - Common Stock
+(MELI) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Meta Platforms, Inc. - Class A (FB)
+[ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 11/18/202512/12/2025 $50,001 -
+$100,000
+[[PAGE 13]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Mitsubishi Heavy Industries Ltd
+Ordinary Shares (MHVYF) [ST]
+P 11/20/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker 7011 JP
+Mitsubishi UFJ Financial Group Inc
+Ordinary Shares (MBFJF) [ST]
+P 11/20/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker 8306 JP
+Molina Healthcare Inc Common Stock
+(MOH) [ST]
+S (partial) 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Molson Coors Beverage Company
+Class B Common Stock (TAP) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+MongoDB, Inc. - Class A Common
+Stock (MDB) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Morgan Stanley Common Stock (MS)
+[ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Netflix, Inc. - Common Stock (NFLX)
+[ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+NINTENDO CO LTD ORD (NTDOF)
+[ST]
+P 11/20/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker 7974 JP
+[[PAGE 14]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Novanta Inc. - Common Shares
+(NOVT) [ST]
+P 11/13/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 11/18/202512/12/2025 $15,001 -
+$50,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+NXP Semiconductors N.V. - Common
+Stock (NXPI) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Occidental Petroleum Corporation
+Common Stock (OXY) [ST]
+S (partial) 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+ONEOK, Inc. Common Stock (OKE)
+[ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Oracle Corporation Common Stock
+(ORCL) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Palantir Technologies Inc. - Class A
+Common Stock (PLTR) [ST]
+P 11/07/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Palantir Technologies Inc. Class A
+Common Stock (PLTR) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Pfizer, Inc. Common Stock (PFE) [ST]P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 15]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Portola Valley, CA Sch. Dist. Go Bonds
+[GS]
+S 11/25/202512/12/2025 $250,001 -
+$500,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Primoris Services Corporation (PRIM)
+[ST]
+S (partial) 11/24/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Primoris Services Corporation (PRIM)
+[ST]
+S (partial) 11/06/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Procter & Gamble Company (PG) [ST]P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Qnity Electronics, Inc. Common Stock
+(Q) [ST]
+E 11/03/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Received shares following spinoff from Dupont de Nemours Inc. (DD).
+Quanta Services, Inc. Common Stock
+(PWR) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+RBC Bearings Incorporated Common
+Stock (RBC) [ST]
+S (partial) 11/24/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Realty Income Corporation Common
+Stock (O) [ST]
+S (partial) 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Regeneron Pharmaceuticals, Inc. -
+Common Stock (REGN) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 16]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+RESONA HOLDINGS INC (RSNHF)
+[ST]
+P 11/10/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker 8308JP
+Rheinmetall Ag Ordinary Shares
+(RNMBF) [ST]
+P 11/19/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker RHM GR
+Robinhood Markets, Inc. - Class A
+Common Stock (HOOD) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Roblox Corporation Class A Common
+Stock (RBLX) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Roblox Corporation Class A Common
+Stock (RBLX) [ST]
+P 11/07/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+SAP SE ADS (SAP) [ST] S 11/07/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+SBA Communications Corporation -
+Class A Common Stock (SBAC) [ST]
+P 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+SCHNEIDER ELECTRIC SA (SBGSF)
+[ST]
+P 11/19/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker SU FP
+ServiceNow, Inc. Common Stock
+(NOW) [ST]
+S (partial) 11/07/202512/12/2025 $1,001 - $15,000
+[[PAGE 17]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: 150 Main Street Trust > Bank of America
+SIEMENS ENERGY AG (SMEGF)
+[ST]
+P 11/19/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker ENR GR
+Smurfit WestRock plc Ordinary
+Shares (SW) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Southeast Energy Authority
+Cooperative District, Alabama Bonds
+[GS]
+P 12/01/202512/12/2025 $250,001 -
+$500,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Spotify Technology S.A. Ordinary
+Shares (SPOT) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Spotify Technology S.A. Ordinary
+Shares (SPOT) [ST]
+S (partial) 11/26/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+SPX Technologies, Inc. Common
+Stock (SPXC) [ST]
+S (partial) 11/06/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+StandardAero, Inc. Common Stock
+(SARO) [ST]
+P 11/17/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Stifel Financial Corporation Common
+Stock (SF) [ST]
+S (partial) 11/24/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 18]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Stryker Corporation Common Stock
+(SYK) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Super Micro Computer, Inc. -
+Common Stock (SMCI) [ST]
+S (partial) 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Synopsys, Inc. - Common Stock
+(SNPS) [ST]
+S (partial) 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Taiwan Semiconductor Manufacturing
+Company Ltd. (TSM) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Targa Resources, Inc. Common Stock
+(TRGP) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Targa Resources, Inc. Common Stock
+(TRGP) [ST]
+P 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Tencent Holdings Limited Ordinary
+Shares (TCTZF) [ST]
+P 11/20/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker 700 HK
+Tesla, Inc. - Common Stock (TSLA)
+[ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+The Campbell's Company - Common
+Stock (CPB) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+[[PAGE 19]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+The Cigna Group Common Stock (CI)
+[ST]
+S 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+TKO Group Holdings, Inc. Class A
+Common Stock (TKO) [ST]
+P 11/26/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Transdigm Group Incorporated
+Common Stock (TDG) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+UFP Industries, Inc. - Common Stock
+(UFPI) [ST]
+S (partial) 11/06/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+UNICREDITO SPA ORD NEW
+(UNCFF) [ST]
+P 11/19/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker UCGIM
+United Parcel Service, Inc. Common
+Stock (UPS) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S (partial) 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Ventas, Inc. Common Stock (VTR)
+[ST]
+P 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+[[PAGE 20]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: 150 Main Street Trust > Bank of America
+Veracyte, Inc. - Common Stock
+(VCYT) [ST]
+S (partial) 11/12/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Verisk Analytics, Inc. - Common Stock
+(VRSK) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Vertiv Holdings, LLC Class A
+Common Stock (VRT) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Viatris Inc. - Common Stock (VTRS)
+[ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Viavi Solutions Inc. - Common Stock
+(VIAV) [ST]
+S (partial) 11/13/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Walmart Inc. Common Stock (WMT)
+[ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Warner Bros. Discovery, Inc. - Series
+A Common Stock (WBD) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+WaterBridge Infrastructure LLC Class
+A Shares Representing Limited
+Liability Company Interests (WBI)
+[ST]
+P 11/11/202512/12/2025 $100,001 -
+$250,000
+F S: New
+S O: 150 Main Street Trust > Wells Fargo Advisors
+WaterBridge Infrastructure LLC Class
+A Shares Representing Limited
+P 11/12/202512/12/2025 $50,001 -
+$100,000
+[[PAGE 21]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Liability Company Interests (WBI)
+[ST]
+F S: New
+S O: 150 Main Street Trust > Wells Fargo Advisors
+Wells Fargo & Company Common
+Stock (WFC) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+Wheaton Precious Metals Corp
+Common Shares (WPM) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+XIAOMI CORP (XIACF) [ST] P 11/19/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+D: Ticker 1810HK
+Zoetis Inc. Class A Common Stock
+(ZTS) [ST]
+P 11/18/202512/12/2025 $1,001 - $15,000
+F S: New
+S O: 150 Main Street Trust > Bank of America
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+150 Main Street Trust
+150 Main Street Trust ⇒ Bank of America
+L: US
+150 Main Street Trust ⇒ Wells Fargo Advisors
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+[[PAGE 22]]
+Digitally Signed: Hon. Gilbert Cisneros , 12/15/2025

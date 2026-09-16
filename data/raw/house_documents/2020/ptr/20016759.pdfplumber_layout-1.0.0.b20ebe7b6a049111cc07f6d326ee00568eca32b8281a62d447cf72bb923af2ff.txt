@@ -1,0 +1,184 @@
+[[PAGE 1]]
+Filing ID #20016759
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Dean Phillips
+Status: Member
+State/District: MN03
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+3M Company (MMM) [ST] P 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Alliance Data Systems Corporation P 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+(ADS) [ST]
+FIlINg STATuS: New
+American Airlines group, Inc. P 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+(AAl) [ST]
+FIlINg STATuS: New
+American International group, Inc. P 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+New (AIg) [ST]
+FIlINg STATuS: New
+AT&T Inc. (T) [ST] S (partial) 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Ball Corporation (Bll) [ST] S 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Caterpillar, Inc. (CAT) [ST] S (partial) 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+CenterPoint Energy, Inc (CNP) P 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+[ST]
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FIlINg STATuS: New
+CMS Energy Corp Var Rt P 05/15/2020 06/10/2020 $1,001 - $15,000 gfedc
+06/01/2050 DTD 05/28/2020
+[CS]
+FIlINg STATuS: New
+DESCRIPTION: Preferred security
+Comerica Incorporated (CMA) [ST] P 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Deere & Company (DE) [ST] S (partial) 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+DTE Energy Company (DTE) [ST] P 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+DXC Technology Company (DXC) P 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Emerson Electric Company (EMR) P 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Expeditors International of S (partial) 05/20/2020 06/10/2020 $1,001 - $15,000 gfedcb
+Washington, Inc. (EXPD) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: - Trust 1
+Facebook, Inc. - Class A (FB) [ST] P 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Flowserve Corporation (FlS) [ST] P 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Franklin Resources, Inc. (BEN) P 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+goldman Sachs group Inc. Var Rt S 05/15/2020 06/10/2020 $1,001 - $15,000 gfedcb
+Perp Mat dtd 06/17/2019 [CS]
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FIlINg STATuS: New
+DESCRIPTION: Preferred security
+Hartford Financial Services group, S (partial) 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+Inc. (HIg) [ST]
+FIlINg STATuS: New
+Invesco ltd (IVZ) [ST] S 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+loews Corporation (l) [ST] P 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+lyondellBasell Industries NV P 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+Ordinary Shares Class A (lYB) [ST]
+FIlINg STATuS: New
+Molson Coors Beverage Company S (partial) 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+Class B (TAP) [ST]
+FIlINg STATuS: New
+Newmont Corporation (NEM) [ST] S (partial) 05/13/2020 06/10/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+NiSource Inc (NI) [ST] S (partial) 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+PayPal Holdings, Inc. (PYPl) [ST] S (partial) 05/13/2020 06/10/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+Philip Morris International Inc S 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+(PM) [ST]
+FIlINg STATuS: New
+Progressive Corporation (PgR) P 05/19/2020 06/10/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: - Trust 1
+Progressive Corporation (PgR) P 05/20/2020 06/10/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+[[PAGE 4]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SuBHOlDINg OF: - Trust 1
+Progressive Corporation (PgR) P 05/21/2020 06/10/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: - Trust 1
+Progressive Corporation (PgR) P 05/18/2020 06/10/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: - Trust 1
+Public Storage (PSA) [ST] S (partial) 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Regeneron Pharmaceuticals, Inc. S (partial) 05/13/2020 06/10/2020 $1,001 - $15,000 gfedcb
+(REgN) [ST]
+FIlINg STATuS: New
+Sony Corporation (SNE) [ST] P 05/26/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: - Trust 1
+Truist Fin Corp Var Rt Perp Mat P 05/27/2020 06/10/2020 $15,001 - gfedc
+dtd 6/01/2020 [CS] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Preferred security
+Truist Financial Corporation (TFC) P 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+u.S. Bancorp (uSB) [ST] S (partial) 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+unilever PlC (ul) [ST] P 05/18/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SuBHOlDINg OF: - Trust 1
+unitedHealth group Incorporated S (partial) 05/20/2020 06/10/2020 $1,001 - $15,000 gfedcb
+Common Stock (uNH) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: - Trust 1
+[[PAGE 5]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+unitedHealth group Incorporated S (partial) 05/21/2020 06/10/2020 $1,001 - $15,000 gfedcb
+Common Stock (uNH) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: - Trust 1
+unitedHealth group Incorporated S (partial) 05/15/2020 06/10/2020 $1,001 - $15,000 gfedcb
+Common Stock (uNH) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: - Trust 1
+unitedHealth group Incorporated S (partial) 05/18/2020 06/10/2020 $1,001 - $15,000 gfedcb
+Common Stock (uNH) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: - Trust 1
+unitedHealth group Incorporated S (partial) 05/19/2020 06/10/2020 $1,001 - $15,000 gfedcb
+Common Stock (uNH) [ST]
+FIlINg STATuS: New
+SuBHOlDINg OF: - Trust 1
+ViacomCBS Inc. - Class B (VIAC) P 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Vulcan Materials Company (VMC) S 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Wells Fargo & Company (WFC) S (partial) 05/13/2020 06/10/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Wells Fargo & Company (WFC) S 05/27/2020 06/10/2020 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+Wintrust Financial Corp [CS] P 05/06/2020 06/10/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+DESCRIPTION: Preferred security
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+[[PAGE 6]]
+- Trust 1 (100% Interest)
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dean Phillips , 06/15/2020

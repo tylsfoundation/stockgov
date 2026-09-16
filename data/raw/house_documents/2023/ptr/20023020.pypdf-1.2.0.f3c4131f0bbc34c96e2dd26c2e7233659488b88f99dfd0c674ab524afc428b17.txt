@@ -1,0 +1,209 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Dan Newhouse
+Status: Member
+State/District:WA04
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Adobe Inc. (ADBE) [ST] P 11/02/202111/02/2021 $1,001 - $15,000
+F S: New
+Adobe Inc. (ADBE) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Alphabet Inc. - Class A (GOOGL) [ST]P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Amazon.com, Inc. (AMZN) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Appalachian Power Co Sr Note [CS] P 04/26/202304/26/2023$1,001 - $15,000
+F S: New
+D: 7.00%, Due 04/01/2038
+Apple Inc. (AAPL) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+AT&T Inc. (T) [ST] P 03/17/202303/17/2023$1,001 - $15,000
+F S: New
+AT&T Inc. Global Note [CS] P 04/26/202304/26/2023$1,001 - $15,000
+F S: New
+D: 5.250%, due 03/01/2037
+Filing ID #20023020
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+BlackRock, Inc. (BLK) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+BlackRock, Inc. (BLK) [ST] P 11/02/202111/02/2021 $1,001 - $15,000
+F S: New
+Booking Holdings Inc. (BKNG) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Booking Holdings Inc. (BKNG) [ST] S (partial) 03/17/202303/17/2023$1,001 - $15,000
+F S: New
+Broadcom Inc. (AVGO) [ST] P 08/05/202208/05/2022$1,001 - $15,000
+F S: New
+Citigroup Inc. Senior Note [CS] P 04/26/202304/26/2023$1,001 - $15,000
+F S: New
+D: 5.875%, due 01/30/2042
+Danaher Corporation (DHR) [ST] P 09/20/202209/20/2022$1,001 - $15,000
+F S: New
+Deere & Company (DE) [ST] S (partial) 03/17/202303/17/2023$1,001 - $15,000
+F S: New
+Deere & Company (DE) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Deere & Company (DE) [ST] P 11/02/202111/02/2021 $1,001 - $15,000
+F S: New
+Eli Lilly and Company (LLY) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Eli Lilly and Company (LLY) [ST] S (partial) 08/05/202208/05/2022$1,001 - $15,000
+F S: New
+Equity Residential Common Shares ofP 04/26/202304/26/2023$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Beneficial Interest (EQR) [ST]
+F S: New
+Estee Lauder Companies, Inc. (EL)
+[ST]
+P 08/05/202208/05/2022$1,001 - $15,000
+F S: New
+Fiserv, Inc. (FISV) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Fortinet, Inc. (FTNT) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Honeywell International Inc. (HON)
+[ST]
+P 04/26/202304/26/2023$1,001 - $15,000
+F S: New
+Intuit Inc. (INTU) [ST] P 04/26/202304/26/2023$1,001 - $15,000
+F S: New
+Linde plc Ordinary Shares (LIN) [ST] P 08/05/202208/05/2022$1,001 - $15,000
+F S: New
+Lowe's Companies, Inc. (LOW) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Lowe's Companies, Inc. (LOW) [ST] P 11/02/202111/02/2021 $1,001 - $15,000
+F S: New
+Marathon Petroleum Corporation
+(MPC) [ST]
+S (partial) 08/05/202208/05/2022$1,001 - $15,000
+F S: New
+Marathon Petroleum Corporation
+(MPC) [ST]
+P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Marathon Petroleum Corporation
+(MPC) [ST]
+S (partial) 03/17/202303/17/2023$1,001 - $15,000
+F S: New
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Microsoft Corporation (MSFT) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Moody's Corporation (MCO) [ST] P 11/02/202111/02/2021 $1,001 - $15,000
+F S: New
+Moody's Corporation (MCO) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Netflix, Inc. (NFLX) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+NextEra Energy, Inc. (NEE) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+NVIDIA Corporation (NVDA) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+NVIDIA Corporation (NVDA) [ST] P 11/02/202111/02/2021 $1,001 - $15,000
+F S: New
+NVIDIA Corporation (NVDA) [ST] S (partial) 04/26/202304/26/2023$1,001 - $15,000
+F S: New
+PayPal Holdings, Inc. (PYPL) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Procter & Gamble Company (PG) [ST]P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Procter & Gamble Company (PG) [ST]P 11/02/202111/02/2021 $1,001 - $15,000
+F S: New
+Salesforce, Inc. (CRM) [ST] P 08/05/202208/05/2022$1,001 - $15,000
+F S: New
+ServiceNow, Inc. (NOW) [ST] P 04/26/202304/26/2023$1,001 - $15,000
+F S: New
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Starbucks Corporation (SBUX) [ST] S (partial) 03/17/202303/17/2023$1,001 - $15,000
+F S: New
+Starbucks Corporation (SBUX) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Tesla, Inc. (TSLA) [ST] P 03/17/202303/17/2023$1,001 - $15,000
+F S: New
+Thermo Fisher Scientific Inc (TMO)
+[ST]
+P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Thermo Fisher Scientific Inc (TMO)
+[ST]
+P 11/02/202111/02/2021 $1,001 - $15,000
+F S: New
+Truist Financial Corporation (TFC)
+[ST]
+P 04/26/202304/26/2023$1,001 - $15,000
+F S: New
+Ulta Beauty, Inc. (ULTA) [ST] S (partial) 09/20/202209/20/2022$1,001 - $15,000
+F S: New
+Ulta Beauty, Inc. (ULTA) [ST] S (partial) 03/17/202303/17/2023$1,001 - $15,000
+F S: New
+Ulta Beauty, Inc. (ULTA) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Union Pacific Corporation (UNP) [ST]P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 08/05/202208/05/2022$1,001 - $15,000
+F S: New
+V.F. Corporation (VFC) [ST] P 04/26/202304/26/2023$1,001 - $15,000
+F S: New
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Verizon Communications Inc. (VZ)
+[ST]
+P 03/17/202303/17/2023$1,001 - $15,000
+F S: New
+Visa Inc. (V) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+Visa Inc. (V) [ST] P 11/02/202111/02/2021 $1,001 - $15,000
+F S: New
+Zoetis Inc. Class A (ZTS) [ST] P 03/08/202203/08/2022$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dan Newhouse , 05/26/2023

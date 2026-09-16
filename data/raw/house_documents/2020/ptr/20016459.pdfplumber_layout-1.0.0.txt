@@ -1,0 +1,78 @@
+[[PAGE 1]]
+Filing Id #20016459
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Greg Gianforte
+Status: Member
+State/District: MT00
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Baidu, Inc. - american depositary P 04/14/2020 04/20/2020 $50,001 - gfedc
+Shares, each representing one $100,000
+tenth Class a ordinary share
+(BIdu) [ST]
+FILING STaTuS: New
+SuBHOLdING OF: Harding Loevner International Equity
+JT Chugai Pharmaceutical Ltd S (partial) 04/14/2020 04/20/2020 $50,001 - gfedcb
+unsponsored adR (CHGCY) [ST] $100,000
+FILING STaTuS: New
+SuBHOLdING OF: Harding Loevner International Equity
+JT Komatsu Ltd Ord american P 04/14/2020 04/20/2020 $15,001 - gfedc
+depositary Shares (KMTuY) [ST] $50,000
+FILING STaTuS: New
+SuBHOLdING OF: Harding Loevner International Equity
+JT Linde plc Ordinary Share (LIN) S (partial) 04/14/2020 04/20/2020 $50,001 - gfedcb
+[ST] $100,000
+FILING STaTuS: New
+SuBHOLdING OF: Harding Loevner International Equity
+JT NORTH TX TWY auTH REV S 04/16/2020 04/20/2020 $100,001 - gfedcb
+RFdG SYS 1ST TIER SER B B/E $250,000
+PTC CPN 5.000% duE 01/01/40
+[GS]
+FILING STaTuS: New
+SuBHOLdING OF: Zieglar Brokerage, Municipal Bond Portfolio
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Rio Tinto Plc (RIO) [ST] P 04/15/2020 04/20/2020 $50,001 - gfedc
+$100,000
+FILING STaTuS: New
+SuBHOLdING OF: Harding Loevner International Equity
+JT Roche Holdings aG Basel S 04/15/2020 04/20/2020 $100,001 - gfedcb
+american depositary Shares $250,000
+(RHHBY) [ST]
+FILING STaTuS: New
+SuBHOLdING OF: Harding Loevner International Equity
+JT Royal dutch Shell PLC Royal dutch P 04/14/2020 04/20/2020 $50,001 - gfedc
+Shell PLC american depositary $100,000
+Shares (RdS.B) [ST]
+FILING STaTuS: New
+SuBHOLdING OF: Harding Loevner International Equity
+JT Sasol Ltd. american depositary S 04/15/2020 04/20/2020 $1,001 - $15,000 gfedc
+Shares (SSL) [ST]
+FILING STaTuS: New
+SuBHOLdING OF: Harding Loevner International Equity
+JT Schlumberger N.V. (SLB) [ST] S 04/14/2020 04/20/2020 $50,001 - gfedc
+$100,000
+FILING STaTuS: New
+SuBHOLdING OF: Harding Loevner International Equity
+JT Schneider Electric SE unsponsored P 04/16/2020 04/20/2020 $50,001 - gfedc
+adR (SBGSY) [ST] $100,000
+FILING STaTuS: New
+SuBHOLdING OF: Harding Loevner International Equity
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Harding Loevner International Equity (Owner: JT)
+Zieglar Brokerage, Municipal Bond Portfolio (Owner: JT)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+[[PAGE 3]]
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Greg Gianforte , 04/23/2020

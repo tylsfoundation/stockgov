@@ -1,0 +1,69 @@
+[[PAGE 1]]
+Filing ID #20016692
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Roger W. Marshall
+Status: Member
+State/District: KS01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DC advanced Micro Devices, Inc. P 05/04/2020 05/04/2020 $1,001 - $15,000 gfedc
+(aMD) [ST]
+FILINg STaTUS: New
+SUbHOLDINg OF: Mutual Funds > Scottrade
+DC advanced Micro Devices, Inc. S 05/12/2020 05/12/2020 $1,001 - $15,000 gfedc
+(aMD) [ST]
+FILINg STaTUS: New
+SUbHOLDINg OF: Mutual Funds > Scottrade
+DC alibaba group Holding Limited S (partial) 05/12/2020 05/12/2020 $1,001 - $15,000 gfedcb
+american Depositary Shares each
+representing eight Ordinary share
+(baba) [ST]
+FILINg STaTUS: New
+SUbHOLDINg OF: Mutual Funds > Scottrade
+DC alibaba group Holding Limited P 05/04/2020 05/04/2020 $1,001 - $15,000 gfedc
+american Depositary Shares each
+representing eight Ordinary share
+(baba) [ST]
+FILINg STaTUS: New
+SUbHOLDINg OF: Mutual Funds > Scottrade
+DC gilead Sciences, Inc. (gILD) [ST] P 05/05/2020 05/05/2020 $1,001 - $15,000 gfedc
+FILINg STaTUS: New
+SUbHOLDINg OF: Mutual Funds > Scottrade
+DC gilead Sciences, Inc. (gILD) [ST] P 05/04/2020 05/04/2020 $1,001 - $15,000 gfedc
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILINg STaTUS: New
+SUbHOLDINg OF: Mutual Funds > Scottrade
+DC gilead Sciences, Inc. (gILD) [ST] P 05/07/2020 05/07/2020 $1,001 - $15,000 gfedc
+FILINg STaTUS: New
+SUbHOLDINg OF: Mutual Funds > Scottrade
+DC Roku, Inc. - Class a (ROKU) [ST] P 05/19/2020 05/19/2020 $1,001 - $15,000 gfedc
+FILINg STaTUS: New
+SUbHOLDINg OF: Mutual Funds > Scottrade
+DC Walt Disney Company (DIS) [ST] P 05/05/2020 05/05/2020 $1,001 - $15,000 gfedc
+FILINg STaTUS: New
+SUbHOLDINg OF: Mutual Funds > Scottrade
+DC YETI Holdings, Inc. (YETI) [ST] P 05/04/2020 05/04/2020 $1,001 - $15,000 gfedc
+FILINg STaTUS: New
+SUbHOLDINg OF: Mutual Funds > Scottrade
+DC YETI Holdings, Inc. (YETI) [ST] S 05/07/2020 05/07/2020 $1,001 - $15,000 gfedc
+FILINg STaTUS: New
+SUbHOLDINg OF: Mutual Funds > Scottrade
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Mutual Funds (Owner: DC)
+LOCaTION: US
+Mutual Funds ⇒ Scottrade (Owner: DC)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Roger W. Marshall , 06/03/2020

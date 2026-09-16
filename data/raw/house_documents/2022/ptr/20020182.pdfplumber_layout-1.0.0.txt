@@ -1,0 +1,69 @@
+[[PAGE 1]]
+Filing ID #20020182
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Deborah K. Ross
+Status: Member
+State/District: NC02
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Albemarle Corporation (ALB) [ST] P 12/28/2021 12/28/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Fidelity IRA 1
+SP Apple Inc. (AAPL) [OP] P 12/30/2021 12/30/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: IAB Brokerage Account (IRA)
+DESCRIPTION: AAPL 20JAN23 180 Call Not part of Compensation or ESOP
+SP general Motors Company (gM) P 12/30/2021 12/30/2021 $1,001 - $15,000 gfedc
+[OP]
+FILINg STATUS: New
+SUBHOLDINg OF: IAB Brokerage Account (IRA)
+DESCRIPTION: gM 20JAN23 50 Calls Not part of Compensation or ESOP
+SP ironSource Ltd. Class A Ordinary P 12/31/2021 01/01/2022 $1,001 - $15,000 gfedc
+Shares (IS) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Fidelity Roth IRA
+SP Meta Platforms, Inc. - Class A (FB) P 12/30/2021 12/30/2021 $15,001 - gfedc
+[OP] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: IAB Brokerage Account (IRA)
+DESCRIPTION: FB 20JAN23 340 Calls Not part of compensation or ESOP
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Microsoft Corporation (MSFT) S (partial) 12/09/2021 12/10/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Fidelity Brokerage Account
+JT Microsoft Corporation (MSFT) S (partial) 01/04/2022 01/04/2022 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Fidelity Brokerage Account
+SP Neogenomics, Inc. (NEO) [ST] P 12/30/2021 12/30/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: IAB Brokerage Account (IRA)
+SP Walt Disney Company (DIS) [ST] P 12/28/2021 12/28/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Fidelity IRA 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Fidelity Brokerage Account (Owner: JT)
+LOCATION: US
+Fidelity IRA 1 (Owner: SP)
+Fidelity Roth IRA (Owner: SP)
+IAB Brokerage Account (IRA) (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Deborah K. Ross , 01/08/2022

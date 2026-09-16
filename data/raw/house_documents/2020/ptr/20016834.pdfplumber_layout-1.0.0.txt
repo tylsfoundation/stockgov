@@ -1,0 +1,71 @@
+[[PAGE 1]]
+Filing Id #20016834
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Greg Gianforte
+Status: Member
+State/District: MT00
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Alcon Inc. Ordinary Shares (ALC) P 06/05/2020 06/08/2020 $100,001 - gfedc
+[ST] $250,000
+FILING STATUS: New
+SUbHOLdING OF: Harding Loevner International Equity
+JT Amadeus IT Holding SA S 06/05/2020 06/08/2020 $100,001 - gfedc
+Unsponsored American depository $250,000
+Shares (AMAdY) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Harding Loevner International Equity
+JT baidu, Inc. - American depositary S 06/05/2020 06/08/2020 $250,001 - gfedcb
+Shares, each representing one $500,000
+tenth Class A ordinary share
+(bIdU) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Harding Loevner International Equity
+JT ESSITY AKTIEbOLAG PUbLIC S 06/11/2020 06/15/2020 $15,001 - gfedcb
+SPON AdR [OT] $50,000
+FILING STATUS: New
+SUbHOLdING OF: TWP Parametric Core Int'l Equity Fund
+LOCATION: SE
+dESCRIPTION: ESSYY ESSITY AKTIEbOLAG PUbLIC SPON AdR
+JT Fomento Economico Mexicano P 06/05/2020 06/08/2020 $50,001 - gfedc
+S.A.b. de C.V. (FMX) [ST] $100,000
+FILING STATUS: New
+SUbHOLdING OF: Harding Loevner International Equity
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Itau Unibanco banco Holding SA P 06/05/2020 06/08/2020 $100,001 - gfedc
+American depositary Shares $250,000
+(ITUb) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Harding Loevner International Equity
+JT OrthoPediatrics Corp. (KIdS) [ST] P 06/18/2020 06/22/2020 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUbHOLdING OF: Riverbridge Managed Account - Small Cap US Equities
+JT Tencent Holdings Limited P 06/05/2020 06/08/2020 $50,001 - gfedc
+Unsponsored AdR Representing b $100,000
+Shares (TCEHY) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Harding Loevner International Equity
+JT Veeva Systems Inc. Class A (VEEV) S (partial) 06/19/2020 06/22/2020 $100,001 - gfedcb
+[ST] $250,000
+FILING STATUS: New
+SUbHOLdING OF: Riverbridge Managed Account - Small Cap US Equities
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Harding Loevner International Equity (Owner: JT)
+Riverbridge Managed Account - Small Cap US Equities (Owner: JT)
+TWP Parametric Core Int'l Equity Fund (Owner: JT)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Greg Gianforte , 06/25/2020

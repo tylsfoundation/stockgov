@@ -1,0 +1,93 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Tim Moore
+Status: Member
+State/District:NC14
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Genprex, Inc. - Common Stock
+(GNPX) [ST]
+P 10/29/202511/03/2025 $15,001 -
+$50,000
+F S: New
+S O: Schwab One
+Hyster-Yale, Inc. Class A common
+stock (HY) [ST]
+S 10/24/202511/03/2025 $100,001 -
+$250,000
+F S: New
+S O: Schwab One
+Hyster-Yale, Inc. Class A common
+stock (HY) [ST]
+P 10/08/202511/03/2025 $50,001 -
+$100,000
+F S: New
+S O: Schwab One
+Hyster-Yale, Inc. Class A common
+stock (HY) [ST]
+P 10/10/202511/03/2025 $15,001 -
+$50,000
+F S: New
+S O: Schwab One
+Hyster-Yale, Inc. Class A common
+stock (HY) [ST]
+P 10/14/202511/03/2025 $15,001 -
+$50,000
+F S: New
+S O: Schwab One
+Krispy Kreme, Inc. - Common Stock
+(DNUT) [ST]
+S 10/22/202511/03/2025 $50,001 -
+$100,000
+F S: New
+S O: Schwab One
+Filing ID #20033413
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+LGI Homes, Inc. - Common Stock
+(LGIH) [ST]
+P 10/30/202511/03/2025 $15,001 -
+$50,000
+F S: New
+S O: Schwab One
+Verizon Communications Inc.
+Common Stock (VZ) [ST]
+P 10/31/202511/03/2025 $15,001 -
+$50,000
+F S: New
+S O: Schwab One
+Verizon Communications Inc.
+Common Stock (VZ) [ST]
+P 10/07/202511/03/2025 $50,001 -
+$100,000
+F S: New
+S O: Schwab One
+Verizon Communications Inc.
+Common Stock (VZ) [ST]
+P 10/10/202511/03/2025 $15,001 -
+$50,000
+F S: New
+S O: Schwab One
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Schwab One
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Tim Moore , 11/12/2025

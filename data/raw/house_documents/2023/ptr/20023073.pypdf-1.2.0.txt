@@ -1,0 +1,66 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Earl Blumenauer
+Status: Member
+State/District:OR03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Northwest Natural Holding Company
+(NWN) [ST]
+P 05/15/202306/05/2023$1,001 - $15,000
+F S: New
+D: Dividend reinvestment. Part of my spouse's retirement portfolio.
+SP PayPal Holdings, Inc. (PYPL) [ST] P 05/10/202306/08/2023$1,001 - $15,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+SP US TREASUR NT 2.25%03/26 [GS] P 05/25/202306/08/2023$15,001 -
+$50,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+SP US TREASUR NT 3.5%02/33 [GS] P 05/25/202306/08/2023$15,001 -
+$50,000
+F S: New
+D: Part of my spouse's retirement portfolio.
+US TREASURY Bill Due 04/18/24
+[GS]
+P 05/02/202306/08/2023$50,001 -
+$100,000
+F S: New
+US TREASURY BILL Due08/10/23
+[GS]
+P 05/02/202306/08/2023$15,001 -
+$50,000
+F S: New
+US TREASURY BILL Due11/02/23
+[GS]
+P 05/02/202306/08/2023$15,001 -
+$50,000
+Filing ID #20023073
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+USTREASURY BILL Due09/14/23
+[GS]
+P 05/12/202306/08/2023$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Earl Blumenauer , 06/08/2023

@@ -1,0 +1,28 @@
+[[PAGE 1]]
+Filing ID #20016354
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. David E. Price
+Status: Member
+State/District: NC04
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Home Depot, Inc. (HD) [sT] P 03/13/2020 03/16/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+lowe's Companies, Inc. (lOW) P 03/13/2020 03/16/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Prudential Financial, Inc. (PRu) P 03/13/2020 03/16/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. David E. Price , 04/03/2020

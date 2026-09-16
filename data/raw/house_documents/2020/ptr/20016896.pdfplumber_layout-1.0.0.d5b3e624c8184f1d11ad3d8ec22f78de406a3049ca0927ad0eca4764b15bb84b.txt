@@ -1,0 +1,65 @@
+[[PAGE 1]]
+Filing ID #20016896
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Dean Phillips
+Status: Member
+State/District: MN03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Columbia MO Sch Dist Ref-Ser b P 06/02/2020 07/06/2020 $15,001 - gfedc
+unltd Tax 5.0%; Due 03/01/2025 $50,000
+[gS]
+FIlINg STATuS: New
+Comcast Corporation - Class A P 06/01/2020 07/06/2020 $1,001 - $15,000 gfedc
+(CMCSA) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: - Trust 1
+Discover Finl Svs Var Rt Perp Mat P 06/17/2020 07/06/2020 $1,001 - $15,000 gfedc
+dtd 06/22/2020 [CS]
+FIlINg STATuS: New
+DESCRIPTION: Preferred security
+Honeywell International Inc. S (partial) 06/05/2020 07/06/2020 $1,001 - $15,000 gfedcb
+(HON) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: - Trust 1
+Honeywell International Inc. S (partial) 06/08/2020 07/06/2020 $1,001 - $15,000 gfedcb
+(HON) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: - Trust 1
+Koninklijke Philips N.V. NY P 06/08/2020 07/06/2020 $1,001 - $15,000 gfedc
+Registry Shares (PHg) [ST]
+FIlINg STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOlDINg OF: - Trust 1
+Met gov't Nashville & Davidson P 06/29/2020 07/06/2020 $15,001 - gfedc
+Cnty TN Ref-Ser A unltd Tax $50,000
+5.0%; Due 07/01/2023 [gS]
+FIlINg STATuS: New
+Progressive Corporation (PgR) P 06/08/2020 07/06/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: - Trust 1
+Quest Diagnostics Incorporated S (partial) 06/01/2020 07/06/2020 $1,001 - $15,000 gfedcb
+(DgX) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: - Trust 1
+Sony Corporation (SNE) [ST] P 06/02/2020 07/06/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: - Trust 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+- Trust 1 (100% Interest)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dean Phillips , 07/07/2020

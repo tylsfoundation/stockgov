@@ -1,0 +1,32 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Suzan K. DelBene
+Status: Member
+State/District:WA01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Maryland ST Go BDS Ser. 2017 B
+5.00 % Due Aug 1, 2026 [GS]
+S (partial) 09/29/202309/29/2023$15,001 - $50,000
+F S: New
+JT United States Treas Bills Zero CPN
+0.00% Due Mar 7, 2024 [GS]
+P 09/19/202309/19/2023$1,000,001 -
+$5,000,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 10/10/2023
+Filing ID #20023788

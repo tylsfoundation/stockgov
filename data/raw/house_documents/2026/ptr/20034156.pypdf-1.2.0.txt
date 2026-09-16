@@ -1,0 +1,68 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kelly Louise Morrison
+Status: Member
+State/District:MN03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Arthur J. Gallagher & Co. Common
+Stock (AJG) [ST]
+S 03/08/202603/08/2026$15,001 -
+$50,000
+F S: New
+S O: Trust 2
+Arthur J. Gallagher & Co. Common
+Stock (AJG) [ST]
+S 03/08/202603/08/2026$1,001 - $15,000
+F S: New
+S O: Trust 1
+Arthur J. Gallagher & Co. Common
+Stock (AJG) [ST]
+S 03/08/202603/08/2026$1,001 - $15,000
+F S: New
+S O: Trust 8
+Saronic Technologies [OI] P 03/09/202603/09/2026$15,001 -
+$50,000
+F S: New
+S O: Investment Fund 1
+D: Autonomous maritime vessels; Austin, TX
+The Magnum Ice Cream Company
+N.V. Ordinary Shares (MICC) [ST]
+S 03/08/202603/08/2026$1,001 - $15,000
+F S: New
+S O: Trust 2
+The Magnum Ice Cream Company
+N.V. Ordinary Shares (MICC) [ST]
+S 03/08/202603/08/2026$1,001 - $15,000
+F S: New
+Filing ID #20034156
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Trust 8
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Investment Fund 1
+L: US
+Trust 1
+Trust 2
+Trust 8
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kelly Louise Morrison , 03/10/2026

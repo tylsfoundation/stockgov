@@ -1,0 +1,207 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Julia Letlow
+Status: Member
+State/District:LA05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+3M Company Common Stock (MMM)
+[ST]
+S (partial) 02/02/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+3M Company Common Stock (MMM)
+[ST]
+S 02/04/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Advanced Micro Devices, Inc. (AMD)
+[ST]
+P 02/02/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Apple Inc. - Common Stock (AAPL)
+[ST]
+P 02/02/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+AT&T Inc. (T) [ST] S 02/12/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Boeing Company (BA) [ST] P 02/02/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Filing ID #20034106
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Broadcom Inc. - Common Stock
+(AVGO) [ST]
+S (partial) 02/12/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+BXP, Inc. Common Stock (BXP) [ST] S 02/20/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Cisco Systems, Inc. - Common Stock
+(CSCO) [ST]
+P 02/02/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Cummins Inc. Common Stock (CMI)
+[ST]
+P 02/04/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Expand Energy Corporation -
+Common Stock (EXE) [ST]
+S 02/17/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Extra Space Storage Inc Common
+Stock (EXR) [ST]
+P 02/12/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+HF Sinclair Corporation Common
+Stock (DINO) [ST]
+S 02/20/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Humana Inc. Common Stock (HUM)
+[ST]
+S 02/10/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+ICON plc - Ordinary Shares (ICLR)
+[ST]
+S 02/12/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Intercontinental Exchange Inc.S 02/12/202603/01/2026$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Common Stock (ICE) [ST]
+F S: New
+S O: Merrill Lynch Investment Account #025
+International Business Machines
+Corporation Common Stock (IBM)
+[ST]
+P 02/02/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Intuit Inc. - Common Stock (INTU)
+[ST]
+S 02/02/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Leonardo DRS, Inc. - Common Stock
+(DRS) [ST]
+P 02/02/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+McCormick & Company, Incorporated
+Common Stock (MKC) [ST]
+S 02/02/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+P 02/12/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S (partial) 02/02/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Pepsico, Inc. (PEP) [ST] P 02/05/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Philip Morris International Inc
+Common Stock (PM) [ST]
+S 02/05/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Procter & Gamble Company (PG) [ST]P 02/02/202603/01/2026$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Merrill Lynch Investment Account #025
+Public Service Enterprise Group
+Incorporated Common Stock (PEG)
+[ST]
+S 02/17/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Regeneron Pharmaceuticals, Inc. -
+Common Stock (REGN) [ST]
+P 02/12/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Salesforce, Inc. Common Stock (CRM)
+[ST]
+S 02/02/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+P 02/02/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Take-Two Interactive Software, Inc. -
+Common Stock (TTWO) [ST]
+S 02/12/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+The Travelers Companies, Inc.
+Common Stock (TRV) [ST]
+P 02/20/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+United Rentals, Inc. Common Stock
+(URI) [ST]
+S 02/02/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+Vistra Corp. Common Stock (VST)
+[ST]
+P 02/17/202603/01/2026$1,001 - $15,000
+F S: New
+S O: Merrill Lynch Investment Account #025
+[[PAGE 5]]
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Merrill Lynch Investment Account #025
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Julia Letlow , 03/12/2026

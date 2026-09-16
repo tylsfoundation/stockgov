@@ -1,0 +1,150 @@
+[[PAGE 1]]
+Filing ID #20018096
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Donald Sternoff Honorable Beyer Jr
+Status: Member
+State/District: VA08
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT AIA group, Ltd. Sponsored P 01/12/2021 01/28/2021 $1,001 - $15,000 gfedc
+American Depository Receipt
+(AAgIY) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 350 units AIA group LTD NPV Com
+JT ASML Holding N.V. - New York P 01/11/2021 01/28/2021 $1,001 - $15,000 gfedc
+Registry Shares (ASML) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 5 units ASML Holding NV
+JT BLF FedFund TDDXX [CS] S 01/05/2021 01/28/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 01/04/2021 01/28/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 01/11/2021 01/28/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep sale Blackrock Liq FDS FedFund
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT BLF FedFund TDDXX [CS] S 01/13/2021 01/28/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 01/12/2021 01/28/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] P 01/15/2021 01/28/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep purchase Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 01/28/2021 01/28/2021 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep sale Blackrock Liq FDS FedFund
+JT BLF FedFund TDDXX [CS] S 01/19/2021 01/28/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: Sweep sale Blackrock Liq FDS FedFund
+JT Estee Lauder Companies, Inc. (EL) P 01/19/2021 01/28/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 5 units Estee Lauder Companies Class A
+JT Fanuc Limited Ordinary Shares P 01/19/2021 01/28/2021 $1,001 - $15,000 gfedc
+(FANUF) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 10 units Fanuc Ltd
+JT goldman Sachs group, Inc. (gS) P 01/11/2021 01/28/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+DESCRIPTION: 10 units goldman Sachs group Inc.
+JT goldman Sachs group, Inc. (gS) P 01/15/2021 01/28/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 5 units goldman Sachs group Inc.
+JT Intellia Therapeutics, Inc. (NTLA) S 01/15/2021 01/28/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 75 units Intellia Therapeutics Inc.
+JT Massachusetts St go BDS 5.00% P 01/11/2021 01/28/2021 $15,001 - gfedc
+09/01/37 [gS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 25,000 units Massachusetts State go BDS 5.00% 09/01/37
+JT Moody's Corporation (MCO) [ST] S 01/11/2021 01/28/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 15 units Moody's Corp
+JT Nestle SA Sponsored ADR S 01/11/2021 01/28/2021 $1,001 - $15,000 gfedc
+representing Registered Shares
+Series B (NSRgY) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 10 units Nestle NAM Spon ADR
+JT Nestle SA Sponsored ADR S 01/15/2021 01/28/2021 $1,001 - $15,000 gfedc
+representing Registered Shares
+Series B (NSRgY) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale 20 units Nestle NAM Spon ADR
+JT New York N Y City 5.00% 05/01/34 P 01/13/2021 01/28/2021 $15,001 - gfedc
+[gS] $50,000
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: 25,000 units New York N Y City 5.00% 05/01/34
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT NVIDIA Corporation (NVDA) [ST] S 01/15/2021 01/28/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 5 units NVIDIA Corp
+JT NVIDIA Corporation (NVDA) [ST] S 01/11/2021 01/28/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 5 units NVIDIA Corp
+JT Splunk Inc. (SPLK) [ST] S 01/11/2021 01/28/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 20 units Splunk
+JT Verizon Communications Inc. (VZ) S 01/11/2021 01/28/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: Stocks, Bonds, & Mutual Funds
+DESCRIPTION: sale of 25 units Verizon Communications
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Stocks, Bonds, & Mutual Funds (Owner: JT)
+LOCATION: VA, US
+COmmeNTS
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Donald Sternoff Honorable Beyer Jr, 01/31/2021

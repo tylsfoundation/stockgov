@@ -1,0 +1,98 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Tim Moore
+Status: Member
+State/District:NC14
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Cracker Barrel Old Country Store, Inc.
+- Common Stock (CBRL) [ST]
+P 11/20/202512/01/2025 $15,001 -
+$50,000
+F S: New
+Cracker Barrel Old Country Store, Inc.
+- Common Stock (CBRL) [ST]
+S 11/28/202512/01/2025 $15,001 -
+$50,000
+F S: New
+Genprex, Inc. - Common Stock
+(GNPX) [ST]
+P 11/07/202512/01/2025 $1,001 - $15,000
+F S: New
+Harley-Davidson, Inc. Common Stock
+(HOG) [ST]
+S 11/28/202512/01/2025 $15,001 -
+$50,000
+F S: New
+Harley-Davidson, Inc. Common Stock
+(HOG) [ST]
+P 11/21/202512/01/2025 $15,001 -
+$50,000
+F S: New
+Hyster-Yale, Inc. Class A common
+stock (HY) [ST]
+P 11/20/202512/01/2025 $15,001 -
+$50,000
+F S: New
+Hyster-Yale, Inc. Class A common
+stock (HY) [ST]
+P 11/12/202512/01/2025 $50,001 -
+$100,000
+F S: New
+Hyster-Yale, Inc. Class A commonP 11/14/202512/01/2025 $15,001 -
+Filing ID #20033564
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+stock (HY) [ST] $50,000
+F S: New
+Hyster-Yale, Inc. Class A common
+stock (HY) [ST]
+P 11/03/202512/01/2025 $50,001 -
+$100,000
+F S: New
+Hyster-Yale, Inc. Class A common
+stock (HY) [ST]
+P 11/05/202512/01/2025 $15,001 -
+$50,000
+F S: New
+LGI Homes, Inc. - Common Stock
+(LGIH) [ST]
+P 11/04/202512/01/2025 $15,001 -
+$50,000
+F S: New
+LGI Homes, Inc. - Common Stock
+(LGIH) [ST]
+S 11/05/202512/01/2025 $50,001 -
+$100,000
+F S: New
+Verizon Communications Inc.
+Common Stock (VZ) [ST]
+P 11/05/202512/01/2025 $15,001 -
+$50,000
+F S: New
+Verizon Communications Inc.
+Common Stock (VZ) [ST]
+S 11/19/202512/01/2025 $100,001 -
+$250,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Tim Moore , 12/02/2025

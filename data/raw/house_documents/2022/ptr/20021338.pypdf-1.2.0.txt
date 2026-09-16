@@ -1,0 +1,119 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. James R. Langevin
+Status: Member
+State/District:RI02
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Airbnb, Inc. - Class A (ABNB) [ST] S 06/03/202207/07/2022$50,001 -
+$100,000
+F S: New
+S O: Brokerage Account
+Airbnb, Inc. - Class A (ABNB) [ST] P 06/09/202207/07/2022$50,001 -
+$100,000
+F S: New
+S O: Brokerage Account
+Airbnb, Inc. - Class A (ABNB) [ST] P 06/10/202207/07/2022$50,001 -
+$100,000
+F S: New
+S O: Brokerage Account
+Block, Inc. Class A Common Stock,
+(SQ) [ST]
+P 06/09/202207/07/2022$50,001 -
+$100,000
+F S: New
+S O: Brokerage Account
+Block, Inc. Class A Common Stock,
+(SQ) [OP]
+S 06/07/202207/07/2022$1,001 - $15,000
+F S: New
+S O: Brokerage Account
+D: Call options; Strike price $91; Expires 07/17/22
+Block, Inc. Class A Common Stock,
+(SQ) [OP]
+P 06/13/202207/07/2022$1,001 - $15,000
+F S: New
+Filing ID #20021338
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Brokerage Account
+D: Call options; Strike price $70; Expires 07/22/22
+DoorDash, Inc. Class A (DASH) [OP] S 06/23/202207/07/2022$1,001 - $15,000
+F S: New
+S O: Brokerage Account
+D: Call options; Strike price $75; Expires 07/01/22
+Generac Holdlings Inc. (GNRC) [OP] S 06/02/202207/07/2022$15,001 -
+$50,000
+F S: New
+S O: Brokerage Account
+D: Call options; Strike price $230; Expires 06/17/22
+Generac Holdlings Inc. (GNRC) [OP] S 06/02/202207/07/2022$1,001 - $15,000
+F S: New
+S O: Brokerage Account
+D: Call options; Strike price $250; Expires 06/17/22
+Generac Holdlings Inc. (GNRC) [OP] P 06/10/202207/07/2022$1,001 - $15,000
+F S: New
+S O: Brokerage Account
+D: Call options; Strike price $300; Expires 07/15/22
+Meta Platforms, Inc. - Class A (FB)
+[OP]
+P 06/03/202207/07/2022$1,001 - $15,000
+F S: New
+S O: Brokerage Account
+D: Call options; Strike price $200; Expires 07/01/22
+Meta Platforms, Inc. - Class A (FB)
+[OP]
+S 06/08/202207/07/2022$1,001 - $15,000
+F S: New
+S O: Brokerage Account
+D: Call options; Strike price $200; Expires 07/01/22
+Meta Platforms, Inc. - Class A
+(META) [OP]
+P 06/10/202207/07/2022$1,001 - $15,000
+F S: New
+S O: Brokerage Account
+D: Call options; Strike price $200; Expires 07/15/22
+Meta Platforms, Inc. - Class A
+(META) [OP]
+P 06/13/202207/07/2022$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Brokerage Account
+D: Call options; Strike price $190; Expires 07/22/22
+Meta Platforms, Inc. - Class A (FB)
+[OP]
+P 06/01/202207/07/2022$1,001 - $15,000
+F S: New
+S O: Brokerage Account
+D: Call options; Strike price $210; Expires 07/01/22
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Brokerage Account
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. James R. Langevin , 07/11/2022

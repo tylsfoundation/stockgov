@@ -1,0 +1,55 @@
+[[PAGE 1]]
+Filing Id #20016914
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Alan S. Lowenthal
+Status: Member
+State/District: CA47
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP draftKings Inc. - Class A (dKNg) S (partial) 06/29/2020 07/06/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Traditional IRA
+SP Facebook, Inc. - Class A (FB) [ST] S (partial) 06/29/2020 07/06/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Traditional IRA
+SP ProShares Short QQQ (PSQ) [ST] P 07/01/2020 07/08/2020 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Traditional IRA
+SP ProShares Short S&P500 (SH) P 06/29/2020 07/06/2020 $15,001 - gfedc
+[ST] $50,000
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Traditional IRA
+SP Sunrun Inc. (RuN) [ST] S (partial) 07/01/2020 07/08/2020 $1,000.22 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Traditional IRA
+SP Sunrun Inc. (RuN) [ST] S (partial) 06/19/2020 06/26/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Traditional IRA
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Sunrun Inc. (RuN) [ST] S (partial) 06/19/2020 06/26/2020 $505.24 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Traditional IRA
+SP Sunrun Inc. (RuN) [ST] S (partial) 06/19/2020 06/26/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Traditional IRA
+SP Sunrun Inc. (RuN) [ST] S (partial) 06/19/2020 06/26/2020 $505.24 gfedcb
+FILINg STATuS: New
+SuBHOLdINg OF: Neuberger Berman - Traditional IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Neuberger Berman - Traditional IRA (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Alan S. Lowenthal , 07/08/2020

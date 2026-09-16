@@ -1,0 +1,87 @@
+[[PAGE 1]]
+Filing ID #20013877
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Mikie Sherrill
+Status: Member
+State/District: NJ11
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+american Express Company (aXP) S 12/23/2019 01/03/2020 $497.08 gfedcb
+[ST]
+FIlINg STaTuS: New
+BlackRock, Inc. (BlK) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FIlINg STaTuS: New
+Bristol-Myers Squibb Company S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+(BMY) [ST]
+FIlINg STaTuS: New
+Colgate-Palmolive Company (Cl) S 12/12/2019 01/03/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STaTuS: New
+DuPont de Nemours, Inc. (DD) S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STaTuS: New
+Exxon Mobil Corporation (XOM) S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STaTuS: New
+general Dynamics Corporation S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+(gD) [ST]
+FIlINg STaTuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gilead Sciences, Inc. (gIlD) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FIlINg STaTuS: New
+M&T Bank Corporation (MTB) S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STaTuS: New
+Pfizer, Inc. (PFE) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FIlINg STaTuS: New
+Philip Morris International Inc S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+(PM) [ST]
+FIlINg STaTuS: New
+Prudential Financial, Inc. (PRu) S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STaTuS: New
+QualCOMM Incorporated S 12/23/2019 01/03/2020 $443.07 gfedcb
+(QCOM) [ST]
+FIlINg STaTuS: New
+QualCOMM Incorporated S 12/27/2019 01/03/2020 $442.93 gfedcb
+(QCOM) [ST]
+FIlINg STaTuS: New
+QualCOMM Incorporated S 12/30/2019 01/03/2020 $614.71 gfedcb
+(QCOM) [ST]
+FIlINg STaTuS: New
+Regeneron Pharmaceuticals, Inc. S 12/12/2019 01/03/2020 $1,001 - $15,000 gfedcb
+(REgN) [ST]
+FIlINg STaTuS: New
+Roche Holdings ag Basel P 01/02/2020 01/03/2020 $1,001 - $15,000 gfedc
+american Depositary Shares
+(RHHBY) [ST]
+FIlINg STaTuS: New
+Schlumberger N.V. (SlB) [ST] S 12/12/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FIlINg STaTuS: New
+SEI Investments Company (SEIC) S 12/12/2019 01/03/2020 $1,001 - $15,000 gfedcb
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedcb
+[ST]
+FIlINg STaTuS: New
+Ventas, Inc. (VTR) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FIlINg STaTuS: New
+Vornado Realty Trust (VNO) [ST] S 12/18/2019 01/03/2020 $1,001 - $15,000 gfedcb
+FIlINg STaTuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Mikie Sherrill , 01/10/2020

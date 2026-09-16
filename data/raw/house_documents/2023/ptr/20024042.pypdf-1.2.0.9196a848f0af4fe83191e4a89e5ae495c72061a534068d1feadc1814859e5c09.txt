@@ -1,0 +1,40 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Michael A. Collins
+Status: Member
+State/District:GA10
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+ETH Cryptocurrency [OT] S 11/24/202312/11/2023 $1,001 - $15,000
+F S: New
+L: US
+D: sale of eth
+ETH Cryptocurrency [OT] P 12/10/202312/11/2023 $1,001 - $15,000
+F S: New
+L: US
+D: eth cryptocurrency
+Ethereum Crypto currency [OT] P 10/09/202310/09/2023$1,001 - $15,000
+F S: New
+L: US
+D: Purchase of ETH crypto
+Ethereum Crypto currency [OT] P 11/05/202311/05/2023 $1,001 - $15,000
+F S: New
+L: US
+D: purchase of ETH crypto
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+Filing ID #20024042
+[[PAGE 2]]
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Michael A. Collins , 12/22/2023

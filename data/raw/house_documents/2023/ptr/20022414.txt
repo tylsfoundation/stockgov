@@ -1,0 +1,44 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Maria Elvira Salazar
+Status: Member
+State/District:FL27
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Storm Shield of Miami, Inc. [PS] P 01/28/202301/28/2023$1,001 - $15,000
+F S: New
+S O: Storm Shield of Miami, Inc.
+L: US
+D: Purchase of 50 shares of common stock in Storm Shield of Miami, Inc., a privately held corporation.
+U.S. TREASURY BILL ZERO% [CS] S 01/19/202301/19/2023$15,001 -
+$50,000
+F S: New
+S O: Merrill IRA 1
+D: Redeemed U.S. TREASURY BILL ZERO% bond. The maturity date was January 19, 2023.
+U.S. TREASURY BILL ZERO% [CS] P 01/27/202301/27/2023$15,001 -
+$50,000
+F S: New
+S O: Merrill IRA 1
+D: Purchased a U.S. TREASURY BILL ZERO% bond with a yield to maturity of 4.48%. The maturity date is
+February 23, 2023.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Merrill IRA 1
+Storm Shield of Miami, Inc.
+L: US
+I P O
+Filing ID #20022414
+[[PAGE 2]]
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Maria Elvira Salazar , 02/15/2023

@@ -1,0 +1,52 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kelly Louise Morrison
+Status: Member
+State/District:MN03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Aalo Atomics [OI] P 01/29/202601/29/2026$15,001 -
+$50,000
+F S: New
+S O: Investment Fund 1
+D: Nuclear Power, Austin, TX
+CogniChip, Inc. [OI] P 01/20/202601/27/2026$15,001 -
+$50,000
+F S: New
+S O: Investment Fund 1
+D: AI Chip Design, Redwood City, CA
+Modak Communities Inc. [OI] P 01/20/202601/27/2026$15,001 -
+$50,000
+F S: New
+S O: Investment Fund 1
+D: Financial Technology, Menlo Park, CA
+Sygaldry Technologies, Inc. [OI] P 01/29/202601/29/2026$15,001 -
+$50,000
+F S: New
+S O: Investment Fund 1
+D: Computer Servers, Santa Monica, CA
+Varda Space Industries, Inc. [OI] P 01/20/202601/27/2026$15,001 -
+$50,000
+F S: New
+S O: Investment Fund 1
+D: Microgravity Manufacturing, El Segundo, CA
+Filing ID #20033928
+[[PAGE 2]]
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Investment Fund 1
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kelly Louise Morrison , 02/04/2026

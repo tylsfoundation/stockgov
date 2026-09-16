@@ -1,0 +1,94 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Pete Sessions
+Status: Member
+State/District:TX17
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Apple Inc. (AAPL) [ST] S 11/01/202311/03/2023 $1,001 - $15,000
+F S: New
+D: sold 25.0346
+Ares Capital Corporation - Closed End
+Fund (ARCC) [ST]
+S 11/01/202311/03/2023 $1,001 - $15,000
+F S: New
+D: sold 250
+Bank Nova Scotia Halifax Pfd 3
+Ordinary Shares (BNS) [ST]
+S 11/02/202311/03/2023 $1,001 - $15,000
+F S: New
+D: sold loss 100
+SP Chipotle Mexican Grill, Inc. (CMG)
+[ST]
+S 10/31/202311/02/2023 $15,001 -
+$50,000
+F S: New
+S O: IRA Two
+D: 10 shares since 2015
+SP Chipotle Mexican Grill, Inc. (CMG)
+[ST]
+S 10/31/202311/02/2023 $1,001 - $15,000
+F S: New
+S O: IRA Two
+D: 200 shares loss
+Crown Castle Inc. (CCI) [ST] S 10/31/202311/02/2023 $1,001 - $15,000
+F S: New
+Filing ID #20023922
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: Sold loss 50 shares
+Lowe's Companies, Inc. (LOW) [ST] S 11/02/202311/03/2023 $1,001 - $15,000
+F S: New
+D: sold 30
+SP Medical Properties Trust, Inc.
+common stock (MPW) [ST]
+S 11/03/202311/03/2023 $257.49
+F S: New
+S O: Trust One
+D: sold 50 loss
+Microsoft Corporation (MSFT) [ST] S 11/01/202311/03/2023 $15,001 -
+$50,000
+F S: New
+D: Sold 132.5121 shares
+US Treasury BILL 05/02/2024 [GS] P 11/02/202311/03/2023 $100,001 -
+$250,000
+F S: New
+S O: CS SEP
+D: $151,000
+SP Verizon Communications Inc. (VZ)
+[ST]
+S 10/31/202311/02/2023 $1,001 - $15,000
+F S: New
+S O: IRA Two
+D: Sold 163 loss
+Warner Bros. Discovery, Inc. - Series
+A (WBD) [ST]
+S 11/01/202311/03/2023 $476.63
+F S: New
+D: Sold 48 Loss
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+CS SEP
+IRA Two (Owner: SP)
+Trust One (100% Interest) (Owner: SP)
+I P O
+[[PAGE 3]]
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Pete Sessions , 11/07/2023

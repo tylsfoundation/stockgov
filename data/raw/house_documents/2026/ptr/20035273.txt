@@ -1,0 +1,60 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Thomas H. Kean Jr
+Status: Member
+State/District:NJ07
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S (partial) 07/22/202608/07/2026$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co.
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+P 07/08/202608/03/2026$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+EQT Corporation Common Stock
+(EQT) [ST]
+P 07/07/202608/03/2026$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+ESAB Corporation Common Stock
+(ESAB) [ST]
+P 07/07/202608/03/2026$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Stryker Corporation Common Stock
+(SYK) [ST]
+S (partial) 07/22/202608/07/2026$1,001 - $15,000
+F S: New
+S O: State Street Bank & Trust Co.
+Toast, Inc. Class A Common Stock
+(TOST) [ST]
+P 07/08/202608/03/2026$1,001 - $15,000
+F S: New
+S O: Kean Family Partnership
+Filing ID #20035273
+[[PAGE 2]]
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Kean Family Partnership (33% Interest)
+L: US
+State Street Bank & Trust Co.
+C
+Transactions are initiated and made by third party advisors with no input from Rep. Kean.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Thomas H. Kean Jr, 08/18/2026

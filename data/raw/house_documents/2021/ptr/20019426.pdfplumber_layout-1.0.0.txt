@@ -1,0 +1,76 @@
+[[PAGE 1]]
+Filing ID #20019426
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Susie Lee
+Status: Member
+State/District: NV03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Black Knight, Inc. (BKI) [ST] P 08/20/2021 09/01/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Booz Allen Hamilton Holding P 08/20/2021 09/01/2021 $1,001 - $15,000 gfedc
+Corporation (BAH) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Bright Horizons Family Solutions P 08/20/2021 09/01/2021 $1,001 - $15,000 gfedc
+Inc. (BFAM) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Builders FirstSource, Inc. (BLDR) S (partial) 08/17/2021 09/01/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Carrier global Corporation (CARR) S (partial) 08/17/2021 09/01/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Churchill Downs, Incorporated P 08/20/2021 09/01/2021 $1,001 - $15,000 gfedc
+(CHDN) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Dell Technologies Inc. Class C S 08/17/2021 09/01/2021 $1,001 - $15,000 gfedcb
+(DELL) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Live Nation Entertainment, Inc. S (partial) 08/06/2021 09/01/2021 $1,001 - $15,000 gfedc
+(LYV) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT ON Semiconductor Corporation P 08/20/2021 09/01/2021 $1,001 - $15,000 gfedc
+(ON) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Realogy Holdings Corp. (RLgY) S (partial) 08/17/2021 09/01/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Shift4 Payments, Inc. Class A P 08/20/2021 09/01/2021 $1,001 - $15,000 gfedc
+(FOUR) [ST]
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+JT Victorias Secret & Co. (VSCO) [ST] S 08/20/2021 09/01/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SUBHOLDINg OF: DSL Living Trust > Bank of New York Brokerage Account 340
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+DSL Living Trust (Owner: JT)
+DSL Living Trust ⇒ Bank of New York Brokerage Account 340 (Owner: JT)
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+[[PAGE 3]]
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Susie Lee , 09/10/2021

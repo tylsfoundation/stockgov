@@ -1,0 +1,166 @@
+[[PAGE 1]]
+Filing Id #20016732
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District: NJ05
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Advanced Micro devices, Inc. S (partial) 05/15/2020 06/08/2020 $1,001 - $15,000 gfedcb
+(AMd) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Alibaba Group Holding Limited P 05/08/2020 06/08/2020 $1,001 - $15,000 gfedc
+American depositary Shares each
+representing eight Ordinary share
+(bAbA) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Alphabet Inc. - Class C Capital S (partial) 05/22/2020 06/08/2020 $1,001 - $15,000 gfedc
+Stock (GOOG) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+Amazon.com, Inc. (AMZN) [ST] S 05/18/2020 06/08/2020 $50,001 - gfedcb
+$100,000
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Traditional Inherited IRA
+JT Amgen Inc. (AMGN) [ST] S (partial) 05/15/2020 06/08/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+Apple Inc. (AAPL) [ST] S 05/18/2020 06/08/2020 $15,001 - gfedcb
+$50,000
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Traditional Inherited IRA
+JT Canadian National Railway S (partial) 05/08/2020 06/08/2020 $1,001 - $15,000 gfedcb
+Company (CNI) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Cantel Medical Corp. (CMd) [ST] S 05/05/2020 06/08/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Catalent, Inc. (CTLT) [ST] S (partial) 05/15/2020 06/08/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Catalent, Inc. (CTLT) [ST] S (partial) 05/28/2020 06/08/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Central Garden & Pet Company S (partial) 05/07/2020 06/08/2020 $1,001 - $15,000 gfedc
+(CENT) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Chevron Corporation (CVX) [ST] P 05/04/2020 06/08/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT delta Air Lines, Inc. (dAL) [ST] S 05/04/2020 06/08/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT dexCom, Inc. (dXCM) [ST] S (partial) 05/11/2020 06/08/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Fidelity National Information S (partial) 05/01/2020 06/08/2020 $1,001 - $15,000 gfedcb
+Services, Inc. (FIS) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Globus Medical, Inc. Class A S (partial) 05/28/2020 06/08/2020 $1,001 - $15,000 gfedcb
+(GMEd) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+Goldman Sachs Group, Inc. (GS) S 05/18/2020 06/08/2020 $15,001 - gfedcb
+[ST] $50,000
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Traditional Inherited IRA
+JT GrubHub Inc. (GRUb) [ST] P 05/12/2020 06/08/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Haemonetics Corporation (HAE) P 05/15/2020 06/08/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Haemonetics Corporation (HAE) P 05/28/2020 06/08/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JP Morgan Chase & Co. (JPM) [ST] S 05/18/2020 06/08/2020 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Traditional Inherited IRA
+JT Kinder Morgan, Inc. (KMI) [ST] S 05/04/2020 06/08/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+Microsoft Corporation (MSFT) S 05/18/2020 06/08/2020 $15,001 - gfedcb
+[ST] $50,000
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Traditional Inherited IRA
+JT Microsoft Corporation (MSFT) S (partial) 05/15/2020 06/08/2020 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Moderna, Inc. (MRNA) [ST] S (partial) 05/22/2020 06/08/2020 $1,001 - $15,000 gfedcb
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Nestle SA Sponsored AdR S (partial) 05/11/2020 06/08/2020 $1,001 - $15,000 gfedcb
+representing Registered Shares
+Series b (NSRGY) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Philip Morris International Inc P 05/04/2020 06/08/2020 $1,001 - $15,000 gfedc
+(PM) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Regeneron Pharmaceuticals, Inc. P 05/27/2020 06/08/2020 $1,001 - $15,000 gfedc
+(REGN) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Starbucks Corporation (SbUX) S (partial) 05/01/2020 06/08/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Supernus Pharmaceuticals, Inc. P 05/28/2020 06/08/2020 $1,001 - $15,000 gfedc
+(SUPN) [ST]
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Tesla, Inc. (TSLA) [ST] S (partial) 05/22/2020 06/08/2020 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+The blackstone Group Inc. Class A S 05/18/2020 06/08/2020 $15,001 - gfedcb
+(bX) [ST] $50,000
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Traditional Inherited IRA
+JT Viavi Solutions Inc. (VIAV) [ST] P 05/05/2020 06/08/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Viavi Solutions Inc. (VIAV) [ST] P 05/07/2020 06/08/2020 $1,001 - $15,000 gfedc
+FILING STATUS: New
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+LOCATION: US
+Morgan Stanley - Traditional Inherited IRA
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 06/10/2020

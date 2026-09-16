@@ -1,0 +1,77 @@
+[[PAGE 1]]
+Filing ID #20018865
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Sara Jacobs
+Status: Member
+State/District: CA53
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+California St Dept Water Res Cent S 05/03/2021 06/07/2021 $100,001 - gfedcb
+VY Proj Rev 5.0% Due 12/1/2029 $250,000
+[gS]
+FILINg STATUS: New
+SUbHOLDINg OF: Sara Jacobs Trust U/A DTD 09/01/2009 > Merrill Lynch - SJ Muni
+California St gO Various Purpose S 05/03/2021 06/07/2021 $100,001 - gfedcb
+bonds 5.0% Due 11/1/2029 [gS] $250,000
+FILINg STATUS: New
+SUbHOLDINg OF: Sara Jacobs Trust U/A DTD 09/01/2009 > Merrill Lynch - SJ Muni
+California St Var Purpose go S 05/03/2021 06/07/2021 $100,001 - gfedcb
+bonds 5.0% Due 10/1/2039 [gS] $250,000
+FILINg STATUS: New
+SUbHOLDINg OF: Sara Jacobs Trust U/A DTD 09/01/2009 > Merrill Lynch - SJ Muni
+Los Angeles California Dept Water S 05/03/2021 06/07/2021 $100,001 - gfedcb
+& Power Sys C 5.0% Due $250,000
+10/1/2039 [gS]
+FILINg STATUS: New
+SUbHOLDINg OF: Sara Jacobs Trust U/A DTD 09/01/2009 > Merrill Lynch - SJ Muni
+Los Angeles California Dept Water S 05/03/2021 06/07/2021 $100,001 - gfedcb
+Works Rev bonds b 5.0% Due $250,000
+7/1/2043 [gS]
+FILINg STATUS: New
+SUbHOLDINg OF: Sara Jacobs Trust U/A DTD 09/01/2009 > Merrill Lynch - SJ Muni
+Los Angeles California Uni Sch S 05/03/2021 06/07/2021 $100,001 - gfedcb
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedcb
+Dist go bonds LT b-1 5.25% Due $250,000
+7/1/2042 [gS]
+FILINg STATUS: New
+SUbHOLDINg OF: Sara Jacobs Trust U/A DTD 09/01/2009 > Merrill Lynch - SJ Muni
+Los Angeles California Waste S 05/03/2021 06/07/2021 $100,001 - gfedcb
+Water System Rev 5.0% Due $250,000
+6/1/2030 [gS]
+FILINg STATUS: New
+SUbHOLDINg OF: Sara Jacobs Trust U/A DTD 09/01/2009 > Merrill Lynch - SJ Muni
+San Diego CO CA RgL Transn Rev S 05/03/2021 06/07/2021 $100,001 - gfedc
+Sub Ltd bDS b 5.0%; Due $250,000
+04/01/2045 [gS]
+FILINg STATUS: New
+SUbHOLDINg OF: Sara Jacobs Trust U/A DTD 09/01/2009 > Merrill Lynch - SJ Muni
+San Francisco California bart Dist S 05/03/2021 06/07/2021 $100,001 - gfedcb
+Election of LT gO 5.0% Due $250,000
+8/1/2035 [gS]
+FILINg STATUS: New
+SUbHOLDINg OF: Sara Jacobs Trust U/A DTD 09/01/2009 > Merrill Lynch - SJ Muni
+San Marcos California Uni Sch Dist S 05/03/2021 06/07/2021 $100,001 - gfedcb
+go Ref bonds 5.0% Due 8/1/2036 $250,000
+[gS]
+FILINg STATUS: New
+SUbHOLDINg OF: Sara Jacobs Trust U/A DTD 09/01/2009 > Merrill Lynch - SJ Muni
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Sara Jacobs Trust U/A DTD 09/01/2009
+Sara Jacobs Trust U/A DTD 09/01/2009 ⇒ Merrill Lynch - SJ Muni
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Sara Jacobs , 07/02/2021

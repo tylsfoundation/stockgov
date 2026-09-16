@@ -1,0 +1,285 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Christopher L. Jacobs
+Status: Member
+State/District:NY27
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+ACADIA Pharmaceuticals Inc.
+(ACAD) [ST]
+S 06/16/202207/18/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+AGNC Investment Corp. (AGNC) [ST]P 06/21/202207/18/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Allakos Inc. (ALLK) [ST] P 06/16/202207/18/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Anaplan, Inc. (PLAN) [ST] S 06/16/202207/18/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Associated Banc-Corp (ASB) [ST] P 06/16/202207/18/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Atreca, Inc. - Class A (BCEL) [ST] P 06/16/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Axsome Therapeutics, Inc. (AXSM)
+[ST]
+P 06/16/202207/18/2022$15,001 -
+$50,000
+Filing ID #20021398
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Block, Inc. Class A Common Stock,
+(SQ) [ST]
+S 06/16/202207/18/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Broadmark Realty Capital Inc.
+(BRMK) [ST]
+P 06/21/202207/18/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Callon Petroleum Company (CPE)
+[ST]
+S 06/16/202207/18/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Cassava Sciences, Inc. (SAVA) [ST] P 06/21/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Centennial Resource Development,
+Inc. - Class A (CDEV) [ST]
+S 06/16/202207/18/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Civitas Resources, Inc. (CIVI) [ST] P 06/21/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+D: Civitas Resources Inc Com New
+Coterra Energy Inc. (CTRA) [ST] P 06/21/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Energy Fuels Inc Ordinary Shares
+(UUUU) [ST]
+S 06/16/202207/18/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Expedia Group, Inc. (EXPE) [ST] S 06/16/202207/18/2022$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+F.N.B. Corporation (FNB) [ST] P 06/21/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+First Horizon Corporation (FHN) [ST]P 06/21/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Genco Shipping & Trading Limited
+(GNKOQ) [ST]
+P 06/21/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Genco Shipping & Trading Limited
+Ordinary Shares New (GNK) [ST]
+P 06/16/202207/18/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Gevo, Inc. (GEVO) [ST] P 06/16/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Home Depot, Inc. (HD) [ST] S 06/16/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Innovative Industrial Properties, Inc.
+(IIPR) [ST]
+P 06/21/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Kite Realty Group Trust (KRG) [ST] P 06/21/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Kosmos Energy Ltd. Common Shares
+(KOS) [ST]
+S 06/16/202207/18/2022$15,001 -
+$50,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Macerich Company (MAC) [ST] P 06/16/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Nabors Industries Ltd. (NBR) [ST] S 06/16/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+New York ST 5.000% [OT] P 06/30/202207/18/2022$250,001 -
+$500,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > GWK
+L: US
+D: Municipal Bond
+NexTier Oilfield Solutions Inc. (NEX)
+[ST]
+S 06/16/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Nordic American Tankers Limited
+(NAT) [ST]
+P 06/16/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Northwest Bancshares, Inc. (NWBI)
+[ST]
+P 06/21/202207/19/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+OceanFirst Financial Corp. (OCFC)
+[ST]
+P 06/21/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Ocugen, Inc. (OCGN) [ST] P 06/16/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Patterson-UTI Energy, Inc. (PTEN)
+[ST]
+S 06/16/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Physicians Realty Trust Common
+Shares of Beneficial Interest (DOC)
+[ST]
+P 06/21/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Ready Capital Corproation (RC) [ST] P 06/16/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Ready Capital Corproation (RC) [ST] P 06/16/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Redwood Trust, Inc. (RWT) [ST] P 06/16/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Sabra Health Care REIT, Inc. (SBRA)
+[ST]
+P 06/21/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Scorpio Tankers Inc. Common Shares
+(STNG) [ST]
+P 06/21/202207/18/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Tellurian Inc. (TELL) [ST] S 06/16/202207/18/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+The Necessity Retail REIT, Inc. - Class
+A (RTL) [ST]
+P 06/21/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+United Bankshares, Inc. (UBSI) [ST] P 06/21/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Uranium Energy Corp. (UEC) [ST] S 06/16/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Viatris Inc. - Common Stock When
+Issued (VTRSV) [ST]
+P 06/21/202207/18/2022$1,001 - $15,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+Viatris Inc. - Common Stock When
+Issued (VTRSV) [ST]
+P 06/16/202207/18/2022$15,001 -
+$50,000
+F S: New
+S O: CL TRUST > LDJ FAM INV LLC > Parametric
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+CL TRUST
+CL TRUST ⇒ LDJ FAM INV LLC
+CL TRUST ⇒ LDJ FAM INV LLC ⇒ GWK
+CL TRUST ⇒ LDJ FAM INV LLC ⇒ Parametric
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Christopher L. Jacobs , 07/28/2022

@@ -1,0 +1,28 @@
+[[PAGE 1]]
+Filing ID #20017631
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Earl Blumenauer
+Status: Member
+State/District: OR03
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP Duke Energy Progr 3.7%28 Due P 10/16/2020 11/03/2020 $15,001 - gfedc
+09/01/28 [CS] $50,000
+FIlINg STATuS: New
+DESCRIPTION: Part of my spouse's retirement portfolio.
+SP The Blackstone group Inc. Class A P 10/28/2020 11/03/2020 $1,001 - $15,000 gfedc
+(BX) [ST]
+FIlINg STATuS: New
+DESCRIPTION: Part of my spouse's retirement portfolio.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Earl Blumenauer , 11/03/2020

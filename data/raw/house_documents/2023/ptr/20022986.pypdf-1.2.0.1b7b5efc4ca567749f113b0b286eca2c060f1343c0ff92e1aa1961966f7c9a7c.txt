@@ -1,0 +1,44 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Richard W. Allen
+Status: Member
+State/District:GA12
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Activision Blizzard, Inc (ATVI) [ST] P 04/20/202305/05/2023$1,001 - $15,000
+F S: New
+S O: Charles Schwab IRA
+SP SouthState Corporation (SSB) [ST] S 03/27/202304/05/2023$100,001 -
+$250,000
+F S: New
+S O: R.W. Allen & Associates, Inc.
+SP The Charles Schwab Corporation
+Depositary Shares each representing
+1/40th interest in a share of 5.95%
+Non-Cumulative Perpetual Preferred
+Stock, Series D (SCHW$D) [ST]
+P 05/18/202305/17/2023$15,001 -
+$50,000
+F S: New
+S O: R.W. Allen & Associates, Inc.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Charles Schwab IRA
+R.W. Allen & Associates, Inc. (100% Interest) (Owner: SP)
+L: Augusta/ Richmond, GA, US
+I P O
+Yes No
+Filing ID #20022986
+[[PAGE 2]]
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Richard W. Allen , 06/02/2023

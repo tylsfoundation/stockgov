@@ -1,0 +1,52 @@
+[[PAGE 1]]
+Filing ID #20018373
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Daniel Crenshaw
+Status: Member
+State/District: TX02
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Amazon.com, Inc. (AMZN) [ST] S 03/05/2021 03/05/2021 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+Amazon.com, Inc. (AMZN) [ST] P 03/12/2020 03/12/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Boeing Company (BA) [ST] P 03/27/2020 03/27/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Direxion Financial Bull 3X Shares P 03/25/2020 03/25/2020 $1,001 - $15,000 gfedc
+(FAS) [ST]
+FIlINg STATuS: New
+Direxion Financial Bull 3X Shares P 06/11/2020 06/11/2020 $1,001 - $15,000 gfedc
+(FAS) [ST]
+FIlINg STATuS: New
+Hertz global Holdings, Inc (HTZ) P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Kinder Morgan, Inc. (KMI) [ST] P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Kinder Morgan, Inc. (KMI) [ST] S 03/05/2021 03/05/2021 $1,001 - $15,000 gfedcb
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+Southwest Airlines Company P 03/26/2020 03/26/2020 $1,001 - $15,000 gfedc
+(luV) [ST]
+FIlINg STATuS: New
+SPX Corporation (SPXC) [ST] P 03/25/2020 03/25/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SPX Corporation (SPXC) [ST] S 03/05/2021 03/05/2021 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+COmmeNTS
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Daniel Crenshaw , 03/24/2021

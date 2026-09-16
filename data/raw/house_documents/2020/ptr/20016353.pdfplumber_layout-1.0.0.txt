@@ -1,0 +1,49 @@
+[[PAGE 1]]
+Filing ID #20016353
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Suzan K. DelBene
+Status: Member
+State/District: Wa01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT arizona Indl Dev auth Rev BDS P 03/30/2020 03/30/2020 $500,001 - gfedc
+lincoln 5.00% Due 05/01/26 [gS] $1,000,000
+FIlINg STaTuS: New
+JT Illinois HSg Dev auth Rev BDS S 03/06/2020 03/06/2020 $250,001 - gfedcb
+Ser. 1.7% Due 04/01/31 [gS] $500,000
+FIlINg STaTuS: New
+JT Maryland ST Dept TR 5.00% P 03/19/2020 03/19/2020 $15,001 - gfedc
+Comb Tax Due 10/01/26 [gS] $50,000
+FIlINg STaTuS: New
+SP Microsoft Corporation (MSFT) P 03/31/2020 03/31/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STaTuS: New
+SP Microsoft Corporation (MSFT) P 03/02/2020 03/02/2020 $500,001 - gfedc
+[ST] $1,000,000
+FIlINg STaTuS: New
+JT New York St dorm auth St pers P 03/11/2020 03/11/2020 $1,001 - $15,000 gfedc
+Income 5.0% Due 03/15/2027
+[gS]
+FIlINg STaTuS: New
+JT university Calif Revs Var gen BDS S 03/31/2020 03/31/2020 $500,001 - gfedcb
+1.20% Due 05/15/48 [gS] $1,000,000
+FIlINg STaTuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT university Calif Revs Var gen Rev P 03/03/2020 03/03/2020 $500,001 - gfedc
+BDS 1.2% Due 05/15/48 [gS] $1,000,000
+FIlINg STaTuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Suzan K. DelBene , 04/14/2020

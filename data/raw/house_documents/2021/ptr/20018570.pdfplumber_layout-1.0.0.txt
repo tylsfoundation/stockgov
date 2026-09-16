@@ -1,0 +1,37 @@
+[[PAGE 1]]
+Filing ID #20018570
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. James French Hill
+Status: Member
+State/District: AR02
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Synchrony Financial (SYF) [ST] S 04/14/2021 04/14/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SUBHOLDINg OF: J French Hill - Revocable Trust
+DESCRIPTION: Sold 1000 Shares
+DC Tesla, Inc. (TSLA) [ST] P 04/08/2021 04/08/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUBHOLDINg OF: DC 1 - William Payne Hill Brokerage
+DESCRIPTION: 6 SHARES TSLA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+DC 1 - William Payne Hill Brokerage (Owner: DC)
+LOCATION: Little Rock, AR, US
+DESCRIPTION: Simmons Investment Services / LPL
+J French Hill - Revocable Trust
+DESCRIPTION: Simmons Investment Services / LPL
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+[[PAGE 2]]
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. James French Hill , 04/27/2021

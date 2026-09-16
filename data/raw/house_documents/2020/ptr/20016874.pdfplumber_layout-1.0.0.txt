@@ -1,0 +1,274 @@
+[[PAGE 1]]
+Filing Id #20016874
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Mark Green
+Status: Member
+State/District: TN07
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Antero Midstream Corporation P 06/10/2020 06/17/2020 $50,001 - gfedc
+(AM) [ST] $100,000
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Antero Midstream Corporation P 06/11/2020 06/18/2020 $15,001 - gfedc
+(AM) [ST] $50,000
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Antero Midstream Corporation P 06/11/2020 06/18/2020 $50,001 - gfedc
+(AM) [ST] $100,000
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Archrock, Inc. (AROC) [ST] P 06/11/2020 06/18/2020 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Crestwood Equity Partners lP P 06/10/2020 06/17/2020 $50,001 - gfedc
+(CEQP) [ST] $100,000
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+CrossAmerica Partners lP P 06/10/2020 06/17/2020 $15,001 - gfedc
+Common units representing $50,000
+limited partner interests (CAPl)
+[ST]
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+dCP Midstream, lP Common P 06/10/2020 06/17/2020 $50,001 - gfedc
+units (dCP) [ST] $100,000
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+dCP Midstream, lP Common P 06/10/2020 06/17/2020 $15,001 - gfedc
+units (dCP) [ST] $50,000
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Enable Midstream Partners, lP P 06/10/2020 06/17/2020 $15,001 - gfedc
+Common units representing $50,000
+limited partner interests (ENbl)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Enable Midstream Partners, lP P 06/10/2020 06/17/2020 $1,001 - $15,000 gfedc
+Common units representing
+limited partner interests (ENbl)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Enable Midstream Partners, lP P 06/10/2020 06/17/2020 $50,001 - gfedc
+Common units representing $100,000
+limited partner interests (ENbl)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Energy Transfer lP Common P 06/10/2020 06/17/2020 $100,001 - gfedc
+units (ET) [ST] $250,000
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Energy Transfer lP Common P 06/11/2020 06/18/2020 $15,001 - gfedc
+units (ET) [ST] $50,000
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Enlink Midstream, llC Common P 06/10/2020 06/17/2020 $15,001 - gfedc
+units representing limited $50,000
+Partner Interests (ENlC) [ST]
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Enlink Midstream, llC Common P 06/10/2020 06/17/2020 $50,001 - gfedc
+units representing limited $100,000
+Partner Interests (ENlC) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Gaslog Partners lP Common P 06/11/2020 06/18/2020 $15,001 - gfedc
+units representing limited $50,000
+partnership interests (GlOP) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Gaslog Partners lP Common P 06/10/2020 06/17/2020 $1,001 - $15,000 gfedc
+units representing limited
+partnership interests (GlOP) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Gaslog Partners lP Common P 06/10/2020 06/17/2020 $1,001 - $15,000 gfedc
+units representing limited
+partnership interests (GlOP) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Genesis Energy, l.P. Common P 06/10/2020 06/17/2020 $50,001 - gfedc
+units (GEl) [ST] $100,000
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Global Partners lP Global Partners P 06/10/2020 06/17/2020 $50,001 - gfedc
+lP Common units representing $100,000
+limited Partner Interests (GlP)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Global Partners lP Global Partners P 06/10/2020 06/17/2020 $1,001 - $15,000 gfedc
+lP Common units representing
+limited Partner Interests (GlP)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Golar lNG Partners lP - Common P 06/11/2020 06/18/2020 $15,001 - gfedc
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+units Representing limited $50,000
+Partnership (GMlP) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Golar lNG Partners lP - Common P 06/10/2020 06/17/2020 $1,001 - $15,000 gfedc
+units Representing limited
+Partnership (GMlP) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+InfraCap MlP ETF (AMZA) [ST] S 05/26/2020 06/02/2020 $250,001 - gfedc
+$500,000
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Martin Midstream Partners l.P. - P 06/10/2020 06/17/2020 $1,001 - $15,000 gfedc
+Common units Representing
+limited Partnership Interests
+(MMlP) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Martin Midstream Partners l.P. - P 06/10/2020 06/17/2020 $15,001 - gfedc
+Common units Representing $50,000
+limited Partnership Interests
+(MMlP) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+MPlX lP Common units P 06/10/2020 06/17/2020 $100,001 - gfedc
+Representing limited Partner $250,000
+Interests (MPlX) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+MPlX lP Common units P 06/10/2020 06/17/2020 $15,001 - gfedc
+Representing limited Partner $50,000
+Interests (MPlX) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+MPlX lP Common units P 06/11/2020 06/18/2020 $15,001 - gfedc
+Representing limited Partner $50,000
+Interests (MPlX) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+NGl ENERGY PARTNERS lP P 06/11/2020 06/18/2020 $1,001 - $15,000 gfedc
+Common units representing
+limited Partner Interests (NGl)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+NGl ENERGY PARTNERS lP P 06/10/2020 06/17/2020 $15,001 - gfedc
+Common units representing $50,000
+limited Partner Interests (NGl)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+NGl ENERGY PARTNERS lP P 06/10/2020 06/17/2020 $50,001 - gfedc
+Common units representing $100,000
+limited Partner Interests (NGl)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Noble Midstream Partners lP - P 06/10/2020 06/17/2020 $50,001 - gfedc
+Common units, Representing $100,000
+limited Partner Interests (NblX)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+PbF logistics lP Common units P 06/10/2020 06/17/2020 $50,001 - gfedc
+representing limited partner $100,000
+interests (PbFX) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Sprague Resources lP Common P 06/10/2020 06/17/2020 $50,001 - gfedc
+units representing limited $100,000
+Partner Interests (SRlP) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Sprague Resources lP Common P 06/10/2020 06/17/2020 $1,001 - $15,000 gfedc
+units representing limited
+Partner Interests (SRlP) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Suburban Propane Partners, l.P. P 06/10/2020 06/17/2020 $15,001 - gfedc
+(SPH) [ST] $50,000
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Suburban Propane Partners, l.P. P 06/11/2020 06/18/2020 $1,001 - $15,000 gfedc
+(SPH) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Suburban Propane Partners, l.P. P 06/10/2020 06/17/2020 $50,001 - gfedc
+(SPH) [ST] $100,000
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Summit Midstream Partners, lP P 06/10/2020 06/17/2020 $15,001 - gfedc
+Common units Representing $50,000
+limited Partner Interests (SMlP)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+Summit Midstream Partners, lP P 06/10/2020 06/17/2020 $1,001 - $15,000 gfedc
+Common units Representing
+limited Partner Interests (SMlP)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+uSA Compression Partners, lP P 06/11/2020 06/18/2020 $1,001 - $15,000 gfedc
+Common units Representing
+limited Partner Interests (uSAC)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+uSA Compression Partners, lP P 06/10/2020 06/17/2020 $15,001 - gfedc
+Common units Representing $50,000
+limited Partner Interests (uSAC)
+[ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+uSA Compression Partners, lP P 06/10/2020 06/17/2020 $100,001 - gfedc
+Common units Representing $250,000
+limited Partner Interests (uSAC)
+[ST]
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+uSd Partners lP Common units P 06/10/2020 06/17/2020 $1,001 - $15,000 gfedc
+representing limited partner
+interest (uSdP) [ST]
+FIlING STATuS: New
+SubHOldING OF: AXA Retirement Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+AXA Retirement Account
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Mark Green , 07/06/2020

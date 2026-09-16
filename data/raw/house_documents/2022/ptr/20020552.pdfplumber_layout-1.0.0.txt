@@ -1,0 +1,150 @@
+[[PAGE 1]]
+Filing ID #20020552
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Thomas Suozzi
+Status: Member
+State/District: NY03
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Altria group, Inc. (MO) [ST] S 10/01/2018 10/30/2018 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Apple Inc. (AAPL) [ST] P 11/04/2018 11/30/2018 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Apple Inc. (AAPL) [ST] P 12/19/2018 12/31/2018 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+blackRock, Inc. (bLK) [ST] P 09/17/2019 09/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+blackRock, Inc. (bLK) [ST] S 10/17/2019 10/31/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+boeing Company (bA) [ST] S 03/05/2019 03/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+boeing Company (bA) [ST] P 04/17/2018 04/30/2018 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Caterpillar, Inc. (CAT) [ST] P 12/06/2017 12/31/2017 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Caterpillar, Inc. (CAT) [ST] P 10/01/2018 10/31/2018 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Caterpillar, Inc. (CAT) [ST] P 01/29/2019 01/31/2019 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Cisco Systems, Inc. (CSCO) [ST] P 10/01/2018 10/31/2018 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Citigroup, Inc. (C) [ST] P 10/01/2018 10/30/2018 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Control4 Corporation (CTRL) [ST] P 04/30/2018 04/30/2018 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Control4 Corporation (CTRL) [ST] P 06/27/2018 06/30/2018 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Control4 Corporation (CTRL) [ST] P 10/02/2018 10/31/2018 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Control4 Corporation (CTRL) [ST] P 10/11/2018 10/31/2018 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Control4 Corporation (CTRL) [ST] P 10/15/2018 10/31/2018 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Control4 Corporation (CTRL) [ST] P 01/08/2019 01/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Control4 Corporation (CTRL) [ST] P 10/01/2018 10/31/2018 $15,001 - gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Corning Incorporated (gLW) [ST] P 07/29/2019 07/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Corning Incorporated (gLW) [ST] P 07/30/2019 07/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Corning Incorporated (gLW) [ST] P 11/15/2019 11/30/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+DowDuPont Inc. (DWDP) [ST] P 03/05/2019 03/31/2019 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+general Electric Company (gE) P 06/01/2021 06/30/2021 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: National Securities- Advisor Discretion Account
+general Electric Company (gE) S 05/08/2018 05/31/2018 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Intel Corporation (INTC) [ST] P 10/01/2018 10/31/2018 $15,001 - gfedc
+[[PAGE 4]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+$50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+International business Machines S 06/27/2018 06/30/2018 $1,001 - $15,000 gfedc
+Corporation (IbM) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Superior Industries International, P 09/05/2017 09/30/2017 $1,001 - $15,000 gfedc
+Inc. Common Stock (SUP) [ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Verizon Communications Inc. (VZ) P 06/27/2018 06/30/2018 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Verizon Communications Inc. (VZ) P 10/01/2018 10/31/2018 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+Waste Management, Inc. (WM) P 10/01/2018 10/31/2018 $15,001 - gfedc
+[ST] $50,000
+FILINg STATUS: New
+SUbHOLDINg OF: Merrill Lynch- Advisor Discretion Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Merrill Lynch- Advisor Discretion Account
+LOCATION: US
+DESCRIPTION: Advisor Discretion Account under control of asset manager.
+Merrill Lynch- Advisor Discretion Account
+National Securities- Advisor Discretion Account
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 5]]
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Thomas Suozzi , 03/03/2022

@@ -1,0 +1,101 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Matthew Robert Van Epps
+Status: Member
+State/District:TN07
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alphabet Inc. - Class A Common
+Stock (GOOGL) [ST]
+S 06/16/202606/17/2026$1,001 - $15,000
+F S: New
+S O: Schwab One Account
+Amazon.com, Inc. - Common Stock
+(AMZN) [ST]
+S 06/16/202606/17/2026$1,001 - $15,000
+F S: New
+S O: Schwab One Account
+Apple Inc. - Common Stock (AAPL)
+[ST]
+S 06/16/202606/17/2026$1,001 - $15,000
+F S: New
+S O: Schwab One Account
+Exxon Mobil Corporation Common
+Stock (XOM) [ST]
+S 06/16/202606/17/2026$1,001 - $15,000
+F S: New
+S O: Schwab One Account
+GE Aerospace Common Stock (GE)
+[ST]
+S 06/16/202606/17/2026$1,001 - $15,000
+F S: New
+S O: Schwab One Account
+GE Vernova Inc. Common Stock
+(GEV) [ST]
+S 06/16/202606/17/2026$1,001 - $15,000
+F S: New
+S O: Schwab One Account
+Filing ID #20034807
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Intel Corporation - Common Stock
+(INTC) [ST]
+S 06/16/202606/17/2026$1,001 - $15,000
+F S: New
+S O: Schwab One Account
+International Business Machines
+Corporation Common Stock (IBM)
+[ST]
+S 06/16/202606/17/2026$1,001 - $15,000
+F S: New
+S O: Schwab One Account
+Meta Platforms, Inc. - Class A
+Common Stock (META) [ST]
+S 06/16/202606/17/2026$1,001 - $15,000
+F S: New
+S O: Schwab One Account
+Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 06/16/202606/17/2026$1,001 - $15,000
+F S: New
+S O: Schwab One Account
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+S 06/16/202606/17/2026$1,001 - $15,000
+F S: New
+S O: Schwab One Account
+Southwest Airlines Company
+Common Stock (LUV) [ST]
+S 06/16/202606/17/2026$1,001 - $15,000
+F S: New
+S O: Schwab One Account
+Tapestry, Inc. Common Stock (TPR)
+[ST]
+S 06/16/202606/17/2026$15,001 -
+$50,000
+F S: New
+S O: Schwab One Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Schwab One Account
+I P O
+[[PAGE 3]]
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Matthew Robert Van Epps , 06/17/2026

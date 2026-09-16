@@ -1,0 +1,107 @@
+[[PAGE 1]]
+Filing Id #20017905
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Greg Gianforte
+Status: Member
+State/District: MT00
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT AFTERPAY LTd AdR [OT] P 12/01/2020 12/07/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLdING OF: TWP Parametric Core Int'l Equity Fund
+LOCATION: Au
+dESCRIPTION: AFTPY AFTERPAY LTd AdR
+JT AstraZeneca PLC - American P 12/01/2020 12/07/2020 $1,001 - $15,000 gfedc
+depositary Shares (AZN) [ST]
+FILING STATuS: New
+SubHOLdING OF: TWP Parametric Core Int'l Equity Fund
+JT Cardtronics plc (CATM) [ST] S 12/17/2020 12/21/2020 $1,001 - $15,000 gfedcb
+FILING STATuS: New
+SubHOLdING OF: Newsouth Small Cap Equities
+JT Cardtronics plc (CATM) [ST] S 12/17/2020 12/21/2020 $1,001 - $15,000 gfedcb
+FILING STATuS: New
+SubHOLdING OF: Newsouth Small Cap Equities
+JT dassault Systemes, S.A. American P 12/08/2020 12/14/2020 $50,001 - gfedc
+depositary Shares (dASTY) [ST] $100,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT EVOLuTION GAMING GRO Ab P 12/01/2020 12/07/2020 $1,001 - $15,000 gfedc
+AdR [OT]
+FILING STATuS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOLdING OF: TWP Parametric Core Int'l Equity Fund
+LOCATION: SE
+dESCRIPTION: EVVTY EVOLuTION GAMING GRO Ab AdR
+JT Howard Hughes Corporation P 12/15/2020 12/21/2020 $100,001 - gfedc
+(HHC) [ST] $250,000
+FILING STATuS: New
+SubHOLdING OF: Newsouth Small Cap Equities
+JT Infineon Technologies AG (IFNNY) S (partial) 12/07/2020 12/14/2020 $50,001 - gfedcb
+[ST] $100,000
+FILING STATuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT iShares Russell 2000 Value ETF S (partial) 12/15/2020 12/21/2020 $500,001 - gfedcb
+(IWN) [ST] $1,000,000
+FILING STATuS: New
+SubHOLdING OF: Newsouth Small Cap Equities
+JT iShares Russell 2000 Value ETF S 12/18/2020 12/21/2020 $250,001 - gfedcb
+(IWN) [ST] $500,000
+FILING STATuS: New
+SubHOLdING OF: Newsouth Small Cap Equities
+JT Logitech International S.A. - P 12/01/2020 12/07/2020 $15,001 - gfedc
+Registered Shares (LOGI) [ST] $50,000
+FILING STATuS: New
+SubHOLdING OF: TWP Parametric Core Int'l Equity Fund
+JT Nintendo Co Ltd AdR (NTdOY) P 12/01/2020 12/07/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLdING OF: TWP Parametric Core Int'l Equity Fund
+JT NTT dOCOMO INC SPON AdR S 12/01/2020 12/07/2020 $15,001 - gfedcb
+[OT] $50,000
+FILING STATuS: New
+SubHOLdING OF: TWP Parametric Core Int'l Equity Fund
+LOCATION: JP
+dESCRIPTION: dCMYY NTT dOCOMO INC SPON AdR
+JT OneSpaWorld Holdings Limited - P 12/15/2020 12/21/2020 $100,001 - gfedc
+Common Shares (OSW) [ST] $250,000
+FILING STATuS: New
+SubHOLdING OF: Newsouth Small Cap Equities
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Thermon Group Holdings, Inc. P 12/15/2020 12/21/2020 $100,001 - gfedc
+(THR) [ST] $250,000
+FILING STATuS: New
+SubHOLdING OF: Newsouth Small Cap Equities
+JT ViaSat, Inc. (VSAT) [ST] P 12/18/2020 12/21/2020 $100,001 - gfedc
+$250,000
+FILING STATuS: New
+SubHOLdING OF: Newsouth Small Cap Equities
+JT Wix.com Ltd. - Ordinary Shares P 12/01/2020 12/07/2020 $1,001 - $15,000 gfedc
+(WIX) [ST]
+FILING STATuS: New
+SubHOLdING OF: TWP Parametric Core Int'l Equity Fund
+JT WW International, Inc. (WW) [ST] P 12/15/2020 12/21/2020 $100,001 - gfedc
+$250,000
+FILING STATuS: New
+SubHOLdING OF: Newsouth Small Cap Equities
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Harding Loevner International Equity (Owner: JT)
+Newsouth Small Cap Equities (Owner: JT)
+TWP Parametric Core Int'l Equity Fund (Owner: JT)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Greg Gianforte , 12/23/2020

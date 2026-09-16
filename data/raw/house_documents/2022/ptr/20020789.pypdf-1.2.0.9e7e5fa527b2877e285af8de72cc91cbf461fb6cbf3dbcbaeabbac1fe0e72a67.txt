@@ -1,0 +1,158 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT CITIGROUP GLOBAL MKTS HLDGS
+MTN 03/23/2027 [CS]
+P 03/18/202203/19/2022$250,001 -
+$500,000
+F S: New
+S O: Hern Family Foundation
+D: Buy open
+JT Devon Energy Corporation (DVN)
+[ST]
+P 03/31/202204/01/2022$15,001 -
+$50,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Devon Energy Corporation (DVN)
+[ST]
+P 03/31/202204/01/2022$1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+D: Dividend Reinvestment
+JT Emerson Electric Company (EMR)
+[ST]
+P 03/10/202203/11/2022 $1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Exxon Mobil Corporation (XOM) [ST]P 03/10/202203/11/2022 $1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+Filing ID #20020789
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Home Depot, Inc. (HD) [ST] P 03/24/202203/25/2022$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Honeywell International Inc. (HON)
+[ST]
+P 03/11/202203/12/2022$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Intel Corporation (INTC) [ST] P 03/01/202203/02/2022$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Johnson & Johnson (JNJ) [ST] P 03/08/202203/09/2022$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Lockheed Martin Corporation (LMT)
+[ST]
+P 03/25/202203/26/2022$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Microsoft Corporation (MSFT) [ST] P 03/10/202203/11/2022 $1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT MORGAN STANLEY FIN LLC SER A
+MTN 09/23/2025 [CS]
+S 03/23/202203/24/2022$250,001 -
+$500,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Full call by the issuer
+JT NextEra Energy, Inc. (NEE) [ST] P 03/15/202203/16/2022$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Pioneer Natural Resources Company
+(PXD) [ST]
+P 03/14/202203/15/2022$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Pioneer Natural Resources Company
+(PXD) [ST]
+P 03/14/202203/15/2022$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Pioneer Natural Resources Company
+(PXD) [ST]
+P 03/14/202203/15/2022$1,001 - $15,000
+F S: New
+S O: Hern Family Foundation
+D: Dividend Reinvestment
+JT Raytheon Technologies Corporation
+(RTX) [ST]
+P 03/24/202203/25/2022$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Rockwell Automation, Inc. (ROK)
+[ST]
+P 03/10/202203/11/2022 $1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+P 03/22/202203/23/2022$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+JT Williams Companies, Inc. (WMB)
+[ST]
+P 03/28/202203/29/2022$1,001 - $15,000
+F S: New
+S O: Hern Family Revocable Trust > Brokerage Investment Account
+D: Dividend Reinvestment
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+[[PAGE 4]]
+Hern Family Foundation (100% Interest) (Owner: JT)
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+D: Family Revocable Trust
+Hern Family Revocable Trust ⇒ Brokerage Investment Account (100% Interest) (Owner: JT)
+L: US
+D: Stock, Bonds, EFTs, & Mutual funds
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 04/12/2022

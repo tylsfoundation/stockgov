@@ -1,0 +1,50 @@
+[[PAGE 1]]
+Filing ID #20016694
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Michael K. Simpson
+Status: Member
+State/District: ID02
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+boeing Company (bA) [ST] P 03/25/2020 04/03/2020 $1,001 - $15,000 gfedc
+FIlINg STATUS: New
+SUbHolDINg oF: D.A. Davidson
+DESCRIPTIoN: boeing Company
+Chimera Investment Corporation P 03/25/2020 04/03/2020 $1,001 - $15,000 gfedc
+(CIM) [ST]
+FIlINg STATUS: New
+SUbHolDINg oF: D.A. Davidson
+DESCRIPTIoN: Chimera Investment Corp.
+First Trust MlP and Energy P 03/26/2020 04/03/2020 $1,001 - $15,000 gfedc
+Income Fund Common Shares of
+beneficial Interest (FEI) [ST]
+FIlINg STATUS: New
+SUbHolDINg oF: D.A. Davidson
+DESCRIPTIoN: First Trust MlP & Energy Income Fund
+Phillips 66 (PSX) [ST] P 03/25/2020 04/03/2020 $1,001 - $15,000 gfedc
+FIlINg STATUS: New
+SUbHolDINg oF: D.A. Davidson
+DESCRIPTIoN: Phillips 66
+United Airlines Holdings, Inc. P 03/26/2020 04/03/2020 $1,001 - $15,000 gfedc
+(UAl) [ST]
+FIlINg STATUS: New
+SUbHolDINg oF: D.A. Davidson
+DESCRIPTIoN: United Airlines Holdings
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+D.A. Davidson
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Michael K. Simpson , 06/01/2020

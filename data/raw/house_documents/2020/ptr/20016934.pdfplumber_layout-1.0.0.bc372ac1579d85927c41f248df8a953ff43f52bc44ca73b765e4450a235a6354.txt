@@ -1,0 +1,73 @@
+[[PAGE 1]]
+Filing ID #20016934
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. James R. Langevin
+Status: Member
+State/District: RI02
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Alibaba group Holding Limited S 07/06/2020 07/06/2020 $1,001 - $15,000 gfedcb
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+FILINg STATuS: New
+Alibaba group Holding Limited S (partial) 07/08/2020 07/08/2020 $1,001 - $15,000 gfedcb
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Roth IRA
+Alibaba group Holding Limited S (partial) 07/08/2020 07/08/2020 $1,001 - $15,000 gfedcb
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+FILINg STATuS: New
+SuBHOLDINg OF: Roth IRA
+Facebook, Inc. - Class A (FB) [ST] S (partial) 07/06/2020 07/06/2020 $1,001 - $15,000 gfedcb
+FILINg STATuS: New
+HuYA Inc. American depositary S 06/11/2020 06/11/2020 $1,001 - $15,000 gfedcb
+shares, each representing one
+Class A ordinary share (HuYA)
+[OP]
+FILINg STATuS: New
+DESCRIPTION: Call Option, $18, Exp. 06/19/2020
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+HuYA Inc. American depositary S 06/22/2020 06/22/2020 $15,001 - gfedc
+shares, each representing one $50,000
+Class A ordinary share (HuYA)
+[ST]
+FILINg STATuS: New
+HuYA Inc. American depositary P 06/19/2020 06/19/2020 $1,001 - $15,000 gfedc
+shares, each representing one
+Class A ordinary share (HuYA)
+[OP]
+FILINg STATuS: New
+DESCRIPTION: Call Option, $18, Exp. 06/19/2020
+HuYA Inc. American depositary S (partial) 06/22/2020 06/22/2020 $15,001 - gfedc
+shares, each representing one $50,000
+Class A ordinary share (HuYA)
+[ST]
+FILINg STATuS: New
+Zillow group, Inc. - Class C Capital P 06/26/2020 06/26/2020 $50,001 - gfedc
+Stock (Z) [ST] $100,000
+FILINg STATuS: New
+Zillow group, Inc. - Class C Capital S 07/06/2020 07/06/2020 $50,001 - gfedcb
+Stock (Z) [ST] $100,000
+FILINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Roth IRA
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. James R. Langevin , 07/23/2020

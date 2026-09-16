@@ -1,0 +1,57 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Byron Donalds
+Status: Member
+State/District:FL19
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Netflix, Inc. - Common Stock (NFLX)
+[ST]
+P 03/20/202604/01/2026$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP Netflix, Inc. - Common Stock (NFLX)
+[ST]
+P 03/20/202604/01/2026$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+PayPal Holdings, Inc. - Common
+Stock (PYPL) [ST]
+P 03/13/202604/01/2026$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP PayPal Holdings, Inc. - Common
+Stock (PYPL) [ST]
+P 03/13/202604/01/2026$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+The Trade Desk, Inc. - Class A
+Common Stock (TTD) [ST]
+S 03/20/202604/01/2026$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+SP The Trade Desk, Inc. - Class A
+Common Stock (TTD) [ST]
+S 03/20/202604/01/2026$1,001 - $15,000
+F S: New
+S O: Moran Wealth IRA
+Filing ID #20034297
+[[PAGE 2]]
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Moran Wealth IRA
+Moran Wealth IRA (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Byron Donalds , 04/08/2026

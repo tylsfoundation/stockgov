@@ -1,0 +1,63 @@
+[[PAGE 1]]
+Filing ID #20018616
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Marie Newman
+Status: Member
+State/District: Il03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+2000078140 SP Alibaba group Holding limited S 01/22/2021 03/01/2021 $15,001 - gfedc
+American Depositary Shares $50,000
+each representing eight
+Ordinary share (bAbA) [ST]
+FIlINg STATuS: Amended
+SubHOlDINg OF: Individual 401(K)
+2000078153 SP Apple Inc. (AAPl) [ST] P 01/29/2021 03/01/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: Amended
+SubHOlDINg OF: Rollover IRA
+2000078154 SP boeing Company (bA) [ST] S 01/29/2021 03/01/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: Amended
+SubHOlDINg OF: Rollover IRA
+2000078155 SP Chewy, Inc. Class A (CHWY) S 01/29/2021 03/01/2021 $1,001 - gfedc
+[ST] $15,000
+FIlINg STATuS: Amended
+SubHOlDINg OF: Rollover IRA
+2000078156 SP Moderna, Inc. (MRNA) [ST] S 01/29/2021 03/01/2021 $15,001 - gfedcb
+$50,000
+FIlINg STATuS: Amended
+SubHOlDINg OF: Rollover IRA
+2000078157 SP Moderna, Inc. (MRNA) [ST] S 01/29/2021 03/01/2021 $1,001 - gfedcb
+$15,000
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: Amended
+SubHOlDINg OF: Rollover IRA
+2000078158 SP Twitter, Inc. (TWTR) [ST] S 01/29/2021 03/01/2021 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+SubHOlDINg OF: Rollover IRA
+2000078159 SP Twitter, Inc. (TWTR) [ST] S 01/29/2021 03/01/2021 $1,001 - gfedc
+$15,000
+FIlINg STATuS: Amended
+SubHOlDINg OF: Rollover IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Individual 401(K) (Owner: SP)
+DESCRIPTION: James D Newman Charles Schwab & Co Inc Cust James D Newman & Assoc 401(K)
+Rollover IRA (Owner: SP)
+DESCRIPTION: James D Newman Charles Schwab & Co Inc Cust IRA Rollover
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Marie Newman , 04/21/2021

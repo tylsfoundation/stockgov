@@ -1,0 +1,89 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Robert J. Wittman
+Status: Member
+State/District:VA01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Abbott Laboratories (ABT) [ST] S (partial) 06/16/202206/21/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley
+AbbVie Inc. (ABBV) [ST] P 06/16/202206/21/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+Amazon.com, Inc. (AMZN) [ST] P 06/16/202206/21/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+Baxter International Inc. (BAX) [ST] S (partial) 06/16/202206/21/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley
+First Trust TCW Opportunistic Fixed
+Income ETF (FIXD) [ST]
+S 06/16/202206/21/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+General Electric Company (GE) [ST] S 06/16/202206/21/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+Global X Funds Global X U.S.
+Infrastructure Development ETF
+S (partial) 06/16/202206/21/2022$1,001 - $15,000
+Filing ID #20021344
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(PAVE) [ST]
+F S: New
+S O: Morgan Stanley INH IRA
+iShares 0-5 Year High Yield Corporate
+Bond ETF (SHYG) [ST]
+P 06/16/202206/21/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+iShares 10-20 Year Treasury Bond
+ETF (TLH) [ST]
+P 06/16/202206/21/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+iShares Core S&P 500 ETF (IVV) [ST] S 06/16/202206/21/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+iShares Russell 1000 ETF (IWB) [ST] P 06/16/202206/21/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley
+SPDR S&P 500 (SPY) [ST] S (partial) 06/16/202206/21/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley
+TJX Companies, Inc. (TJX) [ST] S (partial) 06/16/202206/21/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley
+Walmart Inc. (WMT) [ST] P 06/16/202206/21/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley INH IRA
+Walmart Inc. (WMT) [ST] S (partial) 06/16/202206/21/2022$1,001 - $15,000
+F S: New
+S O: Morgan Stanley
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+[[PAGE 3]]
+Morgan Stanley
+Morgan Stanley INH IRA
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Robert J. Wittman , 07/08/2022

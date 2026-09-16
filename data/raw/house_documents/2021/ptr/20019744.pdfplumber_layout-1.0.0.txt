@@ -1,0 +1,51 @@
+[[PAGE 1]]
+Filing ID #20019744
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Zoe Lofgren
+Status: Member
+State/District: CA19
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Amazon.com, Inc. (AMZN) [ST] S 10/15/2021 11/03/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: John Marshall Collins Rollover IRA
+SP Caterpillar, Inc. (CAT) [CS] P 10/05/2021 11/03/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: John Marshall Collins Rollover IRA
+DESCRIPTION: Corporate bond
+SP Home Depot, Inc. (HD) [ST] S 10/13/2021 11/03/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: John Marshall Collins Rollover IRA
+JT Lucid group, Inc. (LCID) [ST] P 10/13/2021 11/03/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: Collins/Lofgren Family Trust
+SP Pfizer, Inc. (PFE) [ST] S 10/13/2021 11/03/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: John Marshall Collins Rollover IRA
+SP Walmart Inc. (WMT) [ST] S 10/13/2021 11/03/2021 $1,001 - $15,000 gfedc
+FILINg STATuS: New
+SuBHOLDINg OF: John Marshall Collins Rollover IRA
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Wells Fargo & Company (WFC) P 10/05/2021 11/03/2021 $1,001 - $15,000 gfedc
+Med. Term Note [CS]
+FILINg STATuS: New
+SuBHOLDINg OF: John Marshall Collins Rollover IRA
+DESCRIPTION: Corporate Bond
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Collins/Lofgren Family Trust (Owner: JT)
+John Marshall Collins Rollover IRA (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Zoe Lofgren , 11/03/2021

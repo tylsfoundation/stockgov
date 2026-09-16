@@ -1,0 +1,179 @@
+[[PAGE 1]]
+Filing ID #20019594
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Kevin Hern
+Status: Member
+State/District: OK01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Accenture plc Class A Ordinary P 09/23/2021 09/24/2021 $100,001 - gfedc
+Shares (ACN) [ST] $250,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+JT Cadence Design Systems, Inc. P 09/02/2021 09/03/2021 $15,001 - gfedc
+(CDNS) [ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Columbia Diversified Fixed P 09/07/2021 09/08/2021 $1,001 - $15,000 gfedc
+Income Allocation ETF (DIAl)
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT Devon Energy Corporation (DVN) P 09/30/2021 10/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+DESCRIPTION: Dividend Reinvestment
+JT Devon Energy Corporation (DVN) P 09/30/2021 10/01/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Emerson Electric Company (EMR) P 09/10/2021 09/13/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT Exxon Mobil Corporation (XOM) P 09/02/2021 09/03/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT Home Depot, Inc. (HD) [ST] P 09/16/2021 09/17/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT Honeywell International Inc. P 09/03/2021 09/06/2021 $1,001 - $15,000 gfedc
+(HON) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT ICON plc - Ordinary Shares (IClR) P 09/02/2021 09/03/2021 $15,001 - gfedc
+[ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Intel Corporation (INTC) [ST] P 09/02/2021 09/03/2021 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT IQVIA Holdings, Inc. (IQV) [ST] P 09/02/2021 09/03/2021 $15,001 - gfedc
+$50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT iShares Core Dividend growth P 09/30/2021 10/01/2021 $1,001 - $15,000 gfedc
+ETF (DgRO) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+DESCRIPTION: Dividend Reinvestment
+JT iShares Core Dividend growth P 09/30/2021 10/01/2021 $1,001 - $15,000 gfedc
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+ETF (DgRO) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT iShares TIPS bond ETF (TIP) [ST] P 09/08/2021 09/09/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+DESCRIPTION: Dividend Reinvestment
+JT iShares TIPS bond ETF (TIP) [ST] P 09/08/2021 09/09/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT Johnson & Johnson (JNJ) [ST] P 09/02/2021 09/03/2021 $50,001 - gfedc
+$100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Johnson & Johnson (JNJ) [ST] P 09/07/2021 09/08/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT Medtronic plc. Ordinary Shares P 09/23/2021 09/24/2021 $100,001 - gfedc
+(MDT) [ST] $250,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+JT Microsoft Corporation (MSFT) P 09/09/2021 09/10/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT NextEra Energy, Inc. (NEE) [ST] P 09/15/2021 09/16/2021 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT Pioneer Natural Resources P 09/17/2021 09/20/2021 $1,001 - $15,000 gfedc
+Company (PXD) [ST]
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT Progress Software Corporation P 09/02/2021 09/03/2021 $15,001 - gfedc
+(PRgS) [ST] $50,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Progress Software Corporation P 09/02/2021 09/03/2021 $1,001 - $15,000 gfedc
+(PRgS) [ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Raytheon Technologies P 09/02/2021 09/03/2021 $50,001 - gfedc
+Corporation (RTX) [ST] $100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT Raytheon Technologies P 09/23/2021 09/24/2021 $250,001 - gfedc
+Corporation (RTX) [ST] $500,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+JT Rockwell Automation, Inc. (ROK) P 09/10/2021 09/13/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+JT SPDR S&P 500 (SPY) [ST] S 09/20/2021 09/21/2021 $500,001 - gfedc
+$1,000,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+DESCRIPTION: Trailing Stop loss triggered sale of this position
+JT unitedHealth group Incorporated P 09/02/2021 09/03/2021 $50,001 - gfedc
+Common Stock (uNH) [ST] $100,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Foundation
+JT unitedHealth group Incorporated P 09/23/2021 09/23/2021 $250,001 - gfedc
+Common Stock (uNH) [ST] $500,000
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Williams Companies, Inc. (WMb) P 09/27/2021 09/28/2021 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+SubHOlDINg OF: Hern Family Revocable Trust
+DESCRIPTION: Dividend Reinvestment
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Hern Family Foundation (100% Interest) (Owner: JT)
+Hern Family Revocable Trust (100% Interest) (Owner: JT)
+DESCRIPTION: Family Revocable Trust
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kevin Hern , 10/07/2021

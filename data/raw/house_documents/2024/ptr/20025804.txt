@@ -1,0 +1,206 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJ05
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Abbott Laboratories Common Stock
+(ABT) [ST]
+P 08/19/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Advanced Micro Devices, Inc. (AMD)
+[ST]
+S (partial) 08/06/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Advanced Micro Devices, Inc. (AMD)
+[ST]
+S 08/01/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Air Products and Chemicals, Inc.
+Common Stock (APD) [ST]
+S (partial) 08/30/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Apple Inc. - Common Stock (AAPL)
+[ST]
+P 08/01/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+P 08/30/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+Filing ID #20025804
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT BioNTech SE - American Depositary
+Shares (BNTX) [ST]
+S (partial) 08/30/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Booking Holdings Inc. - Common
+Stock (BKNG) [ST]
+S (partial) 08/02/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Chuy's Holdings, Inc. - Common
+Stock (CHUY) [ST]
+S 08/06/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Coca-Cola Company (KO) [ST] P 08/02/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Coca-Cola Company (KO) [ST] P 08/05/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Eaton Corporation, PLC Ordinary
+Shares (ETN) [ST]
+S (partial) 08/30/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT First Watch Restaurant Group, Inc. -
+Common Stock (FWRG) [ST]
+P 08/06/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Goldman Sachs Group, Inc. (GS) [ST] P 08/02/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Goldman Sachs Group, Inc. (GS) [ST] P 08/01/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT HAIER SMART HOME U/ADR
+(HSHCY) [ST]
+S (partial) 08/08/202409/06/2024$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Jabil Inc. Common Stock (JBL) [ST] S 08/02/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Lowe's Companies, Inc. Common
+Stock (LOW) [ST]
+S (partial) 08/30/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Marriott International - Class A
+Common Stock (MAR) [ST]
+S 08/02/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Microsoft Corporation - Common
+Stock (MSFT) [ST]
+P 08/12/202409/06/2024$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+JT Microsoft Corporation - Common
+Stock (MSFT) [OP]
+S 08/12/202409/06/2024$15,001 -
+$50,000
+F S: New
+S O: Morgan Stanley - Portfolio Management Active Assets Account
+D: Call options; Strike price $225; Expires 12/19/2025
+JT Norfolk Southern Corporation
+Common Stock (NSC) [ST]
+S (partial) 08/30/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Oracle Corporation Common Stock
+(ORCL) [ST]
+S (partial) 08/02/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT ServiceNow, Inc. Common Stock
+(NOW) [ST]
+P 08/05/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Shopify Inc. Class A Subordinate
+Voting Shares (SHOP) [ST]
+S (partial) 08/01/202409/06/2024$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Spotify Technology S.A. Ordinary
+Shares (SPOT) [ST]
+P 08/05/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Starbucks Corporation - Common
+Stock (SBUX) [ST]
+P 08/14/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Synopsys, Inc. - Common Stock
+(SNPS) [ST]
+S (partial) 08/30/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Tandem Diabetes Care, Inc. -
+Common Stock (TNDM) [ST]
+P 08/05/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Tesla, Inc. - Common Stock (TSLA)
+[ST]
+S (partial) 08/28/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Texas Instruments Incorporated -
+Common Stock (TXN) [ST]
+S (partial) 08/30/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+JT Uber Technologies, Inc. Common
+Stock (UBER) [ST]
+S (partial) 08/01/202409/06/2024$1,001 - $15,000
+F S: New
+S O: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Morgan Stanley - Portfolio Management Active Assets Account (Owner: JT)
+L: US
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+[[PAGE 5]]
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 09/11/2024

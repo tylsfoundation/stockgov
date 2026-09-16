@@ -1,0 +1,263 @@
+[[PAGE 1]]
+Filing ID #20020423
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+filer information
+name: Hon. Kathy Manning
+Status: Member
+State/District: NC06
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Adobe Inc. (ADBE) [ST] P 03/25/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Amazon.com, Inc. (AMZN) [ST] S (partial) 10/19/2021 02/09/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+SP Biogen Inc. (BIIB) [ST] S 01/14/2022 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: ManKap Family LLC > MV Capital - Brokerage #3
+SP Brown Robin Partners I, LLC P 01/12/2022 01/12/2022 $15,001 - gfedc
+(Fund 2) [HN] $50,000
+FILING STATUS: New
+SUBHOLDING OF: ManKap Family LLC > Kathy Manning GST FBO Randall Kaplan
+SP Brown Robin Partners LTH I, LLC P 01/12/2022 01/12/2022 $1,001 - $15,000 gfedc
+(Fund 2 LTH) [HN]
+FILING STATUS: New
+SUBHOLDING OF: ManKap Family LLC > Kathy Manning GST FBO Randall Kaplan
+JT Chipotle Mexican Grill, Inc. (CMG) P 03/26/2021 02/09/2022 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT CME Group Inc. - Class A (CME) P 03/08/2021 02/09/2022 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT CME Group Inc. - Class A (CME) P 11/05/2021 02/09/2022 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Estee Lauder Companies, Inc. (EL) S (partial) 03/25/2021 02/09/2022 $15,001 - gfedcb
+[ST] $50,000
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+SP Guerilla RF, Inc. [PS] P 10/22/2021 10/22/2021 $50,001 - gfedc
+$100,000
+FILING STATUS: New
+LOCATION: US
+DESCRIPTION: Chip design company
+JT IHS Markit Ltd. Common Shares S (partial) 03/16/2021 02/09/2022 $1,001 - $15,000 gfedcb
+(INFO) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT IHS Markit Ltd. Common Shares S (partial) 03/25/2021 02/09/2022 $1,001 - $15,000 gfedcb
+(INFO) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT IHS Markit Ltd. Common Shares S (partial) 05/19/2021 02/09/2022 $1,001 - $15,000 gfedcb
+(INFO) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT IHS Markit Ltd. Common Shares S 12/31/2021 02/09/2022 $15,001 - gfedcb
+(INFO) [ST] $50,000
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT IHS Markit Ltd. Common Shares S (partial) 02/02/2021 02/09/2022 $15,001 - gfedcb
+(INFO) [ST] $50,000
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT IHS Markit Ltd. Common Shares S (partial) 02/11/2021 02/09/2022 $1,001 - $15,000 gfedcb
+(INFO) [ST]
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Illumina, Inc. (ILMN) [ST] S (partial) 02/24/2021 02/09/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Illumina, Inc. (ILMN) [ST] P 12/01/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Illumina, Inc. (ILMN) [ST] P 08/25/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Illumina, Inc. (ILMN) [ST] P 10/26/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Intuit Inc. (INTU) [ST] S (partial) 08/24/2021 02/09/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Intuit Inc. (INTU) [ST] S (partial) 11/15/2021 02/09/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Intuitive Surgical, Inc. (ISRG) [ST] S (partial) 12/01/2021 02/09/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Intuitive Surgical, Inc. (ISRG) [ST] S (partial) 05/04/2021 02/09/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Match Group, Inc. (MTCH) [ST] P 05/04/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+[[PAGE 4]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT Match Group, Inc. (MTCH) [ST] P 05/19/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Match Group, Inc. (MTCH) [ST] P 06/18/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Match Group, Inc. (MTCH) [ST] P 03/09/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Match Group, Inc. (MTCH) [ST] P 02/24/2021 02/09/2022 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Match Group, Inc. (MTCH) [ST] P 08/09/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Match Group, Inc. (MTCH) [ST] P 10/19/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Meta Platforms, Inc. - Class A (FB) S (partial) 05/14/2021 02/09/2022 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+DESCRIPTION: f/k/a Facebook, Inc. CL A
+JT Microsoft Corporation (MSFT) S (partial) 12/31/2021 02/09/2022 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Netflix, Inc. (NFLX) [ST] P 12/31/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Netflix, Inc. (NFLX) [ST] P 01/22/2021 02/09/2022 $15,001 - gfedc
+[[PAGE 5]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+$50,000
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Netflix, Inc. (NFLX) [ST] P 06/22/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT NVIDIA Corporation (NVDA) [ST] S (partial) 06/22/2021 02/09/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT NVIDIA Corporation (NVDA) [ST] S (partial) 06/18/2021 02/09/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT NVIDIA Corporation (NVDA) [ST] P 03/25/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT NVIDIA Corporation (NVDA) [ST] S (partial) 10/19/2021 02/09/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT NVIDIA Corporation (NVDA) [ST] S (partial) 09/01/2021 02/09/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT NVIDIA Corporation (NVDA) [ST] S (partial) 11/05/2021 02/09/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT NVIDIA Corporation (NVDA) [ST] S (partial) 11/12/2021 02/09/2022 $15,001 - gfedcb
+$50,000
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT NVIDIA Corporation (NVDA) [ST] S (partial) 11/18/2021 02/09/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+[[PAGE 6]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+JT PayPal Holdings, Inc. (PYPL) [ST] P 11/12/2021 02/09/2022 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT PayPal Holdings, Inc. (PYPL) [ST] S (partial) 01/22/2021 02/09/2022 $15,001 - gfedcb
+$50,000
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT PayPal Holdings, Inc. (PYPL) [ST] P 12/31/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Snap Inc. Class A (SNAP) [ST] P 12/31/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Snap Inc. Class A (SNAP) [ST] S (partial) 02/24/2021 02/09/2022 $15,001 - gfedcb
+$50,000
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Snap Inc. Class A (SNAP) [ST] S (partial) 03/02/2021 02/09/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Snap Inc. Class A (SNAP) [ST] P 03/25/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Snap Inc. Class A (SNAP) [ST] P 05/14/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Snap Inc. Class A (SNAP) [ST] P 11/15/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Snap Inc. Class A (SNAP) [ST] P 11/24/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+[[PAGE 7]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SP Southwest Airlines Company S 01/14/2022 02/09/2022 $1,001 - $15,000 gfedc
+(LUV) [ST]
+FILING STATUS: New
+SUBHOLDING OF: ManKap Family LLC > MV Capital - Brokerage #3
+SP Triad Business Bank (TBBC) [OT] P 06/15/2021 06/15/2021 $50,001 - gfedc
+$100,000
+FILING STATUS: New
+SUBHOLDING OF: The 2021 Kathy Manning Irrevocable GST Trust FBO Randall Kaplan
+LOCATION: US
+DESCRIPTION: Small public community bank.
+JT Visa Inc. (V) [ST] P 10/19/2021 02/09/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+JT Visa Inc. (V) [ST] P 02/02/2021 02/09/2022 $15,001 - gfedc
+$50,000
+FILING STATUS: New
+SUBHOLDING OF: Charles Schwab - Edgewood Management LLC
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Charles Schwab - Edgewood Management LLC (Owner: JT)
+LOCATION: US
+ManKap Family LLC (Owner: SP)
+LOCATION: US
+ManKap Family LLC ⇒ Kathy Manning GST FBO Randall Kaplan (Owner: SP)
+ManKap Family LLC ⇒ MV Capital - Brokerage #3 (Owner: SP)
+LOCATION: US
+The 2021 Kathy Manning Irrevocable GST Trust FBO Randall Kaplan (Owner: SP)
+commentS
+Neither the filer nor her spouse directs or controls transactions within the Charles Schwab - Edgewood Management LLC account.
+Due to an administrative error, the filer’s third party preparer did not receive any transaction notifications for this account, as
+required by the filer’s existing reporting procedures, until February 9, 2022. Upon notification of these transactions, the filer is
+immediately filing this report and has taken steps to correct the notification error going forward.
+initial Public offeringS
+nmlkj Yes nmlkji No
+[[PAGE 8]]
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kathy Manning , 02/11/2022

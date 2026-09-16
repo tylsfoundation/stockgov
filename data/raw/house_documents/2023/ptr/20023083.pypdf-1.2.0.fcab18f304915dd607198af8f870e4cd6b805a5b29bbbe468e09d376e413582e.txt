@@ -1,0 +1,514 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Zoe Lofgren
+Status: Member
+State/District:CA18
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP AbbVie Inc. (ABBV) [CS] S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP Accenture plc Class A Ordinary Shares
+(ACN) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Adobe Inc. (ADBE) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Amazon.com, Inc. (AMZN) [CS] S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP American Electric Power Company,
+Inc. (AEP) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP American Electric Power Company,
+Inc. (AEP) [CS]
+S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+Filing ID #20023083
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: Corporate bond
+SP American Tower Corporation (REIT)
+(AMT) [CS]
+S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP American Water Works Company, Inc.
+(AWK) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Anheuser-Busch Inbev SA Sponsored
+ADR (BUD) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Anheuser-Busch Inbev SA Sponsored
+ADR (Belgium) (BUD) [CS]
+S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP Aon plc Class A Ordinary Shares
+(AON) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Applied Materials, Inc. (AMAT) [CS] S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP Ares Capital Corporation - Closed End
+Fund (ARCC) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP ASML Holding N.V. - New York
+Registry Shares (ASML) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP AT&T Inc. (T) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Avangrid, Inc. (AGR) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Bank of America Corporation (BAC)
+[ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Bank of America Corporation (BAC)
+[CS]
+S 05/26/202306/06/2023$15,001 -
+$50,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP Bank Of Montreal (BMO) [CS] S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP BCE, Inc. (BCE) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Becton, Dickinson and Company
+(BDX) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Berkshire Hathaway Inc. New
+(BRK.B) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Blackstone Inc. (BX) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Caterpillar, Inc. (CAT) [CS] S 05/26/202306/06/2023$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP Cincinnati Financial Corporation
+(CINF) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Cintas Corporation (CTAS) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Cisco Systems, Inc. (CSCO) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Cisco Systems, Inc. (CSCO) [CS] S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP Citigroup, Inc. (C) [CS] S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP CME Group Inc. - Class A (CME) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Coca-Cola Company (KO) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Comcast Corporation - Class A
+(CMCSA) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Costco Wholesale Corporation (COST)
+[ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Crown Castle Inc. (CCI) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP CVS Health Corporation (CVS) [CS] S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP Danaher Corporation (DHR) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+JT Deckers Outdoor Corporation (DECK)
+[ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: Collins/Lofgren Family Trust
+SP Dominion Energy, Inc. (D) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Duke Energy Corporation (DUK) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Edwards Lifesciences Corporation
+(EW) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Emerson Electric Company (EMR)
+[ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Entergy Corporation (ETR) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Equinix, Inc. (EQIX) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Eversource Energy (ES) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Fifth Third Bancorp (FITB) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP First Horizon Corporation (FHN) [ST]S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP General Mills, Inc. (GIS) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Gilead Sciences, Inc. (GILD) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Hartford Financial Services Group,
+Inc. (HIG) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP HCA Healthcare, Inc. (HCA) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Interpublic Group of Companies, Inc.
+(IPG) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Jefferies Financial Group Inc. (JEF)
+[CS]
+S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP JP Morgan Chase & Co. (JPM) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP KLA Corporation (KLAC) [CS] S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+JT Lucid Group, Inc. (LCID) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: Collins/Lofgren Family Trust
+SP Mastercard Incorporated (MA) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP McDonald's Corporation (MCD) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP MetLife, Inc. (MET) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Mid-America Apartment
+Communities, Inc. (MAA) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Morgan Stanley (MS) [CS] S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP NetApp, Inc. (NTAP) [CS] S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP NextEra Energy, Inc. (NEE) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP NNN REIT, Inc. (NNN) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP NXP Semiconductors N.V. (NXPI)
+[ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Old Dominion Freight Line, Inc.
+(ODFL) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Oracle Corporation Ordinary Shares
+(OCLCF) [CS]
+S 05/26/202306/06/2023$15,001 -
+$50,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP Paramount Global Ltd. [CS] S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP Paychex, Inc. (PAYX) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Pepsico, Inc. (PEP) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Pfizer, Inc. (PFE) [CS] S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP Procter & Gamble Company (PG) [ST]S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP ProLogis, Inc. (PLD) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP QUALCOMM Incorporated (QCOM)
+[ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Quanta Services, Inc. (PWR) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Roper Technologies, Inc. (ROP) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP S&P Global Inc. (SPGI) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Sherwin-Williams Company (SHW)
+[ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Sonoco Products Company (SON)
+[ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+JT Southern Company (SO) [ST] S 05/25/202306/06/2023$15,001 -
+$50,000
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Collins/Lofgren Family Trust
+SP Starbucks Corporation (SBUX) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Thermo Fisher Scientific Inc (TMO)
+[ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP TJX Companies, Inc. (TJX) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP T-Mobile US, Inc. (TMUS) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Trane Technologies plc (TT) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP TransUnion (TRU) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP U.S. Bancorp (USB) [CS] S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP Union Pacific Corporation (UNP) [CS]S 05/26/202306/06/2023$15,001 -
+$50,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: John Marshall Collins Rollover IRA
+SP UnitedHealth Group Incorporated
+Common Stock (DE) (UNH) [CS]
+S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP Verizon Communications Inc. (VZ)
+[ST]
+S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Verizon Communications Inc. (VZ)
+[CS]
+S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP Visa Inc. (V) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Walgreens Boots Alliance, Inc. (WBA)
+[CS]
+S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP Walt Disney Company (DIS) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+SP Wells Fargo & Company (WFC) [CS] S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+SP Westpac Banking Corporation (WBK)
+[CS]
+S 05/26/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+D: Corporate bond
+[[PAGE 12]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Zoetis Inc. Class A (ZTS) [ST] S 05/25/202306/06/2023$1,001 - $15,000
+F S: New
+S O: John Marshall Collins Rollover IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Collins/Lofgren Family Trust (Owner: JT)
+John Marshall Collins Rollover IRA (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Zoe Lofgren , 06/06/2023

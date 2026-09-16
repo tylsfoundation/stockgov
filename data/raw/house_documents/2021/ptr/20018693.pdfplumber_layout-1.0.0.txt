@@ -1,0 +1,103 @@
+[[PAGE 1]]
+Filing Id #20018693
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Kathy Manning
+Status: Member
+State/District: NC06
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+AbbVie Inc. (ABBV) [ST] S (partial) 04/30/2021 05/06/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+SP Accenture plc Class A Ordinary S (partial) 04/30/2021 05/06/2021 $1,001 - $15,000 gfedcb
+Shares (ACN) [ST]
+FILING STATUS: New
+SUBHOLdING OF: MV Capital - GST Exempt Trust #2
+Accenture plc Class A Ordinary S (partial) 04/30/2021 05/06/2021 $1,001 - $15,000 gfedcb
+Shares (ACN) [ST]
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+Alphabet Inc. - Class A (GOOGL) S (partial) 04/30/2021 05/06/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+Amgen Inc. (AMGN) [ST] P 04/30/2021 05/06/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+Aon plc Class A Ordinary Shares S (partial) 04/30/2021 05/06/2021 $1,001 - $15,000 gfedcb
+(AON) [ST]
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Caterpillar, Inc. (CAT) [ST] P 04/30/2021 05/06/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+Centene Corporation (CNC) [ST] P 04/30/2021 05/06/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+Estee Lauder Companies, Inc. (EL) S (partial) 04/30/2021 05/06/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+Intuit Inc. (INTU) [ST] S (partial) 04/30/2021 05/06/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+Johnson & Johnson (JNJ) [ST] S (partial) 04/30/2021 05/06/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+Lam Research Corporation (LRCX) P 04/30/2021 05/06/2021 $15,001 - gfedc
+[ST] $50,000
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+SP Lam Research Corporation (LRCX) P 04/30/2021 05/06/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUBHOLdING OF: MV Capital - GST Exempt Trust #2
+Microsoft Corporation (MSFT) P 04/30/2021 05/06/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+Starbucks Corporation (SBUX) S (partial) 04/30/2021 05/06/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+SP Starbucks Corporation (SBUX) S (partial) 04/30/2021 05/06/2021 $1,001 - $15,000 gfedcb
+[ST]
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STATUS: New
+SUBHOLdING OF: MV Capital - GST Exempt Trust #2
+TJX Companies, Inc. (TJX) [ST] S (partial) 04/30/2021 05/06/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+Viatris Inc. (VTRS) [ST] S (partial) 04/30/2021 05/06/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+Visa Inc. (V) [ST] S (partial) 04/30/2021 05/06/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+Walt disney Company (dIS) [ST] S (partial) 04/30/2021 05/06/2021 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUBHOLdING OF: The 2011 Kathy E Manning Living Trust > MV Capital - Brokerage #2
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+MV Capital - GST Exempt Trust #2 (Owner: SP)
+The 2011 Kathy E Manning Living Trust
+The 2011 Kathy E Manning Living Trust ⇒ MV Capital - Brokerage #2
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kathy Manning , 05/06/2021

@@ -1,0 +1,357 @@
+[[PAGE 1]]
+Filing ID #20016196
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Dean Phillips
+Status: Member
+State/District: MN03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+3M Company (MMM) [sT] s (partial) 02/28/2020 03/06/2020 $15,001 - gfedc
+$50,000
+FIlINg sTaTus: New
+a.o. smith Corporation (aos) [sT] s 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+abbott laboratories (aBT) [sT] P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+aBIoMED, Inc. (aBMD) [sT] s 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+accenture plc Class a ordinary s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+shares (aCN) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+aercap Holdings NV VaR Rt s (partial) 02/28/2020 03/06/2020 $1,001 - $15,000 gfedcb
+10/10/2079 dtd 10/10/2019 [Cs]
+FIlINg sTaTus: New
+DEsCRIPTIoN: Preferred security
+alexion Pharmaceuticals, Inc. s 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+(alXN) [sT]
+FIlINg sTaTus: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+alliance Data systems Corporation P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+(aDs) [sT]
+FIlINg sTaTus: New
+aT&T Inc PFD [Cs] P 02/12/2020 03/06/2020 $15,001 - gfedc
+$50,000
+FIlINg sTaTus: New
+DEsCRIPTIoN: Preferred security
+Baxter International Inc. (BaX) P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Berkshire Hathaway Inc. New s (partial) 02/10/2020 03/06/2020 $15,001 - gfedcb
+(BRK.B) [sT] $50,000
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Booking Holdings Inc. (BKNg) s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+[sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Booking Holdings Inc. (BKNg) P 02/27/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+CenterPoint Energy, Inc (CNP) P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Cerner Corporation (CERN) [sT] s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Cerner Corporation (CERN) [sT] s (partial) 02/14/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Cerner Corporation (CERN) [sT] s (partial) 02/26/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Cerner Corporation (CERN) [sT] s (partial) 02/27/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Cerner Corporation (CERN) [sT] s 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Charles schwab Corporation s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+(sCHW) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Charles schwab Corporation P 02/24/2020 03/06/2020 $1,001 - $15,000 gfedc
+(sCHW) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Chubb limited (CB) [sT] s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Comcast Corporation - Class a s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedc
+(CMCsa) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Comerica Incorporated (CMa) [sT] P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Corning Incorporated (glW) [sT] s (partial) 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Discover Finl svs Var Rt Perp Mat s (partial) 02/26/2020 03/06/2020 $1,001 - $15,000 gfedcb
+dtd 10/31/2017 [Cs]
+FIlINg sTaTus: New
+DEsCRIPTIoN: Preferred security
+Dollar general Corporation (Dg) s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+[sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Dollar Tree, Inc. (DlTR) [sT] s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+DTE Energy Company (DTE) [sT] P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+DuPont de Nemours, Inc. (DD) s 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+DXC Technology Company (DXC) s 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Eaton Corporation, PlC ordinary s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+shares (ETN) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Eversource Energy (Es) [sT] s (partial) 02/28/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+Expeditors International of s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+Washington, Inc. (EXPD) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Ford Motor Company (F) [sT] s 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Fox Corporation - Class a (FoXa) s 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+goldman sachs group, Inc Var Rt s (partial) 02/12/2020 03/06/2020 $15,001 - gfedcb
+11/10/2165 dtd 04/23/2015 [Cs] $50,000
+FIlINg sTaTus: New
+DEsCRIPTIoN: Preferred security
+H&R Block, Inc. (HRB) [sT] P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg sTaTus: New
+HD supply Holdings, Inc. (HDs) s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Honeywell International Inc. s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+(HoN) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Internationa Flavors & Fragrances, s 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+Inc. (IFF) [sT]
+FIlINg sTaTus: New
+Iron Mountain Incorporated (IRM) P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+J.M. smucker Company (sJM) P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+JP Morgan Chase & Co. (JPM) [sT] s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Kohl's Corporation (Kss) [sT] P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Koninklijke Philips N.V. NY P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+Registry shares (PHg) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Koninklijke Philips N.V. NY P 02/13/2020 03/06/2020 $1,001 - $15,000 gfedc
+Registry shares (PHg) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Koninklijke Philips N.V. NY P 02/14/2020 03/06/2020 $1,001 - $15,000 gfedc
+Registry shares (PHg) [sT]
+FIlINg sTaTus: New
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+suBHolDINg oF: - Trust 1
+Koninklijke Philips N.V. NY P 02/21/2020 03/06/2020 $1,001 - $15,000 gfedc
+Registry shares (PHg) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+lake Travis TX Indep sch Dist s 02/18/2020 03/06/2020 $15,001 - gfedc
+Perm sch gtd Fund unlimited Tax $50,000
+5% Feb [gs]
+FIlINg sTaTus: New
+loews Corporation (l) [sT] P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Macy's Inc (M) [sT] s 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Masco Corporation (Mas) [sT] s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Nestle sa sponsored aDR s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+representing Registered shares
+series B (NsRgY) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Newell Brands Inc. (NWl) [sT] s (partial) 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Northern Trust Corporation P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+(NTRs) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Northern Trust Corporation s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+(NTRs) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Nutrien ltd. Common shares s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedc
+(NTR) [sT]
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+omnicom group Inc. (oMC) [sT] s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+PaCCaR Inc. (PCaR) [sT] s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Pepsico, Inc. (PEP) [sT] s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Philip Morris International Inc P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+(PM) [sT]
+FIlINg sTaTus: New
+PPg Industries, Inc. (PPg) [sT] s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Quest Diagnostics Incorporated s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+(DgX) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+schlumberger N.V. (slB) [sT] s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+simon Property group, Inc. (sPg) s 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+smith & Nephew Plc ord ordinary s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+shares (sNNuF) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+southwest airlines Company s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedc
+(luV) [sT]
+[[PAGE 8]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+southwest airlines Company P 02/24/2020 03/06/2020 $1,001 - $15,000 gfedc
+(luV) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+TE Connectivity ltd. New s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+switzerland Registered shares
+(TEl) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+The Kraft Heinz Company (KHC) s 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+TJX Companies, Inc. (TJX) [sT] s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+Truist Fin Corp Var Rt Perp Mat s (partial) 02/19/2020 03/06/2020 $15,001 - gfedc
+dtd 12/09/2019 [Cs] $50,000
+FIlINg sTaTus: New
+DEsCRIPTIoN: Preferred security
+Truist Fin Corp Var Rt Perp Mat P 02/19/2020 03/06/2020 $15,001 - gfedc
+dtd 12/09/2019 [Cs] $50,000
+FIlINg sTaTus: New
+DEsCRIPTIoN: Preferred security
+unilever PlC (ul) [sT] s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+united Parcel service, Inc. (uPs) s (partial) 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+unitedHealth group Incorporated s (partial) 02/10/2020 03/06/2020 $1,001 - $15,000 gfedcb
+Common stock (uNH) [sT]
+FIlINg sTaTus: New
+suBHolDINg oF: - Trust 1
+[[PAGE 9]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Ventas, Inc. (VTR) [sT] P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Viacom Inc Var Rt 02/28/2057 dtd P 02/25/2020 03/06/2020 $1,001 - $15,000 gfedc
+02/28/2017 [Cs]
+FIlINg sTaTus: New
+DEsCRIPTIoN: Preferred security
+Viacom Inc Var Rt 02/28/2057 dtd P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+02/28/2017 [Cs]
+FIlINg sTaTus: New
+DEsCRIPTIoN: Preferred security
+ViacomCBs Inc. - Class B (VIaC) P 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Wachovia Cap TR III Var Rt Perp s (partial) 02/20/2020 03/06/2020 $1,001 - $15,000 gfedcb
+Mat dtd 02/01/2006 [Cs]
+FIlINg sTaTus: New
+DEsCRIPTIoN: Preferred security
+Wachovia Cap TR III Var Rt Perp s (partial) 02/21/2020 03/06/2020 $1,001 - $15,000 gfedcb
+Mat dtd 02/01/2006 [Cs]
+FIlINg sTaTus: New
+DEsCRIPTIoN: Preferred security
+Walgreens Boots alliance, Inc. s 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+(WBa) [sT]
+FIlINg sTaTus: New
+Wells Fargo & Company (WFC) s (partial) 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Wells Fargo & Company (WFC) P 02/21/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Wells Fargo & Company (WFC) P 02/20/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Wells Fargo & Company (WFC) P 02/21/2020 03/06/2020 $1,001 - $15,000 gfedc
+[[PAGE 10]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+[sT]
+FIlINg sTaTus: New
+Wells Fargo & Company (WFC) P 02/24/2020 03/06/2020 $1,001 - $15,000 gfedc
+[sT]
+FIlINg sTaTus: New
+Westrock Company (WRK) [sT] s (partial) 02/28/2020 03/06/2020 $1,001 - $15,000 gfedc
+FIlINg sTaTus: New
+Wichita Ks Water & sewer util Rev P 02/19/2020 03/06/2020 $15,001 - gfedc
+Ref- ser B 5.0%; Due 10/01/2024 $50,000
+[gs]
+FIlINg sTaTus: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+- Trust 1 (100% Interest)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Dean Phillips , 03/12/2020

@@ -1,0 +1,265 @@
+[[PAGE 1]]
+Filing Id #20015054
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Greg Gianforte
+Status: Member
+State/District: MT00
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT adidas aG Sponsored adR S 02/13/2020 01/21/2020 $15,001 - gfedc
+(addYY) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT aIa Group, Ltd. Sponsored S 01/13/2020 01/21/2020 $15,001 - gfedc
+american depository Receipt $50,000
+(aaGIY) [ST]
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT alfa-Laval ab unsponsored adR P 01/13/2020 01/21/2020 $15,001 - gfedc
+(aLFVY) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT amadeus IT Holding Sa S 01/13/2020 01/21/2020 $15,001 - gfedc
+unsponsored american depository $50,000
+Shares (aMadY) [ST]
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT ambev S.a. american depositary P 01/13/2020 01/21/2020 $50,001 - gfedc
+Shares (abEV) [ST] $100,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT atlas Copco ab Sponsored adR S 01/13/2020 01/21/2020 $15,001 - gfedc
+repstg Class a (aTLKY) [ST] $50,000
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT baidu, Inc. - american depositary S 01/13/2020 01/21/2020 $15,001 - gfedc
+Shares, each representing one tenth $50,000
+Class a ordinary share (bIdu) [ST]
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT banco bilbao Vizcaya argentaria S 01/13/2020 01/21/2020 $15,001 - gfedc
+S.a. (bbVa) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Canadian National Railway P 01/13/2020 01/21/2020 $15,001 - gfedc
+Company (CNI) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Check Point Software Technologies S 01/13/2020 01/21/2020 $15,001 - gfedc
+Ltd. - Ordinary Shares (CHKP) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT China Mobile Limited (CHL) [ST] P 01/13/2020 01/21/2020 $100,001 - gfedc
+$250,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Chugai Pharmaceutical Ltd P 01/13/2020 01/21/2020 $15,001 - gfedc
+unsponsored adR (CHGCY) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT dassault Systemes, S.a. american P 01/14/2020 01/21/2020 $15,001 - gfedc
+depositary Shares (daSTY) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT dbs Group Holdings Ltd Ord S 01/13/2020 01/21/2020 $15,001 - gfedcb
+american depositary Shares $50,000
+(dbSdY) [ST]
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT dentsu Inc Tokyo unsponsored S 01/13/2020 01/21/2020 $15,001 - gfedc
+adR (dNTuY) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT diageo plc (dEO) [ST] S 01/13/2020 01/21/2020 $15,001 - gfedcb
+$50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT EPIROC aKTIEbOLaG adR [OT] P 01/13/2020 01/21/2020 $15,001 - gfedc
+$50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+LOCaTION: SE
+dESCRIPTION: EPIROC aKTIEbOLaG adR EPOKY
+JT Fanuc Corporation unsponsored P 01/13/2020 01/21/2020 $15,001 - gfedc
+adR (FaNuY) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Fomento Economico Mexicano S 01/13/2020 01/21/2020 $15,001 - gfedcb
+S.a.b. de C.V. (FMX) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Fuchs Petrolub SE unsponsored S 01/13/2020 01/21/2020 $50,001 - gfedcb
+american depository $100,000
+ReceiptRepresenting Preferenced
+Shares (FuPbY) [ST]
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT HdFC bank Limited (Hdb) [ST] S 01/13/2020 01/21/2020 $15,001 - gfedcb
+$50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT HSbC Holdings, plc. (HSbC) [ST] P 01/13/2020 01/21/2020 $250,001 - gfedc
+$500,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT ICICI bank Limited (IbN) [ST] P 01/13/2020 01/21/2020 $15,001 - gfedc
+$50,000
+[[PAGE 4]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Infineon Technologies aG (IFNNY) P 01/13/2020 01/21/2020 $15,001 - gfedc
+[ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Itau unibanco banco Holding Sa S 01/13/2020 01/21/2020 $15,001 - gfedcb
+american depositary Shares $50,000
+(ITub) [ST]
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Komatsu Ltd Ord american P 01/13/2020 01/21/2020 $15,001 - gfedc
+depositary Shares (KMTuY) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Kubota Corporation (KubTY) [ST] P 01/13/2020 01/21/2020 $15,001 - gfedc
+$50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT L'air Liquide Ord american S 01/13/2020 01/21/2020 $15,001 - gfedc
+depositary Shares (aIQuY) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Linde plc Ordinary Share (LIN) S 01/13/2020 01/21/2020 $15,001 - gfedcb
+[ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Lonza Group ag Zuerich P 01/13/2020 01/21/2020 $15,001 - gfedc
+unsponsored adR (LZaGY) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT L'Oreal Co. american depositary S 01/13/2020 01/21/2020 $15,001 - gfedcb
+Shares (LRLCY) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Lukoil Co Sponsored adR P 01/13/2020 01/21/2020 $15,001 - gfedc
+[[PAGE 5]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+(LuKOY) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Nestle Sa Sponsored adR S 01/13/2020 01/21/2020 $15,001 - gfedcb
+representing Registered Shares $50,000
+Series b (NSRGY) [ST]
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Novozymes a/S unsponsored P 01/13/2020 01/21/2020 $15,001 - gfedc
+american depositary Receipt $50,000
+(NVZMY) [ST]
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT OrthoPediatrics Corp. (KIdS) [ST] P 01/15/2020 01/21/2020 $50,001 - gfedc
+$100,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Ping an Insurance (PNGaY) [ST] S 01/13/2020 01/21/2020 $15,001 - gfedcb
+$50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Rio Tinto Plc (RIO) [ST] P 01/13/2020 01/21/2020 $15,001 - gfedc
+$50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Roche Holdings aG basel american S 01/13/2020 01/21/2020 $15,001 - gfedcb
+depositary Shares (RHHbY) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Royal dutch Shell PLC Royal dutch S 01/13/2020 01/21/2020 $15,001 - gfedcb
+Shell PLC american depositary $50,000
+Shares (RdS.b) [ST]
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Sasol Ltd. american depositary P 01/13/2020 01/21/2020 $50,001 - gfedc
+Shares (SSL) [ST] $100,000
+FILING STaTuS: New
+[[PAGE 6]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SubHOLdING OF: Harding Loevner International Equity
+JT Schlumberger N.V. (SLb) [ST] P 01/13/2020 01/21/2020 $15,001 - gfedc
+$50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Schneider Electric SE unsponsored P 01/14/2020 01/21/2020 $15,001 - gfedc
+adR (SbGSY) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT SGS Sa adR (SGSOY) [ST] P 01/13/2020 01/21/2020 $15,001 - gfedc
+$50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Sonova Holding aG unsponsored P 01/13/2020 01/21/2020 $15,001 - gfedc
+adR (SONVY) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Symrise ag unsponsored adR S 01/13/2020 01/21/2020 $15,001 - gfedcb
+(SYIEY) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Sysmex Corporation unsponsored S 01/13/2020 01/21/2020 $15,001 - gfedcb
+adR (SSMXY) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Taiwan Semiconductor S 01/13/2020 01/21/2020 $50,001 - gfedcb
+Manufacturing Company Ltd. $100,000
+(TSM) [ST]
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Tencent Holdings Limited P 01/13/2020 01/21/2020 $15,001 - gfedc
+unsponsored adR Representing b $50,000
+Shares (TCEHY) [ST]
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT unicharm Corp Sponsored adR P 01/13/2020 01/21/2020 $100,001 - gfedc
+(uNICY) [ST] $250,000
+[[PAGE 7]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT unilever PLC (uL) [ST] P 01/13/2020 01/21/2020 $15,001 - gfedc
+$50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+JT Yandex N.V. - Class a Ordinary P 01/13/2020 01/21/2020 $15,001 - gfedc
+Shares (YNdX) [ST] $50,000
+FILING STaTuS: New
+SubHOLdING OF: Harding Loevner International Equity
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Harding Loevner International Equity (Owner: JT)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Greg Gianforte , 02/14/2020

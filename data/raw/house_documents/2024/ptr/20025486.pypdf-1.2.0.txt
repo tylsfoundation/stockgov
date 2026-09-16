@@ -1,0 +1,48 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Rick Larsen
+Status: Member
+State/District:WA02
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Goldman Sachs Group, Inc. (GS) [ST] P 07/02/202407/12/2024$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: Part of quarterly portfolio rebalance
+Hartford Financial Services Group,
+Inc. (HIG) [ST]
+S 07/02/202407/12/2024$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: Part of quarterly portfolio rebalance
+Old Dominion Freight Line, Inc. -
+Common Stock (ODFL) [ST]
+P 07/02/202407/12/2024$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: Quarterly portfolio rebalance
+Waste Management, Inc. Common
+Stock (WM) [ST]
+S 07/02/202407/12/2024$1,001 - $15,000
+F S: New
+S O: Richard R Larsen IRA
+D: Quarterly portfolio rebalance
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Richard R Larsen IRA
+Filing ID #20025486
+[[PAGE 2]]
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Rick Larsen , 07/17/2024

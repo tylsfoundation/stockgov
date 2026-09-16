@@ -1,0 +1,164 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Rob Bresnahan
+Status: Member
+State/District:PA08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+S 11/19/202512/01/2025 $50,001 -
+$100,000
+F S: New
+S O: LPL Account I
+D: Buy to Close Covered Call Contract
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+BRKB Option [OT] P 11/19/202512/01/2025 $15,001 -
+$50,000
+F S: New
+S O: LPL Account I
+L: US
+D: CALL BERKSHIRE CL B NEW $380 EXP 01/16/26
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+BRKB Option [OT] P 11/19/202512/01/2025 $50,001 -
+$100,000
+F S: New
+S O: LPL Account I
+L: US
+D: CALL BERKSHIRE CL B NEW $410 EXP 06/18/26
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+BRKB Option [OT] P 11/19/202512/01/2025 $1,001 - $15,000
+Filing ID #20033574
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: KCI Holdings LLC > LPL Brokerage Account
+L: US
+D: CALL BERKSHIRE CL B NEW $410 EXP 06/18/26
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+BRKB Option [OT] P 11/19/202512/01/2025 $15,001 -
+$50,000
+F S: New
+S O: LPL Account II
+L: US
+D: CALL BERKSHIRE CL B NEW $390 EXP 01/16/26
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+Kellanova Common Stock (K) [ST] S 12/11/202512/15/2025 $1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account
+D: Mandatory sale due to corporate acquisition
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+Pennsylvania State Turnpike
+Commission Bond [GS]
+P 12/04/202512/15/2025 $50,001 -
+$100,000
+F S: New
+S O: JP Morgan Brokerage Account #4
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+Souderton, PA Municipal Bond [GS] S 11/25/202512/02/2025$50,001 -
+$100,000
+F S: New
+S O: JP Morgan Brokerage Account #4
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+SPY Option [OT] P 11/19/202512/01/2025 $15,001 -
+$50,000
+F S: New
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: LPL Account II
+L: US
+D: CALL SPDR S&P 500 ETF TR $500 EXP 03/20/26
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+SPY Option [OT] P 11/19/202512/01/2025 $15,001 -
+$50,000
+F S: New
+S O: RPB Ventures LLC > LPL Account
+L: US
+D: CALL SPDR S&P 500 ETF TR $500 EXP 06/18/26
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+SPY Option [OT] P 11/19/202512/01/2025 $1,001 - $15,000
+F S: New
+S O: KCI Holdings LLC > LPL Brokerage Account
+L: US
+D: CALL SPDR S&P 500 ETF TR $550 EXP 09/18/26
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+SPY Option [OT] P 11/19/202512/01/2025 $50,001 -
+$100,000
+F S: New
+S O: LPL Account I
+L: US
+D: CALL SPDR S&P 500 ETF TR $505 EXP 12/19/25
+C: All investment decisions related to my personal financial portfolio are delegated to professional financial
+advisors. I have no role in, nor am informed of, specific investment decisions prior to their execution. Accordingly, this
+transaction was planned and executed by a financial advisor.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+JP Morgan Brokerage Account
+L: US
+JP Morgan Brokerage Account #4
+L: US
+KCI Holdings LLC
+L: PA, US
+[[PAGE 4]]
+KCI Holdings LLC ⇒ LPL Brokerage Account
+L: US
+LPL Account I
+L: US
+LPL Account II
+L: US
+RPB Ventures LLC
+L: US
+RPB Ventures LLC ⇒ LPL Account
+L: US
+C
+All investment decisions related to my personal financial portfolio are delegated to professional financial advisors. I have no role in, nor am
+informed of, specific investment decisions prior to their execution. Accordingly, these transactions were planned and executed by a
+financial advisor.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Rob Bresnahan , 12/19/2025

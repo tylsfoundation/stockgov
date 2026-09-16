@@ -1,0 +1,49 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. John Curtis
+Status: Member
+State/District:UT03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Abbott Laboratories (ABT) [ST] S (partial) 10/21/202211/01/2022 $1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Adobe Inc. (ADBE) [ST] P 10/21/202211/01/2022 $1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Chipotle Mexican Grill, Inc. (CMG)
+[ST]
+P 10/21/202211/01/2022 $1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT COLUMBUS OHIO GO BDS 2018 A
+5.000% 04/01/23 [CS]
+P 10/28/202211/01/2022 $1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+D: Columbus, OH
+JT T-Mobile US, Inc. (TMUS) [ST] S (partial) 10/21/202211/01/2022 $1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+JT Waste Management, Inc. (WM) [ST] S (partial) 10/21/202211/01/2022 $1,001 - $15,000
+F S: New
+S O: Northwestern Mutual - Joint
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+Filing ID #20021965
+[[PAGE 2]]
+A C D
+Northwestern Mutual - Joint (Owner: JT)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. John Curtis , 11/09/2022

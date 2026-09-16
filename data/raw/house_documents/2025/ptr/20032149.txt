@@ -1,0 +1,1236 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Sheri Biggs
+Status: Member
+State/District:SC03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Air Products and Chemicals, Inc.
+Common Stock (APD) [ST]
+S 03/18/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Alibaba Group Holding Limited
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Altria Group, Inc. (MO) [ST] S 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP America Movil, S.A.B. de C.V.
+American Depositary Shares (AMX)
+[ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Anhui Conch Cement Unsponsored
+ADR representing Shares -H-
+(AHCHY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+Filing ID #20032149
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Apollo Debt Solutions BDC Class S
+[OT]
+P 01/06/202508/11/2025$1,001 - $15,000
+F S: New
+S O: UBS Financial Services > 95
+L: US
+D: Dividend reinvestment in a professionally managed account – Business Development Company.
+SP Apollo Debt Solutions BDC Class S
+[OT]
+P 02/03/202508/11/2025$1,001 - $15,000
+F S: New
+S O: UBS Financial Services > 95
+L: US
+D: Dividend reinvestment in a professionally managed account – Business Development Company.
+SP Apollo Debt Solutions BDC Class S
+[OT]
+P 04/01/202508/11/2025$1,001 - $15,000
+F S: New
+S O: UBS Financial Services > 95
+L: US
+D: Dividend reinvestment in a professionally managed account – Business Development Company.
+SP Apollo Debt Solutions BDC Class S
+[OT]
+P 05/01/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+L: US
+D: Dividend reinvestment in a professionally managed account – Business Development Company.
+SP Apollo Debt Solutions BDC Class S
+[OT]
+P 06/02/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+L: US
+D: Dividend reinvestment in a professionally managed account – Business Development Company.
+SP Apollo Debt Solutions BDC Class S
+[OT]
+P 08/01/202509/17/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+L: US
+D: Dividend reinvestment in a professionally managed account – Business Development Company.
+SP Apollo Debt Solutions BDC Class SP 07/31/202509/17/2025$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+[OT]
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+L: US
+D: Dividend reinvestment in a professionally managed account – Business Development Company.
+SP Apollo Debt Solutions BDC Class S
+[OT]
+P 08/01/202509/17/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+L: US
+D: Dividend reinvestment in a professionally managed account – Business Development Company.
+SP Apple Inc. - Common Stock (AAPL)
+[ST]
+S 03/18/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP ASE Technology Holding Co., Ltd.
+American Depositary Shares (ASX)
+[ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP ASMPT LIMITED UNSP/ADR
+(ASMVY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Banco Do Brasil SA Sponsored ADR
+(BDORY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Bank of Nova Scotia [CS] P 03/19/202508/11/2025$500,001 -
+$1,000,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Structured product - linked to shares of S&P 500 index. Professionally managed account.
+SP Bank of Nova Scotia [CS] P 05/27/202508/11/2025$250,001 -
+$500,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Structured investment product based on XLE. Professionally managed account.
+SP Bank of Nova Scotia [CS] P 03/26/202508/11/2025$250,001 -
+$500,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Structured investment product based on RTY. Professionally managed account.
+SP Bank of Nova Scotia Finance [CS] S 03/14/202508/11/2025$100,001 -
+$250,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Structured investment product based on FXI. Professionally managed account.
+SP BB Seguridade Participacoes SA
+Sponsored ADR (BBSEY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Berkshire Hathaway Inc. New
+Common Stock (BRK.B) [ST]
+S 03/18/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Bidvest Group Ltd Sponsored ADR
+New (BDVSY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP BlackRock, Inc. Common Stock (BLK)
+[ST]
+S (partial) 03/18/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Cemex, S.A.B. de C.V. Sponsored ADR
+(CX) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Charles Schwab Corporation (SCHW)
+[ST]
+S 03/19/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP Chevron Corporation Common Stock
+(CVX) [ST]
+S 03/18/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP China Construction Bank Corporation
+Unsponsored ADR representing H
+shares (CICHY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP China Merchants Bank Co Ltd
+American Depository Receipt
+(CIHKY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP Cincinnati Financial Corporation -
+Common Stock (CINF) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Cisco Systems, Inc. - Common Stock
+(CSCO) [ST]
+S 03/18/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Comcast Corporation - Class A
+Common Stock (CMCSA) [ST]
+S 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account
+SP Crown Castle Inc. Common StockS 03/18/202508/11/2025$1,001 - $15,000
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+(CCI) [ST]
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Diageo plc Common Stock (DEO) [ST]S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Dominion Energy, Inc. Common
+Stock (D) [ST]
+S 03/18/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP ENGIE BRASIL ENE SA S/ADR
+(EGIEY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Fannie Mae Note 9/24/2026 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP Fannie Mae Note 9/24/26 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Fastenal Company - Common Stock
+(FAST) [ST]
+S 03/19/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP Fidelity National Information
+Services, Inc. Common Stock (FIS)
+[ST]
+S 03/19/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Greek Organisation of Football
+Prognostics SA Unsponsored ADR
+(GOFPY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Grupo Financiero Banorte, S.A.B. De
+C.V Sponsored ADR (GBOOY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Hengan International Group
+Company Limited Unsponsored ADR
+(HEGIY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Himax Technologies, Inc. - American
+depositary shares, each of which
+represents two ordinary shares.
+(HIMX) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP HSBC USA [CS] P 03/27/202508/11/2025$250,001 -
+$500,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Structured investment product based on SX5E index. Professionally managed account
+SP iCapital-Arctos Sports Partners Fund
+II [HN]
+P 02/27/202508/11/2025$1,001 - $15,000
+F S: New
+S O: UBS Financial Services > 95
+D: Dividend reinvestment in a professionally managed account.
+SP Icapital-Arctos Sports Partners Fund
+II Access Fund LP [HN]
+P 06/04/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Professionally managed account.
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Infosys Limited American Depositary
+Shares (INFY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP iShares Bitcoin Trust ETF - iShares
+Bitcoin Trust ETF (IBIT) [ET]
+P 07/09/202508/20/2025$100,001 -
+$250,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+SP JD.com, Inc. - American Depositary
+Shares (JD) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Johnson & Johnson Common Stock
+(JNJ) [ST]
+S 03/19/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP JP Morgan Chase Finance [CS] P 03/14/202508/11/2025$500,001 -
+$1,000,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Structured Product linked to the performance of the EURO STOXX 50 Index, Nikkei 225 Index, FTSE 100
+Index, Swiss Market Index, and S&P/ASX 200 Index. Professionally managed account.
+SP JP Morgan Chase Finance [CS] P 03/27/202508/11/2025$250,001 -
+$500,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Structured investment product based on SX5E, NKY, UKX, SMI, AS51 indices. Professionally managed
+account
+SP JP Morgan Chase Finance [CS] P 03/26/202508/11/2025$250,001 -
+$500,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Structured investment product based on INDU, SPX indices. Professionally managed account.
+SP JP Morgan Chase Finance [CS] P 03/17/202508/11/2025$250,001 -
+$500,000
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Structured investment product based on EURO STOXX 50, Nikkei 225, FTSE 100, Swiss Market, and
+S&P/ASX 200 indices. Professionally managed account.
+SP JP Morgan Chase Finance [CS] P 04/15/202508/11/2025$250,001 -
+$500,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Structured investment product based on INDU, SPX indices. Professionally managed account.
+SP KASIKORNBANK PCL UNSP/ADR
+(KPCPY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP KB Financial Group Inc (KB) [ST] S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Kimberly-Clark De Mexico S A B de C
+V Sponsored ADR (KCDMY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP KKR Real Estate Select Trust Class U
+[PS]
+P 03/31/202508/11/2025$1,001 - $15,000
+F S: New
+S O: UBS Financial Services > 95
+L: US
+D: Dividend reinvestment in a professionally managed account.
+SP KKR Real Estate Select Trust Class U
+[HN]
+P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Dividend reinvestment in a professionally managed account.
+SP KKR Real Estate Select Trust Class U
+[HN]
+P 08/29/202509/25/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: Reinvestment in Managed Account
+SP KT Corporation Common Stock (KT)
+[ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP Lenovo Group Ltd Sponsored ADR
+(LNVGY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Life Healthcare Group Holdings Ltd
+Unsponsored ADR (LTGHY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Lowe's Companies, Inc. Common
+Stock (LOW) [ST]
+S 03/19/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S 03/19/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP Microsoft Corporation - Common
+Stock (MSFT) [ST]
+S 03/19/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP Mol Magyar Olay Es Gazipari Rt
+Sponsored ADR representing Ord Shs
+Series A (MGYOY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Morgan Stanley Finance [CS] P 03/26/202508/11/2025$250,001 -
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+$500,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Structured investment product based on SPX. Professionally managed account
+SP Morgan Stanley Finance [CS] P 03/27/202508/11/2025$1,000,001 -
+$5,000,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Structured investment product based on SX5E, NKY, UKX, SMI, AS51 indices. Professionally managed
+account.
+SP Morgan Stanley Finance [CS] P 03/14/202508/11/2025$250,001 -
+$500,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Structured investment product based on INDU, SPX indices. Professionally managed account.
+SP Nedbank Group Limited Sponsored
+ADR (NDBKY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP NESTLE S.A S/ADR (NSRGY) [ST] S 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP NetEase, Inc. - American Depositary
+Shares, each representing 5 ordinary
+shares (NTES) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Nintendo Co Ltd ADR (NTDOY) [ST] S 03/19/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP Norfolk Southern Corporation
+Common Stock (NSC) [ST]
+S 03/19/202508/11/2025$15,001 -
+$50,000
+F S: New
+[[PAGE 12]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP Northrop Grumman Corporation
+Common Stock (NOC) [ST]
+S 03/19/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP Oaktree Strategic Credit Fund Class S
+[OT]
+P 02/03/202508/11/2025$1,001 - $15,000
+F S: New
+S O: UBS Financial Services > 95
+L: US
+D: Dividend reinvestment in a professionally managed account – Business Development Company.
+SP Oaktree Strategic Credit Fund Class S
+[OT]
+P 02/26/202508/11/2025$1,001 - $15,000
+F S: New
+S O: UBS Financial Services > 95
+L: US
+D: Dividend reinvestment in a professionally managed account – Business Development Company.
+SP Oaktree Strategic Credit Fund Class S
+[OT]
+P 03/03/202508/11/2025$1,001 - $15,000
+F S: New
+S O: UBS Financial Services > 95
+L: US
+D: Dividend reinvestment in a professionally managed account – Business Development Company.
+SP Oaktree Strategic Credit Fund Class S
+[OT]
+P 08/27/202509/17/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+L: US
+D: Dividend reinvestment in a professionally managed account – Business Development Company.
+SP Oaktree Strategic Credit Fund Class S
+[OT]
+P 07/30/202508/20/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+L: US
+D: Dividend reinvestment in a professionally managed account – Business Development Company.
+SP Oaktree Strategic Credit Fund Class S
+[OT]
+P 06/26/202508/11/2025$1,001 - $15,000
+[[PAGE 13]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+L: US
+D: Dividend reinvestment in a professionally managed account – Business Development Company.
+SP Oaktree Strategic Credit Fund Class S
+[OT]
+P 05/28/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+L: US
+D: Dividend reinvestment in a professionally managed account - Business Development Company.
+SP Oaktree Strategic Credit Fund Class S
+[OT]
+P 03/27/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+L: US
+D: Dividend reinvestment in a professionally managed account – Business Development Company.
+SP Oaktree Strategic Credit Fund Class S
+[OT]
+P 04/28/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+L: US
+D: Dividend reinvestment in a professionally managed account – Business Development Company.
+SP Paychex, Inc. - Common Stock
+(PAYX) [ST]
+S 03/19/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP Petroleo Brasileiro S.A. Petrobras
+ADS (PBR) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Philip Morris International Inc
+Common Stock (PM) [ST]
+S 03/19/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP Ping An Insurance Co Ltd Shares H
+(PIAIF) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+[[PAGE 14]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Progressive Corporation (PGR) [ST] S 03/19/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP Pt Astra International TBK
+Unsponsored ADR (PTAIY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP PT Bank Mandiri Persero TBK
+Unsponsored ADR (PPERY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP PT Telekomunikasi Indonesia, Tbk
+(TLK) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP PT United Tractors Unsponsored
+ADR (PUTKY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Sanlam Ltd Sponsored ADR (SLLDY)
+[ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Schlumberger N.V. Common Stock
+(SLB) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+[[PAGE 15]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Shinhan Financial Group Co Ltd
+American Depositary Shares (SHG)
+[ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Sinopharm Group Co. Ltd
+Unsponsored ADR (SHTDY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP SL Partners VII (ICapital) Fund [HN] P 04/22/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Professionally managed account.
+SP SL Partners VII (ICapital) Fund [HN] P 01/06/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: UBS Financial Services > 95
+D: Professionally managed account
+SP SL Partners VII iCapital LP [HN] P 08/18/202509/17/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+SP SL Partners VII iCapital LP [HN] P 09/18/202509/25/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services 26
+D: Managed Account
+SP Sociedad Quimica y Minera S.A.
+Common Stock (SQM) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Standard Bank Group Limited
+Sponsored ADR (SGBLY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+[[PAGE 16]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: Professionally managed account.
+SP Starbucks Corporation - Common
+Stock (SBUX) [ST]
+S 03/19/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP Taiwan Semiconductor
+Manufacturing Company Ltd. (TSM)
+[ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP TE Connectivity plc Ordinary Shares
+(TEL) [ST]
+S 03/19/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP TENCENT HLDGS UNSP/ADR
+(TCEHY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Ternium S.A. Ternium S.A. American
+Depositary Shares (TX) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Texas Instruments Incorporated -
+Common Stock (TXN) [ST]
+S 03/19/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP Tingyi Cayman Islands Hldgs Cp
+Sponsored ADR (TCYMY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP Unilever PLC Common Stock (UL)S 03/18/202508/11/2025$1,001 - $15,000
+[[PAGE 17]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+[ST]
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP United Parcel Service, Inc. Common
+Stock (UPS) [ST]
+S 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 36
+D: Professionally managed account.
+SP US Treasury Note 11/15/2025 [GS] P 08/25/202509/17/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+SP US Treasury Note 11/15/2025 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 11/15/2025 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP US Treasury Note 11/15/2029 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 11/15/2029 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 11/15/2031 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 11/15/2032 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+[[PAGE 18]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP US Treasury Note 11/15/2032 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 11/15/2033 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 11/15/2033 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP US Treasury Note 11/15/2034 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 11/15/2034 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP US Treasury Note 11/15/31 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 11/30/2026 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 11/30/2026 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+[[PAGE 19]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: Professionally managed account
+SP US Treasury Note 11/30/2026 [GS] P 08/25/202509/17/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+SP US Treasury Note 2/15/2026 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 2/15/2026 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 2/15/2028 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 2/15/2028 [GS] P 08/25/202509/17/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+SP US Treasury Note 2/15/2029 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 2/15/2029 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 2/15/2030 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 2/15/2030 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+[[PAGE 20]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 2/15/2031 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 2/15/2031 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 2/15/2032 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 2/15/2032 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 2/15/2033 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP US Treasury Note 2/15/2033 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 2/15/2033 [GS] P 08/25/202509/17/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+SP US Treasury Note 2/15/2034 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+[[PAGE 21]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP US Treasury Note 2/15/2034 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP US Treasury Note 2/15/2035 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+SP US Treasury Note 2/15/2035 [GS] P 08/25/202509/17/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 2/15/28 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 2/28/2027 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 2/28/2027 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 4/30/2025 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP US Treasury Note 5/15/2028 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP US Treasury Note 5/15/2028 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+[[PAGE 22]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 5/15/2028 [GS] P 08/25/202509/17/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+SP US Treasury Note 5/15/2032 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 5/15/2032 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP US Treasury Note 5/15/2034 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP US Treasury Note 5/15/2034 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP US Treasury Note 5/15/2035 [GS] P 06/17/202508/11/2025$15,001 -
+$50,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 5/31/2027 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 5/31/2027 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+[[PAGE 23]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: Professionally managed account
+SP US Treasury Note 5/31/2030 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP US Treasury Note 5/31/2030 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 6/15/2025 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 8/15/2025 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 8/15/2025 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 8/15/2027 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 8/15/2027 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 8/15/2027 [GS] P 08/25/202509/17/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+[[PAGE 24]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP US Treasury Note 8/15/2028 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP US Treasury Note 8/15/2028 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 8/15/2028 [GS] P 08/25/202509/17/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+SP US Treasury Note 8/15/2029 [GS] P 08/25/202509/17/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+SP US Treasury Note 8/15/2029 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 8/15/2029 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP US Treasury Note 8/15/2031 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 8/15/2031 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 8/15/2033 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+[[PAGE 25]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: Professionally managed account.
+SP US Treasury Note 8/15/2033 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account
+SP US Treasury Note 8/31/2030 [GS] P 05/30/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP US Treasury Note 8/31/2030 [GS] P 08/25/202509/17/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+SP US Treasury Note 8/31/2030 [GS] P 03/19/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP VALE S.A. American Depositary
+Shares Each Representing one
+common share (VALE) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP VIBRA ENERGIA UNSP/ADR
+(PETRY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+SP VODACOM GROUP LTD S/ADR
+(VDMCY) [ST]
+S 03/18/202508/11/2025$1,001 - $15,000
+F S: New
+S O: W.S.B Trust > UBS Financial Services Inc 35
+D: Professionally managed account.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+[[PAGE 26]]
+UBS Financial Services (Owner: SP)
+D: Professionally managed account
+UBS Financial Services ⇒ 95 (Owner: SP)
+D: Professionally managed account
+W.S.B Trust (Owner: SP)
+W.S.B Trust ⇒ UBS Financial Services 26 (Owner: SP)
+D: Professionally managed account
+W.S.B Trust ⇒ UBS Financial Services Inc 35 (Owner: SP)
+D: Professionally managed account
+W.S.B Trust ⇒ UBS Financial Services Inc 36 (Owner: SP)
+D: Professionally managed account
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Sheri Biggs , 10/05/2025

@@ -1,0 +1,46 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Max Miller
+Status: Member
+State/District:OH07
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JPMorgan Equity Premium Income
+ETF (JEPI) [ST]
+S (partial) 10/06/202310/06/2023$1,001 - $15,000
+F S: New
+S O: 1989 Trust
+Mercato Partners Travers IV QP, LP
+(GLAS Funds, LP) [OT]
+P 10/07/202310/06/2023$836.89
+F S: New
+S O: 2012 Trust
+L: US
+D: Mercato Partners Traverse IV LP; capital call for private equity investment
+Vanguard Mid-Cap ETF (VO) [ST] S (partial) 10/06/202310/06/2023$1,001 - $15,000
+F S: New
+S O: 1989 Trust
+Vanguard S&P 500 ETF (VOO) [ST] S (partial) 10/06/202310/06/2023$15,001 -
+$50,000
+F S: New
+S O: 1989 Trust
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+1989 Trust
+2012 Trust
+Filing ID #20023822
+[[PAGE 2]]
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Max Miller , 10/08/2023

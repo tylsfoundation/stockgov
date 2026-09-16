@@ -1,0 +1,1527 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Daniel Goldman
+Status: Member
+State/District:NY10
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+3M Company (MMM) [ST] P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Abbott Laboratories (ABT) [ST] S (partial) 03/06/202304/03/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+AbbVie Inc. (ABBV) [ST] P 03/07/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+Activision Blizzard, Inc (ATVI) [ST] P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+adidas AG Sponsored ADR (ADDYY)
+[ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+ADYEN N.V. ADR CMN (ADYEY) [OT]P 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Filing ID #20022653
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+AEGON N.V. (AEG) [ST] P 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+AGNC Investment Corp. (AGNC) [ST] S (partial) 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Alexandria Real Estate Equities, Inc.
+(ARE) [ST]
+P 03/06/202304/03/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+ALLIANZ SE ADR CMN (ALIZY) [OT] P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Ally Financial Inc. (ALLY) [ST] S 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Alnylam Pharmaceuticals, Inc. (ALNY)
+[ST]
+P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Alphabet Inc. - Class A (GOOGL) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Altice USA, Inc. Class A (ATUS) [ST] S 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Amazon.com, Inc. (AMZN) [ST] S (partial) 03/06/202304/03/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+American International Group, Inc.
+New (AIG) [ST]
+P 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+American Tower Corporation (AMT)
+[ST]
+S 03/07/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+American Tower Corporation (AMT)
+[ST]
+S (partial) 03/06/202304/03/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Annaly Capital Management Inc.
+(NLY) [ST]
+S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Annaly Capital Management Inc.
+(NLY) [ST]
+S 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+ANZ GROUP HOLDINGS LTD ADR
+CMN (ANZGY) [OT]
+P 03/31/202304/03/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Aon plc Class A Ordinary Shares
+(AON) [ST]
+P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Apple Inc. (AAPL) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Archer-Daniels-Midland Company
+(ADM) [ST]
+P 03/06/202304/03/2023$50,001 -
+$100,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+ASX Ltd Unsponsored ADR (ASXFY)
+[ST]
+S 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Atlas Copco Ab Sponsored ADR repstg
+Class A (ATLKY) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Atmos Energy Corporation (ATO) [ST]S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+AvalonBay Communities, Inc. (AVB)
+[ST]
+P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Banco Santander, S.A. Sponsored ADR
+(SAN) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Barclays PLC (BCS) [ST] S (partial) 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Bayer Aktiengesellschaft American
+Depositary Shares (BAYRY) [ST]
+S (partial) 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+BILL Holdings, Inc. (BILL) [ST] S 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Biogen Inc. (BIIB) [ST] S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+BioMarin Pharmaceutical Inc.
+(BMRN) [ST]
+S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+BlackRock, Inc. (BLK) [ST] S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Blink Charging Co. (BLNK) [ST] S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+BNP Paribas American Depositary
+Shares (BNPQY) [ST]
+S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+BOC Hong Kong (BHKLY) [ST] S 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Boliden AB Unsponsored ADR
+(BDNNY) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Boston Properties, Inc. (BXP) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Bristol-Myers Squibb Company (BMY)
+[ST]
+S (partial) 03/06/202304/03/2023$100,001 -
+$250,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Bristol-Myers Squibb Company (BMY)
+[ST]
+S 03/07/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Brown & Brown, Inc. (BRO) [ST] P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Campbell Soup Company (CPB) [ST] S 03/07/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+CANON INC ADR SPONSORED ADR
+CMN (CAJPY) [OT]
+S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+CareDx, Inc. (CDNA) [ST] S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Catalent, Inc. (CTLT) [ST] P 03/07/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+Centene Corporation (CNC) [ST] S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+CenterPoint Energy, Inc (CNP) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Central Japan Railway Co
+Unsponsored ADR (CJPRY) [ST]
+P 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+CF Industries Holdings, Inc. (CF) [ST] S (partial) 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+ChampionX Corporation (CHX) [ST] P 03/01/202304/03/2023$1,001 - $15,000
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Charles Schwab Corporation (SCHW)
+[ST]
+P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Chubb Limited (CB) [ST] S 03/06/202304/03/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Chugai Pharmaceutical Ltd
+Unsponsored ADR (CHGCY) [ST]
+S (partial) 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Cintas Corporation (CTAS) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+CNH Industrial N.V. Common Shares
+(CNHI) [ST]
+S 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Coca-Cola Company (KO) [ST] P 03/07/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+Coca-Cola Company (KO) [ST] P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Commerzbank Junge Shs American
+Depositary Shares (CRZBY) [ST]
+P 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Commonwealth Bank Of Australia
+Sponsored ADR (CMWAY) [ST]
+S (partial) 03/31/202304/03/2023$100,001 -
+$250,000
+F S: New
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+ConAgra Brands, Inc. (CAG) [ST] S 03/07/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+Consolidated Edison, Inc. (ED) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Constellation Energy Corporation
+(CEG) [ST]
+P 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+CoStar Group, Inc. (CSGP) [ST] S 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Credit Suisse Group American
+Depositary Shares (CS) [ST]
+S 03/20/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Crown Castle Inc. (CCI) [ST] S (partial) 03/06/202304/03/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+CVS Health Corporation (CVS) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+DAI-ICHI LIFE HOLDINGS INC ADR
+CMN (DLICY) [OT]
+P 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Daikin Inds Ltd Unsponsored ADR
+(DKILY) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Danaher Corporation (DHR) [ST] S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Darling Ingredients Inc. (DAR) [ST] P 03/07/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+DBA Sempra (SRE) [ST] S (partial) 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Dbs Group Holdings Ltd Ord
+American Depositary Shares (DBSDY)
+[ST]
+S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Delta Air Lines, Inc. (DAL) [ST] S 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Deutsche Bank AG (DB) [ST] S (partial) 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Deutsche Post AG Sponsored ADR
+(DPSGY) [ST]
+P 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Diageo plc (DEO) [ST] P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Digital Turbine, Inc. (APPS) [ST] S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+DNB BANK ASA SPONSORED ADR
+CMN (DNBBY) [OT]
+S (partial) 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Dollar General Corporation (DG) [ST] S 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Dollar Tree, Inc. (DLTR) [ST] S 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Dominion Energy, Inc. (D) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Douglas Emmett, Inc. (DEI) [ST] S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Douglas Emmett, Inc. (DEI) [ST] S 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Edwards Lifesciences Corporation
+(EW) [ST]
+P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Elanco Animal Health Incorporated
+(ELAN) [ST]
+S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Electronic Arts Inc. (EA) [ST] S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Eli Lilly and Company (LLY) [ST] P 03/07/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+Enphase Energy, Inc. (ENPH) [ST] P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+EPIROC AB ADR CMN (EPOKY) [OT] P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Equity Residential Common Shares of
+Beneficial Interest (EQR) [ST]
+P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Ericsson - American Depositary Shares
+each representing 1 underlying Class B
+share (ERIC) [ST]
+S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Erste Group Bank AG Sponsored ADR
+(EBKDY) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Estee Lauder Companies, Inc. (EL)
+[ST]
+S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Eversource Energy (ES) [ST] P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Exelon Corporation (EXC) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+[[PAGE 12]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Fidelity National Information Services,
+Inc. (FIS) [ST]
+S 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+FIRST REPUBLIC BANK (FRC) [ST] S 03/15/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Flowers Foods, Inc. (FLO) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+FNF Group of Fidelity National
+Financial, Inc. (FNF) [ST]
+P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Fortescue Metal Group Ltd American
+Depositary Shares (FSUGY) [ST]
+S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Genmab A/S - American Depositary
+Shares (GMAB) [ST]
+S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Gilead Sciences, Inc. (GILD) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Globus Medical, Inc. Class A (GMED)
+[ST]
+S 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Grifols, S.A. - American Depositary
+Shares (GRFS) [ST]
+S 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+[[PAGE 13]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Grocery Outlet Holding Corp. (GO)
+[ST]
+S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Halliburton Company (HAL) [ST] P 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Hawaiian Electric Industries, Inc. (HE)
+[ST]
+S 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Healthpeak Properties, Inc. (PEAK)
+[ST]
+S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+HeidelbergCement Ag Unsponsored
+ADR (HDELY) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Hexagon AB American Depositary
+Shares (HXGBY) [ST]
+S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+HOFFMAN ESTATES ILL GO 4%
+12/01/36-CA JD [GS]
+S 03/29/202304/03/2023$250,001 -
+$500,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+Hormel Foods Corporation (HRL) [ST]P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+HP Inc. (HPQ) [ST] S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+[[PAGE 14]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Hudson Pacific Properties, Inc. (HPP)
+[ST]
+S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Hudson Pacific Properties, Inc. (HPP)
+[ST]
+S 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+ImmunityBio, Inc. (IBRX) [ST] S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Incyte Corporation (INCY) [ST] S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+ING Group, N.V. (ING) [ST] P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Intercontinental Hotels Group
+American Depositary Shares (IHG)
+[ST]
+S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+International Flavors & Fragrances,
+Inc. (IFF) [ST]
+S (partial) 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Intuitive Surgical, Inc. (ISRG) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Invitation Homes Inc. (INVH) [ST] P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+[[PAGE 15]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Ionis Pharmaceuticals, Inc. (IONS)
+[ST]
+S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+James Hardie Industries plc American
+Depositary Shares (JHX) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Japan Tobacco Unsponsored American
+Depository Receipt (JAPAY) [ST]
+S (partial) 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Jazz Pharmaceuticals plc - Ordinary
+Shares (JAZZ) [ST]
+P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+JBG SMITH Properties Common
+Shares (JBGS) [ST]
+P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Johnson & Johnson (JNJ) [ST] P 03/06/202304/03/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+JUST EAT TAKEAWAY.COM N.V .
+SPONSORED ADR CMN (JTKWY)
+[OT]
+S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Kellogg Company (K) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Kilroy Realty Corporation (KRC) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+[[PAGE 16]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Kimberly-Clark Corporation (KMB)
+[ST]
+S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Kimco Realty Corporation (KIM) [ST] S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Kroger Company (KR) [ST] P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+L3Harris Technologies, Inc. (LHX)
+[ST]
+P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Liberty Media Corporation - Series C
+Liberty Braves (BATRK) [ST]
+P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Lloyds Banking Group Plc American
+Depositary Shares (LYG) [ST]
+P 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Lucid Group, Inc. (LCID) [ST] S 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Lumen Technologies, Inc. (LUMN)
+[ST]
+S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Lumen Technologies, Inc. (LUMN)
+[ST]
+S 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+[[PAGE 17]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+M&T Bank Corporation (MTB) [ST] P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+M3, INC. ADR CMN (MTHRY) [OT] P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Macquarie Group, Ltd. Sponsored
+ADR (MQBKY) [ST]
+S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Marriott Vacations Worldwide
+Corporation (VAC) [ST]
+S (partial) 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Marsh & McLennan Companies, Inc.
+(MMC) [ST]
+P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+McCormick & Company, Incorporated
+(MKC) [ST]
+P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Medical Properties Trust, Inc. common
+stock (MPW) [ST]
+S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Medical Properties Trust, Inc. common
+stock (MPW) [ST]
+S 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Medtronic plc. Ordinary Shares (MDT)
+[ST]
+P 03/06/202304/03/2023$15,001 -
+$50,000
+[[PAGE 18]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+MERCEDES-BENZ GROUP AG ADR
+CMN (MBGYY) [OT]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+S (partial) 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Microsoft Corporation (MSFT) [ST] P 03/06/202304/03/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Mirati Therapeutics, Inc. (MRTX) [ST]P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+MISUMI GROUP INC ADR CMN
+(MSSMY) [OT]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Mitsubishi Estate Co Ltd American
+Depositary Shares (MITEY) [ST]
+S 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Mitsubishi UFJ Financial Group, Inc.
+(MUFG) [ST]
+S (partial) 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Mitsui Osk Lines Ltd Unsponsored
+ADR (MSLOY) [ST]
+S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+[[PAGE 19]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Mizuho Financial Group, Inc.
+Sponosred ADR (MFG) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Moderna, Inc. (MRNA) [ST] S 03/06/202304/03/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Molson Coors Beverage Company
+Class B (TAP) [ST]
+P 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Mondelez International, Inc. - Class A
+(MDLZ) [ST]
+S (partial) 03/06/202304/03/2023$100,001 -
+$250,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Monotaro Co. Ltd., Osaka
+Unsponsored ADR (MONOY) [ST]
+S 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Mosaic Company (MOS) [ST] P 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+MOWI ASA SPONSORED ADR CMN
+(MHGVY) [OT]
+P 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+MS&AD Insurance Group Holdings,
+Inc. Unsponsored ADR (MSADY) [ST]
+S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+N Y ST ENV FACS CORP REV 5%
+09/15/28-CA MS [GS]
+P 03/28/202304/03/2023$100,001 -
+$250,000
+F S: New
+[[PAGE 20]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+Natera, Inc. (NTRA) [ST] P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+National Fuel Gas Company (NFG)
+[ST]
+S 03/01/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+NatWest Group plc American
+Depositary Shares, (NWG) [ST]
+P 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Netflix, Inc. (NFLX) [ST] S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+NEW JERSEY ECONOMIC DEV
+AUTH REV 5% 06/15/29 JD [GS]
+S 03/29/202304/03/2023$250,001 -
+$500,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+NEW YORK N Y CITY HEALTH &
+REV 5% 02/15/24 FA [GS]
+P 03/15/202304/03/2023$100,001 -
+$250,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+NEW YORK N Y GO 5% 08/01/29-CA
+FA [GS]
+P 03/27/202304/03/2023$250,001 -
+$500,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+NEW YORK ST DORM AUTH SALES
+REV 5% 03/15/24 MS [GS]
+P 03/29/202304/03/2023$250,001 -
+$500,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+NEW YORK ST DORM AUTH ST
+PERS REV 5% 03/15/30 MS [GS]
+P 03/13/202304/03/2023$100,001 -
+$250,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+[[PAGE 21]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+NEW YORK ST DORM AUTH ST
+PERS REV 5% 03/15/30 MS [GS]
+P 03/07/202304/03/2023$250,001 -
+$500,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+Newmont Corporation (NEM) [ST] S 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Nokia Corporation Sponsored
+American Depositary Shares (NOK)
+[ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Nomura Resh Inst Ltd ADR (NRILY)
+[ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Northrop Grumman Corporation
+(NOC) [ST]
+P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+NOV Inc. (NOV) [ST] P 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Novartis AG (NVS) [ST] P 03/31/202304/03/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Ntt Data Corp Ltd Unsponsored ADR
+(NTDTY) [ST]
+S 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+NVIDIA Corporation (NVDA) [ST] P 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+[[PAGE 22]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+OCADO GROUP PLC SPONSORED
+ADR CMN (OCDDY) [OT]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+OLYMPUS CORPORATION ADR
+CMN (OLYMY) [OT]
+S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Omega Healthcare Investors, Inc.
+(OHI) [ST]
+S 03/07/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+ORSTED A/S ADR CMN (DNNGY)
+[OT]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Otsuka Holdings Co. Ltd, Tokyo
+Unsponsored ADR (OTSKY) [ST]
+S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+PacWest Bancorp (PACW) [ST] S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Paycom Software, Inc. (PAYC) [ST] S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Pepsico, Inc. (PEP) [ST] P 03/06/202304/03/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+[[PAGE 23]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Pfizer, Inc. (PFE) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Pfizer, Inc. (PFE) [ST] S 03/07/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+Philip Morris International Inc (PM)
+[ST]
+S 03/07/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+Philip Morris International Inc (PM)
+[ST]
+S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Plug Power, Inc. (PLUG) [ST] S 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Public Service Enterprise Group
+Incorporated (PEG) [ST]
+S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Raymond James Financial, Inc. (RJF)
+[ST]
+S 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Raytheon Company (RTN) [ST] P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Reinsurance Group of America,
+Incorporated (RGA) [ST]
+P 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Rentokil Initial plc American P 03/31/202304/03/2023$1,001 - $15,000
+[[PAGE 24]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Depositary Shares (RTO) [ST]
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Rio Tinto Plc (RIO) [ST] P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Rithm Capital Corp. (RITM) [ST] P 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Rivian Automotive, Inc. - Class A
+(RIVN) [ST]
+S 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Roche Holdings AG Basel American
+Depositary Shares (RHHBY) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Sabra Health Care REIT, Inc. (SBRA)
+[ST]
+P 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Salesforce, Inc. (CRM) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+SALMAR ASA ADR CMN (SALRY)
+[OT]
+P 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Sarepta Therapeutics, Inc. (SRPT) [ST]P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+[[PAGE 25]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SBA Communications Corporation -
+Class A (SBAC) [ST]
+S 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Sea Limited American Depositary
+Shares, each representing one Class A
+Ordinary Share (SE) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Seagen Inc. (SGEN) [ST] P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Seek Ltd Unsponsored ADR (SKLTY)
+[ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+SGS SA ADR (SGSOY) [ST] S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Sherwin-Williams Company (SHW)
+[ST]
+P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Shionogi & Co Ltd Unsponsored ADR
+(SGIOY) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Shiseido Co Ltd Ord American
+Depositary Shares (SSDOY) [ST]
+S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Signature Bank (SBNY) [ST] P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Silk Road Medical, Inc. (SILK) [ST] S 03/06/202304/03/2023$1,001 - $15,000
+[[PAGE 26]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Skanska AB Sponsored ADR (SKBSY)
+[ST]
+S 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+SL Green Realty Corp (SLG) [ST] P 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+SL Green Realty Corp (SLG) [ST] P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Snowflake Inc. Class A (SNOW) [ST] S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Softbank Corp Unsponsored ADR
+(SFTBY) [ST]
+P 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+SOMPO JAPAN NIPPONKOA HLDGS
+IN ADR CMN (SMPNY) [OT]
+S 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Southwest Gas Holdings, Inc. Common
+Stock (SWX) [ST]
+P 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Spire Inc. (SR) [ST] P 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Spire Inc. (SR) [ST] S (partial) 03/06/202304/03/2023$1,001 - $15,000
+[[PAGE 27]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+State Street Corporation (STT) [ST] P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Sumitomo Mitsui Financial Group Inc
+Unsponsored American Depositary
+Shares (SMFG) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Sunrun Inc. (RUN) [ST] S (partial) 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Swedbank AB Sponsored ADR
+(SWDBY) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Symrise Ag Unsponsored ADR
+(SYIEY) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Terumo Corp Unsponsored ADR
+(TRUMY) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Tesla, Inc. (TSLA) [ST] P 03/06/202304/03/2023$100,001 -
+$250,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Tesla, Inc. (TSLA) [ST] P 03/01/202304/06/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+The Kraft Heinz Company (KHC) [ST] S 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+[[PAGE 28]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+The Kraft Heinz Company (KHC) [ST] S (partial) 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Thermo Fisher Scientific Inc (TMO)
+[ST]
+P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Toto Ltd Ord American Depositary
+Shares (TOTDY) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Tyson Foods, Inc. (TSN) [ST] S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Tyson Foods, Inc. (TSN) [ST] P 03/07/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+U.S. Bancorp (USB) [ST] S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+UGI Corporation (UGI) [ST] S (partial) 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+United Parcel Service, Inc. (UPS) [ST] P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+United States Steel Corporation (X)
+[ST]
+P 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+[[PAGE 29]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S (partial) 03/06/202304/03/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Unum Group (UNM) [ST] P 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+UPM-KYMMENE OYJ ADR CMN
+(UPMMY) [OT]
+S (partial) 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+VAT GROUP AG ADR CMN (VACNY)
+[OT]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Verizon Communications Inc. (VZ)
+[ST]
+P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Viatris Inc. (VTRS) [ST] S (partial) 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Vodafone Group Plc - American
+Depositary Shares each representing
+ten Ordinary Shares (VOD) [ST]
+S (partial) 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+VOLKSWAGEN
+AKTIENGESELLSCHAFT ADR CMN
+(VWAPY) [OT]
+P 03/31/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+[[PAGE 30]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+VONOVIA SE ADR CMN (VONOY)
+[OT]
+S 03/31/202304/03/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+L: US
+D: ADR stock
+Vornado Realty Trust (VNO) [ST] S 03/01/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Vornado Realty Trust (VNO) [ST] S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Waste Management, Inc. (WM) [ST] S (partial) 03/06/202304/03/2023$50,001 -
+$100,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Western Alliance Bancorporation
+Common Stock (WAL) [ST]
+S 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Weyerhaeuser Company (WY) [ST] S (partial) 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+WILLIAM FLOYD UN FREE SCH
+DIST GO 5% 06/15/25 JD [GS]
+P 03/01/202304/03/2023$100,001 -
+$250,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+WPP plc American Depositary Shares
+(WPP) [ST]
+P 03/31/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TLH ADR
+Zillow Group, Inc. - Class C Capital
+Stock (Z) [ST]
+P 03/06/202304/03/2023$15,001 -
+$50,000
+F S: New
+[[PAGE 31]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Zoetis Inc. Class A (ZTS) [ST] P 03/06/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Zoetis Inc. Class A (ZTS) [ST] P 03/07/202304/03/2023$1,001 - $15,000
+F S: New
+S O: Daniel Goldman 1997 Trust > DSG Investment Holdings LLC > TACS
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Daniel Goldman 12/9/2011 Trust
+Daniel Goldman 12/9/2011 Trust ⇒ Aperio Group LLC
+L: US
+Daniel Goldman 1997 Trust
+Daniel Goldman 1997 Trust ⇒ DSG Investment Holdings LLC
+L: US
+Daniel Goldman 1997 Trust ⇒ DSG Investment Holdings LLC ⇒ TACS
+L: US
+Daniel Goldman Grandchildren 1986 Trust
+Daniel Goldman Grandchildren 1986 Trust ⇒ MUNI ESG
+L: US
+Daniel Goldman Grandchildren 1986 Trust ⇒ TACS R3K
+L: US
+Daniel Goldman Grandchildren 1986 Trust ⇒ TLH ADR
+L: US
+C
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Daniel Goldman , 04/17/2023

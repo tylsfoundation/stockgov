@@ -1,0 +1,80 @@
+[[PAGE 1]]
+Filing ID #20020391
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. James R. Langevin
+Status: Member
+State/District: RI02
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Alibaba group Holding Limited P 01/07/2022 02/07/2022 $1,001 - $15,000 gfedc
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $126; Expires 01/07/22
+Block, Inc. Class A Common Stock, P 01/21/2022 02/07/2022 $1,001 - $15,000 gfedc
+(SQ) [OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call Options; Strike price $145; Expires 03/18/22
+generac Holdlings Inc. (gNRC) P 01/21/2022 02/07/2022 $1,001 - $15,000 gfedc
+[OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call Options; Strike price $270; Expires 03/18/22
+generac Holdlings Inc. (gNRC) P 01/04/2022 02/07/2022 $1,001 - $15,000 gfedc
+[OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call Options; Strike price $320; Expires 02/18/22
+generac Holdlings Inc. (gNRC) P 01/04/2022 02/07/2022 $1,001 - $15,000 gfedc
+[OP]
+FILINg STATUS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $320; Expires 2/18/22
+generac Holdlings Inc. (gNRC) P 01/04/2022 02/07/2022 $1,001 - $15,000 gfedc
+[OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call options; Strike price $320; Expires 2/18/22
+Meta Platforms, Inc. - Class A (FB) P 01/26/2022 02/07/2022 $1,001 - $15,000 gfedc
+[OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call Options; Strike price $340; Expires 02/25/22
+PayPal Holdings, Inc. (PYPL) [ST] P 01/05/2022 02/07/2022 $50,001 - gfedc
+$100,000
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+Rivian Automotive, Inc. - Class A P 01/21/2022 02/07/2022 $1,001 - $15,000 gfedc
+(RIVN) [OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call Options; Strike price $100; Expires 03/18/22
+Zillow group, Inc. - Class C Capital P 01/04/2022 02/07/2022 $1,001 - $15,000 gfedc
+Stock (Z) [OP]
+FILINg STATUS: New
+SUBHOLDINg OF: Brokerage Account
+DESCRIPTION: Call Options; Strike price $60; Expires 02/18/22
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+Brokerage Account
+LOCATION: US
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+[[PAGE 3]]
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. James R. Langevin , 02/08/2022

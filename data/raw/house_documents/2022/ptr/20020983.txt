@@ -1,0 +1,691 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Patrick Fallon
+Status: Member
+State/District:TX04
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000080261 Amazon.com, Inc. (AMZN) [OP] S 01/19/202101/19/2021 $1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 1 put option with a strike price of $3000 and an expiration date of 02/19/21
+2000080300 Amazon.com, Inc. (AMZN) [OP] S 02/23/202102/23/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 1 put option with a strike price of $3050 and an expiration date of 03/19/21
+2000080325 Amazon.com, Inc. (AMZN) [OP] S 03/23/202103/23/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 1 put option with a strike price of $3050 and an expiration date of 04/16/21
+2000080255 Amazon.com, Inc. (AMZN) [OP] S 04/20/202104/20/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 1 put option with a strike price of $3200 and an expiration date of 05/21/21
+2000080256 Amazon.com, Inc. (AMZN) [OP] S 04/20/202104/20/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 1 put option with a strike price of $3250 and an expiration date of 05/21/21
+2000080738 Amazon.com, Inc. (AMZN) [OP] S 05/21/202105/21/2021 $1,001 - $15,000
+F S: Amended
+Filing ID #20020983
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: WF - Investment - 3
+D: Sold 1 put option with a strike price of $3200 and an expiration date of 06/18/21
+2000080739 Amazon.com, Inc. (AMZN) [OP] P 05/21/202105/21/2021 $1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Purchased 1 put option with a strike price of $3250 and an expiration date of 05/21/21
+2000080745 Amazon.com, Inc. (AMZN) [OP] S 05/26/202105/26/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 1 put options with a strike price of $3250 and an expiration date of 06/18/21
+2000080768 Amazon.com, Inc. (AMZN) [OP] S 06/24/202106/24/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 1 put option with a strike price of $3300 and an expiration date of 07/30/21
+2000085030 Amazon.com, Inc. (AMZN) [OP] S 10/04/202110/04/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 1 put option with a strike price of $3000 and an expiration date of 11/19/21
+2000086161 Amazon.com, Inc. (AMZN) [OP] S 10/26/202111/02/2021 $1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 1 put option with a strike price of $3200 and an expiration date of 10/29/21
+2000085025 American Airlines Group, Inc.
+(AAL) [OP]
+S 10/04/202110/04/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 114 call options with a strike price of $24 and an expiration date of 11/19/21
+2000083656 American Airlines Group, Inc.
+(AAL) [OP]
+S 08/10/202108/10/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 72 call options with a strike price of $22 and an expiration date of 09/17/21
+2000083657 American Airlines Group, Inc.
+(AAL) [OP]
+S 08/10/202108/10/2021$1,001 - $15,000
+F S: Amended
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: WF - Investment - 3
+D: Sold 42 call options with a strike price of $24 and an expiration date of 09/17/21
+2000080767 American Airlines Group, Inc.
+(AAL) [OP]
+S 06/24/202106/24/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 72 call options with a strike price of $23 and an expiration date of 07/16/21
+2000080769 American Airlines Group, Inc.
+(AAL) [OP]
+S 06/24/202106/24/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 42 call options with a strike price of $24.50 and an expiration date of 07/16/21
+2000080744 American Airlines Group, Inc.
+(AAL) [OP]
+S 05/26/202105/26/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 72 call options with a strike price of $25 and an expiration date of 06/18/21
+2000080747 American Airlines Group, Inc.
+(AAL) [OP]
+S 05/26/202105/26/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 42 call options with a strike price of $24 and an expiration date of 06/18/21
+2000080742 American Airlines Group, Inc.
+(AAL) [ST]
+S 05/24/202105/24/2021$100,001 -
+$250,000
+F S: Amended
+S O: WF - Investment - 3
+2000080247 American Airlines Group, Inc.
+(AAL) [OP]
+S 04/20/202104/20/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 72 call options with a strike price of $23 and an expiration date of 05/21/21
+2000080249 American Airlines Group, Inc.
+(AAL) [OP]
+S 04/20/202104/20/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 50 call options with a strike price of $22.50 and an expiration date of 05/21/21
+2000080329 American Airlines Group, Inc.
+(AAL) [OP]
+S 03/23/202103/23/2021$1,001 - $15,000
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 50 call options with a strike price of $23 and an expiration date of 04/16/21
+2000080331 American Airlines Group, Inc.
+(AAL) [ST]
+S 03/22/202103/22/2021$100,001 -
+$250,000
+F S: Amended
+S O: WF - Investment - 3
+2000080301 American Airlines Group, Inc.
+(AAL) [OP]
+S 02/23/202102/23/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 50 call options with a strike price of $21 and an expiration date of 03/19/21
+2000080298 Apple Inc. (AAPL) [OP] S 02/23/202102/23/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 20 call options with a strike price of $127.50 and an expiration date of 03/19/21
+2000080251 Apple Inc. (AAPL) [OP] S 01/19/202101/19/2021 $15,001 -
+$50,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 40 call options with a strike price of $132 and an expiration date of 02/19/21
+2000080279 Apple Inc. (AAPL) [OP] S 02/22/202102/22/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 50 call options with a strike price of $132 and an expiration date of 03/19/21
+2000080327 Apple Inc. (AAPL) [OP] S 03/23/202103/23/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 30 call options with a strike price of $126.25 and an expiration date of 04/16/21
+2000080328 Apple Inc. (AAPL) [OP] S 03/23/202103/23/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 36 call options with a strike price of $127.50 and an expiration date of 04/16/21
+2000080250 Apple Inc. (AAPL) [OP] S 04/20/202104/20/2021$1,001 - $15,000
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 23 call options with a strike price of $137 and an expiration date of 05/21/21
+2000080766 Apple Inc. (AAPL) [OP] S 06/24/202106/24/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 23 call options with a strike price of $137 and an expiration date of 07/16/21
+2000083221 Apple Inc. (AAPL) [ST] S 07/19/202107/19/2021 $250,001 -
+$500,000
+F S: Amended
+S O: WF - Investment - 3
+2000080280 Applied Materials, Inc. (AMAT)
+[ST]
+S 04/19/202104/19/2021$50,001 -
+$100,000
+F S: Amended
+S O: WF - Investment - 3
+2000080293 Applied Materials, Inc. (AMAT)
+[ST]
+S 04/05/202104/05/2021$50,001 -
+$100,000
+F S: Amended
+S O: WF - Investment - 3
+2000080305 Applied Materials, Inc. (AMAT)
+[OP]
+S 04/05/202104/05/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 5 call options with a strike price of $145 and an expiration date of 05/21/21
+2000080312 Boeing Company (BA) [OP] S 04/05/202104/05/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 4 call options with a strike price of $260 and an expiration date of 05/21/21
+2000080326 Boeing Company (BA) [ST] S 03/22/202103/22/2021$100,001 -
+$250,000
+F S: Amended
+S O: WF - Investment - 3
+2000080284 Boeing Company (BA) [ST] S 02/22/202102/22/2021$100,001 -
+$250,000
+F S: Amended
+S O: WF - Investment - 3
+[[PAGE 6]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000080253 Boeing Company (BA) [OP] S 01/19/202101/19/2021 $1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 5 call options with a strike price of $210 and an expiration date of 02/19/21
+2000080288 Boeing Company (BA) [OP] S 02/23/202102/23/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 10 call options with a strike price of $215 and an expiration date of 03/19/21
+2000080270 Boeing Company (BA) [OP] S 04/20/202104/20/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 4 call options with a strike price of $260 and an expiration date of 05/21/21
+2000080765 Boeing Company (BA) [OP] S 06/24/202106/24/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 4 call options with a strike price of $257.50 and an expiration date of 07/16/21
+2000080317 Boeing Company (BA) [ST] S 03/19/202103/19/2021$15,001 -
+$50,000
+F S: Amended
+S O: WF - Investment - 3
+2000085028 Boeing Company (BA) [OP] S 10/04/202110/04/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 4 call options with a strike price of $230 and an expiration date of 11/19/21
+2000080741 Caterpillar, Inc. (CAT) [ST] S 05/24/202105/24/2021$100,001 -
+$250,000
+F S: Amended
+S O: WF - Investment - 3
+2000080275 Caterpillar, Inc. (CAT) [OP] S 04/20/202104/20/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 9 call options with a strike price of $230 and an expiration date of 05/21/21
+2000080268 Chevron Corporation (CVX) [OP] S 04/20/202104/20/2021$1,001 - $15,000
+[[PAGE 7]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 20 call options with a strike price of $105 and an expiration date of 05/21/21
+2000080269 Chevron Corporation (CVX) [OP] S 04/20/202104/20/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 20 call options with a strike price of $103 and an expiration date of 05/21/21
+2000080736 Chevron Corporation (CVX) [ST] S 05/18/202105/18/2021$100,001 -
+$250,000
+F S: Amended
+S O: WF - Investment - 3
+2000080737 Chevron Corporation (CVX) [ST] S 05/18/202105/18/2021$100,001 -
+$250,000
+F S: Amended
+S O: WF - Investment - 3
+2000080296 Chevron Corporation (CVX) [OP] S 02/23/202102/23/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 10 call options with a strike price of $100 and an expiration date of 03/19/21
+2000080324 Chevron Corporation (CVX) [ST] S 03/22/202103/22/2021$50,001 -
+$100,000
+F S: Amended
+S O: WF - Investment - 3
+2000080314 Chevron Corporation (CVX) [OP] S 04/05/202104/05/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 20 call options with a strike price of $105 and an expiration date of 05/21/21
+2000086146 Chevron Corporation (CVX) [OP] S 10/01/202111/02/2021 $1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 19 call options with a strike price of $104 and an expiration date of 10/15/21
+2000086160 Chevron Corporation (CVX) [ST] S 10/18/202111/02/2021 $100,001 -
+$250,000
+F S: Amended
+S O: WF - Investment - 3
+[[PAGE 8]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000083655 Chevron Corporation (CVX) [OP] S 08/10/202108/10/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 19 call options with a strike price of $105 and an expiration date of 09/17/21
+2000080754 Chevron Corporation (CVX) [OP] S 05/27/202105/27/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 20 call options with a strike price of $104 and an expiration date of 06/18/21
+2000080773 Chevron Corporation (CVX) [ST] S 06/28/202106/28/2021$100,001 -
+$250,000
+F S: Amended
+S O: WF - Investment - 3
+2000080776 Chevron Corporation (CVX) [OP] S 06/29/202106/29/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 19 call options with a strike price of $105 and an expiration date of 07/16/21
+2000083222 CrowdStrike Holdings, Inc. - Class
+A (CRWD) [ST]
+S 07/23/202107/23/2021$100,001 -
+$250,000
+F S: Amended
+S O: WF - Investment - 3
+2000086159 CrowdStrike Holdings, Inc. - Class
+A (CRWD) [ST]
+S 10/18/202111/02/2021 $100,001 -
+$250,000
+F S: Amended
+S O: WF - Investment - 3
+D: This transaction was previously reported on a PTR; we are amending to provide additional information.
+2000085024 CrowdStrike Holdings, Inc. - Class
+A (CRWD) [OP]
+S 10/01/202110/01/2021 $1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 9 call options with a strike price of $250 and an expiration date of 10/15/21
+2000080764 CrowdStrike Holdings, Inc. - Class
+A (CRWD) [OP]
+S 06/24/202106/24/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 6 call options with a strike price of $257.50 and an expiration date of 07/16/21
+[[PAGE 9]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000080761 Deere & Company (DE) [OP] S 06/24/202106/24/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 6 call options with a strike price of $365 and an expiration date of 07/16/21
+2000083653 Deere & Company (DE) [OP] S 08/10/202108/10/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 6 put options with a strike price of $362.50 and an expiration date of 08/20/21
+2000080753 Deere & Company (DE) [OP] S 05/27/202105/27/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 6 call options with a strike price of $362.50 and an expiration date of 06/18/21
+2000080759 DocuSign, Inc. (DOCU) [OP] S 06/02/202106/02/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 10 put options with a strike price of $190 and an expiration date of 06/04/21
+2000080740 Facebook, Inc. - Class A (FB) [ST] S 05/24/202105/24/2021$100,001 -
+$250,000
+F S: Amended
+S O: WF - Investment - 3
+2000080252 Facebook, Inc. - Class A (FB) [OP]S 04/20/202104/20/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 7 call options with a strike price of $302.50 and an expiration date of 05/21/21
+2000080321 Facebook, Inc. - Class A (FB) [ST] S 03/22/202103/22/2021$250,001 -
+$500,000
+F S: Amended
+S O: WF - Investment - 3
+2000080294 Facebook, Inc. - Class A (FB) [OP]S 02/23/202102/23/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 10 call options with a strike price of $270 and an expiration date of 03/19/21
+2000080276 FedEx Corporation (FDX) [OP] S 02/22/202102/22/2021$1,001 - $15,000
+F S: Amended
+[[PAGE 10]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: WF - Investment - 3
+D: Sold 15 call options with a strike price of $265 and an expiration date of 03/19/21
+2000080248 FedEx Corporation (FDX) [OP] S 01/19/202101/19/2021 $1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 15 call options with a strike price of $255 and an expiration date of 02/19/21
+2000080320 FedEx Corporation (FDX) [ST] S 03/22/202103/22/2021$250,001 -
+$500,000
+F S: Amended
+S O: WF - Investment - 3
+2000080330 FedEx Corporation (FDX) [OP] S 03/23/202103/23/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 10 call options with a strike price of $270 and an expiration date of 04/16/21
+2000080282 FedEx Corporation (FDX) [ST] S 04/19/202104/19/2021$250,001 -
+$500,000
+F S: Amended
+S O: WF - Investment - 3
+2000080762 FedEx Corporation (FDX) [OP] S 06/24/202106/24/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 5 call options with a strike price of $302.50 and an expiration date of 07/16/21
+2000080774 FedEx Corporation (FDX) [OP] S 06/29/202106/29/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 5 call options with a strike price of $302.50 and an expiration date of 07/16/21
+2000080752 FedEx Corporation (FDX) [OP] S 05/27/202105/27/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 5 call options with a strike price of $317.50 and an expiration date of 06/18/21
+2000080775 FedEx Corporation (FDX) [OP] S 06/29/202106/29/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 5 call options with a strike price of $300 and an expiration date of 07/16/21
+[[PAGE 11]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+2000080763 FedEx Corporation (FDX) [OP] S 06/24/202106/24/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 5 call options with a strike price of $295 and an expiration date of 07/16/21
+2000085031 FedEx Corporation (FDX) [OP] S 10/04/202110/04/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 15 put options with a strike price of $200 and an expiration date of 11/19/21
+2000080760 Microsoft Corporation (MSFT)
+[ST]
+S 06/21/202106/21/2021$100,001 -
+$250,000
+F S: Amended
+S O: WF - Investment - 3
+2000080746 Microsoft Corporation (MSFT)
+[OP]
+S 05/26/202105/26/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 10 call options with a strike price of $250 and an expiration date of 06/18/21
+2000080283 Microsoft Corporation (MSFT)
+[ST]
+S 04/19/202104/19/2021$250,001 -
+$500,000
+F S: Amended
+S O: WF - Investment - 3
+2000080322 Microsoft Corporation (MSFT)
+[OP]
+S 03/23/202103/23/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 7 call options with a strike price of $240 and an expiration date of 04/16/21
+2000080323 Microsoft Corporation (MSFT)
+[OP]
+S 03/23/202103/23/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 5 call options with a strike price of $240 and an expiration date of 04/16/21
+2000080274 Microsoft Corporation (MSFT)
+[ST]
+S 02/17/202102/17/2021 $500,001 -
+$1,000,000
+F S: Amended
+S O: WF - Investment - 3
+2000080259 Microsoft Corporation (MSFT)S 01/19/202101/19/2021 $15,001 -
+[[PAGE 12]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+[OP] $50,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 40 call options with a strike price of $220 and an expiration date of 02/19/21
+2000080292 Microsoft Corporation (MSFT)
+[OP]
+S 02/23/202102/23/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 14 call options with a strike price of $237.50 and an expiration date of 03/19/21
+2000080290 PayPal Holdings, Inc. (PYPL) [OP]S 02/23/202102/23/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 10 call options with a strike price of $267.50 and an expiration date of 03/19/21
+2000080281 PayPal Holdings, Inc. (PYPL) [ST] S 02/22/202102/22/2021$100,001 -
+$250,000
+F S: Amended
+2000080257 PayPal Holdings, Inc. (PYPL) [OP]S 01/19/202101/19/2021 $1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 10 call options with a strike price of $247.50 and an expiration date of 02/19/21
+2000080332 PayPal Holdings, Inc. (PYPL) [OP]S 03/23/202103/23/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 10 call options with a strike price of $262.50 and an expiration date of 04/16/21
+2000080286 PayPal Holdings, Inc. (PYPL) [ST] S 04/19/202104/19/2021$250,001 -
+$500,000
+F S: Amended
+S O: WF - Investment - 3
+2000086162 PayPal Holdings, Inc. (PYPL) [OP]S 10/26/202111/02/2021 $1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 6 put options with a strike price of $235 and an expiration date of 11/12/21
+2000080751 Salesforce.com Inc (CRM) [OP] S 05/27/202105/27/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+[[PAGE 13]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+D: Sold 8 put options with a strike price of $220 and an expiration date of 06/18/21
+2000080750 Southwest Airlines Company
+(LUV) [OP]
+S 05/27/202105/27/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 32 call options with a strike price of $62.50 and an expiration date of 06/18/21
+2000080777 Southwest Airlines Company
+(LUV) [OP]
+S 06/29/202106/29/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 38 call options with a strike price of $53.50 and an expiration date of 07/16/21
+2000083654 Southwest Airlines Company
+(LUV) [OP]
+S 08/10/202108/10/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 38 call options with a strike price of $52.50 and an expiration date of 09/17/21
+2000085026 Southwest Airlines Company
+(LUV) [OP]
+S 10/04/202110/04/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 70 call options with a strike price of $57.50 and an expiration date of 11/19/21
+2000085033 Square, Inc. Class A (SQ) [OP] S 10/04/202110/04/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 5 call options with a strike price of $230 and an expiration date of 11/19/21
+2000085034 Twitter, Inc. (TWTR) [OP] S 10/04/202110/04/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 18 call options with a strike price of $55 and an expiration date of 11/19/21
+2000086894 Twitter, Inc. (TWTR) [OP] P 11/19/202111/20/2021 $1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Bought 18 put options with a strike price of $55 and an expiration date of 11/19/21
+2000086895 Twitter, Inc. (TWTR) [OP] S 11/19/202111/20/2021 $1,001 - $15,000
+F S: Amended
+[[PAGE 14]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: WF - Investment - 3
+D: Sold 18 put options with a strike price of $55 and an expiration date of 12/17/21
+2000080287 UnitedHealth Group Incorporated
+Common Stock (UNH) [ST]
+S 04/19/202104/19/2021$100,001 -
+$250,000
+F S: Amended
+S O: WF - Investment - 3
+2000080307 UnitedHealth Group Incorporated
+Common Stock (UNH) [OP]
+S 04/05/202104/05/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 3 call options with a strike price of $372.50 and an expiration date of 05/21/21
+2000080333 Verizon Communications Inc.
+(VZ) [OP]
+S 03/23/202103/23/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 30 call options with a strike price of $57 and an expiration date of 04/16/21
+2000080291 Verizon Communications Inc.
+(VZ) [ST]
+S 04/07/202104/07/2021$100,001 -
+$250,000
+F S: Amended
+S O: WF - Investment - 3
+2000080289 Verizon Communications Inc.
+(VZ) [ST]
+S 04/08/202104/08/2021$15,001 -
+$50,000
+F S: Amended
+S O: WF - Investment - 3
+2000080254 Verizon Communications Inc.
+(VZ) [OP]
+S 04/20/202104/20/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 52 call options with a strike price of $59 and an expiration date of 05/21/21
+2000080743 Verizon Communications Inc.
+(VZ) [OP]
+S 05/26/202105/26/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 52 call options with a strike price of $57.50 and an expiration date of 06/18/21
+2000086893 Verizon Communications Inc.
+(VZ) [OP]
+S 11/19/202111/20/2021 $1,001 - $15,000
+F S: Amended
+[[PAGE 15]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: WF - Investment - 3
+D: Sold 84 call options with a strike price of $52.50 and an expiration date of 01/21/22
+2000085027 Walt Disney Company (DIS) [OP] S 10/04/202110/04/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 11 call options with a strike price of $180 and an expiration date of 11/19/21
+2000083220 Walt Disney Company (DIS) [OP] S 07/15/202107/15/2021 $1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 11 call options with a strike price of $190 and an expiration date of 08/20/21
+2000080262 Walt Disney Company (DIS) [OP] S 04/20/202104/20/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 5 call options with a strike price of $190 and an expiration date of 05/21/21
+2000080263 Walt Disney Company (DIS) [OP] S 04/20/202104/20/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 6 call options with a strike price of $187.50 and an expiration date of 05/21/21
+2000080310 Walt Disney Company (DIS) [OP] S 04/05/202104/05/2021$1,001 - $15,000
+F S: Amended
+S O: WF - Investment - 3
+D: Sold 5 call options with a strike price of $190 and an expiration date of 05/21/21
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+WF - Investment - 3
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+[[PAGE 16]]
+Digitally Signed: Hon. Patrick Fallon , 05/14/2022

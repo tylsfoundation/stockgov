@@ -1,0 +1,111 @@
+[[PAGE 1]]
+Eagle Seal Filing ID #20019543
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Mark Dr Green
+Status: Member
+State/District: TN07
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Antero Midstream Corporation S 09/27/2021 09/30/2021 $250,001 - gfedcb
+(AM) [ST] $500,000
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+CrossAmerica Partners lP P 09/23/2021 09/30/2021 $15,001 - gfedc
+Common units representing $50,000
+limited partner interests (CAPl)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+CrossAmerica Partners lP P 09/24/2021 09/30/2021 $15,001 - gfedc
+Common units representing $50,000
+limited partner interests (CAPl)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Enable Midstream Partners, lP P 09/24/2021 09/30/2021 $15,001 - gfedc
+Common units representing $50,000
+limited partner interests (ENbl)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Enable Midstream Partners, lP P 09/23/2021 09/30/2021 $15,001 - gfedc
+Common units representing $50,000
+limited partner interests (ENbl)
+[ET]
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Enable Midstream Partners, lP P 09/27/2021 09/30/2021 $50,001 - gfedc
+Common units representing $100,000
+limited partner interests (ENbl)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Enbridge Inc (ENb) [ST] S 09/24/2021 09/30/2021 $100,001 - gfedc
+$250,000
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Genesis Energy, l.P. Common S 09/23/2021 09/30/2021 $100,001 - gfedcb
+units (GEl) [ST] $250,000
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Global Partners lP Global Partners P 09/23/2021 09/30/2021 $15,001 - gfedc
+lP Common units representing $50,000
+limited Partner Interests (GlP)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Global Partners lP Global Partners P 09/24/2021 09/30/2021 $15,001 - gfedc
+lP Common units representing $50,000
+limited Partner Interests (GlP)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Nustar Energy l.P. Common units P 09/27/2021 09/30/2021 $100,001 - gfedc
+(NS) [ST] $250,000
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+PbF logistics lP Common units P 09/27/2021 09/30/2021 $15,001 - gfedc
+representing limited partner $50,000
+interests (PbFX) [ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Phillips 66 Partners lP Common P 09/24/2021 09/30/2021 $50,001 - gfedc
+units representing limited partner $100,000
+[[PAGE 3]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+interest in the Partnership (PSXP)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Shell Midstream Partners, l.P. P 09/24/2021 09/30/2021 $50,001 - gfedc
+Common units representing $100,000
+limited Partner Interests (SHlX)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Shell Midstream Partners, l.P. P 09/23/2021 09/30/2021 $50,001 - gfedc
+Common units representing $100,000
+limited Partner Interests (SHlX)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+AXA Retirement Account
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Mark Dr Green , 09/30/2021

@@ -1,0 +1,49 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Suzan K. DelBene
+Status: Member
+State/District:WA01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT CT ST HSG Fa HSG 2.75% Due
+05/15/2026 [GS]
+S 05/16/202205/16/2022$250,001 -
+$500,000
+F S: New
+D: Redemption
+JT District Columbia Go BDS Ser 2017D
+5.00% Due 06/01/2027 [GS]
+S 05/06/202205/06/2022$500,001 -
+$1,000,000
+F S: New
+JT Illinois ST Sales Tax Rev JR Oblig
+4.00% Due 06/15/2030 [GS]
+P 05/03/202205/03/2022$250,001 -
+$500,000
+F S: New
+JT New York NY City Transitional Fin
+5.00% Due 11/01/2027 [GS]
+P 05/06/202205/06/2022$500,001 -
+$1,000,000
+F S: New
+JT New York NY Go BDS Ser Fiscal
+2008J 5.00% Due 08/01/2026 [GS]
+P 05/10/202205/10/2022$1,001 - $15,000
+F S: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+Filing ID #20021082
+[[PAGE 2]]
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 05/23/2022

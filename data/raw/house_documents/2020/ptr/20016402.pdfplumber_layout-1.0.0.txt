@@ -1,0 +1,917 @@
+[[PAGE 1]]
+Filing Id #20016402
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+filer information
+name: Hon. Gilbert Cisneros
+Status: Member
+State/District: Ca39
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+3M Company (MMM) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+aaR Corp. (aIR) [ST] S 03/31/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+abbott Laboratories (abT) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+activision blizzard, Inc (aTVI) [ST] S (partial) 03/12/2020 04/15/2020 $15,001 - gfedcb
+$50,000
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+activision blizzard, Inc (aTVI) [ST] S (partial) 03/13/2020 04/15/2020 $1,001 - $15,000 gfedcb
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+affiliated Managers Group, Inc. S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(aMG) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+aFLaC Incorporated (aFL) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+akamai Technologies, Inc. (aKaM) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+alexion Pharmaceuticals, Inc. P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(aLXN) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+alibaba Group Holding Limited S (partial) 03/16/2020 04/15/2020 $1,001 - $15,000 gfedcb
+american depositary Shares each
+representing eight ordinary share
+(baba) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+align Technology, Inc. (aLGN) P 03/16/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+align Technology, Inc. (aLGN) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+allegiant Travel Company (aLGT) S (partial) 03/31/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+alphabet Inc. - Class a (GooGL) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+alphabet Inc. - Class C Capital S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Stock (GooG) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+[[PAGE 3]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+american International Group, Inc. S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+New (aIG) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+anthem, Inc. (aNTM) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+aon plc Class a ordinary Shares P 04/02/2020 04/15/2020 $1,001 - $15,000 gfedc
+(aoN) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+aT&T Inc. (T) [ST] S (partial) 03/18/2020 04/15/2020 $15,001 - gfedc
+$50,000
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+atlassian Corporation Plc - Class a P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+ordinary Shares (TEaM) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+atriCure, Inc. (aTRC) [ST] P 03/31/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+berkshire Hathaway Inc. New P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(bRK.b) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+biogen Inc. (bIIb) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+boeing Company (ba) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+booking Holdings Inc. (bKNG) P 03/12/2020 04/15/2020 $1,001 - $15,000 gfedc
+[[PAGE 4]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+booking Holdings Inc. (bKNG) S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+boston Properties, Inc. (bXP) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+boston Scientific Corporation P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(bSX) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+brighthouse Financial, Inc. (bHF) S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+bristol-Myers Squibb Company S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(bMY) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+broadridge Financial Solutions, P 03/05/2020 04/15/2020 $1,001 - $15,000 gfedc
+Inc. (bR) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+broadridge Financial Solutions, P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Inc. (bR) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+CaCI International, Inc. Class a P 03/26/2020 04/15/2020 $1,001 - $15,000 gfedc
+(CaCI) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+California department of Water S (partial) 03/13/2020 04/15/2020 $100,001 - gfedcb
+Resources [GS] $250,000
+[[PAGE 5]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > Raymond James - Multi-Margin Related account a
+Canada Goose Holdings Inc. S (partial) 03/23/2020 04/15/2020 $1,001 - $15,000 gfedc
+Subordinate Voting Shares (GooS)
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Canada Goose Holdings Inc. S (partial) 03/24/2020 04/15/2020 $1,001 - $15,000 gfedc
+Subordinate Voting Shares (GooS)
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Canada Goose Holdings Inc. S 03/25/2020 04/15/2020 $1,001 - $15,000 gfedc
+Subordinate Voting Shares (GooS)
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Capital one Financial Corporation S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(CoF) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Capri Holdings Limited ordinary P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Shares (CPRI) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Cardinal Health, Inc. (CaH) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+CarMax Inc (KMX) [ST] P 04/02/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Caterpillar, Inc. (CaT) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+CenterPoint Energy, Inc (CNP) S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[[PAGE 6]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+CenturyLink, Inc. (CTL) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+CF Industries Holdings, Inc. (CF) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Chubb Limited (Cb) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Cigna Corporation (CI) [ST] S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Citigroup, Inc. (C) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Citizens Financial Group, Inc. P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(CFG) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Cognizant Technology Solutions S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Corporation - Class a (CTSH) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Colgate-Palmolive Company (CL) S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Comcast Corporation - Class a P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(CMCSa) [ST]
+FILING STaTUS: New
+[[PAGE 7]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Comerica Incorporated (CMa) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Corteva, Inc. (CTVa) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+CoStar Group, Inc. (CSGP) [ST] P 03/27/2020 04/15/2020 $15,001 - gfedc
+$50,000
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+CoStar Group, Inc. (CSGP) [ST] P 03/30/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Coty Inc. Class a (CoTY) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Crown Castle International Corp. P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(CCI) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+delta air Lines, Inc. (daL) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+digital Realty Trust, Inc. (dLR) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+discover Financial Services (dFS) S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+discovery, Inc. - Series a (dISCa) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[[PAGE 8]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+dollar Tree, Inc. (dLTR) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+duPont de Nemours, Inc. (dd) S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+dXC Technology Company (dXC) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Eastman Chemical Company S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(EMN) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Exact Sciences Corporation (EXaS) P 03/16/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Exelon Corporation (EXC) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+ExlService Holdings, Inc. (EXLS) S 03/31/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Fidelity National Information S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Services, Inc. (FIS) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Fifth Third bancorp (FITb) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[[PAGE 9]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Fiserv, Inc. (FISV) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+FleetCor Technologies, Inc. (FLT) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Flex Ltd. - ordinary Shares (FLEX) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Ford Motor Company (F) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Franklin Resources, Inc. (bEN) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Freeport-McMoRan, Inc. (FCX) S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Gartner, Inc. (IT) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+General dynamics Corporation P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(Gd) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+General Electric Company (GE) S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+[[PAGE 10]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+General Motors Company (GM) S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Gilead Sciences, Inc. (GILd) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Glacier bancorp, Inc. (GbCI) [ST] P 03/31/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Global Payments Inc. (GPN) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Globant S.a. Common Shares S (partial) 03/10/2020 04/15/2020 $1,001 - $15,000 gfedcb
+(GLob) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Globant S.a. Common Shares S 03/31/2020 04/15/2020 $1,001 - $15,000 gfedcb
+(GLob) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Globus Medical, Inc. Class a S (partial) 03/31/2020 04/15/2020 $1,001 - $15,000 gfedc
+(GMEd) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Goldman Sachs Group, Inc. (GS) S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+H&R block, Inc. (HRb) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Harley-davidson, Inc. (HoG) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[[PAGE 11]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Hartford Financial Services Group, S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Inc. (HIG) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+HealthEquity, Inc. (HQY) [ST] P 03/31/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Healthpeak Properties, Inc. (PEaK) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Heartland Express, Inc. (HTLd) P 03/31/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Helen of Troy Limited (HELE) [ST] P 03/10/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Hewlett Packard Enterprise S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Company (HPE) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Horace Mann Educators P 03/10/2020 04/15/2020 $1,001 - $15,000 gfedc
+Corporation (HMN) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Host Hotels & Resorts, Inc. (HST) S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Humana Inc. (HUM) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+[[PAGE 12]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Huntington bancshares P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Incorporated (HbaN) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+ICF International, Inc. (ICFI) [ST] P 03/31/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+ICU Medical, Inc. (ICUI) [ST] P 03/31/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+IdaCoRP, Inc. (Ida) [ST] P 03/31/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+IHS Markit Ltd. Common Shares P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(INFo) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Ingersoll Rand Inc. (IR) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Integra LifeSciences Holdings P 03/10/2020 04/15/2020 $1,001 - $15,000 gfedc
+Corporation (IaRT) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+International business Machines S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Corporation (IbM) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+International Paper Company (IP) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+[[PAGE 13]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Interpublic Group of Companies, P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Inc. (IPG) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Intuit Inc. (INTU) [ST] S (partial) 03/05/2020 04/15/2020 $15,001 - gfedcb
+$50,000
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Intuit Inc. (INTU) [ST] S (partial) 03/06/2020 04/15/2020 $1,001 - $15,000 gfedcb
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Iron Mountain Incorporated (IRM) S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Jacobs Engineering Group Inc. (J) S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Jefferies Financial Group Inc. S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(JEF) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+John bean Technologies S 03/10/2020 04/15/2020 $1,001 - $15,000 gfedc
+Corporation (JbT) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+KeyCorp (KEY) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Kimco Realty Corporation (KIM) S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+KLa Corporation (KLaC) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[[PAGE 14]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+L brands, Inc. (Lb) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Laboratory Corporation of america S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Holdings (LH) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Las Vegas Sands Corp. (LVS) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Lennar Corporation Class a (LEN) S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Lincoln National Corporation S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(LNC) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Linde plc ordinary Share (LIN) S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Lithia Motors, Inc. (Lad) [ST] S (partial) 03/31/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Live Nation Entertainment, Inc. P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(LYV) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Loews Corporation (L) [ST] S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+[[PAGE 15]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+LoNG bEaCH Ca HbR REV [GS] S 03/13/2020 04/15/2020 $500,001 - gfedc
+$1,000,000
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > Raymond James - Multi-Margin Related account a
+LoS aNGELES Ca HaRboR dEPT S 03/13/2020 04/15/2020 $250,001 - gfedcb
+[GS] $500,000
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > Raymond James - Multi-Margin Related account a
+LoS aNGELES CNTY Ca MET S (partial) 03/13/2020 04/15/2020 $500,001 - gfedc
+TRaNSPoRTaTIoN aUTHoRITY $1,000,000
+[GS]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > Raymond James - Multi-Margin Related account a
+Lyondellbasell Industries NV P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+ordinary Shares Class a (LYb) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Medtronic plc. ordinary Shares S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(MdT) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+MetLife, Inc. (MET) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+MGM Resorts International P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(MGM) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Microchip Technology P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Incorporated (MCHP) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Microsoft Corporation (MSFT) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+[[PAGE 16]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Morgan Stanley (MS) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Mosaic Company (MoS) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+National Health Investors, Inc. P 03/31/2020 04/15/2020 $1,001 - $15,000 gfedc
+(NHI) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+National Instruments Corporation P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(NaTI) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Newell brands Inc. (NWL) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+News Corporation - Class a P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(NWSa) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+News Corporation - Class b (NWS) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Nike, Inc. (NKE) [ST] P 03/12/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Northern Trust Corporation P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(NTRS) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Norwegian Cruise Line Holdings S 03/17/2020 04/15/2020 $1,001 - $15,000 gfedc
+Ltd. ordinary Shares (NCLH) [ST]
+[[PAGE 17]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Nucor Corporation (NUE) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+NVIdIa Corporation (NVda) [ST] S (partial) 03/30/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+oN Semiconductor Corporation P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(oN) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+oracle Corporation (oRCL) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Paychex, Inc. (PaYX) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Pebblebrook Hotel Trust Common S 03/10/2020 04/15/2020 $1,001 - $15,000 gfedc
+Shares of beneficial Interest (PEb)
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Pepsico, Inc. (PEP) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Perrigo Company plc ordinary P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Shares (PRGo) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Planet Fitness, Inc. (PLNT) [ST] S 03/26/2020 04/15/2020 $15,001 - gfedc
+$50,000
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+[[PAGE 18]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+PNC Financial Services Group, Inc. P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(PNC) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+PPL Corporation (PPL) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Principal Financial Group Inc S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(PFG) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Progressive Corporation (PGR) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Prudential Financial, Inc. (PRU) S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Public Service Enterprise Group P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Incorporated (PEG) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+PVH Corp. (PVH) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Quanta Services, Inc. (PWR) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Quidel Corporation (QdEL) [ST] P 03/10/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Rapid7, Inc. (RPd) [ST] P 03/10/2020 04/15/2020 $1,001 - $15,000 gfedc
+[[PAGE 19]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Roper Technologies, Inc. (RoP) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Royal Caribbean Cruises Ltd. (RCL) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+SaNTa CLaRa Ca UNIFIEd S 03/13/2020 04/15/2020 $250,001 - gfedcb
+SCHooL dISTRICT [GS] $500,000
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > Raymond James - Multi-Margin Related account a
+Sealed air Corporation (SEE) [ST] P 04/02/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+ServiceNow, Inc. (NoW) [ST] S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Sherwin-Williams Company (SHW) P 03/26/2020 04/15/2020 $15,001 - gfedc
+[ST] $50,000
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Simon Property Group, Inc. (SPG) S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Siteone Landscape Supply, Inc. P 03/24/2020 04/15/2020 $1,001 - $15,000 gfedc
+(SITE) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+SL Green Realty Corp (SLG) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+[[PAGE 20]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Southwest airlines Company (LUV) S (partial) 04/02/2020 04/15/2020 $15,001 - gfedc
+[ST] $50,000
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+SS&C Technologies Holdings, Inc. P 03/26/2020 04/15/2020 $1,001 - $15,000 gfedc
+(SSNC) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+SS&C Technologies Holdings, Inc. P 04/02/2020 04/15/2020 $1,001 - $15,000 gfedc
+(SSNC) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+SS&C Technologies Holdings, Inc. P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(SSNC) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Stag Industrial, Inc. (STaG) [ST] P 03/31/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Stanley black & decker, Inc. (SWK) S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+State Street Corporation (STT) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+STERIS plc (STE) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Synchrony Financial (SYF) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+[[PAGE 21]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Sysco Corporation (SYY) [ST] S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Take-Two Interactive Software, Inc. P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(TTWo) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Td ameritrade Holding P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Corporation (aMTd) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+The bank of New York Mellon S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Corporation (bK) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+The descartes Systems Group Inc. P 03/31/2020 04/15/2020 $1,001 - $15,000 gfedc
+(dSGX) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+The Kraft Heinz Company (KHC) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+The Travelers Companies, Inc. S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(TRV) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Truist Financial Corporation (TFC) S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Twitter, Inc. (TWTR) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Tyson Foods, Inc. (TSN) [ST] S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[[PAGE 22]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+U.S. bancorp (USb) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Union Pacific Corporation (UNP) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+United Parcel Service, Inc. (UPS) P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+United Rentals, Inc. (URI) [ST] S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+UnitedHealth Group Incorporated S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Common Stock (UNH) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Universal Health Services, Inc. P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(UHS) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Unum Group (UNM) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Ventas, Inc. (VTR) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+VeriSign, Inc. (VRSN) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+[[PAGE 23]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Verisk analytics, Inc. (VRSK) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Visa Inc. (V) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Visteon Corporation (VC) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Vornado Realty Trust (VNo) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+W.W. Grainger, Inc. (GWW) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Walgreens boots alliance, Inc. P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(Wba) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Walt disney Company (dIS) [ST] P 03/12/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Walt disney Company (dIS) [ST] S (partial) 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Walt disney Company (dIS) [ST] S (partial) 03/26/2020 04/15/2020 $15,001 - gfedc
+$50,000
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Webster Financial Corporation S (partial) 03/31/2020 04/15/2020 $1,001 - $15,000 gfedc
+(WbS) [ST]
+FILING STaTUS: New
+[[PAGE 24]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Wells Fargo & Company (WFC) P 03/18/2020 04/15/2020 $15,001 - gfedc
+[ST] $50,000
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Welltower Inc. (WELL) [ST] S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Western digital Corporation S 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+(WdC) [ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Westinghouse air brake P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+Technologies Corporation (Wab)
+[ST]
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Westrock Company (WRK) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Weyerhaeuser Company (WY) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+Xilinx, Inc. (XLNX) [ST] P 03/18/2020 04/15/2020 $1,001 - $15,000 gfedc
+FILING STaTUS: New
+SUbHoLdING oF: 150 Main Street Trust > U.S. Trust Holdings
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+150 Main Street Trust
+150 Main Street Trust ⇒ Raymond James - Multi-Margin Related account a
+LoCaTIoN: US
+150 Main Street Trust ⇒ U.S. Trust Holdings
+LoCaTIoN: US
+[[PAGE 25]]
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief.
+Digitally Signed: Hon. Gilbert Cisneros , 04/16/2020

@@ -1,0 +1,99 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Michael Patrick Guest
+Status: Member
+State/District:MS03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP ALCORN ST UNIV EDL BLDG MS
+CORP M REV REF BDS DUE
+09/01/2039 [GS]
+P 12/21/202201/03/2023$15,001 -
+$50,000
+F S: New
+S O: KINV - CP
+SP MISSISSIPPI DEV BK SPL OBLIG
+BDS 2019 DUE 02/01/2049 [GS]
+P 12/21/202201/03/2023$100,001 -
+$250,000
+F S: New
+S O: KINV - CP
+SP MISSISSIPPI DEV BK SPL OBLIG
+BDS 2019 DUE 03/01/2048 [GS]
+P 12/21/202201/03/2023$15,001 -
+$50,000
+F S: New
+S O: KINV - CP
+SP MISSISSIPPI DEV BK SPL OBLIG
+RANKIN CNTY SCH DIST BD PJ
+DUE 06/01/2042 [GS]
+P 12/21/202201/03/2023$15,001 -
+$50,000
+F S: New
+S O: KINV - CP
+SP MISSISSIPPI DEV BK SPL OBLIG
+REF HINDS CMNTY COLLEGE DIST
+(MS) DUE 04/01/2039 [GS]
+P 12/21/202201/03/2023$1,001 - $15,000
+F S: New
+S O: KINV - CP
+SP MISSISSIPPI DEV BK SPL OBLIG
+SPL OBLIG BDS 2017 DUE
+P 12/21/202201/03/2023$15,001 -
+$50,000
+Filing ID #20022270
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+07/01/2040 [GS]
+F S: New
+S O: KINV - CP
+SP MISSISSIPPI ST DEV BANK SPL
+OBLG BATESVILLE MS REV PROJ
+DUE 03/01/2050 [GS]
+P 12/21/202201/03/2023$15,001 -
+$50,000
+F S: New
+S O: KINV - CP
+SP MISSISSIPPI ST DEV BK SPL OBLIG
+REF HINDS CMNTY COLLEGE DIST
+(MS) DUE 04/01/2041 [GS]
+P 12/21/202201/03/2023$15,001 -
+$50,000
+F S: New
+S O: KINV - CP
+SP Warner Bros. Discovery, Inc. - Series
+A (WBD) [ST]
+S 12/21/202201/03/2023$1,001 - $15,000
+F S: New
+S O: KINV - CP
+SP Woodside Energy Group Limited
+American Depositary Shares, each
+representing one Ordinary Share
+(WDS) [ST]
+S 12/21/202201/03/2023$1,001 - $15,000
+F S: New
+S O: KINV - CP
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+KINV - CP (Owner: SP)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Michael Patrick Guest , 01/19/2023

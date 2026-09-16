@@ -1,0 +1,53 @@
+[[PAGE 1]]
+Filing ID #20016823
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. John A. Yarmuth
+Status: Member
+State/District: KY03
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+Air Products and Chemicals, Inc. P 05/29/2020 06/05/2020 $1,001 - $15,000 gfedc
+(APD) [ST]
+FIlINg STATuS: New
+Amgen Inc. (AMgN) [ST] S (partial) 05/29/2020 06/05/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+Citigroup, Inc. (C) [ST] P 05/29/2020 06/05/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+EOg Resources, Inc. (EOg) [ST] S 05/14/2020 06/05/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Exxon Mobil Corporation (XOM) S (partial) 05/18/2020 06/05/2020 $1,001 - $15,000 gfedc
+[ST]
+FIlINg STATuS: New
+Exxon Mobil Corporation (XOM) S (partial) 05/05/2020 06/05/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+JP Morgan Chase & Co. (JPM) [ST] S (partial) 05/05/2020 06/05/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+lowe's Companies, Inc. (lOW) S (partial) 05/05/2020 06/05/2020 $1,001 - $15,000 gfedcb
+[ST]
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+FIlINg STATuS: New
+Pfizer, Inc. (PFE) [ST] S (partial) 05/29/2020 06/05/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+T-Mobile uS, Inc. (TMuS) [ST] P 05/26/2020 06/05/2020 $1,001 - $15,000 gfedc
+FIlINg STATuS: New
+Verizon Communications Inc. (VZ) S (partial) 05/26/2020 06/05/2020 $1,001 - $15,000 gfedcb
+[ST]
+FIlINg STATuS: New
+Walt Disney Company (DIS) [ST] S (partial) 05/05/2020 06/05/2020 $1,001 - $15,000 gfedcb
+FIlINg STATuS: New
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. John A. Yarmuth , 07/01/2020

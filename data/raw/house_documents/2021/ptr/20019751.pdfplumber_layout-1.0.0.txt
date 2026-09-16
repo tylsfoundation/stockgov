@@ -1,0 +1,62 @@
+[[PAGE 1]]
+Filing Id #20019751
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, dC 20515
+fIler INfOrmATION
+Name: Hon. Kathy Manning
+Status: Member
+State/District: NC06
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Air Products and Chemicals, Inc. P 10/22/2021 11/04/2021 $1,001 - $15,000 gfedc
+(APd) [ST]
+FILING STATUS: New
+SUBHOLdING OF: MV Capital - GST Exempt Trust #2
+SP Air Products and Chemicals, Inc. P 10/22/2021 11/04/2021 $1,001 - $15,000 gfedc
+(APd) [ST]
+FILING STATUS: New
+SUBHOLdING OF: ManKap Family LLC > MV Capital - Brokerage #2
+SP Lockheed Martin Corporation P 10/22/2021 11/04/2021 $1,001 - $15,000 gfedc
+(LMT) [ST]
+FILING STATUS: New
+SUBHOLdING OF: ManKap Family LLC > MV Capital - Brokerage #2
+SP Lockheed Martin Corporation P 10/22/2021 11/04/2021 $1,001 - $15,000 gfedc
+(LMT) [ST]
+FILING STATUS: New
+SUBHOLdING OF: MV Capital - GST Exempt Trust #2
+SP Procter & Gamble Company (PG) P 10/22/2021 11/04/2021 $1,001 - $15,000 gfedc
+[ST]
+FILING STATUS: New
+SUBHOLdING OF: ManKap Family LLC > MV Capital - Brokerage #2
+SP Walmart Inc. (WMT) [ST] P 10/22/2021 11/04/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: ManKap Family LLC > MV Capital - Brokerage #2
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Walmart Inc. (WMT) [ST] P 10/22/2021 11/04/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: MV Capital - GST Exempt Trust #2
+SP Walt disney Company (dIS) [ST] P 10/22/2021 11/04/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: MV Capital - GST Exempt Trust #2
+SP Walt disney Company (dIS) [ST] P 10/22/2021 11/04/2021 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUBHOLdING OF: ManKap Family LLC > MV Capital - Brokerage #2
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+ManKap Family LLC (Owner: SP)
+LOCATION: US
+ManKap Family LLC ⇒ MV Capital - Brokerage #2 (Owner: SP)
+LOCATION: US
+MV Capital - GST Exempt Trust #2 (Owner: SP)
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Kathy Manning , 11/05/2021

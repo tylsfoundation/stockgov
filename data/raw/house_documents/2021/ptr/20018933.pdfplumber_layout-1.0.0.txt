@@ -1,0 +1,77 @@
+[[PAGE 1]]
+Filing ID #20018933
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • legislative Resource Center • 135 Cannon building • Washington, DC 20515
+fIler INfOrmATION
+Name: Hon. Mark Dr Green
+Status: Member
+State/District: TN07
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+JT basic Attention Token [OT] S 05/12/2021 05/12/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+lOCATION: uS
+DESCRIPTION: Sold Crypto basic Attention Token
+Celo [OT] S 05/12/2021 05/12/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+lOCATION: uS
+DESCRIPTION: Sold Crypto Celo
+CrossAmerica Partners lP P 06/11/2021 06/16/2021 $100,001 - gfedc
+Common units representing $250,000
+limited partner interests (CAPl)
+[ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Energy Transfer lP Common S 06/10/2021 06/16/2021 $50,001 - gfedcb
+units (ET) [ST] $100,000
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Energy Transfer lP Common S 06/11/2021 06/16/2021 $500,001 - gfedcb
+units (ET) [ST] $1,000,000
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+Enlink Midstream, llC Common P 06/11/2021 06/16/2021 $100,001 - gfedc
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+gfedc
+units representing limited $250,000
+Partner Interests (ENlC) [ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+JT Ethereum Classic [OT] S 05/20/2021 05/20/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+lOCATION: uS
+DESCRIPTION: Sold Ethereum Classic
+JT Ethereum Classic [OT] S 05/21/2021 05/21/2021 $1,001 - $15,000 gfedcb
+FIlING STATuS: New
+lOCATION: uS
+DESCRIPTION: Sold Ethereum Classic
+JT lINK [OT] S (partial) 05/21/2021 05/21/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+lOCATION: uS
+DESCRIPTION: Sold lINK Crypto
+Stellar lumens [OT] S 05/12/2021 05/12/2021 $1,001 - $15,000 gfedc
+FIlING STATuS: New
+lOCATION: uS
+DESCRIPTION: Sold Stellar lumens Crypto
+uSD Partners lP Common units P 06/11/2021 06/16/2021 $100,001 - gfedc
+representing limited partner $250,000
+interest (uSDP) [ST]
+FIlING STATuS: New
+SubHOlDING OF: AXA Retirement Account
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+ASSeT ClASS DeTAIlS
+AXA Retirement Account
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+[[PAGE 3]]
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Mark Dr Green , 06/17/2021

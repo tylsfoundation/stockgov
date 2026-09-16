@@ -1,0 +1,36 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Michael Patrick Guest
+Status: Member
+State/District:MS03
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP MISSISSIPPI ST UNIV EDL BLDG
+CORP REV CAMPUS IMPTS PJ B/E
+OID @98.767 CPN 3.500% DUE
+11/01/37 [CS]
+P 05/11/202206/08/2022$50,001 -
+$100,000
+F S: New
+S O: KINV-LPL
+D: MISSISSIPPI ST UNIV EDL BLDG CORP REV CAMPUS IMPTS PJ B/E OID @98.767 CPN 3.500% DUE
+11/01/37 DTD 04/08/15 FC 11/01/15 CALL 11/01/25 @ 100.000 605699PM3
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+KINV-LPL (Owner: SP)
+L: US
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Michael Patrick Guest , 06/22/2022
+Filing ID #20021172

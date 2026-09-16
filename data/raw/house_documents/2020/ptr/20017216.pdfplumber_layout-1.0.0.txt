@@ -1,0 +1,78 @@
+[[PAGE 1]]
+Filing ID #20017216
+P t r
+erioDic ranSaction ePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Lois Frankel
+Status: Member
+State/District: FL21
+tranSactionS
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+Amdocs Limited - Ordinary Shares S (partial) 08/14/2020 08/14/2020 $1,001 - $15,000 gfedc
+(DOX) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Amdocs Limited - Ordinary Shares S (partial) 08/13/2020 08/13/2020 $1,001 - $15,000 gfedc
+(DOX) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+burlington Stores, Inc. (buRL) P 08/13/2020 08/13/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Chubb Limited (Cb) [ST] P 08/12/2020 08/12/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Ciena Corporation (CIEN) [ST] P 07/24/2020 07/24/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Dominion Energy, Inc. (D) [ST] P 07/28/2020 07/28/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+[[PAGE 2]]
+iD owner asset transaction Date notification amount cap.
+type Date gains >
+$200?
+FirstEnergy Corp. (FE) [ST] S (partial) 07/28/2020 07/28/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+FirstEnergy Corp. (FE) [ST] S (partial) 07/22/2020 07/22/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Haemonetics Corporation (HAE) P 08/14/2020 08/14/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Henry Schein, Inc. (HSIC) [ST] S 08/07/2020 08/07/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Lowe's Companies, Inc. (LOW) P 07/28/2020 07/28/2020 $1,001 - $15,000 gfedc
+[ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+STORE Capital Corporation S (partial) 07/16/2020 07/16/2020 $1,001 - $15,000 gfedc
+(STOR) [ST]
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Sysco Corporation (SYY) [ST] S 07/23/2020 07/23/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Watsco, Inc. (WSO) [ST] S (partial) 07/24/2020 07/24/2020 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Morgan Stanley IRA - X141
+DESCRIPTION: Managed by MFS Investment MGMT
+Morgan Stanley IRA - X142
+DESCRIPTION: Managed by Anchor Capital Advisors LLC
+[[PAGE 3]]
+initial Public offeringS
+nmlkj Yes nmlkji No
+certification anD Signature
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 08/24/2020

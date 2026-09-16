@@ -1,0 +1,104 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Rob Bresnahan
+Status: Member
+State/District:PA08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+3M Company Common Stock (MMM)
+[ST]
+S 05/23/202505/23/2025$15,001 -
+$50,000
+F S: New
+S O: LPL Account I
+Arista Networks, Inc. Common Stock
+(ANET) [ST]
+S 05/29/202505/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Chubb Limited Common Stock (CB)
+[ST]
+S 06/13/202506/13/2025$1,001 - $15,000
+F S: New
+S O: LPL Account I
+Elastic N.V. Ordinary Shares (ESTC)
+[ST]
+S 05/23/202505/23/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Guidewire Software, Inc. Common
+Stock (GWRE) [ST]
+S 05/23/202505/23/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+McDonald's Corporation Common
+Stock (MCD) [ST]
+S 06/02/202506/02/2025$15,001 -
+$50,000
+F S: New
+S O: LPL Account I
+Filing ID #20030546
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Nu Holdings Ltd. Class A Ordinary
+Shares (NU) [ST]
+S 05/23/202505/23/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 05/29/202505/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+NVIDIA Corporation - Common Stock
+(NVDA) [ST]
+P 05/23/202505/23/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Okta, Inc. - Class A Common Stock
+(OKTA) [ST]
+S 05/29/202505/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Snowflake Inc. Class A Common
+Stock (SNOW) [ST]
+P 05/23/202505/23/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Tesla, Inc. - Common Stock (TSLA)
+[ST]
+P 05/23/202505/23/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+Veeva Systems Inc. Class A Common
+Stock (VEEV) [ST]
+P 05/29/202505/29/2025$1,001 - $15,000
+F S: New
+S O: JP Morgan Brokerage Account #2
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+JP Morgan Brokerage Account #2
+L: US
+LPL Account I
+L: US
+[[PAGE 3]]
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Rob Bresnahan , 06/23/2025

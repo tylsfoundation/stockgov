@@ -1,0 +1,66 @@
+[[PAGE 1]]
+Filing ID #20018521
+P T r
+erIODIC rANSACTION ePOrT
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+fIler INfOrmATION
+Name: Ashley Hinson Arenholz
+Status: Member
+State/District: IA01
+TrANSACTIONS
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Alibaba group Holding Limited S 03/31/2021 03/31/2021 $1,001 - $15,000 gfedcb
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+FILINg STATUS: New
+SP Amazon.com, Inc. (AMZN) [ST] P 03/08/2021 03/08/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SP Amazon.com, Inc. (AMZN) [ST] S 03/31/2021 03/31/2021 $15,001 - gfedcb
+$50,000
+FILINg STATUS: New
+SP Apple Inc. (AAPL) [ST] S 03/31/2021 03/31/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SP Constellation Brands, Inc. (STZ) S 03/31/2021 03/31/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SP gray Television, Inc. (gTN) [ST] S 03/31/2021 03/31/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SP Heron Therapeutics, Inc. (HRTX) S 03/31/2021 03/31/2021 $1,001 - $15,000 gfedc
+[ST]
+FILINg STATUS: New
+[[PAGE 2]]
+ID Owner Asset Transaction Date Notification Amount Cap.
+Type Date Gains >
+$200?
+SP High Street Insurance Partners P 03/05/2021 03/05/2021 $250,001 - gfedc
+[PS] $500,000
+FILINg STATUS: New
+LOCATION: Traverse City, MI, US
+DESCRIPTION: Investment in insurance brokerage firm
+SP Marcus Corporation (MCS) [ST] S 03/31/2021 03/31/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SP QCR Holdings, Inc. (QCRH) [ST] S 03/31/2021 03/31/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SP Shake Shack, Inc. Class A (SHAK) S 03/31/2021 03/31/2021 $1,001 - $15,000 gfedcb
+[ST]
+FILINg STATUS: New
+SP Tesla, Inc. (TSLA) [ST] S 03/31/2021 03/31/2021 $1,001 - $15,000 gfedcb
+FILINg STATUS: New
+SP Tesla, Inc. (TSLA) [ST] P 03/04/2021 03/04/2021 $1,001 - $15,000 gfedc
+FILINg STATUS: New
+SP Transportation Insurance & S 03/05/2021 03/05/2021 Spouse/DC Over gfedcb
+Consultants, Inc. (d/b/a Elliott- $1,000,000
+Hartman Agency) [OL]
+FILINg STATUS: New
+LOCATION: Waterloo, IA, US
+DESCRIPTION: Sale of interest in insurance agency
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+INITIAl PublIC OfferINGS
+nmlkj Yes nmlkji No
+CerTIfICATION AND SIGNATure
+gfedcb I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Ashley Hinson Arenholz , 04/05/2021

@@ -1,0 +1,119 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Dan Newhouse
+Status: Member
+State/District:WA04
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Advanced Micro Devices, Inc. (AMD)
+[ST]
+P 08/18/202509/02/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP AMETEK, Inc. (AME) [ST] P 08/18/202509/02/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Applied Materials, Inc. - Common
+Stock (AMAT) [ST]
+P 08/18/202509/02/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Automatic Data Processing, Inc. -
+Common Stock (ADP) [ST]
+P 08/18/202509/02/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP BlackRock, Inc. Common Stock (BLK)
+[ST]
+S (partial) 08/18/202509/02/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Brown & Brown, Inc. Common Stock
+(BRO) [ST]
+P 08/18/202509/02/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+Filing ID #20032091
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP ConocoPhillips Common Stock (COP)
+[ST]
+P 08/18/202509/02/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Exxon Mobil Corporation Common
+Stock (XOM) [ST]
+P 08/18/202509/02/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP General Mills, Inc. Common Stock
+(GIS) [ST]
+P 08/18/202509/02/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP ONEOK, Inc. Common Stock (OKE)
+[ST]
+P 08/18/202509/02/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Prologis, Inc. Common Stock (PLD)
+[ST]
+P 08/18/202509/02/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Ross Stores, Inc. - Common Stock
+(ROST) [ST]
+P 08/18/202509/02/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP RTX Corporation Common Stock
+(RTX) [ST]
+S (partial) 08/18/202509/02/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP S&P Global Inc. Common Stock
+(SPGI) [ST]
+P 08/18/202509/02/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+SP Target Corporation Common Stock
+(TGT) [ST]
+P 08/18/202509/02/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP United Parcel Service, Inc. Common
+Stock (UPS) [ST]
+P 08/18/202509/02/2025$1,001 - $15,000
+F S: New
+S O: Edward Jones IRA
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Edward Jones IRA (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Dan Newhouse , 09/17/2025

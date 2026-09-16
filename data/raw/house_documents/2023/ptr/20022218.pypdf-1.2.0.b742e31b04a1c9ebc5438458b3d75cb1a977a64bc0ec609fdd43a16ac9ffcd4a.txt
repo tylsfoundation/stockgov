@@ -1,0 +1,71 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Lois Frankel
+Status: Member
+State/District:FL21
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+BlackRock, Inc. (BLK) [ST] S (partial) 11/30/202201/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+BlackRock, Inc. (BLK) [ST] S 12/07/202201/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+CarGurus, Inc. - Class A (CARG) [ST] S 11/22/202201/04/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X142
+Dominion Energy, Inc. (D) [ST] P 11/30/202201/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Dominion Energy, Inc. (D) [ST] P 12/01/202201/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+DuPont de Nemours, Inc. (DD) [ST] S (partial) 11/30/202201/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Hudson Pacific Properties, Inc. (HPP)
+[ST]
+S (partial) 12/08/202201/04/2023$1,001 - $15,000
+Filing ID #20022218
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+F S: New
+S O: Morgan Stanley IRA - X142
+ProLogis, Inc. (PLD) [ST] P 11/30/202201/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+ProLogis, Inc. (PLD) [ST] P 12/07/202201/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+ProLogis, Inc. (PLD) [ST] P 12/08/202201/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+Union Pacific Corporation (UNP) [ST]P 11/30/202201/06/2023$1,001 - $15,000
+F S: New
+S O: Morgan Stanley IRA - X141
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Morgan Stanley IRA - X141
+D: Managed by MFS Investment MGMT
+Morgan Stanley IRA - X142
+D: Managed by Anchor Capital Advisors LLC
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 01/06/2023

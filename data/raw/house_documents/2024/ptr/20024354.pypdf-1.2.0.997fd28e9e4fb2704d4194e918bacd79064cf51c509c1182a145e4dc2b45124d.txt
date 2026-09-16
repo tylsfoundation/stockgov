@@ -1,0 +1,224 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Blake Moore
+Status: Member
+State/District:UT01
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Alibaba Group Holding Limited
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) [ST]
+S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM)
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (JM)
+Alphabet Inc. - Class C Capital Stock
+(GOOG) [ST]
+S 01/19/202401/22/2024$15,001 -
+$50,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM)
+Amazon.com, Inc. (AMZN) [ST] S 01/19/202401/22/2024$15,001 -
+$50,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM)
+Amazon.com, Inc. (AMZN) [ST] S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (JM)
+Amazon.com, Inc. (AMZN) [ST] S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (BM)
+Filing ID #20024354
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+American Express Company (AXP)
+[ST]
+S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (JM)
+American Express Company (AXP)
+[ST]
+S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (BM)
+American Express Company (AXP)
+[ST]
+S 01/19/202401/22/2024$15,001 -
+$50,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM)
+Apple Inc. (AAPL) [ST] S 01/19/202401/22/2024$15,001 -
+$50,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM)
+Apple Inc. (AAPL) [ST] S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (BM)
+Apple Inc. (AAPL) [ST] S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (JM)
+Apple Inc. (AAPL) [ST] P 12/22/202301/01/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (JM)
+Bank of America Corporation (BAC)
+[ST]
+S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (BM)
+Bank of America Corporation (BAC)
+[ST]
+S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (JM)
+Bank of America Corporation (BAC)S 01/19/202401/22/2024$1,001 - $15,000
+[[PAGE 3]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+[ST]
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM)
+Berkshire Hathaway Inc. New
+(BRK.B) [ST]
+S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (JM)
+Berkshire Hathaway Inc. New
+(BRK.B) [ST]
+S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (BM)
+Berkshire Hathaway Inc. New
+(BRK.B) [ST]
+S 01/19/202401/22/2024$15,001 -
+$50,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM)
+Boeing Company (BA) [ST] S 01/09/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM)
+HealthEquity, Inc. (HQY) [ST] S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM)
+HealthEquity, Inc. (HQY) [ST] S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (BM)
+Johnson & Johnson (JNJ) [ST] S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (BM)
+Johnson & Johnson (JNJ) [ST] S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM)
+Meta Platforms, Inc. - Class A (META)
+[ST]
+S 01/19/202401/22/2024$15,001 -
+$50,000
+F S: New
+[[PAGE 4]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM)
+Meta Platforms, Inc. - Class A (META)
+[ST]
+S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (BM)
+Meta Platforms, Inc. - Class A (META)
+[ST]
+S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (JM)
+Microsoft Corporation (MSFT) [ST] S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (JM)
+Microsoft Corporation (MSFT) [ST] S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (BM)
+Microsoft Corporation (MSFT) [ST] S 01/19/202401/22/2024$15,001 -
+$50,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM)
+RTX Corporation (RTX) [ST] S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (BM)
+RTX Corporation (RTX) [ST] S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM)
+SPDR S&P 500 (SPY) [ST] P 01/19/202401/22/2024$100,001 -
+$250,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM)
+SPDR S&P 500 (SPY) [ST] P 01/19/202401/22/2024$15,001 -
+$50,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (BM)
+[[PAGE 5]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SPDR S&P 500 (SPY) [ST] P 01/19/202401/22/2024$15,001 -
+$50,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (JM)
+Vanguard Growth ETF (VUG) [ST] P 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (JM)
+Vanguard Growth ETF (VUG) [ST] P 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (BM)
+Vanguard Growth ETF (VUG) [ST] P 01/19/202401/22/2024$100,001 -
+$250,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM)
+Walt Disney Company (DIS) [ST] S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA IRA (BM)
+Walt Disney Company (DIS) [ST] S 01/19/202401/22/2024$1,001 - $15,000
+F S: New
+S O: Iron Gate GA Brokerage Portfolio > IGGA ROTH IRA (BM)
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Iron Gate GA Brokerage Portfolio
+L: US
+Iron Gate GA Brokerage Portfolio ⇒ IGGA IRA (BM)
+Iron Gate GA Brokerage Portfolio ⇒ IGGA ROTH IRA (BM)
+Iron Gate GA Brokerage Portfolio ⇒ IGGA ROTH IRA (JM)
+I P O
+Yes No
+C S
+[[PAGE 6]]
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Blake Moore , 01/24/2024

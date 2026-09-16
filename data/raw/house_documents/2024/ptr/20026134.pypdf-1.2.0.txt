@@ -1,0 +1,106 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Donald Sternoff Beyer Jr
+Status: Member
+State/District:VA08
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Aiken Cnty SC Cons Sch 4.00%
+04/01/37 [GS]
+P 10/16/202411/01/2024 $15,001 -
+$50,000
+F S: New
+S O: Stocks, Bonds, & Mutual Funds
+D: 25,000 units of Aiken County, SC Cons Sch bonds, 4.00%, maturing 04/01/37
+JT Chicago Ill O'Hare 4.00% 01/01/36
+[GS]
+P 10/09/202411/01/2024 $15,001 -
+$50,000
+F S: New
+S O: Stocks, Bonds, & Mutual Funds
+D: 30,000 units of Chicago, Illinois O'Hare bonds, 4.00%, maturing 01/01/36
+JT Clark Cnty Nev Sch 4.00% 06/15/37
+[GS]
+P 10/03/202411/01/2024 $15,001 -
+$50,000
+F S: New
+S O: Stocks, Bonds, & Mutual Funds
+D: 35,000 units of Clark County, Nevada School bonds, 4.00%, maturing 06/15/37
+JT Delaware Valley PA 4.00% 03/01/33
+[GS]
+P 10/29/202411/01/2024 $15,001 -
+$50,000
+F S: New
+S O: Stocks, Bonds, & Mutual Funds
+D: 35,000 units of Delaware Valley, PA bonds, 4.00%, maturing 03/01/33
+JT District Columbia Go 5.00%
+06/01/35 [GS]
+E 10/02/202411/01/2024 $15,001 -
+$50,000
+F S: New
+S O: Stocks, Bonds, & Mutual Funds
+D: tender cash receipt
+Filing ID #20026134
+[[PAGE 2]]
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+JT Jefferson Cnty KY 4.00% 09/01/36
+[GS]
+P 10/02/202411/01/2024 $15,001 -
+$50,000
+F S: New
+S O: Stocks, Bonds, & Mutual Funds
+D: 35,000 units of Jefferson County, KY bonds, 4.00%, maturing 09/01/36
+JT Long Island Power Authority NY
+5.00% 09/01/37 [GS]
+P 10/24/202411/01/2024 $15,001 -
+$50,000
+F S: New
+S O: Stocks, Bonds, & Mutual Funds
+D: 35,000 units of Long Island Power Authority, NY bonds, 5.00%, maturing 09/01/37
+JT New Jersey State 5.00% 06/15/33
+[GS]
+P 10/18/202411/01/2024 $15,001 -
+$50,000
+F S: New
+S O: Stocks, Bonds, & Mutual Funds
+D: 40,000 units of New Jersey State bonds, 5.00%, maturing 06/15/33
+JT North Carolina TPK 4.00% 01/01/33
+[GS]
+P 10/28/202411/01/2024 $15,001 -
+$50,000
+F S: New
+S O: Stocks, Bonds, & Mutual Funds
+D: 35,000 units of North Carolina Turnpike bonds, 4.00%, maturing 01/01/33
+JT North Las Vegas Nev 4.00% 06/01/36
+[GS]
+P 10/09/202411/01/2024 $15,001 -
+$50,000
+F S: New
+S O: Stocks, Bonds, & Mutual Funds
+D: 35,000 units of North Las Vegas Nevada bonds, 4.00%, maturing 06/01/36
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+I V D
+Stocks, Bonds, & Mutual Funds (Owner: JT)
+L: VA, US
+C
+I P O
+Yes No
+C S
+[[PAGE 3]]
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Donald Sternoff Beyer Jr, 11/03/2024

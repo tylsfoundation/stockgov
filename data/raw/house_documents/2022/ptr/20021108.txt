@@ -1,0 +1,55 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. August Lee Pfluger II
+Status: Member
+State/District:TX11
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+Liberty Media Corporation - Series C
+Liberty SiriusXM (LSXMK) [ST]
+P 04/12/202205/25/2022$1,001 - $15,000
+F S: New
+S O: IRA Roth
+Microsoft Corporation (MSFT) [ST] S 04/12/202205/25/2022$15,001 -
+$50,000
+F S: New
+S O: IRA Roth
+Warner Bros. Discovery, Inc. - Series
+A (WBD) [ST]
+E 04/11/202205/25/2022$1,001 - $15,000
+F S: New
+S O: IRA Roth
+D: Shares of Warner Bros Discovery Inc. received in exchange for shares of Discovery Inc following corporate
+merger.
+Warner Bros. Discovery, Inc. - Series
+A (WBD) [ST]
+P 04/12/202205/25/2022$1,001 - $15,000
+F S: New
+S O: IRA Roth
+SP Warner Bros. Discovery, Inc. - Series
+A (WBD) [ST]
+E 04/11/202205/25/2022$1,001 - $15,000
+F S: New
+S O: RBC IRA
+D: Shares of Warner Bros Discovery Inc. received in exchange for shares of Discovery Inc following corporate
+merger.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+Filing ID #20021108
+[[PAGE 2]]
+A C D
+IRA Roth
+RBC IRA (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. August Lee Pfluger II, 05/25/2022

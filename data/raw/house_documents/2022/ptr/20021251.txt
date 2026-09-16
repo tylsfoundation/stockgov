@@ -1,0 +1,52 @@
+[[PAGE 1]]
+P T R
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon Building • Washington, DC 20515
+F I
+Name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+T
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP Equinix Inc. Note 5.375%; Due
+5/15/2027 [CS]
+S 06/02/202106/21/2022$15,001 -
+$50,000
+F S: New
+S O: Neuberger Berman - Traditional IRA
+D: Corporate Bond
+SP General Motors Company (GM) [ST] S 08/23/202106/21/2022$15,001 -
+$50,000
+F S: New
+S O: Neuberger Berman - Traditional IRA
+SP International Flavors & Fragrances,
+Inc. (IFF) [ST]
+E 02/04/202106/21/2022$1,001 - $15,000
+F S: New
+S O: Neuberger Berman - Beneficiary IRA
+D: Received shares of International Flavors & Fragrances, Inc. (IFF) in exchange for DuPont (DD) as result of
+spinoff.
+JT International Flavors & Fragrances,
+Inc. (IFF) [ST]
+E 02/04/202106/21/2022$1,001 - $15,000
+F S: New
+S O: Neuberger Berman - Malumed Lowenthal Rev Trust
+D: Received shares of International Flavors & Fragrances (IFF) in exchange for DuPont (DD) as result of spinoff.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+A C D
+Neuberger Berman - Beneficiary IRA (Owner: SP)
+Filing ID #20021251
+[[PAGE 2]]
+Neuberger Berman - Malumed Lowenthal Rev Trust (Owner: JT)
+Neuberger Berman - Traditional IRA (Owner: SP)
+I P O
+Yes No
+C S
+I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Alan S. Lowenthal , 06/24/2022
