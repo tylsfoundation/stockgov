@@ -81,3 +81,7 @@ Thumbs.db
 # IDE settings
 .vscode/settings.json
 .vscode/launch.json
+
+# Keep pre-2020 House PTR source files outside the post-ocr snapshot.
+data/raw/house_documents/201[3-9]/
+
